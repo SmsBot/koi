@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="Interj">аня</l>
+     <stg>
+       <st>аня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">оз позь</t>
+       <t pos="Interj">эн (челядь сёрниын)</t>
+     </tg>
+     <xg>
+       <x>этӧ, кага, аня.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">батя</l>
+     <stg>
+       <st>батя</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">зонмӧ</t>
+       <t pos="Interj">другӧ (сёрнитігӧн тшӧкыда вӧдитчан кыв)</t>
+     </tg>
+     <xg>
+       <x>эх, надя, бӧбӧтін менӧ сё жӧ, батя</x> <src>(Ф.Истомин)</src>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">бытшӧм асылӧн.</l>
+     <stg>
+       <st>бытшӧм асылӧн.</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">бур асыв.</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">волькыт туй</l>
+     <stg>
+       <st>волькыт туй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">бур туй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">кытчӧдз быдӧс</l>
+     <stg>
+       <st>кытчӧдз быдӧс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">ӧні кежлӧ ставыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">локтан здорово.</l>
+     <stg>
+       <st>локтан здорово.</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">видзаалӧм вылӧ воча кыв</t>
+       <t pos="Interj">пырысьлы воча кыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">нянь-сов тіянлӧ.</l>
+     <stg>
+       <st>нянь-сов тіянлӧ.</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">нянь-сов тіянлы.</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тартарӧ тарӧвтчы.</l>
+     <stg>
+       <st>тартарӧ тарӧвтчы.</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">мун чорту</t>
+       <t pos="Interj">весась татысь.</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">тыр доз тэныт</l>
+     <stg>
+       <st>тыр доз тэныт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">мед удайтчас</t>
+       <t pos="Interj">вӧрӧ</t>
+       <t pos="Interj">ва вылӧ мунысьлы кыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Interj">ӧткымын шуӧм здорово тіянлӧ.</l>
+     <stg>
+       <st>ӧткымын шуӧм здорово тіянлӧ.</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Interj">видза оланныд</t>
+     </tg>
+   </mg>
+</e>
+</r> 

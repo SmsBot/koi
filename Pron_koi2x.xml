@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="Pron">быдыс</l>
+     <stg>
+       <st>быдыс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Pron">быдӧн</t>
+     </tg>
+     <xg>
+       <x>быдыс миян коласісь</x>
+       <xt>быдӧн миян пиысь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">быдӧс</l>
+     <stg>
+       <st>быдӧс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Pron">ставыс</t>
+       <t pos="Pron">став</t>
+       <t pos="Pron">быдтор</t>
+     </tg>
+     <xg>
+       <x>сы киись быдӧс петӧ</x>
+       <xt>сы киын ставыс артмӧ</xt>
+     </xg>
+   </mg>
+</e>
+</r> 

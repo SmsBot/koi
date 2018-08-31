@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="Pcle">эд</l>
+     <stg>
+       <st>эд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Pcle">ӧд</t>
+     </tg>
+     <xg>
+       <x>онмӧссисӧ челядь, тыдалӧ, эд мыдзисӧ</x> <src>(И.Минин)</src>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">я</l>
+     <stg>
+       <st>я</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Pcle">ли</t>
+       <t pos="Pcle">ӧмӧй</t>
+     </tg>
+     <xg>
+       <x>мунан я он я</x>
+       <xt>мунан ли он ӧд (ог тӧд)</xt>
+     </xg>
+   </mg>
+</e>
+</r> 

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="Det">эта</l>
+     <stg>
+       <st>эта</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Det">тайӧ</t>
+     </tg>
+     <xg>
+       <x>эта юын уна чери</x>
+       <xt>тайӧ юын уна чери</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Det">этна</l>
+     <stg>
+       <st>этна</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="kpv">
+       <t pos="Det">тайӧ(яс)</t>
+     </tg>
+     <xg>
+       <x>вот этна керкуэс</x>
+       <xt>вот тайӧ керкаяс</xt>
+     </xg>
+   </mg>
+</e>
+</r> 
