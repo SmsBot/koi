@@ -82,9 +82,9 @@
      <stg>
        <st Contlex="PRON_">аскӧттям</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачым</сomp>
-       <сomp ord="E2" pos="Suf" type="соед."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачым</comp>
+       <comp ord="E2" pos="Suf" type="соед."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -102,9 +102,9 @@
      <stg>
        <st Contlex="PRON_">аскӧттяс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыс</сomp>
-       <сomp ord="E2" pos="Suf" type="соед."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="Suf" type="соед."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -126,9 +126,9 @@
      <stg>
        <st Contlex="PRON_">аскӧттят</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыт</сomp>
-       <сomp ord="E2" pos="Suf" type="соед."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыт</comp>
+       <comp ord="E2" pos="Suf" type="соед."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -146,9 +146,9 @@
      <stg>
        <st Contlex="PRON_">аслам</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачым</сomp>
-       <сomp ord="E2" pos="Suf" type="род."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачым</comp>
+       <comp ord="E2" pos="Suf" type="род."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -183,9 +183,9 @@
        <st Contlex="PRON_">асланым</st>
        <st Contlex="PRON_" geo="иньв.">асваным</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьным</сomp>
-       <сomp ord="E2" pos="Suf" type="род."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьным</comp>
+       <comp ord="E2" pos="Suf" type="род."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -228,9 +228,9 @@
        <st Contlex="PRON_">асланыс</st>
        <st Contlex="PRON_" geo="иньв.">асваныс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныс</сomp>
-       <сomp ord="E2" pos="Suf" type="род."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныс</comp>
+       <comp ord="E2" pos="Suf" type="род."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -249,9 +249,9 @@
        <st Contlex="PRON_">асланыт</st>
        <st Contlex="PRON_" geo="иньв.">асваныт</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныт</сomp>
-       <сomp ord="E2" pos="Suf" type="род."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныт</comp>
+       <comp ord="E2" pos="Suf" type="род."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -318,9 +318,9 @@
        <st Contlex="PRON_">асланям</st>
        <st Contlex="PRON_" geo="иньв.">асваням</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачым</сomp>
-       <сomp ord="E2" pos="Suf" type="прибл."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачым</comp>
+       <comp ord="E2" pos="Suf" type="прибл."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -339,9 +339,9 @@
        <st Contlex="PRON_">асланяс</st>
        <st Contlex="PRON_" geo="иньв.">асваняс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыс</сomp>
-       <сomp ord="E2" pos="Suf" type="прибл."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="Suf" type="прибл."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -360,9 +360,9 @@
        <st Contlex="PRON_">асланят</st>
        <st Contlex="PRON_" geo="иньв.">асванят</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыт</сomp>
-       <сomp ord="E2" pos="Suf" type="прибл."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыт</comp>
+       <comp ord="E2" pos="Suf" type="прибл."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -381,9 +381,9 @@
        <st Contlex="PRON_">аслас</st>
        <st Contlex="PRON_" geo="иньв.">асвас</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыс</сomp>
-       <сomp ord="E2" pos="Suf" type="род."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="Suf" type="род."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -410,9 +410,9 @@
        <st Contlex="PRON_">аслат</st>
        <st Contlex="PRON_" geo="иньв.">асват</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыт</сomp>
-       <сomp ord="E2" pos="Suf" type="род."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыт</comp>
+       <comp ord="E2" pos="Suf" type="род."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -435,9 +435,9 @@
        <st Contlex="PRON_">аслым</st>
        <st Contlex="PRON_" geo="иньв.">асвым</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачым</сomp>
-       <сomp ord="E2" pos="Suf" type="дат."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачым</comp>
+       <comp ord="E2" pos="Suf" type="дат."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -463,9 +463,9 @@
      <stg>
        <st Contlex="PRON_">аслыным</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьным</сomp>
-       <сomp ord="E2" pos="Suf" type="дат."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьным</comp>
+       <comp ord="E2" pos="Suf" type="дат."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -484,9 +484,9 @@
        <st Contlex="PRON_">аслыныс</st>
        <st Contlex="PRON_" geo="иньв.">асвыныс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныс</сomp>
-       <сomp ord="E2" pos="Suf" type="дат."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныс</comp>
+       <comp ord="E2" pos="Suf" type="дат."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -508,9 +508,9 @@
      <stg>
        <st Contlex="PRON_">аслыныт</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныт</сomp>
-       <сomp ord="E2" pos="Suf" type="дат."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныт</comp>
+       <comp ord="E2" pos="Suf" type="дат."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -529,9 +529,9 @@
        <st Contlex="PRON_">аслыс</st>
        <st Contlex="PRON_" geo="иньв.">асвыс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыс</сomp>
-       <сomp ord="E2" pos="Suf" type="дат."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="Suf" type="дат."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -563,9 +563,9 @@
        <st Contlex="PRON_">аслыт</st>
        <st Contlex="PRON_" geo="иньв.">асвыт</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыт</сomp>
-       <сomp ord="E2" pos="Suf" type="дат."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыт</comp>
+       <comp ord="E2" pos="Suf" type="дат."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -583,9 +583,9 @@
      <stg>
        <st Contlex="PRON_">ассим</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачым</сomp>
-       <сomp ord="E2" pos="Suf" type="притяж."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачым</comp>
+       <comp ord="E2" pos="Suf" type="притяж."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -603,9 +603,9 @@
      <stg>
        <st Contlex="PRON_">ассиным</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьным</сomp>
-       <сomp ord="E2" pos="Suf" type="притяж."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьным</comp>
+       <comp ord="E2" pos="Suf" type="притяж."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -623,9 +623,9 @@
      <stg>
        <st Contlex="PRON_">ассиныс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныс</сomp>
-       <сomp ord="E2" pos="Suf" type="притяж."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныс</comp>
+       <comp ord="E2" pos="Suf" type="притяж."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -647,9 +647,9 @@
      <stg>
        <st Contlex="PRON_">ассиныт</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныт</сomp>
-       <сomp ord="E2" pos="Suf" type="притяж."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныт</comp>
+       <comp ord="E2" pos="Suf" type="притяж."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -667,9 +667,9 @@
      <stg>
        <st Contlex="PRON_">ассис</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыс</сomp>
-       <сomp ord="E2" pos="Suf" type="притяж."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="Suf" type="притяж."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -687,9 +687,9 @@
      <stg>
        <st Contlex="PRON_">ассит</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыт</сomp>
-       <сomp ord="E2" pos="Suf" type="притяж."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыт</comp>
+       <comp ord="E2" pos="Suf" type="притяж."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -707,9 +707,9 @@
      <stg>
        <st Contlex="PRON_">асся</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ас</сomp>
-       <сomp ord="E2" pos="Suf" type="сравн."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ас</comp>
+       <comp ord="E2" pos="Suf" type="сравн."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -727,9 +727,9 @@
      <stg>
        <st Contlex="PRON_">ассям</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачым</сomp>
-       <сomp ord="E2" pos="Suf" type="сравн."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачым</comp>
+       <comp ord="E2" pos="Suf" type="сравн."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -747,9 +747,9 @@
      <stg>
        <st Contlex="PRON_">ассяным</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьным</сomp>
-       <сomp ord="E2" pos="Suf" type="сравн."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьным</comp>
+       <comp ord="E2" pos="Suf" type="сравн."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -767,9 +767,9 @@
      <stg>
        <st Contlex="PRON_">ассяныс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныс</сomp>
-       <сomp ord="E2" pos="Suf" type="сравн."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныс</comp>
+       <comp ord="E2" pos="Suf" type="сравн."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -787,9 +787,9 @@
      <stg>
        <st Contlex="PRON_">ассяныт</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьным</сomp>
-       <сomp ord="E2" pos="Suf" type="сравн."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьным</comp>
+       <comp ord="E2" pos="Suf" type="сравн."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -807,9 +807,9 @@
      <stg>
        <st Contlex="PRON_">ассянь</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ас</сomp>
-       <сomp ord="E2" pos="Suf" type="отдал."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ас</comp>
+       <comp ord="E2" pos="Suf" type="отдал."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -827,9 +827,9 @@
      <stg>
        <st Contlex="PRON_">ассяням</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачым</сomp>
-       <сomp ord="E2" pos="Suf" type="отдал."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачым</comp>
+       <comp ord="E2" pos="Suf" type="отдал."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -847,9 +847,9 @@
      <stg>
        <st Contlex="PRON_">ассяняным</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьным</сomp>
-       <сomp ord="E2" pos="Suf" type="отдал."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьным</comp>
+       <comp ord="E2" pos="Suf" type="отдал."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -867,9 +867,9 @@
      <stg>
        <st Contlex="PRON_">ассяняныс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныс</сomp>
-       <сomp ord="E2" pos="Suf" type="отдал."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныс</comp>
+       <comp ord="E2" pos="Suf" type="отдал."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -887,9 +887,9 @@
      <stg>
        <st Contlex="PRON_">ассяняныт</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныт</сomp>
-       <сomp ord="E2" pos="Suf" type="отдал."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныт</comp>
+       <comp ord="E2" pos="Suf" type="отдал."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -907,9 +907,9 @@
      <stg>
        <st Contlex="PRON_">ассяняс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыс</сomp>
-       <сomp ord="E2" pos="Suf" type="отдал."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="Suf" type="отдал."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -927,9 +927,9 @@
      <stg>
        <st Contlex="PRON_">ассянят</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыт</сomp>
-       <сomp ord="E2" pos="Suf" type="отдал."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыт</comp>
+       <comp ord="E2" pos="Suf" type="отдал."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -947,9 +947,9 @@
      <stg>
        <st Contlex="PRON_">ассяс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыс</сomp>
-       <сomp ord="E2" pos="Suf" type="сравн."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="Suf" type="сравн."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -967,9 +967,9 @@
      <stg>
        <st Contlex="PRON_">ассят</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыт</сomp>
-       <сomp ord="E2" pos="Suf" type="сравн."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыт</comp>
+       <comp ord="E2" pos="Suf" type="сравн."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -987,9 +987,9 @@
      <stg>
        <st Contlex="PRON_">астӧгьям</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачым</сomp>
-       <сomp ord="E2" pos="Suf" type="лиш."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачым</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1007,9 +1007,9 @@
      <stg>
        <st Contlex="PRON_">астӧгьяным</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьным</сomp>
-       <сomp ord="E2" pos="Suf" type="лиш."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьным</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1027,9 +1027,9 @@
      <stg>
        <st Contlex="PRON_">астӧгьяныс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныс</сomp>
-       <сomp ord="E2" pos="Suf" type="лиш."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныс</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1047,9 +1047,9 @@
      <stg>
        <st Contlex="PRON_">астӧгьяныт</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныт</сomp>
-       <сomp ord="E2" pos="Suf" type="лиш."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныт</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1067,9 +1067,9 @@
      <stg>
        <st Contlex="PRON_">астӧгьяс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыс</сomp>
-       <сomp ord="E2" pos="Suf" type="лиш."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1087,9 +1087,9 @@
      <stg>
        <st Contlex="PRON_">астӧгьят</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыт</сomp>
-       <сomp ord="E2" pos="Suf" type="лиш."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыт</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1124,9 +1124,9 @@
      <stg>
        <st Contlex="PRON_">асьнымӧс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьным</сomp>
-       <сomp ord="E2" pos="Suf" type="вин."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьным</comp>
+       <comp ord="E2" pos="Suf" type="вин."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1161,9 +1161,9 @@
      <stg>
        <st Contlex="PRON_">асьнысӧ</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныс</сomp>
-       <сomp ord="E2" pos="Suf" type="вин."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныс</comp>
+       <comp ord="E2" pos="Suf" type="вин."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1198,9 +1198,9 @@
      <stg>
        <st Contlex="PRON_">асьнытӧ</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">асьныт</сomp>
-       <сomp ord="E2" pos="Suf" type="вин."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">асьныт</comp>
+       <comp ord="E2" pos="Suf" type="вин."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1218,9 +1218,9 @@
      <stg>
        <st Contlex="PRON_">асьсӧ</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыс</сomp>
-       <сomp ord="E2" pos="Suf" type="вин."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыс</comp>
+       <comp ord="E2" pos="Suf" type="вин."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1246,9 +1246,9 @@
      <stg>
        <st Contlex="PRON_">асьтӧ</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачыт</сomp>
-       <сomp ord="E2" pos="Suf" type="вин."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачыт</comp>
+       <comp ord="E2" pos="Suf" type="вин."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1295,9 +1295,9 @@
      <stg>
        <st Contlex="PRON_">ачымӧс</st>
      </stg>
-     <сompg drv="Pron:Suf" type="Іnfl">
-       <сomp ord="E1" pos="Pron">ачым</сomp>
-       <сomp ord="E2" pos="Suf" type="вин."/></сompg>
+     <compg drv="Pron:Suf" type="Infl">
+       <comp ord="E1" pos="Pron">ачым</comp>
+       <comp ord="E2" pos="Suf" type="вин."/></compg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
@@ -1347,11 +1347,11 @@
      </xg>
      <xg>
        <x>ачыт панін, ачыт и кый</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> сама сновала, сама и тки; <i>соотв.</i> сама кашу заварила, сама и расхлёбывай</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> сама сновала, сама и тки; <i>соотв.</i> сама кашу заварила, сама и расхлёбывай</xt>
      </xg>
      <xg>
        <x>ачыт бур, дак и отирыс бурӧсь</x>
-       <xt xml:lang="rus"><srс_type>посл.</srс_type> [если] сам хорош, так и люди хороши</xt>
+       <xt xml:lang="rus"><src_type>посл.</src_type> [если] сам хорош, так и люди хороши</xt>
      </xg>
    </mg>
 </e>
@@ -1516,7 +1516,7 @@
 </e>
   <e>
    <lg>
-     <l hіd="Hom1" pos="Pron">став</l>
+     <l hid="Hom1" pos="Pron">став</l>
      <stg>
        <st Contlex="PRON_">став</st>
      </stg>
@@ -1529,7 +1529,7 @@
 </e>
   <e>
    <lg>
-     <l hіd="Hom2" pos="Pron">став</l>
+     <l hid="Hom2" pos="Pron">став</l>
      <stg>
        <st Contlex="PRON_">став</st>
      </stg>
