@@ -14,6 +14,22 @@
      <tg xml:lang="kpv">
        <t pos="N">кыз, абу визув морт</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>неповоротливый человек; толстяк</t>
+     </tg>
+     <xg>
+       <x>абызсӧ местасис он вӧрзьӧт</x>
+       <xt xml:lang="rus">такого неповоротливого с места не сдвинешь</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>слабоумный (несообразительный, бестолковый) человек; чурбан</t>
+</tg>
+     <xg>
+       <x>сэтшӧм абызыс разь ылӧстас</x>
+       <xt xml:lang="rus">такая бестолочь разве додумается</xt>
+     </xg>
    </mg>
 </e>
 <e>
@@ -31,9 +47,54 @@
      <tg xml:lang="kpv">
        <t pos="N">бать</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>отец, папа</t>
+     </tg>
+     <xg>
+       <x>айӧлӧн ай</x>
+       <xt xml:lang="rus">дед (по отцу)</xt>
+     </xg>
+     <xg>
+       <x>айӧлӧн мам</x>
+       <xt xml:lang="rus">бабушка (по отцу)</xt>
+     </xg>
+     <xg>
+       <x>айӧлӧн вон</x>
+       <xt xml:lang="rus">дядя (по отцу)</xt>
+     </xg>
+     <xg>
+       <x>айӧлӧн сой</x>
+       <xt xml:lang="rus">тётка (по отцу)</xt>
+     </xg>
      <xg>
        <x>иньлӧн ай</x>
        <xt xml:lang="kpv">тесьт</xt>
+       <xt xml:lang="rus">тесть</xt>
+     </xg>
+     <xg>
+       <x>сылӧн зоныс и нылыс айыс сьӧрьяӧсь</x>
+       <xt xml:lang="rus">у неё сын и дочь пошли в отца</xt>
+     </xg>
+     <xg>
+       <x>сія айтӧг быдмис</x>
+       <xt xml:lang="rus">он рос без отца</xt>
+     </xg>
+     <xg>
+       <x>сылӧн айыс йы вылын паськалӧм</x>
+       <xt xml:lang="rus"><range>ирон.</range> у него нет отца (<range>букв.</range> у его отца ноги на льду разъехались)</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>самец</t>
+</tg>
+     <xg>
+       <x>ай кань</x>
+       <xt xml:lang="rus">кот</xt>
+     </xg>
+     <xg>
+       <x>ай курӧг</x>
+       <xt xml:lang="rus">петух</xt>
      </xg>
    </mg>
 </e>
@@ -52,9 +113,14 @@
      <tg xml:lang="kpv">
        <t pos="N">верӧс</t>
      </tg>
+<geo>сев.</geo>
+     <tg xml:lang="rus">
+       <t>муж</t>
+     </tg>
      <xg>
        <x>петны айка сайӧ</x>
        <xt xml:lang="kpv">петны верӧс сайӧ</xt>
+       <xt xml:lang="rus">выйти замуж</xt>
      </xg>
    </mg>
 </e>
@@ -73,9 +139,13 @@
      <tg xml:lang="kpv">
        <t pos="N">вич</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>отчество</t>
+     </tg>
      <xg>
        <x>кыдз тэнат айнимыт?</x>
        <xt xml:lang="kpv">кутшӧм вичыд?</xt>
+       <xt xml:lang="rus">как твоё отчество?</xt>
      </xg>
    </mg>
 </e>
@@ -111,6 +181,13 @@
      <tg xml:lang="kpv">
        <t pos="N">энькаа-моня</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>свекровь с невесткой, свекровь и невестка</t>
+     </tg>
+     <xg>
+       <x>аня-моня олӧны бура</x>
+       <xt xml:lang="rus">свекровь с невесткой живут дружно</xt>
+     </xg>
    </mg>
 </e>
 <e>
@@ -129,6 +206,14 @@
        <t pos="N">зыбун</t>
        <t pos="N">нюраин</t>
        <t pos="N">уль видз</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>трясина, топь; сырое место; болотистый луг</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>старица реки</t>
      </tg>
    </mg>
    <mg relId="1">
@@ -155,6 +240,25 @@
      <tg xml:lang="kpv">
        <t pos="N">аски</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>завтра</t>
+     </tg>
+     <xg>
+       <x>ашын асывнас</x>
+       <xt xml:lang="rus">завтра утром</xt>
+     </xg>
+     <xg>
+       <x>пондӧтны ашынсянь</x>
+       <xt xml:lang="rus">начать с завтрашнего дня</xt>
+     </xg>
+     <xg>
+       <x>видзчисьны ашынӧдз</x>
+       <xt xml:lang="rus">подождать до завтра</xt>
+     </xg>
+     <xg>
+       <x>ашын кежӧ лӧсьӧтны</x>
+       <xt xml:lang="rus">приготовить на завтра</xt>
+     </xg>
      <xg>
        <x>ашын кежӧ</x>
        <xt xml:lang="kpv">аски кежлӧ</xt>
@@ -177,6 +281,14 @@
        <t pos="N">вижъюр</t>
        <t pos="N">йӧла вижъюр</t>
        <t pos="N">бабаюр</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>одуванчик</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>рыжик (гриб)</t>
      </tg>
    </mg>
 </e>
@@ -201,16 +313,20 @@
    <lg>
      <l pos="N">бабашӧрика</l>
      <stg>
-       <st>бабашорика / бабашӧрика</st>
+       <st>бабашӧрика</st>
+       <st>бабашорика</st>
      </stg>
    </lg>
      <sources>
      </sources>
-   <mg relId="0">
+   <mg relId="0"><geo>сев.</geo>
      <semantics>
      </semantics>
      <tg xml:lang="kpv">
        <t pos="N">полокалӧ</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t> пугало (на огороде)</t>
      </tg>
    </mg>
 </e>
@@ -230,6 +346,9 @@
        <t pos="N">пӧжсьысь чипан</t>
        <t pos="N">пияна чипан</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>наседка (курица)</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -248,9 +367,25 @@
        <t pos="N">побув</t>
        <t pos="N">тірибобӧ</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>бабочка; мотылёк</t>
+     </tg>
      <xg>
-       <x>бабыв кодь баскӧй</x>
+       <x>ойся бабыв</x>
+       <xt xml:lang="rus">ночная бабочка; ночной мотылёк</xt>
+     </xg>
+     <xg>
+       <x>бабыв кодь басӧк</x>
        <xt xml:lang="kpv">бобув кодь мича</xt>
+       <xt xml:lang="rus">красивая как бабочка</xt>
+     </xg>
+     <xg>
+       <x>бабыв кодь кокнит</x>
+       <xt xml:lang="rus">лёгкий как бабочка</xt>
+     </xg>
+     <xg>
+       <x>бабыв моз лэбзьӧ</x>
+       <xt xml:lang="rus">летит как мотылёк (о человеке с лёгкой и быстрой походкой)</xt>
      </xg>
    </mg>
 </e>
@@ -272,6 +407,8 @@
      <xg>
        <x>сія бавча кодь</x>
        <xt xml:lang="kpv">сійӧ дикар кодь</xt>
+       <range>разг.</range>
+       <xt xml:lang="rus">он как дикарь</xt>
      </xg>
    </mg>
 </e>
@@ -290,9 +427,13 @@
      <tg xml:lang="kpv">
        <t pos="N">бак</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>плесень</t>
+     </tg>
      <xg>
        <x>вевттисьны багӧн</x>
        <xt xml:lang="kpv">бакшасьны</xt>
+       <xt xml:lang="rus">покрыться плесенью</xt>
      </xg>
    </mg>
 </e>
@@ -314,6 +455,9 @@
        <t pos="N">мошенник</t>
        <t pos="N">плут</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>бродяга, проходимец</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -329,8 +473,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="kpv">
-       <t pos="N">ворсанлӧн</t>
+       <t pos="N">ворсанлӧн басъяс</t>
        <t pos="N">гармошкалӧн басъяс</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t>басы (гармони)</t>
      </tg>
    </mg>
    <mg relId="1">
@@ -338,6 +485,10 @@
      </semantics>
      <tg xml:lang="kpv">
        <t pos="N">бӧрдысь детинка</t>
+     </tg>
+<range>разг.</range>
+     <tg xml:lang="rus">
+       <t>ревун (чаще о мальчике)</t>
      </tg>
    </mg>
 </e>
