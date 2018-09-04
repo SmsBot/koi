@@ -422,11 +422,11 @@
      </xg>
      <xg>
        <x>ай-мам кӧ оз вермӧ велӧтны, бур йӧз велӧтасӧ</x>
-       <xt xml:lang="rus"><srс_type>посл.</srс_type> если родители не научат, добрые люди научат</xt>
+       <xt xml:lang="rus"><src_type>посл.</src_type> если родители не научат, добрые люди научат</xt>
      </xg>
      <xg>
        <x>кытшӧм ай-мам, сэтшӧм и челядь</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> каковы родители, таковы и дети</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> каковы родители, таковы и дети</xt>
      </xg>
    </mg>
 </e>
@@ -854,7 +854,7 @@
      </xg>
      <xg>
        <x>арӧн ӧтік лун зэрас, неделяӧн оз косьты</x>
-       <xt xml:lang="rus"><srс_type>посл.</srс_type> осенью [только] день подождит, а за неделю [земля] не просохнет</xt>
+       <xt xml:lang="rus"><src_type>посл.</src_type> осенью [только] день подождит, а за неделю [земля] не просохнет</xt>
      </xg>
    </mg>
 </e>
@@ -1344,7 +1344,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">баба</l>
+     <l hid="Hom1" pos="N">баба</l>
      <stg>
        <st Contlex="N_">баба</st>
      </stg>
@@ -1361,7 +1361,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">баба</l>
+     <l hid="Hom2" pos="N">баба</l>
      <stg>
        <st Contlex="N_">баба</st>
      </stg>
@@ -1742,7 +1742,7 @@
      </xg>
      <xg>
        <x>бадь вылӧ кӧз оз быдмы</x>
-       <xt xml:lang="rus"><srс_type>посл.</srс_type> на иве ёлка не растет</xt>
+       <xt xml:lang="rus"><src_type>посл.</src_type> на иве ёлка не растет</xt>
      </xg>
    </mg>
 </e>
@@ -2302,7 +2302,7 @@
        <st Contlex="N_">баситӧм</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" hіd="Hom1" pos="V">баситны</comp>
+       <comp ord="E1" hid="Hom1" pos="V">баситны</comp>
        <comp ord="E1" pos="Suf" type="NomAct"/></compg>
    </lg>
    <mg relId="0">
@@ -2355,7 +2355,7 @@
      </xg>
      <xg>
        <x>баснисянь кынӧм оз пӧт</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> разговорами сыт не будешь</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> разговорами сыт не будешь</xt>
      </xg>
    </mg>
 </e>
@@ -3062,11 +3062,11 @@
      </xg>
      <xg>
        <x>битӧг тшын оз овлы</x>
-       <xt xml:lang="rus"><srс_type>посл.</srс_type> нет дыма без огня</xt>
+       <xt xml:lang="rus"><src_type>посл.</src_type> нет дыма без огня</xt>
      </xg>
      <xg>
        <x>кык би коласӧ лӧсявны</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> оказаться между двух огней</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> оказаться между двух огней</xt>
      </xg>
    </mg>
    <mg relId="1">
@@ -3787,7 +3787,7 @@
      </xg>
      <xg>
        <x>виа бордӧн мавтӧ-баитӧ</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> мягко стелет, да жёстко спать (<range>букв.</range> масляным крылышком мажет)</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> мягко стелет, да жёстко спать (<range>букв.</range> масляным крылышком мажет)</xt>
      </xg>
    </mg>
    <mg>
@@ -4378,7 +4378,7 @@
      </xg>
      <xg>
        <x>вильнас быдторыс басӧк</x>
-       <xt xml:lang="rus"><srс_type>посл.</srс_type> всякая вещь красива, пока нова</xt>
+       <xt xml:lang="rus"><src_type>посл.</src_type> всякая вещь красива, пока нова</xt>
      </xg>
    </mg>
 </e>
@@ -5027,7 +5027,7 @@
        <st Contlex="N_">вартчӧм</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" hіd="ІІ" pos="V">вартчыны</comp>
+       <comp ord="E1" hid="ІІ" pos="V">вартчыны</comp>
        <comp ord="E1" pos="Suf" type="NomAct"/></compg>
    </lg>
    <mg relId="0">
@@ -5275,7 +5275,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">веж</l>
+     <l hid="Hom1" pos="N">веж</l>
      <stg>
        <st Contlex="N_">веж</st>
      </stg>
@@ -5292,7 +5292,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">веж</l>
+     <l hid="Hom2" pos="N">веж</l>
      <stg>
        <st Contlex="N_">веж</st>
      </stg>
@@ -7282,7 +7282,7 @@
        <st Contlex="N_">висьтасьӧм</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" hіd="Hom1" pos="V">висьтасьны</comp>
+       <comp ord="E1" hid="Hom1" pos="V">висьтасьны</comp>
        <comp ord="E1" pos="Suf" type="NomAct"/></compg>
    </lg>
    <mg relId="0">
@@ -7690,7 +7690,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">вот</l>
+     <l hid="Hom1" pos="N">вот</l>
      <stg>
        <st Contlex="N_">вот</st>
      </stg>
@@ -7707,7 +7707,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">вот</l>
+     <l hid="Hom2" pos="N">вот</l>
      <stg>
        <st Contlex="N_">вот</st>
      </stg>
@@ -7833,7 +7833,7 @@
        <st Contlex="N_">воӧм</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" hіd="Hom1" pos="V">воны</comp>
+       <comp ord="E1" hid="Hom1" pos="V">воны</comp>
        <comp ord="E1" pos="Suf" type="NomAct"/></compg>
    </lg>
    <mg relId="0">
@@ -9138,7 +9138,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">гар</l>
+     <l hid="Hom1" pos="N">гар</l>
      <stg>
        <st Contlex="N_">гар</st>
      </stg>
@@ -9160,7 +9160,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">гар</l>
+     <l hid="Hom2" pos="N">гар</l>
      <stg>
        <st Contlex="N_">гар</st>
      </stg>
@@ -10114,7 +10114,7 @@
      </xg>
      <xg>
        <x>сир пинь тэныт горшат</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> типун тебе на язык (<range>букв.</range> щучий зуб тебе в горло)</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> типун тебе на язык (<range>букв.</range> щучий зуб тебе в горло)</xt>
      </xg>
    </mg>
 </e>
@@ -12479,7 +12479,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">дом</l>
+     <l hid="Hom1" pos="N">дом</l>
      <stg>
        <st Contlex="N_">дом</st>
      </stg>
@@ -12508,7 +12508,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">дом</l>
+     <l hid="Hom2" pos="N">дом</l>
      <stg>
        <st Contlex="N_">дом</st>
      </stg>
@@ -12521,7 +12521,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom3" pos="N">дом</l>
+     <l hid="Hom3" pos="N">дом</l>
      <stg>
        <st Contlex="N_">дом</st>
      </stg>
@@ -12897,7 +12897,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">дуб</l>
+     <l hid="Hom1" pos="N">дуб</l>
      <stg>
        <st Contlex="N_">дуб</st>
      </stg>
@@ -12910,7 +12910,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">дуб</l>
+     <l hid="Hom2" pos="N">дуб</l>
      <stg>
        <st Contlex="N_">дуб</st>
      </stg>
@@ -17323,7 +17323,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">кор</l>
+     <l hid="Hom2" pos="N">кор</l>
      <stg>
        <st Contlex="N_">кор</st>
      </stg>
@@ -17340,7 +17340,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom3" pos="N">кор</l>
+     <l hid="Hom3" pos="N">кор</l>
      <stg>
        <st Contlex="N_">кор</st>
      </stg>
@@ -17353,7 +17353,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">кор</l>
+     <l hid="Hom1" pos="N">кор</l>
      <stg>
        <st Contlex="N_">корй</st>
      </stg>
@@ -17554,7 +17554,7 @@
      </xg>
      <xg>
        <x>корӧмсянь кылыт оз усь</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> от просьбы язык не отнимется</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> от просьбы язык не отнимется</xt>
      </xg>
    </mg>
    <mg>
@@ -17886,7 +17886,7 @@
        <st Contlex="N_">косясьӧм</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" hіd="ІІ" pos="V">косясьны</comp>
+       <comp ord="E1" hid="ІІ" pos="V">косясьны</comp>
        <comp ord="E1" pos="Suf" type="NomAct"/></compg>
    </lg>
    <mg relId="0">
@@ -19600,7 +19600,7 @@
        <st Contlex="N_">кыйсьӧм</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" hіd="Hom1" pos="V">кыйсьыны</comp>
+       <comp ord="E1" hid="Hom1" pos="V">кыйсьыны</comp>
        <comp ord="E1" pos="Suf" type="NomAct"/></compg>
    </lg>
    <mg relId="0">
@@ -19945,7 +19945,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">кыр</l>
+     <l hid="Hom1" pos="N">кыр</l>
      <stg>
        <st Contlex="N_">кыр</st>
      </stg>
@@ -19985,7 +19985,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">кыр</l>
+     <l hid="Hom2" pos="N">кыр</l>
      <stg>
        <st Contlex="N_">кыр</st>
      </stg>
@@ -20010,7 +20010,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom3" pos="N">кыр</l>
+     <l hid="Hom3" pos="N">кыр</l>
      <stg>
        <st Contlex="N_">кыр</st>
      </stg>
@@ -20880,11 +20880,11 @@
      </xg>
      <xg>
        <x>кӧиннэзісь повны - вӧрӧ не ветлыны</x>
-       <xt xml:lang="rus"><srс_type>посл.</srс_type> волков бояться - в лес не ходить</xt>
+       <xt xml:lang="rus"><src_type>посл.</src_type> волков бояться - в лес не ходить</xt>
      </xg>
      <xg>
        <x>мымда кӧинсӧ эн верд, сія сё вӧрлань видзӧтӧ</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> как волка не корми, он всё в лес смотрит</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> как волка не корми, он всё в лес смотрит</xt>
      </xg>
    </mg>
 </e>
@@ -21085,7 +21085,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">кӧр</l>
+     <l hid="Hom1" pos="N">кӧр</l>
      <stg>
        <st Contlex="N_">кӧр</st>
      </stg>
@@ -21114,7 +21114,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">кӧр</l>
+     <l hid="Hom2" pos="N">кӧр</l>
      <stg>
        <st Contlex="N_">кӧр</st>
      </stg>
@@ -21157,7 +21157,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom3" pos="N">кӧр</l>
+     <l hid="Hom3" pos="N">кӧр</l>
      <stg>
        <st Contlex="N_">кӧр</st>
      </stg>
@@ -21664,7 +21664,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">лем</l>
+     <l hid="Hom1" pos="N">лем</l>
      <stg>
        <st Contlex="N_">лем</st>
      </stg>
@@ -21677,7 +21677,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">лем</l>
+     <l hid="Hom2" pos="N">лем</l>
      <stg>
        <st Contlex="N_">лем</st>
      </stg>
@@ -21690,7 +21690,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom3" pos="N">лем</l>
+     <l hid="Hom3" pos="N">лем</l>
      <stg>
        <st Contlex="N_">лем</st>
      </stg>
@@ -22635,7 +22635,7 @@
      </tg>
      <xg>
        <x>вылына лэбтісьӧм бӧрын овлӧ лажмыта пуксьӧм</x>
-       <xt xml:lang="rus"><srс_type>посл.</srс_type> высоко взлетишь, низко сядешь</xt>
+       <xt xml:lang="rus"><src_type>посл.</src_type> высоко взлетишь, низко сядешь</xt>
      </xg>
    </mg>
 </e>
@@ -23167,7 +23167,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">ляпа</l>
+     <l hid="Hom1" pos="N">ляпа</l>
      <stg>
        <st Contlex="N_">ляпа</st>
      </stg>
@@ -23184,7 +23184,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">ляпа</l>
+     <l hid="Hom2" pos="N">ляпа</l>
      <stg>
        <st Contlex="N_">ляпа</st>
      </stg>
@@ -23197,7 +23197,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom3" pos="N">ляпа</l>
+     <l hid="Hom3" pos="N">ляпа</l>
      <stg>
        <st Contlex="N_">ляпа</st>
      </stg>
@@ -24307,7 +24307,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">моль</l>
+     <l hid="Hom1" pos="N">моль</l>
      <stg>
        <st Contlex="N_">моль</st>
      </stg>
@@ -24324,7 +24324,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">моль</l>
+     <l hid="Hom2" pos="N">моль</l>
      <stg>
        <st Contlex="N_">моль</st>
      </stg>
@@ -24337,7 +24337,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom3" pos="N">моль</l>
+     <l hid="Hom3" pos="N">моль</l>
      <stg>
        <st Contlex="N_">моль</st>
      </stg>
@@ -25490,7 +25490,7 @@
        <st Contlex="N_">нимтӧм</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" hіd="ІІ" pos="V">нимтны</comp>
+       <comp ord="E1" hid="ІІ" pos="V">нимтны</comp>
        <comp ord="E1" pos="Suf" type="NomAct"/></compg>
    </lg>
    <mg relId="0">
@@ -26323,7 +26323,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">няня</l>
+     <l hid="Hom1" pos="N">няня</l>
      <stg>
        <st Contlex="N_">няня</st>
      </stg>
@@ -26384,7 +26384,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">няня</l>
+     <l hid="Hom2" pos="N">няня</l>
      <stg>
        <st Contlex="N_">няня</st>
      </stg>
@@ -27229,7 +27229,7 @@
      </xg>
      <xg>
        <x>олӧмыс не ва вуджӧм</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> жизнь прожить - не поле (<range>букв.</range> не воду) перейти</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> жизнь прожить - не поле (<range>букв.</range> не воду) перейти</xt>
      </xg>
    </mg>
    <mg>
@@ -30692,7 +30692,7 @@
      </tg>
      <xg>
        <x>пичиккез локтӧны йы керавны</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> трясогузки прилетают лёд ломать.</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> трясогузки прилетают лёд ломать.</xt>
      </xg>
      <xg>
        <x>пичик кок</x>
@@ -31029,7 +31029,7 @@
        <st Contlex="N_">подалӧм</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" hіd="Hom1" pos="V">подавны</comp>
+       <comp ord="E1" hid="Hom1" pos="V">подавны</comp>
        <comp ord="E1" pos="Suf" type="NomAct"/></compg>
    </lg>
    <mg relId="0">
@@ -31051,7 +31051,7 @@
      </tg>
      <xg>
        <x>йӧктыны ботинки подборрез ӧштавтӧдз</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> плясать до упаду (<range>букв.</range> до потери каблуков)</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> плясать до упаду (<range>букв.</range> до потери каблуков)</xt>
      </xg>
    </mg>
 </e>
@@ -35050,7 +35050,7 @@
      </xg>
      <xg>
        <x>симӧтсӧ кульӧны, кӧр шедӧ</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> берёсту сдирают, когда [она] отстаёт; <i>соотв.</i> куй железо, пока горячо</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> берёсту сдирают, когда [она] отстаёт; <i>соотв.</i> куй железо, пока горячо</xt>
      </xg>
    </mg>
 </e>
@@ -40920,11 +40920,11 @@
      </xg>
      <xg>
        <x>узьӧмӧн город он строит</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> от сна не разбогатеешь (<range>букв.</range> сном город не построишь)</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> от сна не разбогатеешь (<range>букв.</range> сном город не построишь)</xt>
      </xg>
      <xg>
        <x>узьӧмӧн он пӧт</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> сном сыт не будешь</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> сном сыт не будешь</xt>
      </xg>
    </mg>
    <mg>
@@ -42477,7 +42477,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom1" pos="N">чир</l>
+     <l hid="Hom1" pos="N">чир</l>
      <stg>
        <st Contlex="N_">чир</st>
      </stg>
@@ -42490,7 +42490,7 @@
 </e>
 <e>
    <lg>
-     <l hіd="Hom2" pos="N">чир</l>
+     <l hid="Hom2" pos="N">чир</l>
      <stg>
        <st Contlex="N_">чир</st>
      </stg>
@@ -44175,7 +44175,7 @@
      </xg>
      <xg>
        <x>керны дак, шогӧтсӧ кошшы</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> если нечего делать, то ищи горе</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> если нечего делать, то ищи горе</xt>
      </xg>
    </mg>
 </e>
@@ -44403,7 +44403,7 @@
        <st Contlex="N_">шудзӧм</st>
      </stg>
      <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" hіd="Hom1" pos="V">шудзны</comp>
+       <comp ord="E1" hid="Hom1" pos="V">шудзны</comp>
        <comp ord="E1" pos="Suf" type="NomAct"/></compg>
    </lg>
    <mg relId="0">
@@ -45714,7 +45714,7 @@
      </xg>
      <xg>
        <x>юалӧм понда кымӧс кузя оз вачкӧ</x>
-       <xt xml:lang="rus"><srс_type>погов.</srс_type> за спрос по лбу не бьют</xt>
+       <xt xml:lang="rus"><src_type>погов.</src_type> за спрос по лбу не бьют</xt>
      </xg>
    </mg>
 </e>
@@ -48099,7 +48099,7 @@
      </tg>
      <xg>
        <x>кытшӧм бадь сэтшӧм и ӧтростель</x>
-       <xt xml:lang="rus"><srс_type>посл.</srс_type> какова ива, таковы и отростки; <i>соотв.</i> яблоко от яблони недалеко падает</xt>
+       <xt xml:lang="rus"><src_type>посл.</src_type> какова ива, таковы и отростки; <i>соотв.</i> яблоко от яблони недалеко падает</xt>
      </xg>
    </mg>
 </e>
