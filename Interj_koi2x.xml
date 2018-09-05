@@ -20,7 +20,7 @@
    <lg>
      <l pos="Interj">аня</l>
      <stg>
-       <st>аня</st>
+       <st Contlex="INTERJ_">аня</st>
      </stg>
    </lg>
      <sources>
@@ -42,7 +42,7 @@
    <lg>
      <l pos="Interj">батя</l>
      <stg>
-       <st>батя</st>
+       <st Contlex="INTERJ_">батя</st>
      </stg>
    </lg>
      <sources>
@@ -79,7 +79,7 @@
   <e>
    <lg><l>бе-е</l>
      <stg>
-       <st Contlex="">бе-е</st>
+       <st Contlex="INTERJ_">бе-е</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -88,11 +88,28 @@
      </tg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Interj">беленько</l>
+     <stg>
+       <st Contlex="INTERJ_">беленько</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>пожелание тому, кто стирает или моет пол</t>
+     </tg>
+     <xg>
+       <x>беленько тэныт!</x>
+       <xt xml:lang="rus">бог в помощь [тебе]!</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Interj">бытшӧм асылӧн</l>
      <stg>
-       <st>бытшӧм асылӧн</st>
+       <st Contlex="INTERJ_">бытшӧм асылӧн</st>
      </stg>
    </lg>
      <sources>
@@ -109,7 +126,7 @@
    <lg>
      <l pos="Interj">волькыт туй</l>
      <stg>
-       <st>волькыт туй</st>
+       <st Contlex="INTERJ_">волькыт туй</st>
      </stg>
    </lg>
      <sources>
@@ -207,7 +224,7 @@
    <lg>
      <l pos="Interj">кытчӧдз быдӧс</l>
      <stg>
-       <st>кытчӧдз быдӧс</st>
+       <st Contlex="INTERJ_">кытчӧдз быдӧс</st>
      </stg>
    </lg>
      <sources>
@@ -224,7 +241,7 @@
    <lg>
      <l pos="Interj">локтан здорово.</l>
      <stg>
-       <st>локтан здорово.</st>
+       <st Contlex="INTERJ_">локтан здорово.</st>
      </stg>
    </lg>
      <sources>
@@ -357,7 +374,7 @@
    <lg>
      <l pos="Interj">нянь-сов тіянлӧ.</l>
      <stg>
-       <st>нянь-сов тіянлӧ.</st>
+       <st Contlex="INTERJ_">нянь-сов тіянлӧ.</st>
      </stg>
    </lg>
      <sources>
@@ -487,7 +504,7 @@
    <lg>
      <l pos="Interj">тартарӧ тарӧвтчы.</l>
      <stg>
-       <st>тартарӧ тарӧвтчы.</st>
+       <st Contlex="INTERJ_">тартарӧ тарӧвтчы.</st>
      </stg>
    </lg>
      <sources>
@@ -538,7 +555,7 @@
    <lg>
      <l pos="Interj">тыр доз тэныт</l>
      <stg>
-       <st>тыр доз тэныт</st>
+       <st Contlex="INTERJ_">тыр доз тэныт</st>
      </stg>
    </lg>
      <sources>
@@ -759,14 +776,13 @@
   <e>
    <lg><l pos="Interj">экма</l>
      <stg>
-       <st Contlex="">экма</st>
+       <st Contlex="INTERJ_">экма</st>
      </stg>
    </lg>
-   <mg relId="0"><pos>межд.</pos>
-     <xg>
-       <x>эхма</x>
-       <xt xml:lang="rus"/>
-     </xg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       < pos="Interj">эхма</t>
+     </tg>
    </mg>
 </e>
   <e>
@@ -839,7 +855,7 @@
    <lg>
      <l pos="Interj">ӧткымын шуӧм здорово тіянлӧ.</l>
      <stg>
-       <st>ӧткымын шуӧм здорово тіянлӧ.</st>
+       <st Contlex="INTERJ_">ӧткымын шуӧм здорово тіянлӧ.</st>
      </stg>
    </lg>
      <sources>

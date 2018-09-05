@@ -1,6 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
 <e>
    <lg>
+     <l pos="Adv">адззисьлытӧдз</l>
+     <stg>
+       <st Contlex="ADV_">адззисьлытӧдз</st>
+       <st Contlex="ADV_" geo="иньв.">адззисьвытӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до свидания, до новой встречи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аняюрӧн</l>
+     <stg>
+       <st Contlex="ADV_">аняюрӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>н.-иньв.</geo>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg><sg><s s_type="see">онняюрӧн</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арбыт</l>
+     <stg>
+       <st Contlex="ADV_">арбыт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>всю осень, в течение всей осени</t>
+     </tg>
+     <xg>
+       <x>арбыт зэрис</x>
+       <xt xml:lang="rus">всю осень лил дождь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аркиллю</l>
+     <stg>
+       <st Contlex="ADV_">аркиллю</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><geo>юсьв.</geo> сообща, вместе</t>
+     </tg>
+     <xg>
+       <x>уджавны аркиллю</x>
+       <xt xml:lang="rus">работать сообща</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арнас</l>
+     <stg>
+       <st Contlex="ADV_">арнас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>осенью</t>
+     </tg>
+     <xg>
+       <x>тулыснас узян, арнас шогӧ усян</x>
+       <xt xml:lang="rus"><src_type>посл.</src_type> весной проспишь, осенью заболеешь; <i>соотв.</i> весенний день год кормит</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
+   <lg>
      <l pos="Adv">арсӧ</l>
      <stg>
        <st>арсӧ</st>
@@ -24,51 +102,73 @@
    <lg>
      <l pos="Adv">арттӧг</l>
      <stg>
-       <st>арттӧг</st>
+       <st Contlex="ADV_">арттӧг</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">мӧвпышттӧг</t>
        <t pos="Adv">артышттӧг</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>необдуманно, неразумно, глупо</t>
+     </tg>
      <xg>
        <x>арттӧг керны</x>
-       <xt/>
+       <xt xml:lang="rus">поступить неразумно</xt>
      </xg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Adv">арттӧм</l>
+     <l pos="Adv">арьявлас</l>
      <stg>
-       <st>арттӧм</st>
+       <st Contlex="ADV_">арьявлас</st>
+       <st Contlex="ADV_" geo="сев.">арьяллас</st>
+       <st Contlex="ADV_" geo="иньв.">арьяввас</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="kpv">
-       <t pos="Adv">абу сюсь</t>
-       <t pos="Adv">тӧлктӧм</t>
+     <tg xml:lang="rus">
+       <t>под осень</t>
      </tg>
-     <xg>
-       <x>арттӧм пасма</x>
-       <xt xml:lang="kpv">йӧй, нинӧм гӧгӧрвотӧм морт</xt>
-     </xg>
    </mg>
 </e>
 <e>
+   <lg>
+     <l pos="Adv">арӧн</l>
+     <stg>
+       <st Contlex="ADV_">арӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">арнас</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аскадӧ</l>
+     <stg>
+       <st Contlex="ADV_">аскадӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>своевременно</t>
+     </tg>
+     <xg>
+       <x>аскадӧ локны</x>
+       <xt xml:lang="rus">прибыть своевременно</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
    <lg>
      <l pos="Adv">асмоз</l>
      <stg>
-       <st>асмоз(нас)</st>
+       <st>асмоз</st>
+       <st>асмознас</st>
      </stg>
    </lg>
      <sources>
@@ -82,31 +182,25 @@
        <t pos="Adv">аслысног</t>
      </tg>
      <xg>
-       <x>быд геройыс асмознас кошшӧ олӧмас туйсӧ</x> <src>(В.Пахорукова)</src>
+       <x src="В.Пахорукова">быд геройыс асмознас кошшӧ олӧмас туйсӧ</x>
        <xt/>
      </xg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Adv">асмознас</l>
+     <l pos="Adv">астӧг</l>
      <stg>
-       <st>асмоз(нас)</st>
+       <st Contlex="ADV_">астӧг</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="kpv">
-       <t pos="Adv">аснаукӧн</t>
-       <t pos="Adv">ачыс</t>
-       <t pos="Adv">аслысног</t>
+     <tg xml:lang="rus">
+       <t pos="Adv">заочно</t>
      </tg>
      <xg>
-       <x>быд геройыс асмознас кошшӧ олӧмас туйсӧ</x> <src>(В.Пахорукова)</src>
-       <xt/>
+       <x>астӧг гӧтравны</x>
+       <xt xml:lang="rus">без меня меня женить</xt>
      </xg>
    </mg>
 </e>
@@ -114,21 +208,164 @@
    <lg>
      <l pos="Adv">асъяпон</l>
      <stg>
-       <st>асъяпон</st>
+       <st Contlex="ADV_">асъяпон</st>
+       <st Contlex="ADV_" geo="сев.">ассапон</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">асъядор</t>
        <t pos="Adv">асывланьыс</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>к утру, под утро, на рассвете</t>
+     </tg>
      <xg>
-       <x>эта вӧлі асъяпонас</x>
+       <x>эта волі асъяпоннас</x>
        <xt xml:lang="kpv">тайӧ вӧлі асывланьыс</xt>
+       <xt xml:lang="rus">это было на рассвете</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асыввезнас</l>
+     <stg>
+       <st Contlex="ADV_">асыввезнас</st>
+       <st Contlex="ADV_" geo="сев.">асыллэзнас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>по утрам</t>
+     </tg>
+     <xg>
+       <x>асыввезнас кӧдздӧтлӧ</x>
+       <xt xml:lang="rus">по утрам подмораживает</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асывлань, асывланьӧ</l>
+     <stg>
+       <st Contlex="ADV_">асывлань, асывланьӧ</st>
+       <st Contlex="ADV_" geo="сев.">асыллань, асылланьӧ</st>
+       <st Contlex="ADV_" geo="иньв.">асыввань, асывваньӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>на восток, в восточную сторону</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асывланьсянь</l>
+     <stg>
+       <st Contlex="ADV_">асывланьсянь</st>
+       <st Contlex="ADV_" geo="сев.">асылланьсянь</st>
+       <st Contlex="ADV_" geo="иньв.">асывваньсянь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с востока, с восточной стороны</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асывланьын</l>
+     <stg>
+       <st Contlex="ADV_">асывланьын</st>
+       <st Contlex="ADV_" geo="сев.">асылланьын</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="V">на востоке;<geo>иньв.</geo></t>
+     </tg>
+     <xg>
+       <x>асывваньын</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асывнас</l>
+     <stg>
+       <st Contlex="ADV_">асывнас</st>
+       <st Contlex="ADV_" geo="сев.">асылнас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>утром</t>
+     </tg>
+     <xg>
+       <x>талун асывнас</x>
+       <xt xml:lang="rus">сегодня утром</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асывсянь, асывсяняс</l>
+     <stg>
+       <st Contlex="ADV_">асывсянь, асывсяняс</st>
+       <st Contlex="ADV_" geo="сев.">асылсянь, асылсяняс</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>с утра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асылӧдз</l>
+     <stg>
+       <st Contlex="ADV_">асылӧдз</st>
+       <st Contlex="ADV_" geo="иньв.">асывӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>до утра</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асылӧн</l>
+     <stg>
+       <st Contlex="ADV_">асылӧн</st>
+       <st Contlex="ADV_" geo="иньв.">асывӧн, асыӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">асывнас</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ашынас</l>
+     <stg>
+       <st Contlex="ADV_">ашынас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>назавтра</t>
+     </tg>
+     <xg>
+       <x>ашынас ми вӧрзьӧтчим туйӧ</x>
+       <xt xml:lang="rus">назавтра мы отправились в путь</xt>
      </xg>
    </mg>
 </e>
@@ -136,38 +373,319 @@
    <lg>
      <l pos="Adv">басӧка</l>
      <stg>
-       <st>басӧка</st>
+       <st Contlex="ADV_">басӧка</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">мичаа</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>красиво</t>
+     </tg>
+     <xg>
+       <x>басӧка баитны</x>
+       <xt xml:lang="rus">говорить красиво</xt>
+     </xg>
+     <xg>
+       <x>басӧка петӧ</x>
+       <xt xml:lang="rus">получается хорошо</xt>
+     </xg>
+     <xg>
+       <x>басӧка овны</x>
+       <xt xml:lang="rus">одеваться красиво</xt>
+     </xg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Adv">бат</l>
      <stg>
-       <st>бат</st>
+       <st Contlex="ADV_">бат</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">гашкӧ</t>
        <t pos="Adv">тӧдӧмысь</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>может быть, возможно</t>
+     </tg>
      <xg>
        <x>бат, локта</x>
-       <xt/>
+       <xt xml:lang="rus">может быть, приду</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">батя</l>
+     <stg>
+       <st Contlex="ADV_">батя</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>разг.</range>
+     <tg xml:lang="rus">
+       <t> оказывается</t>
+     </tg>
+     <xg>
+       <x>ведь</x>
+       <xt xml:lang="rus"/>
+     </xg>
+     <xg>
+       <x>тэ, батя, вына вӧлӧмыт</x>
+       <xt xml:lang="rus">ты, брат, сильный; ты, оказывается, сильный, ты ведь сильный</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">безоблыжно</l>
+     <stg>
+       <st Contlex="ADV_">безоблыжно</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><i>нердв.</i> безобразно</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бекыль-бекыль</l>
+     <stg>
+       <st Contlex="ADV_">бекыль-бекыль</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="V"><i>изобр.</i>:</t>
+     </tg>
+     <xg>
+       <x>бекыль-бекыль кера</x>
+       <xt xml:lang="rus"><range>дет.</range> забодаю-забодаю</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бекыр-бекыр</l>
+     <stg>
+       <st Contlex="ADV_">бекыр-бекыр</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">бекыль-бекыль</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бодрӧя</l>
+     <stg>
+       <st Contlex="ADV_">бодрӧя</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">бодро</t>
+     </tg>
+     <xg>
+       <x>старик бодрӧя оськаліс туй кузя</x>
+       <xt xml:lang="rus">старик бодро шагал по дороге</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">боквыв</l>
+     <stg>
+       <st Contlex="ADV_">боквыв</st>
+       <st Contlex="ADV_" geo="сев.">боквыл</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>набок</t>
+     </tg>
+     <xg>
+       <x>додьыс бергӧтчис боквыв</x>
+       <xt xml:lang="rus">сани повалились набок</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">боки</l>
+     <stg>
+       <st Contlex="ADV_">боки</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="V">стороной, мимо:</t>
+     </tg>
+     <xg>
+       <x>мун боки</x>
+       <xt xml:lang="rus">проходи мимо</xt>
+     </xg>
+     <xg>
+       <x>боки мунісь</x>
+       <xt xml:lang="rus">проходящий мимо, прохожий</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бокись</l>
+     <stg>
+       <st Contlex="ADV_">бокись</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>со стороны, сбоку</t>
+     </tg>
+     <xg>
+       <x>гумышт васӧ кыськӧ бокись</x>
+       <xt xml:lang="rus">зачерпни воду в другом месте</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t><pos>послелог</pos> <i>от кого-чего-либо</i></t>
+     </tg>
+     <xg>
+       <x>йӧр бокись лэбзис каёк</x>
+       <xt xml:lang="rus">с изгороди вспорхнули птичка</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">3. <i>с притяж. суф.,</i><sg><s s_type="see"/></sg></t>
+     </tg>
+     <xg>
+       <x>боксим, боксиным, боксиныс</x>
+       <xt xml:lang="rus">,</xt>
+     </xg>
+     <xg>
+       <x> боксиныт, боксис, боксит</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">боклань</l>
+     <stg>
+       <st Contlex="ADV_">боклань</st>
+       <st Contlex="ADV_" geo="иньв.">боквань</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>набок; в сторону</t>
+     </tg>
+     <xg>
+       <x>миянлӧ колӧ вешшыны боклань</x>
+       <xt xml:lang="rus">нам надо свернуть в сторону</xt>
+     </xg>
+     <xg>
+       <x>боклань кыскыны</x>
+       <xt xml:lang="rus">тянуть в сторону</xt>
+     </xg>
+     <xg>
+       <x>боклань пӧрны</x>
+       <xt xml:lang="rus">свалиться набок (<i>о чём-либо</i>);</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бокӧн</l>
+     <stg>
+       <st Contlex="ADV_">бокӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>1) боком</t>
+     </tg>
+     <xg>
+       <x>бокӧн петны</x>
+       <xt xml:lang="rus">выйти боком <i>откуда-либо</i>;</xt>
+     </xg>
+     <xg>
+       <x>бокӧн пуксьыны</x>
+       <xt xml:lang="rus">сесть боком</xt>
+     </xg>
+   </mg>
+   <mg><range>перен.</range>
+     <tg xml:lang="rus">
+       <t>искоса</t>
+     </tg>
+     <xg>
+       <x>видзӧтны бокӧн</x>
+       <xt xml:lang="rus">смотреть косо</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="Adp">вдоль, возле <i>чего-либо</i></t>
+     </tg>
+     <xg>
+       <x>мунны йӧр бокӧн</x>
+       <xt xml:lang="rus">идти вдоль изгороди</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бокӧт</l>
+     <stg>
+       <st Contlex="ADV_">бокӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">мимо</t>
+     </tg>
+     <xg>
+       <x>бокӧт котӧртіс кӧч</x>
+       <xt xml:lang="rus">мимо пробежал заяц</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="Adp">вдоль, <i>около кого-чего-либо</i></t>
+     </tg>
+     <xg>
+       <x>межа бокӧт быдмӧ жельнӧг</x>
+       <xt xml:lang="rus">вдоль межи растёт шиповник</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">3. <i>с притяж. суф.,</i></t>
+     </tg><sg><s s_type="see">бокӧттям, бокӧттяным, бокӧттяныс, бокӧттяныт, бокӧттяс, бокӧттят</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">боле</l>
+     <stg>
+       <st Contlex="ADV_">боле</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><geo>иньв.</geo> более, больше</t>
+     </tg>
+     <xg>
+       <x>шоччисьыштны бы, боле меным кытчӧз нем оз ков</x>
+       <xt xml:lang="rus">отдохнуть бы, больше мне ничего пока не надо</xt>
      </xg>
    </mg>
 </e>
@@ -175,45 +693,133 @@
    <lg>
      <l pos="Adv">бордпавйӧн</l>
      <stg>
-       <st>бордпавйӧн / бордпавкйӧн</st>
+       <st Contlex="ADV_">бордпавйӧн</st>
+       <st Contlex="ADV_" geo="сев.">бордпалйӧн</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">зэв ӧдйӧ</t>
      </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">быстро, стремительно</t>
+     </tg>
      <xg>
-       <x>а чеччас бордпавкйӧн, кыдз том</x> <src>(Ф.Истомин)</src>
+       <x src="Ф.Истомин">а чеччас бордпавкйӧн, кыдз том</x>
        <xt xml:lang="kpv">а чеччас зэв ӧдйӧ, том моз</xt>
+     </xg>
+     <xg>
+       <x>бордпавйӧн мунны</x>
+       <xt xml:lang="rus">идти легко, лететь словно на крыльях (о быстрой ходьбе)</xt>
+     </xg>
+     <xg>
+       <x>бордпавйӧн лэбзьыны</x>
+       <xt xml:lang="rus">идти легко, лететь словно на крыльях (о быстрой ходьбе)</xt>
      </xg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="Adv">бордпавкйӧн</l>
+     <l pos="Adv">боёка</l>
      <stg>
-       <st>бордпавйӧн / бордпавкйӧн</st>
+       <st Contlex="ADV_">боёка</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="kpv">
-       <t pos="Adv">зэв ӧдйӧ</t>
+     <tg xml:lang="rus">
+       <t pos="Adv">бойко, бодро, браво</t>
      </tg>
      <xg>
-       <x>а чеччас бордпавкйӧн, кыдз том</x> <src>(Ф.Истомин)</src>
-       <xt xml:lang="kpv">а чеччас зэв ӧдйӧ, том моз</xt>
+       <x>сія боёка эшӧ ветлӧтӧ</x>
+       <xt xml:lang="rus">он ещё ходит бодро</xt>
      </xg>
    </mg>
 </e>
 <e>
+   <lg>
+     <l pos="Adv">бродӧн</l>
+     <stg>
+       <st Contlex="ADV_">бродӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>вброд</t>
+     </tg>
+     <xg>
+       <x>Иньвасӧ ми вуджим бродӧн</x>
+       <xt xml:lang="rus">Иньву мы перешли вброд</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom1" pos="Adv">бура</l>
+     <stg>
+       <st Contlex="ADV_">бура</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>1) хорошо</t>
+     </tg>
+     <xg>
+       <x>бура асьӧс видзны</x>
+       <xt xml:lang="rus">хорошо вести себя</xt>
+     </xg>
+     <xg>
+       <x>бура овны</x>
+       <xt xml:lang="rus">жить зажиточно</xt>
+     </xg>
+     <xg>
+       <x>быдӧс чулаліс бура</x>
+       <xt xml:lang="rus">всё обошлось благополучно, всё прошло хорошо</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>очень</t>
+     </tg>
+     <xg>
+       <x>бура вартлыны</x>
+       <xt xml:lang="rus">сильно избить <i>кого-либо</i>;</xt>
+     </xg>
+     <xg>
+       <x>бура корны гӧститны</x>
+       <xt xml:lang="rus">настоятельно приглашать в гости</xt>
+     </xg>
+     <xg>
+       <x>бура маитчыны</x>
+       <xt xml:lang="rus">очень мучиться</xt>
+     </xg>
+     <xg>
+       <x>бура ысласьны</x>
+       <xt xml:lang="rus">вдоволь накататься (<i>напр.</i> на лыжах)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">буракодь</l>
+     <stg>
+       <st Contlex="ADV_">буракодь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">значительно, довольно сильно</t>
+     </tg>
+     <xg>
+       <x>буракодь зэрис</x>
+       <xt xml:lang="rus">прошёл довольно сильный дождь</xt>
+     </xg>
+     <xg>
+       <x>буракодь кӧдздӧтіс</x>
+       <xt xml:lang="rus">довольно сильно похолодало</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
    <lg>
      <l pos="Adv">бурна</l>
      <stg>
@@ -236,6 +842,32 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">быдлаын</l>
+     <stg>
+       <st Contlex="ADV_">быдлаын</st>
+       <st Contlex="ADV_" geo="иньв.">быдваын</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">везде, всюду, повсеместно</t>
+     </tg>
+     <xg>
+       <x>быдлаын ӧткодь</x>
+       <xt xml:lang="rus">везде одно и то же</xt>
+     </xg>
+     <xg>
+       <x>сылӧ быдлаын бур</x>
+       <xt xml:lang="rus">ему везде хорошо</xt>
+     </xg>
+     <xg>
+       <x>сія, натьтӧ, быдлаын ни вӧлі</x>
+       <xt xml:lang="rus">он, наверно, всюду уже побывал</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
+   <lg>
      <l pos="Adv">быднёж</l>
      <stg>
        <st>быднёж</st>
@@ -256,7 +888,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">быдпыр</l>
      <stg>
@@ -275,7 +907,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">быдпырся</l>
      <stg>
@@ -294,7 +926,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">быдса</l>
      <stg>
@@ -320,38 +952,78 @@
    <lg>
      <l pos="Adv">былись</l>
      <stg>
-       <st>былись</st>
+       <st Contlex="ADV_">былись</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">збыльысь</t>
      </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">на самом деле, действительно</t>
+     </tg>
+     <xg>
+       <x>нія былись гӧтрасьӧмась</x>
+       <xt xml:lang="rus">они действительно поженились</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быль</l>
+     <stg>
+       <st Contlex="ADV_">быль</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">правда; в самом деле, верно</t>
+     </tg>
+     <xg>
+       <x>быдӧс эта быль</x>
+       <xt xml:lang="rus">всё это сущая правда</xt>
+     </xg>
+     <xg>
+       <x>нюр сайын и быль мыччисис пожумаин</x>
+       <xt xml:lang="rus">за болотом и впрямь показался сосняк</xt>
+     </xg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Adv">бытшӧма</l>
      <stg>
-       <st>бытшӧма</st>
+       <st Contlex="ADV_">бытшӧма</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">мичаа</t>
        <t pos="Adv">бура</t>
      </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">хорошо</t>
+     </tg>
+     <xg>
+       <x>овны бытшӧма</x>
+       <xt xml:lang="rus">жить хорошо</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">крепко</t>
+     </tg>
+     <xg>
+       <x>керны бытшӧма</x>
+       <xt xml:lang="rus">сделать добротно</xt>
+     </xg>
+     <xg>
+       <x>бытшӧма кӧртавны</x>
+       <xt xml:lang="rus">крепко завязать</xt>
+     </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">бытшӧмика</l>
      <stg>
@@ -375,6 +1047,269 @@
    </mg>
 </e>
 <e>
+   <lg>
+     <l pos="Adv">бытьтӧ</l>
+     <stg>
+       <st Contlex="ADV_">бытьтӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">будто, как будто, якобы, словно</t>
+     </tg>
+     <xg>
+       <x>бытьтӧ нем эз и вӧв</x>
+       <xt xml:lang="rus">будто ничего и не случилось</xt>
+     </xg>
+     <xg>
+       <x>бытьтӧ не сылӧн и дело</x>
+       <xt xml:lang="rus">будто его это не касается; будто ему и дела нет</xt>
+     </xg>
+     <xg>
+       <x>лымоккес, бытьтӧ учӧтик парашютоккез</x>
+       <xt xml:lang="rus">снежинки, словно маленькие парашютики</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бӧба</l>
+     <stg>
+       <st Contlex="ADV_">бӧба</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">шаловливо; недисциплинированно</t>
+     </tg>
+     <xg>
+       <x>бӧба овны, бӧба асьӧс видзны</x>
+       <xt xml:lang="rus">шалить; нарушать дисциплину</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">важын</l>
+     <stg>
+       <st Contlex="ADV_">важын</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>раньше, прежде, когда-то, некогда; в старину</t>
+     </tg>
+     <xg>
+       <x>важын баитлісӧ</x>
+       <xt xml:lang="rus">... раньше рассказывали...</xt>
+     </xg>
+     <xg>
+       <x>важын пӧ татӧн вӧр вӧлӧм</x>
+       <xt xml:lang="rus">некогда, говорят, здесь лес был</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">давно</t>
+     </tg>
+     <xg>
+       <x>эта вӧлі важын ни</x>
+       <xt xml:lang="rus">это было уже давно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">важынкодь</l>
+     <stg>
+       <st Contlex="ADV_">важынкодь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">давненько, довольно давно</t>
+     </tg>
+     <xg>
+       <x>важынкодь ни письмоэз эз вӧлӧ</x>
+       <xt xml:lang="rus">давненько уже писем не было</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">важынся-важын</l>
+     <stg>
+       <st Contlex="ADV_">важынся-важын</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">давным-давно</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">валькыта</l>
+     <stg>
+       <st Contlex="ADV_">валькыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">плавно, ровно</t>
+     </tg>
+     <xg>
+       <x>валькыта пӧрӧ турун</x>
+       <xt xml:lang="rus">плавно ложится трава</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom1" pos="Adv">весь</l>
+     <stg>
+       <st Contlex="ADV_">весь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>1) зря, напрасно, попусту</t>
+     </tg>
+     <xg>
+       <x>весь висьталӧм</x>
+       <xt xml:lang="rus">напраслина, клевета</xt>
+     </xg>
+     <xg>
+       <x>нія весь оз пондӧ баитны</x>
+       <xt xml:lang="rus">они зря не будут говорить</xt>
+     </xg>
+     <xg>
+       <x>весь ӧштыны кад</x>
+       <xt xml:lang="rus">зря тратить время</xt>
+     </xg>
+     <xg>
+       <x>весь сулӧтны вӧв</x>
+       <xt xml:lang="rus">держать лошадь без работы</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>даром, бесплатно</t>
+     </tg>
+     <xg>
+       <x>весь сюрӧм</x>
+       <xt xml:lang="rus">(</xt>
+     </xg>
+     <xg>
+       <x>шедӧм</x>
+       <xt xml:lang="rus">) даровой, нажитый на нетрудовые деньги</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>праздно, бесцельно</t>
+     </tg>
+     <xg>
+       <x>овны весь</x>
+       <xt xml:lang="rus">жить праздно, беззаботно, бездельничать</xt>
+     </xg>
+     <xg>
+       <x>пукавны весь</x>
+       <xt xml:lang="rus">сидеть без дела.</xt>
+     </xg>
+     <xg>
+       <x>весьӧ пӧрны</x>
+       <xt xml:lang="rus">обомлеть, оцепенеть (от испуга)</xt>
+     </xg>
+     <xg>
+       <x>весьӧ пӧртны</x>
+       <xt xml:lang="rus">испугать до оцепенения</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">веськыта</l>
+     <stg>
+       <st Contlex="ADV_">веськыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">прямо</t>
+     </tg>
+     <xg>
+       <x>веськыта мунны</x>
+       <xt xml:lang="rus">идти прямо</xt>
+     </xg>
+   </mg>
+   <mg><range>перен.</range>
+     <tg xml:lang="rus">
+       <t pos="Adv">прямо, откровенно</t>
+     </tg>
+     <xg>
+       <x>баитны веськыта</x>
+       <xt xml:lang="rus">говорить откровенно</xt>
+     </xg>
+     <xg>
+       <x>уважайтны веськыта баитӧм понда</x>
+       <xt xml:lang="rus">уважать за откровенность</xt>
+     </xg>
+     <xg>
+       <x>веськыта кӧ шуны</x>
+       <xt xml:lang="rus">(</xt>
+     </xg>
+     <xg>
+       <x>висьтавны</x>
+       <xt xml:lang="rus">) говоря по правде; откровенно говоря.</xt>
+     </xg>
+     <xg>
+       <x>веськыта ругайтчыны</x>
+       <xt xml:lang="rus">(</xt>
+     </xg>
+     <xg>
+       <x>видчыны</x>
+       <xt xml:lang="rus">)<range>разг.</range> ругаться, не стесняясь в выражениях; ругаться на чём свет стоит</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">весёла</l>
+     <stg>
+       <st Contlex="ADV_">весёла</st>
+       <st Contlex="ADV_" geo="иньв.">весёва</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">весело, радостно</t>
+     </tg>
+     <xg>
+       <x>весёла овны</x>
+       <xt xml:lang="rus">жить весело, безмятежно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">видзчисьтӧг</l>
+     <stg>
+       <st Contlex="ADV_">видзчисьтӧг</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">внезапно, неожиданно</t>
+     </tg>
+     <xg>
+       <x>локны видзчисьтӧг</x>
+       <xt xml:lang="rus">нагрянуть неожиданно</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
    <lg>
      <l pos="Adv">вижлокӧн</l>
      <stg>
@@ -402,16 +1337,70 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">вирдыштӧмӧн</l>
+     <l pos="Adv">визыла</l>
      <stg>
-       <st>вирдыштӧмӧн</st>
+       <st Contlex="ADV_">визыла</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adv">быстро, бурно, стремительно</t>
+     </tg>
+     <xg>
+       <x>визыла котӧртны</x>
+       <xt xml:lang="rus">быстро течь (о воде)</xt>
+     </xg>
+     <xg>
+       <x>визыла мунӧ кад</x>
+       <xt xml:lang="rus">незаметно проходит время</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">вились</l>
+     <stg>
+       <st Contlex="ADV_">вились</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">вновь, снова, заново</t>
+     </tg>
+     <xg>
+       <x>вились гижны</x>
+       <xt xml:lang="rus">написать заново</xt>
+     </xg>
+     <xg>
+       <x>вились керны</x>
+       <xt xml:lang="rus">вновь сделать, переделать</xt>
+     </xg>
+     <xg>
+       <x>вились лыддьӧтны</x>
+       <xt xml:lang="rus">вновь прочитать, перечитать</xt>
+     </xg>
+     <xg>
+       <x>вились вурны</x>
+       <xt xml:lang="rus">перешить.</xt>
+     </xg>
+     <xg>
+       <x>вились-виль</x>
+       <xt xml:lang="rus">всё снова и снова, беспрерывно</xt>
+     </xg>
+     <xg>
+       <x>вились-виль локтӧны подводаэз</x>
+       <xt xml:lang="rus">беспрерывно прибывают всё новые подводы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">вирдыштӧмӧн</l>
+     <stg>
+       <st Contlex="ADV_">вирдыштӧмӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
      <tg xml:lang="kpv">
        <t pos="Adv">чардби моз ӧдйӧ</t>
      </tg>
@@ -419,9 +1408,16 @@
        <x>вирдыштӧмӧн котӧртны</x>
        <xt/>
      </xg>
+     <tg xml:lang="rus">
+       <t pos="Adv">молниеносно</t>
+     </tg>
+     <xg>
+       <x>вирдыштӧмӧн котӧртны</x>
+       <xt xml:lang="rus">быстро (стремглав) бежать, нестись, мчаться</xt>
+     </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">вокорень</l>
      <stg>
@@ -446,6 +1442,32 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">волькыта</l>
+     <stg>
+       <st Contlex="ADV_">волькыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">ровно, гладко</t>
+     </tg>
+     <xg>
+       <x>пӧлыс стружйӧм волькыта</x>
+       <xt xml:lang="rus">доска обстругана гладко</xt>
+     </xg>
+   </mg>
+   <mg><range>перен.</range>
+     <tg xml:lang="rus">
+       <t pos="Adv">хорошо, красиво, богато</t>
+     </tg>
+     <xg>
+       <x>пасьтасьны волькыта</x>
+       <xt xml:lang="rus">одеваться красиво (со вкусом)</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
+   <lg>
      <l pos="Adv">вопотки</l>
      <stg>
        <st>вопотки</st>
@@ -468,6 +1490,92 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">вывті</l>
+     <stg>
+       <st Contlex="ADV_">вывті</st>
+       <st Contlex="ADV_" geo="сев.">вылті</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">очень, чересчур, слишком, чрезмерно</t>
+     </tg>
+     <xg>
+       <x>вывті уна</x>
+       <xt xml:lang="rus">слишком много</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>выше, поверху</t>
+     </tg>
+     <xg>
+       <x>вывті мунны</x>
+       <xt xml:lang="rus">идти поверху.</xt>
+     </xg>
+     <xg>
+       <x>морт вывті пуктыны</x>
+       <xt xml:lang="rus">считать <i>кого-либо</i> хорошим человеком</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">вылына</l>
+     <stg>
+       <st Contlex="ADV_">вылына</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">высоко</t>
+     </tg>
+     <xg>
+       <x>самолёт лэбзис ӧддьӧн вылына</x>
+       <xt xml:lang="rus">самолёт летел очень высоко</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">высоко</t>
+     </tg>
+     <xg>
+       <x>вылына донтны</x>
+       <xt xml:lang="rus">высоко оценивать □<geo>иньв.</geo></xt>
+     </xg>
+     <xg>
+       <x>вывына, выына</x>
+       <xt xml:lang="rus">.</xt>
+     </xg>
+     <xg>
+       <x>вылына юр видзись</x>
+       <xt xml:lang="rus">заносчивый человек</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">гажтӧма</l>
+     <stg>
+       <st Contlex="ADV_">гажтӧма</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">грустно, невесело, скучно</t>
+     </tg>
+     <xg>
+       <x>гажтӧма видзӧтны</x>
+       <xt xml:lang="rus">невесело смотреть</xt>
+     </xg>
+     <xg>
+       <x>гажтӧма шушкис лыса вӧр</x>
+       <xt xml:lang="rus">тревожно шумел хвойный лес</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
+   <lg>
      <l pos="Adv">гажӧн</l>
      <stg>
        <st>гажӧн</st>
@@ -483,7 +1591,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">гажӧна</l>
      <stg>
@@ -506,6 +1614,31 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">гладь</l>
+     <stg>
+       <st Contlex="ADV_">гладь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>совсем, полностью</t>
+     </tg>
+     <xg>
+       <x>платьеӧ гладь бырис</x>
+       <xt xml:lang="rus">[моё] платье совсем износилось</xt>
+     </xg>
+     <xg>
+       <x>гладь разоритны</x>
+       <xt xml:lang="rus">полностью разорить</xt>
+     </xg>
+     <xg>
+       <x>гладь бӧбмӧма инькаыс</x>
+       <xt xml:lang="rus">баба совсем одурела</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
+   <lg>
      <l pos="Adv">гожумӧн</l>
      <stg>
        <st>гожумӧн</st>
@@ -524,16 +1657,160 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">дзар</l>
+     <l pos="Adv">гола</l>
      <stg>
-       <st>дзар</st>
+       <st Contlex="ADV_">гола</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adv">бедно</t>
+     </tg>
+     <xg>
+       <x>гола овны</x>
+       <xt xml:lang="rus">жить бедно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">горша</l>
+     <stg>
+       <st Contlex="ADV_">горша</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">жадно</t>
+     </tg>
+     <xg>
+       <x>горша сёйны</x>
+       <xt xml:lang="rus">жадно есть</xt>
+     </xg>
+     <xg>
+       <x>горша ньылавны</x>
+       <xt xml:lang="rus">жадно глотать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">горшӧн</l>
+     <stg>
+       <st Contlex="ADV_">горшӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">жадно</t>
+     </tg>
+     <xg>
+       <x>горшӧн пондіс панявны шыд</x>
+       <xt xml:lang="rus">он жадно стал хлебать суп</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">горӧн, горӧна</l>
+     <stg>
+       <st Contlex="ADV_">горӧн, горӧна</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">громко</t>
+     </tg>
+     <xg>
+       <x>горӧн, горӧна баитны</x>
+       <xt xml:lang="rus">громко говорить</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>вслух</t>
+     </tg>
+     <xg>
+       <x>горӧн, горӧна лыддьӧтны</x>
+       <xt xml:lang="rus">читать вслух</xt>
+     </xg>
+     <xg>
+       <x>горӧн, горӧна лыддьыны</x>
+       <xt xml:lang="rus">считать вслух</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">гырися</l>
+     <stg>
+       <st Contlex="ADV_">гырися</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">крупно</t>
+     </tg>
+     <xg>
+       <x>гырися изны</x>
+       <xt xml:lang="rus">крупно молоть</xt>
+     </xg>
+     <xg>
+       <x>гырися вундавны</x>
+       <xt xml:lang="rus">крупно резать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">гӧгӧр</l>
+     <stg>
+       <st Contlex="ADV_">гӧгӧр</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">кругом, вокруг; повсюду</t>
+     </tg>
+     <xg>
+       <x>гӧгӧр обиход</x>
+       <xt xml:lang="rus">кругом порядок, кругом всё прибрано</xt>
+     </xg>
+     <xg>
+       <x>гӧгӧр быдмӧны виль керкуэз</x>
+       <xt xml:lang="rus">везде поднимаются новые дома</xt>
+     </xg>
+     <xg>
+       <x>гӧгӧр лӧсьӧтчӧны праздник кежӧ</x>
+       <xt xml:lang="rus">повсеместно готовятся к празднику</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дженыта</l>
+     <stg>
+       <st Contlex="ADV_">дженыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">коротко</t>
+     </tg>
+     <xg>
+       <x>дженыта шырны</x>
+       <xt xml:lang="rus">коротко остричь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дзар</l>
+     <stg>
+       <st Contlex="ADV_">дзар</st>
+     </stg>
+   </lg>
+   <mg relId="0">
      <tg xml:lang="kpv">
        <t pos="Adv">дзик</t>
        <t pos="Adv">дзикӧдз</t>
@@ -542,9 +1819,220 @@
        <x>ӧтӧрас дзар югыт ни</x>
        <xt>ывлаын дзик югыд нин</xt>
      </xg>
+     <tg xml:lang="rus">
+       <t pos="Adv">совсем, совершенно</t>
+     </tg>
+     <xg>
+       <x>ӧтӧрас дзар югыт ни</x>
+       <xt xml:lang="rus">на улице уже совсем светло.</xt>
+     </xg>
+     <xg>
+       <x>дзар</x>
+       <xt xml:lang="rus">-</xt>
+     </xg>
+     <xg>
+       <x>керны</x>
+       <xt xml:lang="rus">глянуть, взглянуть, бросить взгляд</xt>
+     </xg>
+     <xg>
+       <x>дзар керӧм</x>
+       <xt xml:lang="rus">беглый взгляд</xt>
+     </xg>
+     <xg>
+       <x>дзар видзны</x>
+       <xt xml:lang="rus">светлеть, белеть</xt>
+     </xg>
+     <xg>
+       <x>рудзӧгыс ыб вылас дзар видзӧ ни</x>
+       <xt xml:lang="rus">рожь на полях уже светлеет (поспевает)</xt>
+     </xg>
    </mg>
 </e>
 <e>
+   <lg>
+     <l pos="Adv">дзескыта</l>
+     <stg>
+       <st Contlex="ADV_">дзескыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">тесно</t>
+     </tg>
+     <xg>
+       <x>дзескыта пуксьыны</x>
+       <xt xml:lang="rus">тесно сесть</xt>
+     </xg>
+     <xg>
+       <x>дзескыта пуксьӧтчыны</x>
+       <xt xml:lang="rus">плотно застроиться</xt>
+     </xg>
+   </mg>
+   <mg><range>перен.</range>
+     <tg xml:lang="rus">
+       <t>в нужде, в стеснённом положении, в лишениях</t>
+     </tg>
+     <xg>
+       <x>дзескыта овны</x>
+       <xt xml:lang="rus">жить в лишениях</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дзик</l>
+     <stg>
+       <st Contlex="ADV_">дзик</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">1) совсем, совершенно</t>
+     </tg>
+     <xg>
+       <x>дзик ӧтнас олӧ</x>
+       <xt xml:lang="rus">живёт совсем один</xt>
+     </xg>
+     <xg>
+       <x>эта йылісь дзик вунӧті</x>
+       <xt xml:lang="rus">об этом я совсем забыл</xt>
+     </xg>
+     <xg>
+       <x>шебрасьны дзик</x>
+       <xt xml:lang="rus">укрыться (одеялом) с головой</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>точь-в-точь</t>
+     </tg>
+     <xg>
+       <x>нылыс дзик мамыс</x>
+       <xt xml:lang="rus">дочь точь-в-точь мать</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">2. словно, точно, ровно, будто</t>
+     </tg>
+     <xg>
+       <x>дзик виль</x>
+       <xt xml:lang="rus">словно новый</xt>
+     </xg>
+     <xg>
+       <x>дзик ловья</x>
+       <xt xml:lang="rus">будто живой</xt>
+     </xg>
+     <xg>
+       <x>дзик бордпавйӧн лэбзьӧ</x>
+       <xt xml:lang="rus">будто на крыльях летит</xt>
+     </xg>
+     <xg>
+       <x>голосыс дзик сильканок</x>
+       <xt xml:lang="rus">голос точно колокольчик</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">3. как будто бы</t>
+     </tg>
+     <xg>
+       <x>дзик эд ме тэнӧ кыськӧ адззылі</x>
+       <xt xml:lang="rus">я как будто бы тебя где-то видел</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дзирыта</l>
+     <stg>
+       <st Contlex="ADV_">дзирыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv"><i>прям.,</i><range>перен.</range> горячо</t>
+     </tg>
+     <xg>
+       <x>дзирыта кутчисьны удж бердӧ</x>
+       <xt xml:lang="rus">горячо взяться за работу</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дзуля</l>
+     <stg>
+       <st Contlex="ADV_">дзуля</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>Рог.</geo>
+     <tg xml:lang="rus">
+       <t pos="Adv"> любезно, мило</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">долыта</l>
+     <stg>
+       <st Contlex="ADV_">долыта</st>
+       <st Contlex="ADV_" geo="иньв.">довыта, доыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">радостно; весело; приятно; легко</t>
+     </tg>
+     <xg>
+       <x>долыта лолыштны</x>
+       <xt xml:lang="rus">легко вздохнуть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">донтӧма</l>
+     <stg>
+       <st Contlex="ADV_">донтӧма</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">дёшево</t>
+     </tg>
+     <xg>
+       <x>донтӧма вузавны</x>
+       <xt xml:lang="rus">дёшево продать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">донӧн</l>
+     <stg>
+       <st Contlex="ADV_">донӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">дорого</t>
+     </tg>
+     <xg>
+       <x>донӧн босьтны</x>
+       <xt xml:lang="rus">дорого купить</xt>
+     </xg>
+     <xg>
+       <x>донӧн вузавны</x>
+       <xt xml:lang="rus">дорого продать</xt>
+     </xg>
+     <xg>
+       <x>донӧн я вузалан?</x>
+       <xt xml:lang="rus">дорого ли продаёшь?</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
    <lg>
      <l pos="Adv">досповна</l>
      <stg>
@@ -569,6 +2057,127 @@
 </e>
 <e>
    <lg>
+     <l hid="Hom2" pos="Adv">друг</l>
+     <stg>
+       <st Contlex="ADV_">друг</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">1) вдруг, неожиданно</t>
+     </tg>
+     <xg>
+       <x>машина друг сувтіс</x>
+       <xt xml:lang="rus">машина неожиданно остановилась</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">вместе; одновременно</t>
+     </tg>
+     <xg>
+       <x>нія друг пырисӧ</x>
+       <xt xml:lang="rus">они вошли одновременно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дугдывтӧг</l>
+     <stg>
+       <st Contlex="ADV_">дугдывтӧг</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">не останавливаясь, не переставая; беспрерывно, неуклонно</t>
+     </tg>
+     <xg>
+       <x>дугдывтӧг зэрӧ</x>
+       <xt xml:lang="rus">не переставая идёт дождь</xt>
+     </xg>
+     <xg>
+       <x>дугдывтӧг кашляйтны</x>
+       <xt xml:lang="rus">беспрерывно кашлять</xt>
+     </xg>
+     <xg>
+       <x>дугдывтӧг сёйны</x>
+       <xt xml:lang="rus">постоянно есть</xt>
+     </xg>
+     <xg>
+       <x>дугдывтӧг горзыны</x>
+       <xt xml:lang="rus">беспрестанно плакать</xt>
+     </xg>
+     <xg>
+       <x>дугдывтӧг узьны</x>
+       <xt xml:lang="rus">беспробудно спать</xt>
+     </xg>
+     <xg>
+       <x>дугдывтӧг баитны</x>
+       <xt xml:lang="rus">не переставая говорить</xt>
+     </xg>
+     <xg>
+       <x>дугдывтӧг вешшыны одзлань</x>
+       <xt xml:lang="rus">неуклонно двигаться вперёда<geo>сев.</geo></xt>
+     </xg>
+     <xg>
+       <x>дугдылтӧг</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дузгӧн</l>
+     <stg>
+       <st Contlex="ADV_">дузгӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>Рог.</geo>
+     <tg xml:lang="rus">
+       <t pos="Adv"> задумчиво</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дук</l>
+     <stg>
+       <st Contlex="ADV_">дук</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">2. ничуть, нисколько; совсем, совершенно</t>
+     </tg>
+     <xg>
+       <x>дук оз кывзы</x>
+       <xt xml:lang="rus">[он] совершенно не слушает</xt>
+     </xg>
+     <xg>
+       <x>дук бы нем оз кер</x>
+       <xt xml:lang="rus">совсем ничего не хочет делать</xt>
+     </xg>
+     <xg>
+       <x>дук абу ылӧсыс</x>
+       <xt xml:lang="rus">совершенно ничего не понимает</xt>
+     </xg>
+     <xg>
+       <x>синнэзӧ дук оз адззӧ</x>
+       <xt xml:lang="rus">глаза мои совсем перестали видеть.</xt>
+     </xg>
+     <xg>
+       <x>мед дукыт татӧн зз вӧв</x>
+       <xt xml:lang="rus">чтобы духу твоего здесь не было</xt>
+     </xg>
+     <xg>
+       <x>сылӧн дукыс ни абу</x>
+       <xt xml:lang="rus">его и след простыл</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
+   <lg>
      <l pos="Adv">дыв</l>
      <stg>
        <st>дыв</st>
@@ -591,6 +2200,123 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">дынӧт</l>
+     <stg>
+       <st Contlex="ADV_">дынӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">совсем близко; мимо, около</t>
+     </tg>
+     <xg>
+       <x>дынӧт лэбзис кушборд</x>
+       <xt xml:lang="rus">совсем близко (мимо) пролетела летучая мышь</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="Adp">около (мимо, возле) <i>кого-чего-либо</i></t>
+     </tg>
+     <xg>
+       <x>булочнӧй дынӧт муніко зонка бергӧтчыштіс</x>
+       <xt xml:lang="rus">проходя мимо булочной, мальчик обернулся 3. <i>употр.</i> <i>с притяж. суф.</i>;<sg><s s_type="see"/></sg></xt>
+     </xg>
+     <xg>
+       <x>дынӧттям, дынӧттяным, дынӧттяныс, дынӧттяныт, дынӧттяс, дынӧттят</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дыр</l>
+     <stg>
+       <st Contlex="ADV_">дыр</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">долго</t>
+     </tg>
+     <xg>
+       <x>дыр узьны</x>
+       <xt xml:lang="rus">долго спать</xt>
+     </xg>
+     <xg>
+       <x>дыр овны</x>
+       <xt xml:lang="rus">долго жить</xt>
+     </xg>
+     <xg>
+       <x>дыр шогавны</x>
+       <xt xml:lang="rus">долго болеть</xt>
+     </xg>
+     <xg>
+       <x>дыр</x>
+       <xt xml:lang="rus">я? долго ли?</xt>
+     </xg>
+     <xg>
+       <x>дыр ни</x>
+       <xt xml:lang="rus">уже долго</xt>
+     </xg>
+     <xg>
+       <x>вель дыр</x>
+       <xt xml:lang="rus">довольно долго.</xt>
+     </xg>
+     <xg>
+       <x>кулан дыр</x>
+       <xt xml:lang="rus">смертный час</xt>
+     </xg>
+     <xg>
+       <x>челядь дыр</x>
+       <xt xml:lang="rus">детство, пора детства, детские годы</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дырся-дыр</l>
+     <stg>
+       <st Contlex="ADV_">дырся-дыр</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">очень долго</t>
+     </tg>
+     <xg>
+       <x>дырся-дыр видзчисим</x>
+       <xt xml:lang="rus">автобуссӧ мы очень долго ждали автобус</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">дыша</l>
+     <stg>
+       <st Contlex="ADV_">дыша</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">лениво</t>
+     </tg>
+     <xg>
+       <x>дыша овны</x>
+       <xt xml:lang="rus">лениться</xt>
+     </xg>
+     <xg>
+       <x>дыша уджавны</x>
+       <xt xml:lang="rus">работать лениво</xt>
+     </xg>
+     <xg>
+       <x>дыша уджалісь</x>
+       <xt xml:lang="rus">лентяй</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
+   <lg>
      <l pos="Adv">дюж</l>
      <stg>
        <st>дюж</st>
@@ -612,7 +2338,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">дӧсповна</l>
      <stg>
@@ -635,39 +2361,75 @@
    <lg>
      <l pos="Adv">етша</l>
      <stg>
-       <st>етша</st>
+       <st Contlex="ADV_">етша</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">этша</t>
        <t pos="Adv">неуна</t>
      </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">мало, немного, недостаточно</t>
+     </tg>
+     <xg>
+       <x>деньгаыс етша</x>
+       <xt xml:lang="rus">денег мало</xt>
+     </xg>
+     <xg>
+       <x>сія етша баитӧ, унажык керӧ</x>
+       <xt xml:lang="rus">он мало говорит, больше делает</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">2. мало-</t>
+     </tg>
+     <xg>
+       <x>етша тӧдісь</x>
+       <xt xml:lang="rus">малосведущий</xt>
+     </xg>
+     <xg>
+       <x>етша вира</x>
+       <xt xml:lang="rus">малокровный</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">етшаись</l>
+     <stg>
+       <st Contlex="ADV_">етшаись</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">редко</t>
+     </tg>
+     <xg>
+       <x>сія етшаись миянӧ пыравліс</x>
+       <xt xml:lang="rus">он редко к нам заходил</xt>
+     </xg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Adv">жага</l>
      <stg>
-       <st>жага</st>
+       <st Contlex="ADV_">жага</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">надзӧн</t>
        <t pos="Adv">ньӧжмыда</t>
      </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">медленно</t>
+     </tg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">жагвыв</l>
      <stg>
@@ -689,7 +2451,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">жагӧн</l>
      <stg>
@@ -710,7 +2472,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">жагӧника</l>
      <stg>
@@ -729,6 +2491,49 @@
    </mg>
 </e>
 <e>
+   <lg>
+     <l pos="Adv">жара</l>
+     <stg>
+       <st Contlex="ADV_">жара</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">с жаром, жарко</t>
+     </tg>
+     <xg>
+       <x>горыс жара лонтісьӧ</x>
+       <xt xml:lang="rus">жарко топится печь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">жарӧн</l>
+     <stg>
+       <st Contlex="ADV_">жарӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">жарко</t>
+     </tg>
+     <xg>
+       <x>жарӧн лонтісьӧ гор</x>
+       <xt xml:lang="rus">жарко топится печь</xt>
+     </xg>
+   </mg>
+   <mg><range>перен.</range>
+     <tg xml:lang="rus">
+       <t pos="Adv">с жаром, страстно</t>
+     </tg>
+     <xg>
+       <x>уджавны жарӧн</x>
+       <xt xml:lang="rus">работать с жаром (с огоньком)</xt>
+     </xg>
+   </mg>
+</e>
+<e order="1">
    <lg>
      <l pos="Adv">жыв</l>
      <stg>
@@ -755,14 +2560,10 @@
    <lg>
      <l pos="Adv">жын</l>
      <stg>
-       <st>жын</st>
+       <st Contlex="ADV_">жын</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">ёна</t>
        <t pos="Adv">крепыда</t>
@@ -771,20 +2572,2228 @@
        <x>жын овны</x>
        <xt>крепыда овны</xt>
      </xg>
+     <tg xml:lang="rus">
+       <t pos="Adv">прочно, крепко</t>
+     </tg>
+     <xg>
+       <x>жын игнавны</x>
+       <xt xml:lang="rus">накрепко закрыть</xt>
+     </xg>
+     <xg>
+       <x>жын кӧртавны</x>
+       <xt xml:lang="rus">крепко связать</xt>
+     </xg>
+     <xg>
+       <x>жын овны</x>
+       <xt xml:lang="rus">хорошо зажить</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">забедно</l>
+     <stg>
+       <st Contlex="ADV_">забедно</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">обидно, досадно</t>
+     </tg>
+     <xg>
+       <x>сылӧ забедно лоіс</x>
+       <xt xml:lang="rus">ему стало обидно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">заваднем</l>
+     <stg>
+       <st Contlex="ADV_">заваднем</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">заодно</t>
+     </tg>
+     <xg>
+       <x>заваднем пырав сойыт ордӧ</x>
+       <xt xml:lang="rus">заодно зайди к своей сестре</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">збоя</l>
+     <stg>
+       <st Contlex="ADV_">збоя</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">бойко</t>
+     </tg>
+     <xg>
+       <x>сія висьтасис ӧддьӧн збоя</x>
+       <xt xml:lang="rus">он рассказывал очень бойко</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="Adv">званнё</l>
+     <stg>
+       <st Contlex="ADV_">званнё</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">совсем, совершенно</t>
+     </tg>
+     <xg>
+       <x>сылӧн званнё абу пизьыс</x>
+       <xt xml:lang="rus">у него совсем нет муки</xt>
+     </xg>
+     <xg>
+       <x>сія уроксӧ званнё оз тӧд</x>
+       <xt xml:lang="rus">он совершенно не знает урока</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">зорӧн, зорӧна</l>
+     <stg>
+       <st Contlex="ADV_">зорӧн, зорӧна</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">зорко</t>
+     </tg>
+     <xg>
+       <x>зорӧн, зорӧна видзӧтны</x>
+       <xt xml:lang="rus">зорко смотреть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">зэв</l>
+     <stg>
+       <st Contlex="ADV_">зэв</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>очень</t>
+     </tg>
+     <xg>
+       <x>зэв басӧк</x>
+       <xt xml:lang="rus">очень красивый</xt>
+     </xg>
+     <xg>
+       <x>зэв дыр</x>
+       <xt xml:lang="rus">очень долго</xt>
+     </xg>
+     <xg>
+       <x>зэв уна</x>
+       <xt xml:lang="rus">очень много</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">крепко</t>
+     </tg>
+     <xg>
+       <x>зэв кӧртавны</x>
+       <xt xml:lang="rus">крепко связать</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">близко</t>
+     </tg>
+     <xg>
+       <x>зэв сибӧтчыны</x>
+       <xt xml:lang="rus">близко подойти</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">зэлыта</l>
+     <stg>
+       <st Contlex="ADV_">зэлыта</st>
+       <st Contlex="ADV_" geo="иньв.">зэыта, зэвыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">туго</t>
+     </tg>
+     <xg>
+       <x>зэлыта кӧртавны</x>
+       <xt xml:lang="rus">туго завязать</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">круто</t>
+     </tg>
+     <xg>
+       <x>зэлыта видзны</x>
+       <xt xml:lang="rus">держать в строгости</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">зэркыта</l>
+     <stg>
+       <st Contlex="ADV_">зэркыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">тряско</t>
+     </tg>
+     <xg>
+       <x>зэркыта гӧнитны</x>
+       <xt xml:lang="rus">тряско рысить</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">инӧ</l>
+     <stg>
+       <st Contlex="ADV_">инӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>тогда, в таком случае</t>
+     </tg>
+     <xg>
+       <x>ась инӧ локтӧ гортӧ</x>
+       <xt xml:lang="rus">в таком случае пусть идёт домой</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">значит, следовательно</t>
+     </tg>
+     <xg>
+       <x>гортат инӧ вовлін?</x>
+       <xt xml:lang="rus">значит, дома побывал?</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>оказывается, ведь</t>
+     </tg>
+     <xg>
+       <x>вон инӧ кыдз!</x>
+       <xt xml:lang="rus">вот ведь как!</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">истӧя</l>
+     <stg>
+       <st Contlex="ADV_">истӧя</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv"><range>прост.</range> быстро, ловко, бойко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">казявтӧг</l>
+     <stg>
+       <st Contlex="ADV_">казявтӧг</st>
+       <st Contlex="ADV_" geo="сев.">казялтӧг</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">незаметно</t>
+     </tg>
+     <xg>
+       <x>казявтӧг локтіс ар</x>
+       <xt xml:lang="rus">незаметно пришла осень</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">неожиданно</t>
+     </tg>
+     <xg>
+       <x>эта шогмис казявтӧг</x>
+       <xt xml:lang="rus">это случилось неожиданно</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">нечаянно; случайно</t>
+     </tg>
+     <xg>
+       <x>ме казявтӧг уси</x>
+       <xt xml:lang="rus">я нечаянно упал</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">казялӧмӧн</l>
+     <stg>
+       <st Contlex="ADV_">казялӧмӧн</st>
+       <st Contlex="ADV_" geo="иньв.">казявӧмӧн, казяӧмӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">заметно</t>
+     </tg>
+     <xg>
+       <x>казялӧмӧн джендамӧ лун</x>
+       <xt xml:lang="rus">заметно убывает день</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">капли</l>
+     <stg>
+       <st Contlex="ADV_">капли</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>капля, капли (лекарство)</t>
+     </tg>
+     <xg>
+       <x>валерьяновӧй каплиэз</x>
+       <xt xml:lang="rus">валерьяновые капли</xt>
+     </xg>
+     <xg>
+       <x>каплиэз кашельсянь</x>
+       <xt xml:lang="rus">капли от кашля</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">2. с <i>отриц.</i> совсем, совершенно</t>
+     </tg>
+     <xg>
+       <x>капли абу няньыс</x>
+       <xt xml:lang="rus">хлеба нет совсем</xt>
+     </xg>
+     <xg>
+       <x>ваыс капли абу</x>
+       <xt xml:lang="rus">воды нет ни капли</xt>
+     </xg>
+     <xg>
+       <x>сія капли оз уджав</x>
+       <xt xml:lang="rus">он совсем не работает</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кивыв</l>
+     <stg>
+       <st Contlex="ADV_">кивыв</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">сподручно, с руки, удобно</t>
+     </tg>
+     <xg>
+       <x>меным таладорсянь босьтны не кивыв</x>
+       <xt xml:lang="rus">мне с этой стороны брать не с руки.</xt>
+     </xg>
+     <xg>
+       <x>кинлӧ эта кивыв?</x>
+       <xt xml:lang="rus">кому это нужно?, кому это на руку?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кодь</l>
+     <stg>
+       <st Contlex="ADV_">кодь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">как; точно</t>
+     </tg>
+     <xg>
+       <x>из кодь сьӧкыт</x>
+       <xt xml:lang="rus">тяжёлый как камень</xt>
+     </xg>
+     <xg>
+       <x>бритва кодь лэчыт</x>
+       <xt xml:lang="rus">острый точно бритва</xt>
+     </xg>
+     <xg>
+       <x>ма кодь чӧскыт</x>
+       <xt xml:lang="rus">сладкий как мёд</xt>
+     </xg>
+     <xg>
+       <x>лым кодь чочком</x>
+       <xt xml:lang="rus">белый как снег</xt>
+     </xg>
+     <xg>
+       <x>руч кодь лукав</x>
+       <xt xml:lang="rus">хитрый как лиса</xt>
+     </xg>
+     <xg>
+       <x>пистик кодь морток</x>
+       <xt xml:lang="rus">мужичок с ноготок (<range>букв.</range> с полевой хвощ)</xt>
+     </xg>
+     <xg>
+       <x>смоль кодь сьӧд</x>
+       <xt xml:lang="rus">чёрный как смоль</xt>
+     </xg>
+     <xg>
+       <x>зоныс айыс кодь жӧ рам</x>
+       <xt xml:lang="rus">сын такой же добрый, как отец</xt>
+     </xg>
+     <xg>
+       <x>сія ме кодь жӧ</x>
+       <xt xml:lang="rus">он такой же, как я.</xt>
+     </xg>
+     <xg>
+       <x>сія деньгасӧ эз кодь кӧсйы</x>
+       <xt xml:lang="rus">он обещал деньги, но нетвёрдо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кокнита</l>
+     <stg>
+       <st Contlex="ADV_">кокнита</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv"><i>в разн. знач.</i> легко</t>
+     </tg>
+     <xg>
+       <x>сія лыддьӧтӧ кокнита</x>
+       <xt xml:lang="rus">он читает легко (быстро)</xt>
+     </xg>
+     <xg>
+       <x>сылӧ быдӧс шедӧ кокнита</x>
+       <xt xml:lang="rus">ему всё достаётся легко</xt>
+     </xg>
+     <xg>
+       <x>кокнита пасьтасьны</x>
+       <xt xml:lang="rus">легко одеться</xt>
+     </xg>
+     <xg>
+       <x>кокнита лолавны</x>
+       <xt xml:lang="rus">легко дышать</xt>
+     </xg>
+     <xg>
+       <x>кокнита лолыштны</x>
+       <xt xml:lang="rus">облегчённо вздохнуть</xt>
+     </xg>
+     <xg>
+       <x>кокнита веритны</x>
+       <xt xml:lang="rus">легко поверить</xt>
+     </xg>
+     <xg>
+       <x>сылӧ уджыс сетсьӧ кокнита</x>
+       <xt xml:lang="rus">работа ему даётся легко</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">2. <i>в знач. послелога</i> весом с...</t>
+     </tg>
+     <xg>
+       <x>мый кокнита лоас сумкаыс?</x>
+       <xt xml:lang="rus">сколько потянет сумка?</xt>
+     </xg>
+     <xg>
+       <x>пух кокнита</x>
+       <xt xml:lang="rus">как пушинка (<range>букв.</range> весом с пушинку)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">конечтӧг</l>
+     <stg>
+       <st Contlex="ADV_">конечтӧг</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">без конца, бесконечно</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кор</l>
+     <stg>
+       <st Contlex="ADV_">кор</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>сев.</geo>
+     <tg xml:lang="rus">
+       <t> когда</t>
+     </tg>
+     <xg>
+       <x>кор ті локтіт гортаныт?</x>
+       <xt xml:lang="rus">когда вы вернулись домой?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кості</l>
+     <stg>
+       <st Contlex="ADV_">кості</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">раньше времени, преждевременно</t>
+     </tg>
+     <xg>
+       <x>кості шогмыны</x>
+       <xt xml:lang="rus">родиться раньше срока</xt>
+     </xg>
+     <xg>
+       <x>кості чеччыны</x>
+       <xt xml:lang="rus">встать раньше [положенного] времени</xt>
+     </xg>
+     <xg>
+       <x>кості саймӧтны</x>
+       <xt xml:lang="rus">разбудить раньше [положенного] времени; не дать выспаться <i>кому-л</i>.</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">крепыта</l>
+     <stg>
+       <st Contlex="ADV_">крепыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">крепко, прочно</t>
+     </tg>
+     <xg>
+       <x>крепыта видзсьыны</x>
+       <xt xml:lang="rus">крепко держаться</xt>
+     </xg>
+     <xg>
+       <x>крепыта керны</x>
+       <xt xml:lang="rus">сделать прочно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кресь</l>
+     <stg>
+       <st Contlex="ADV_">кресь</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">внезапно, неожиданно</t>
+     </tg>
+     <xg>
+       <x>пантасьны кресь</x>
+       <xt xml:lang="rus">неожиданно встретиться</xt>
+     </xg>
+     <xg>
+       <x>локны кресь</x>
+       <xt xml:lang="rus">внезапно прибыть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">крута</l>
+     <stg>
+       <st Contlex="ADV_">крута</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">круто, резко</t>
+     </tg>
+     <xg>
+       <x>крута бергӧтчыны</x>
+       <xt xml:lang="rus">круто повернуться</xt>
+     </xg>
+     <xg>
+       <x>крута сувтӧтны вӧв</x>
+       <xt xml:lang="rus">круто остановить лошадь</xt>
+     </xg>
+     <xg>
+       <x>зэр чулаліс сідз жӧ крута, кыдз и пондӧтчис</x>
+       <xt xml:lang="rus">дождь кончился так же внезапно (неожиданно), как и начался</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">круто, сурово</t>
+     </tg>
+     <xg>
+       <x>крута баитны</x>
+       <xt xml:lang="rus">разговаривать сурово</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кужӧмӧн</l>
+     <stg>
+       <st Contlex="ADV_">кужӧмӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">умело, искусно</t>
+     </tg>
+     <xg>
+       <x>сіякужӧмӧн асьсӧ видзӧ</x>
+       <xt xml:lang="rus">он умеет держать себя</xt>
+     </xg>
+     <xg>
+       <x>кужӧмӧн овны</x>
+       <xt xml:lang="rus">уметь жить</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom1" pos="Adv">кузя</l>
+     <stg>
+       <st Contlex="ADV_">кузя</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">длинно</t>
+     </tg>
+     <xg>
+       <x>кузя шагнялӧмӧн мунны</x>
+       <xt xml:lang="rus">идти крупным шагом</xt>
+     </xg>
+     <xg>
+       <x>кузя тшӧтшкӧртны юрси</x>
+       <xt xml:lang="rus">длинно остричь волосы</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">долго; продолжительно</t>
+     </tg>
+     <xg>
+       <x>кузя висьтасьны</x>
+       <xt xml:lang="rus">долго (растянуто) рассказывать</xt>
+     </xg>
+     <xg>
+       <x>кузя тутӧстны</x>
+       <xt xml:lang="rus">протяжно (продолжительно) гудеть.</xt>
+     </xg>
+     <xg>
+       <x>киэз видзны кузя</x>
+       <xt xml:lang="rus">дать волю рукам, драться</xt>
+       <xt xml:lang="rus">воровать</xt>
+     </xg>
+     <xg>
+       <x>кузя видзны кыв</x>
+       <xt xml:lang="rus">иметь длинный язык, болтать, сплетничать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кушим-кашим</l>
+     <stg>
+       <st Contlex="ADV_">кушим-кашим</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">втихомолку, втихую, незаметно</t>
+     </tg>
+     <xg>
+       <x>кушим-кашим лӧсьӧтчыны туйӧ</x>
+       <xt xml:lang="rus">незаметно (втихомолку) собраться в путь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кушӧдз</l>
+     <stg>
+       <st Contlex="ADV_">кушӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>1) догола</t>
+     </tg>
+     <xg>
+       <x>кушӧдз чӧвтны</x>
+       <xt xml:lang="rus">догола раздеть</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">наголо</t>
+     </tg>
+     <xg>
+       <x>кушӧдз шырны юр</x>
+       <xt xml:lang="rus">наголо остричь волосы</xt>
+     </xg>
+   </mg>
+   <mg><range>перен.</range>
+     <tg xml:lang="rus">
+       <t>дочиста, полностью, дотла.</t>
+     </tg>
+     <xg>
+       <x>кушӧдз керны</x>
+       <xt xml:lang="rus">а) опустошить <i>что-либо</i> б) обокрасть <i>кого-либо</i></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кыбыша</l>
+     <stg>
+       <st Contlex="ADV_">кыбыша</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>Рог.</geo>
+     <tg xml:lang="rus">
+       <t pos="Adv">неровно, негладко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="Adv">кыдз</l>
+     <stg>
+       <st Contlex="ADV_">кыдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>1) как, каким образом</t>
+     </tg>
+     <xg>
+       <x>кыдз ни олат?</x>
+       <xt xml:lang="rus">как живёте?</xt>
+     </xg>
+     <xg>
+       <x>кыдз это тікерит?</x>
+       <xt xml:lang="rus">каким образом вы это сделали?</xt>
+     </xg>
+     <xg>
+       <x>кыдз тіянӧс шуӧны?</x>
+       <xt xml:lang="rus">как вас зовут?</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">как, словно, точно</t>
+     </tg>
+     <xg>
+       <x>кыдз мыр сулалӧ</x>
+       <xt xml:lang="rus">стоит как пень</xt>
+     </xg>
+     <xg>
+       <x>кыдз местаас дорӧм</x>
+       <xt xml:lang="rus">сидит неподвижно, точно к месту прикован</xt>
+     </xg>
+     <xg>
+       <x>кыдзӧмас ва босьтӧм</x>
+       <xt xml:lang="rus">словно в рот воды набрал.</xt>
+     </xg>
+     <xg>
+       <x>кыдзбытьтӧ</x>
+       <xt xml:lang="rus">как будто</xt>
+     </xg>
+     <xg>
+       <x>а кыдз инӧ!</x>
+       <xt xml:lang="rus">да, да, конечно! (согласие)</xt>
+     </xg>
+     <xg>
+       <x>кыдз не кыдз</x>
+       <xt xml:lang="rus">как-никак</xt>
+     </xg>
+     <xg>
+       <x>кыдз сідз</x>
+       <xt xml:lang="rus">? как так?</xt>
+     </xg>
+     <xg>
+       <x>кыдз шедас пуктыны</x>
+       <xt xml:lang="rus">как попало класть</xt>
+     </xg>
+     <xg>
+       <x>вот кыдз!</x>
+       <xt xml:lang="rus">вот как!</xt>
+     </xg>
+     <xg>
+       <x>сія кыдз кин и эм</x>
+       <xt xml:lang="rus">он ни то ни сё (<range>букв.</range> он как кто и есть)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кыдзкӧ</l>
+     <stg>
+       <st Contlex="ADV_">кыдзкӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>1) как-нибудь</t>
+     </tg>
+     <xg>
+       <x>кыдзкӧ ештӧтчам</x>
+       <xt xml:lang="rus">как-нибудь справимся (доделаем)</xt>
+     </xg>
+     <xg>
+       <x>кыдзкӧ олам</x>
+       <xt xml:lang="rus">как-нибудь проживём</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">как-то, однажды, когда-то</t>
+     </tg>
+     <xg>
+       <x>кыдзкӧӧтпырись</x>
+       <xt xml:lang="rus">как-то раз, однажды</xt>
+     </xg>
+     <xg>
+       <x>кыдзкӧ тай вовліс жӧ</x>
+       <xt xml:lang="rus">однажды приходил же</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кыза</l>
+     <stg>
+       <st Contlex="ADV_">кыза</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>толсто, толстым слоем</t>
+     </tg>
+     <xg>
+       <x>кыза вундавны</x>
+       <xt xml:lang="rus">нарезать толсто</xt>
+     </xg>
+   </mg>
+   <mg><range>перен.</range>
+     <tg xml:lang="rus">
+       <t pos="Adv">богато</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>толщиной с</t>
+     </tg>
+     <xg>
+       <x>чунь кыза</x>
+       <xt xml:lang="rus">[толщиной] с палец</xt>
+     </xg>
+     <xg>
+       <x>кер кыза</x>
+       <xt xml:lang="rus">[толщиной] с бревно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кыным</l>
+     <stg>
+       <st Contlex="ADV_">кыным</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">сколько</t>
+     </tg>
+     <xg>
+       <x>кыным метра тіянлӧ колӧ?</x>
+       <xt xml:lang="rus">сколько метров вам нужно?</xt>
+     </xg>
+     <xg>
+       <x>кыным морт тіянсемьяын?</x>
+       <xt xml:lang="rus">сколько человек в вашей семье?</xt>
+     </xg>
+     <xg>
+       <x>колӧ тӧдны, кыным мӧс тіян фермаын</x>
+       <xt xml:lang="rus">нужно знать, сколько коров на вашей ферме</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">2. чем</t>
+     </tg>
+     <xg>
+       <x>кыным томжык, сыным вынажык</x>
+       <xt xml:lang="rus">чем моложе, тем сильнее 3.<pos>послелог</pos> около, приблизительно</xt>
+     </xg>
+     <xg>
+       <x>сія год кыным ни уджалӧ</x>
+       <xt xml:lang="rus">он уже около года работает</xt>
+     </xg>
+     <xg>
+       <x>час кыным пукалімгортын</x>
+       <xt xml:lang="rus">около часа сидели дома</xt>
+     </xg>
+     <xg>
+       <x>дас кыным кольть куйлісӧпозын</x>
+       <xt xml:lang="rus">приблизительно десять яиц было в гнезде</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кынымкӧ</l>
+     <stg>
+       <st Contlex="ADV_">кынымкӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">несколько</t>
+     </tg>
+     <xg>
+       <x>кынымкӧ лун ни чулаліс сэксянь, кыдз</x>
+       <xt xml:lang="rus">... уже прошло несколько дней с тех пор, как...</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кысянькӧ</l>
+     <stg>
+       <st Contlex="ADV_">кысянькӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">откуда-то</t>
+     </tg>
+     <xg>
+       <x>кысянькӧ пӧльтӧ тӧв</x>
+       <xt xml:lang="rus">откуда-то дует ветер</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кытікӧ</l>
+     <stg>
+       <st Contlex="ADV_">кытікӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">где-то</t>
+     </tg>
+     <xg>
+       <x>кытікӧ зэрӧ</x>
+       <xt xml:lang="rus">где-то [там] идёт дождь</xt>
+     </xg>
+     <xg>
+       <x>кытікӧ сунисыс орис</x>
+       <xt xml:lang="rus">где-то нить порвалась</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кытіськӧ</l>
+     <stg>
+       <st Contlex="ADV_">кытіськӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">откуда-то</t>
+     </tg>
+     <xg>
+       <x>сія кытіськӧ локтӧм</x>
+       <xt xml:lang="rus">он откуда-то приехал (пришёл)</xt>
+     </xg>
+     <xg>
+       <x>зонка кытіськӧ адззӧм кӧшелёк</x>
+       <xt xml:lang="rus">мальчик где-то нашёл кошелёк</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кытӧн-либо</l>
+     <stg>
+       <st Contlex="ADV_">кытӧн-либо</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">где-либо</t>
+     </tg>
+     <xg>
+       <x>челядёкыс кытӧн-либо ӧтӧрас котрасьӧны</x>
+       <xt xml:lang="rus">детишки где-то на улице бегают</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кытӧнкӧ</l>
+     <stg>
+       <st Contlex="ADV_">кытӧнкӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">где-то</t>
+     </tg>
+     <xg>
+       <x>кытӧнкӧ татӧн важын олӧмась вогуллэз</x>
+       <xt xml:lang="rus">где-то здесь давным-давно жили манси (вогулы)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кӧдзыта</l>
+     <stg>
+       <st Contlex="ADV_">кӧдзыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">холодно</t>
+     </tg>
+     <xg>
+       <x>кӧдзыта лонтны гор</x>
+       <xt xml:lang="rus">плохо истопить печь</xt>
+     </xg>
+     <xg>
+       <x>кӧдзыта баитны</x>
+       <xt xml:lang="rus"><range>перен.</range> холодно разговаривать <i>с кем-либо</i></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кӧдпора, кӧдпору</l>
+     <stg>
+       <st Contlex="ADV_">кӧдпора, кӧдпору</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>когда</t>
+     </tg>
+     <xg>
+       <x>кӧдпора, кӧдпору ештісӧ ветлыны магазинас?</x>
+       <xt xml:lang="rus">когда они успели сходить в магазин?</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">очень быстро</t>
+     </tg>
+     <xg>
+       <x>кӧдпора, кӧдпору и котрасис правленнёас</x>
+       <xt xml:lang="rus">он мигом сбегал в правление</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кӧр</l>
+     <stg>
+       <st Contlex="ADV_">кӧр</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>1) когда</t>
+     </tg>
+     <xg>
+       <x>кӧр инӧ сія локтас?</x>
+       <xt xml:lang="rus">когда же он приедет?</xt>
+     </xg>
+     <xg>
+       <x>видзчись, кӧр не кӧр локтас</x>
+       <xt xml:lang="rus">жди, когда он приедет</xt>
+     </xg>
+     <xg>
+       <x>видзчись, кӧр туриыс гӧрӧвтас</x>
+       <xt xml:lang="rus">жди, когда рак на горе свистнет (<range>букв.</range> когда журавль заржёт)</xt>
+     </xg>
+     <xg>
+       <x>кӧр кӧрыс котӧртас</x>
+       <xt xml:lang="rus">когда олень пробежит; <i>соотв.</i> после дождика в четверг</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>давно</t>
+     </tg>
+     <xg>
+       <x>кӧр ни муніс, да сё абу</x>
+       <xt xml:lang="rus">он давно уже ушёл, и до сих пор его нет</xt>
+     </xg>
+     <xg>
+       <x>коть кӧр</x>
+       <xt xml:lang="rus">в любое время</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кӧса</l>
+     <stg>
+       <st Contlex="ADV_">кӧса</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">сухо</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>насухо</t>
+     </tg>
+     <xg>
+       <x>кӧса чышкыны джодж</x>
+       <xt xml:lang="rus">вытереть пол насухо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">кӧсӧдз</l>
+     <stg>
+       <st Contlex="ADV_">кӧсӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">досуха, насухо</t>
+     </tg>
+     <xg>
+       <x>кӧсӧдз чышкыны</x>
+       <xt xml:lang="rus">досуха вытереть</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>целиком, полностью, дочиста</t>
+     </tg>
+     <xg>
+       <x>кӧсӧдз сёйны тарелкаись</x>
+       <xt xml:lang="rus">съесть всё, что было на тарелке</xt>
+     </xg>
+     <xg>
+       <x>табак кӧсӧдз бырис</x>
+       <xt xml:lang="rus">табак весь кончился</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ладно</l>
+     <stg>
+       <st Contlex="ADV_">ладно</st>
+       <st Contlex="ADV_" geo="иньв.">вадно</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>хорошо, в порядке</t>
+     </tg>
+     <xg>
+       <x>ладно я сыкӧт?</x>
+       <xt xml:lang="rus">всё ли хорошо у него?</xt>
+     </xg>
+     <xg>
+       <x>мыйкӧ сыкӧт не ладно шогмӧ</x>
+       <xt xml:lang="rus">с ним что-то неладное творится</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">2. ладно, хорошо</t>
+     </tg>
+     <xg>
+       <x>ладно, ась лоӧсідз</x>
+       <xt xml:lang="rus">ладно, пусть будет так</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ладтӧг</l>
+     <stg>
+       <st Contlex="ADV_">ладтӧг</st>
+       <st Contlex="ADV_" geo="иньв.">вадтӧг</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">бестолково, беспорядочно</t>
+     </tg>
+     <xg>
+       <x>ладтӧг тэчны бумага листтэз</x>
+       <xt xml:lang="rus">беспорядочно разложить листы бумаги</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">лажмыта</l>
+     <stg>
+       <st Contlex="ADV_">лажмыта</st>
+       <st Contlex="ADV_" geo="иньв.">важмыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">низко</t>
+     </tg>
+     <xg>
+       <x>лажмыта лэбавны</x>
+       <xt xml:lang="rus">низко летать</xt>
+     </xg>
+     <xg>
+       <x>лажмыта чеччавны</x>
+       <xt xml:lang="rus">невысоко прыгать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">лайкыта</l>
+     <stg>
+       <st Contlex="ADV_">лайкыта</st>
+       <st Contlex="ADV_" geo="иньв.">вайкыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">плавно</t>
+     </tg>
+     <xg>
+       <x>вӧв муніс лайкыта</x>
+       <xt xml:lang="rus">лошадь шла ровно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">лапыта</l>
+     <stg>
+       <st Contlex="ADV_">лапыта</st>
+       <st Contlex="ADV_" geo="иньв.">вапыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">развесисто</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>низко, невысоко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">личыта</l>
+     <stg>
+       <st Contlex="ADV_">личыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">слабо</t>
+     </tg>
+     <xg>
+       <x>личыта кӧртавны</x>
+       <xt xml:lang="rus">завязать слабо</xt>
+     </xg>
+     <xg>
+       <x>личыта кыйны чикись</x>
+       <xt xml:lang="rus">заплести косу слабо</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">свободно</t>
+     </tg>
+     <xg>
+       <x>платьеыс ме вылын личытаӧв</x>
+       <xt xml:lang="rus">платье мне свободно</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>щедро, не скупясь</t>
+     </tg>
+     <xg>
+       <x>овны личыта</x>
+       <xt xml:lang="rus">жить широко</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">лышкыта</l>
+     <stg>
+       <st Contlex="ADV_">лышкыта</st>
+       <st Contlex="ADV_" geo="иньв.">вышкыта</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>сев.</geo>
+     <tg xml:lang="rus">
+       <t pos="Adv"> неплотно</t>
+     </tg>
+     <xg>
+       <x>зородыс тэчӧм лышкыта</x>
+       <xt xml:lang="rus">стог сена сложен неплотно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">лӧвйӧн</l>
+     <stg>
+       <st Contlex="ADV_">лӧвйӧн</st>
+       <st Contlex="ADV_" geo="сев.">лӧлйӧн</st>
+       <st Contlex="ADV_" geo="иньв.">вовйӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">живым, живьём; заживо</t>
+     </tg>
+     <xg>
+       <x>кутны лӧвйӧн</x>
+       <xt xml:lang="rus">поймать живьём</xt>
+     </xg>
+     <xg>
+       <x>сёйны лӧвйӧн</x>
+       <xt xml:lang="rus">съесть живьём (живым)</xt>
+     </xg>
+     <xg>
+       <x>лэдзны лӧвйӧн</x>
+       <xt xml:lang="rus">отпустить живым</xt>
+     </xg>
+     <xg>
+       <x>бертны лӧвйӧн</x>
+       <xt xml:lang="rus">вернуться живым</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">лӧга</l>
+     <stg>
+       <st Contlex="ADV_">лӧга</st>
+       <st Contlex="ADV_" geo="иньв.">вӧга</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">зло, злобно, гневно</t>
+     </tg>
+     <xg>
+       <x>лӧга видзӧтны</x>
+       <xt xml:lang="rus">зло посмотреть</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">лӧгӧн</l>
+     <stg>
+       <st Contlex="ADV_">лӧгӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">злобно, зло, гневно, сердито</t>
+     </tg>
+     <xg>
+       <x>баитны лӧгӧн</x>
+       <xt xml:lang="rus">разговаривать злобно</xt>
+     </xg>
+     <xg>
+       <x>лӧгӧн видзӧтлыны</x>
+       <xt xml:lang="rus">сердито посматривать <i>на кого-что-либо</i></xt>
+     </xg>
+     <xg>
+       <x>лӧгӧн вештісьны</x>
+       <xt xml:lang="rus">отплатить злом, отомстить <i>кому-либо</i> □ <geo>иньв.</geo></xt>
+     </xg>
+     <xg>
+       <x>вӧгӧн</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">лӧня</l>
+     <stg>
+       <st Contlex="ADV_">лӧня</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">тихо, спокойно, безмятежно</t>
+     </tg>
+     <xg>
+       <x>пукавны лӧня</x>
+       <xt xml:lang="rus">сидеть тихо</xt>
+     </xg>
+     <xg>
+       <x>узьны лӧня</x>
+       <xt xml:lang="rus">спать безмятежно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">маликӧдз</l>
+     <stg>
+       <st Contlex="ADV_">маликӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0"><geo>сев.</geo>
+     <tg xml:lang="rus">
+       <t pos="Adv"> наголо</t>
+     </tg>
+     <xg>
+       <x>зонкаыслӧн юрыс маликӧдз шырӧм</x>
+       <xt xml:lang="rus">голова у мальчика острижена наголо</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">матӧдз</l>
+     <stg>
+       <st Contlex="ADV_">матӧдз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">близко</t>
+     </tg>
+     <xg>
+       <x>сія вӧлыс дынӧ матӧдз локтіс</x>
+       <xt xml:lang="rus">он близко подошёл к лошади</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">мыдза</l>
+     <stg>
+       <st Contlex="ADV_">мыдза</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">устало, утомлённо</t>
+     </tg>
+     <xg>
+       <x>оськавны мыдза</x>
+       <xt xml:lang="rus">шагать устало</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">мыля</l>
+     <stg>
+       <st Contlex="ADV_">мыля</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">почему, отчего</t>
+     </tg>
+     <xg>
+       <x>мыля тэ горзан?</x>
+       <xt xml:lang="rus">почему ты плачешь?</xt>
+     </xg>
+     <xg>
+       <x>перво ме эг вежӧрт, мыля сайми</x>
+       <xt xml:lang="rus">сначала я не понял, отчего проснулся</xt>
+     </xg>
+     <xg>
+       <x>сійӧн мыля</x>
+       <xt xml:lang="rus">потому что; оттого что</xt>
+     </xg>
+     <xg>
+       <x>сія оз вовлы школаӧ сійӧн, мыля шогалӧ</x>
+       <xt xml:lang="rus">он не посещает школу, потому что болеет</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">мылякӧ</l>
+     <stg>
+       <st Contlex="ADV_">мылякӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">почему-то, зачем-то, отчего-то</t>
+     </tg>
+     <xg>
+       <x>мылякӧ меным узьсьӧ и узьсьӧ</x>
+       <xt xml:lang="rus">отчего-то мне [всё] спится</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">мымда</l>
+     <stg>
+       <st Contlex="ADV_">мымда</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">сколько</t>
+     </tg>
+     <xg>
+       <x>мымда колӧ?</x>
+       <xt xml:lang="rus">сколько надо?</xt>
+     </xg>
+     <xg>
+       <x>мымда кольттесӧ босьтін?</x>
+       <xt xml:lang="rus">сколько яиц купил?</xt>
+     </xg>
+     <xg>
+       <x>ой, мымда отирыс!</x>
+       <xt xml:lang="rus">ой, сколько людей!</xt>
+     </xg>
+     <xg>
+       <x>сымда мымда</x>
+       <xt xml:lang="rus">сколько-то; какое-то количество</xt>
+     </xg>
+     <xg>
+       <x>эта мымда деньга тэнат!</x>
+       <xt xml:lang="rus">столько денег у тебя! (удивление)</xt>
+     </xg>
+   </mg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t pos="Adp">около, примерно с...</t>
+     </tg>
+     <xg>
+       <x>тонна мымда</x>
+       <xt xml:lang="rus">около тонны</xt>
+     </xg>
+     <xg>
+       <x>час мымда</x>
+       <xt xml:lang="rus">около часу</xt>
+     </xg>
+     <xg>
+       <x>ведра мымда</x>
+       <xt xml:lang="rus">с ведро</xt>
+     </xg>
+     <xg>
+       <x>сія татӧн неделя мымда ни</x>
+       <xt xml:lang="rus">он здесь уже с неделю.</xt>
+     </xg>
+     <xg>
+       <x>сёйны мымда колӧ</x>
+       <xt xml:lang="rus">поесть вдоволь</xt>
+     </xg>
+     <xg>
+       <x>сія мымда эз лэдз менӧ гортісь</x>
+       <xt xml:lang="rus">он так не хотел отпускать меня из дома</xt>
+     </xg>
+     <xg>
+       <x>мымда прок</x>
+       <xt xml:lang="rus">что есть силы</xt>
+     </xg>
+     <xg>
+       <x>мымда вын</x>
+       <xt xml:lang="rus">изо всех сил</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">мымдакӧ</l>
+     <stg>
+       <st Contlex="ADV_">мымдакӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">сколько-то</t>
+     </tg>
+     <xg>
+       <x>чулаліс мымдакӧкӧ кад</x>
+       <xt xml:lang="rus">прошло сколько-то времени</xt>
+     </xg>
+     <xg>
+       <x>сія миянлӧ мымдакӧ отсаліс</x>
+       <xt xml:lang="rus">он нам в какой-то степени помог</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">мӧдпырся</l>
+     <stg>
+       <st Contlex="ADV_">мӧдпырся</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">второй раз, вторично</t>
+     </tg>
+     <xg>
+       <x>мӧдпырся вовлыны</x>
+       <xt xml:lang="rus">прийти второй раз</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>когда-нибудь, в следующий раз</t>
+     </tg>
+     <xg>
+       <x>мӧдпырся локта тіянӧ</x>
+       <xt xml:lang="rus">в следующий раз приеду к вам</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom1" pos="Adv">на</l>
+     <stg>
+       <st Contlex="ADV_">на</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>ещё</t>
+     </tg>
+     <xg>
+       <x>сія эз на вӧв городын</x>
+       <xt xml:lang="rus">он ещё не бывал в городе</xt>
+     </xg>
+     <xg>
+       <x>эта абу на исследуйтӧм</x>
+       <xt xml:lang="rus">это ещё не исследовано</xt>
+     </xg>
+     <xg>
+       <x>сія абу на локтӧм</x>
+       <xt xml:lang="rus">он ещё не прибыл</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="Adv">на</l>
+     <stg>
+       <st Contlex="ADV_">на</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>(с заимств. числ.) [пошёл]... год</t>
+     </tg>
+     <xg>
+       <x>нылыс на двенадцатом ни</x>
+       <xt xml:lang="rus">дочери уже [пошёл] двенадцатый год</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">нагладь</l>
+     <stg>
+       <st Contlex="ADV_">нагладь</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>разг.</range>
+     <tg xml:lang="rus">
+       <t pos="Adv">намеренно, с целью, специально</t>
+     </tg>
+     <xg>
+       <x>ме этӧ вайи нагладь тэ понда</x>
+       <xt xml:lang="rus">я это принёс специально для тебя ↔<geo>иньв.</geo></xt>
+     </xg>
+     <xg>
+       <x>нагвадь</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">натужнӧя</l>
+     <stg>
+       <st Contlex="ADV_">натужнӧя</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>разг.</range>
+     <tg xml:lang="rus">
+       <t pos="Adv"> натужно; с натугой || натужный</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>сосредоточенно || сосредоточенный</t>
+     </tg>
+     <xg>
+       <x>натужнӧя думайтны</x>
+       <xt xml:lang="rus">сосредоточенно думать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">небасӧка</l>
+     <stg>
+       <st Contlex="ADV_">небасӧка</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>некрасиво</t>
+     </tg>
+     <xg>
+       <x>небасӧка гижӧм</x>
+       <xt xml:lang="rus">некрасиво написано</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="Adv">нечестно</t>
+     </tg>
+     <xg>
+       <x>небасӧка керин</x>
+       <xt xml:lang="rus">[ты] поступил нечестно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">небура</l>
+     <stg>
+       <st Contlex="ADV_">небура</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>слабо, не сильно; чуть-чуть, немного</t>
+     </tg>
+     <xg>
+       <x>горсӧ небура лонтім</x>
+       <xt xml:lang="rus">мы печку чуть-чуть протопили</xt>
+     </xg>
+     <xg>
+       <x>кокӧс небура дойді</x>
+       <xt xml:lang="rus">ногу [я] ушиб не сильно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">небыта</l>
+     <stg>
+       <st Contlex="ADV_">небыта</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>мягко</t>
+     </tg>
+     <xg>
+       <x>сія баитіс небытика</x>
+       <xt xml:lang="rus">он говорил мягко</xt>
+     </xg>
+     <xg>
+       <x src_type="погов.">небыта ольсалӧ да чорыт узьны</x>
+       <xt xml:lang="rus">мягко стелет, да жёстко спать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">неважын</l>
+     <stg>
+       <st Contlex="ADV_">неважын</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>недавно</t>
+     </tg>
+     <xg>
+       <x>эта вӧліневажын</x>
+       <xt xml:lang="rus">это было недавно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">невна</l>
+     <stg>
+       <st Contlex="ADV_">невна</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>немного, немножко; мало</t>
+     </tg>
+     <xg>
+       <x>ва невна пуксис</x>
+       <xt xml:lang="rus">вода немного убыла</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>немного, несколько</t>
+     </tg>
+     <xg>
+       <x>этӧ колӧ керны невна мӧднёж</x>
+       <xt xml:lang="rus">это надо сделать несколько иначе</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>чуть-чуть</t>
+     </tg>
+     <xg>
+       <x>эшӧ невна</x>
+       <xt xml:lang="rus">(</xt>
+     </xg>
+     <xg>
+       <x>бы</x>
+       <xt xml:lang="rus">)</xt>
+     </xg>
+     <xg>
+       <x>и ештім</x>
+       <xt xml:lang="rus">бы ещё бы чуть-чуть и успели бы</xt>
+     </xg>
+     <xg>
+       <x>сія лӧг вылас невна оз пот</x>
+       <xt xml:lang="rus">он от злости чуть не лопается</xt>
+     </xg>
+     <xg>
+       <x>сьӧлӧмӧ ӧмӧттям невна эз пет</x>
+       <xt xml:lang="rus">сердце чуть не выскочило (<range>букв.</range> чуть не вышло через рот)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">невночка</l>
+     <stg>
+       <st Contlex="ADV_">невночка</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>немножечко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">невнушка, невнушки</l>
+     <stg>
+       <st Contlex="ADV_">невнушка, невнушки</st>
+     </stg>
+   </lg>
+   <mg relId="0"><range>разг.</range>
+     <tg xml:lang="rus">
+       <t> немного, очень мало</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">негорӧн</l>
+     <stg>
+       <st Contlex="ADV_">негорӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>тихо, спокойно</t>
+     </tg>
+     <xg>
+       <x>сія баитіс негорӧн</x>
+       <xt xml:lang="rus">он говорил тихо (негромко)</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">недыр</l>
+     <stg>
+       <st Contlex="ADV_">недыр</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>недолго</t>
+     </tg>
+     <xg>
+       <x>недыр мыйись</x>
+       <xt xml:lang="rus">вскоре, спустя немного времени, через некоторое время</xt>
+     </xg>
+     <xg>
+       <x>недыр кежӧ ненадолго</x>
+       <xt xml:lang="rus"/>
+     </xg>
+     <xg>
+       <x>недыр кежӧ пыралі ёрт дынӧ</x>
+       <xt xml:lang="rus">я ненадолго заходил к другу</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">нежыника</l>
+     <stg>
+       <st Contlex="ADV_">нежыника</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>нежно</t>
+     </tg>
+     <xg>
+       <x>босьтны кага зыбкаись нежыника</x>
+       <xt xml:lang="rus">осторожно взять ребёнка из колыбели</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">некӧр</l>
+     <stg>
+       <st Contlex="ADV_">некӧр</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>никогда, ни за что</t>
+     </tg>
+     <xg>
+       <x>эта некӧр оз вунӧтсьы</x>
+       <xt xml:lang="rus">это никогда не забудется</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">нельки</l>
+     <stg>
+       <st Contlex="ADV_">нельки</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>даже</t>
+     </tg>
+     <xg>
+       <x>этӧ нельки горӧтчыны оз позь</x>
+       <xt xml:lang="rus">это даже вымолвить нельзя</xt>
+     </xg>
+     <xg>
+       <x>лӧнь, нельки поннэз оз увтӧ</x>
+       <xt xml:lang="rus">тихо, даже собаки не лают</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">немымда</l>
+     <stg>
+       <st Contlex="ADV_">немымда</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>нисколько</t>
+     </tg>
+     <xg>
+       <x>деньгаыс немымда эз коль</x>
+       <xt xml:lang="rus">денег нисколько не осталось</xt>
+     </xg>
+     <xg>
+       <x>ме немымда сійӧ ог жалейт</x>
+       <xt xml:lang="rus">я нисколько егб не жалею</xt>
+     </xg>
+     <xg>
+       <x>ме немымда ог пов</x>
+       <xt xml:lang="rus">я нисколько (совсем, ничуть) не боюсь</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">неӧткодя</l>
+     <stg>
+       <st Contlex="ADV_">неӧткодя</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>неодинаково, различно</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">неӧтпыр</l>
+     <stg>
+       <st Contlex="ADV_">неӧтпыр</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>не раз, неоднократно</t>
+     </tg>
+     <xg>
+       <x>ме эта йылісь сылӧ баитлі неӧтпыр</x>
+       <xt xml:lang="rus">я об этом говорил ему не раз</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">неӧтпырись</l>
+     <stg>
+       <st Contlex="ADV_">неӧтпырись</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus"> <t/>
+     </tg><sg><s pos="" s_type="seeAlso">неӧтпыр</s></sg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">норӧн, норӧна</l>
+     <stg>
+       <st Contlex="ADV_">норӧн, норӧна</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>жалобно, заунывно</t>
+     </tg>
+     <xg>
+       <x>норӧн, норӧна горзыны</x>
+       <xt xml:lang="rus">жалобно плакать</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ныжа</l>
+     <stg>
+       <st Contlex="ADV_">ныжа</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>тупо, не остро</t>
+     </tg>
+     <xg>
+       <x>тӧчитны ныжа</x>
+       <xt xml:lang="rus">наточить не остро</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">нёштӧма</l>
+     <stg>
+       <st Contlex="ADV_">нёштӧма</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>1) некрасиво, безобразно</t>
+     </tg>
+     <xg>
+       <x>нёштӧма гижны</x>
+       <xt xml:lang="rus">писать некрасиво</xt>
+     </xg>
+     <xg>
+       <x>нёштӧма пасьтасьны</x>
+       <xt xml:lang="rus">одеваться безвкусно</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>некрасиво, дурно; непристойно</t>
+     </tg>
+     <xg>
+       <x>сія видзӧ асьсӧ нёштӧма</x>
+       <xt xml:lang="rus">он ведёт себя непристойно</xt>
+     </xg>
+     <xg>
+       <x>баитны нёштӧма</x>
+       <xt xml:lang="rus">говорить плохо, неправильно</xt>
+       <xt xml:lang="rus">сквернословить</xt>
+     </xg>
+     <xg>
+       <x>нёштӧма шуны</x>
+       <xt xml:lang="rus">обозвать <i>кого-либо</i></xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">сэтчин</l>
+     <stg>
+       <st Contlex="ADV_">сэтчин</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>там, на том месте</t>
+     </tg>
+     <xg>
+       <x>сэтчин олӧны вӧраліссез</x>
+       <xt xml:lang="rus">там живут охотники</xt>
+     </xg>
+     <xg>
+       <x>сэтчин лесниклӧн керку</x>
+       <xt xml:lang="rus">там дом лесника</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>туда, в том направлении</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">тӧлӧн</l>
+     <stg>
+       <st Contlex="ADV_">тӧлӧн</st>
+       <st Contlex="ADV_" geo="иньв.">тӧӧн, тӧвӧн</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>зимой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">чир</l>
+     <stg>
+       <st Contlex="ADV_">чир</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>совсем, совершенно, вовсе</t>
+     </tg>
+     <xg>
+       <x>чир ӧтнам</x>
+       <xt xml:lang="rus">[я] совсем один</xt>
+     </xg>
+     <xg>
+       <x>син чир оз тыдав</x>
+       <xt xml:lang="rus">совсем ничего не видно</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">этчин</l>
+     <stg>
+       <st Contlex="ADV_">этчин</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>там, вон там</t>
+     </tg>
+     <xg>
+       <x>мый этчин керсьӧ?</x>
+       <xt xml:lang="rus">что там делается?</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">янас</l>
+     <stg>
+       <st Contlex="ADV_">янас</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>отдельно, порознь; самостоятельно</t>
+     </tg>
+     <xg>
+       <x>янас овны</x>
+       <xt xml:lang="rus">жить отдельно</xt>
+     </xg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Adv">янын</l>
      <stg>
-       <st>янын</st>
+       <st Contlex="ADV_">янын</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">торйӧн</t>
      </tg>
@@ -792,20 +4801,27 @@
        <x>янын овны</x>
        <xt/>
      </xg>
+     <tg xml:lang="rus">
+       <t>отдельно, раздельно, порознь</t>
+     </tg>
+     <xg>
+       <x>янын овны</x>
+       <xt xml:lang="rus">жить отдельно</xt>
+     </xg>
+     <xg>
+       <x>янын уджавны</x>
+       <xt xml:lang="rus">работать порознь</xt>
+     </xg>
    </mg>
 </e>
 <e>
    <lg>
      <l pos="Adv">янӧ</l>
      <stg>
-       <st>янӧ</st>
+       <st Contlex="ADV_">янӧ</st>
      </stg>
    </lg>
-     <sources>
-     </sources>
    <mg relId="0">
-     <semantics>
-     </semantics>
      <tg xml:lang="kpv">
        <t pos="Adv">торйӧн</t>
      </tg>
@@ -813,9 +4829,16 @@
        <x>янӧ пуктыны</x>
        <xt xml:lang="kpv">торйӧн пуктыны</xt>
      </xg>
+     <tg xml:lang="rus">
+       <t>отдельно; в отдельности</t>
+     </tg>
+     <xg>
+       <x>янӧ пуктыны</x>
+       <xt xml:lang="rus">положить отдельно</xt>
+     </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">ятнӧя</l>
      <stg>
@@ -837,7 +4860,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">ӧддьӧн</l>
      <stg>
@@ -859,7 +4882,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">ӧпеть</l>
      <stg>
@@ -876,7 +4899,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">ӧтдруг</l>
      <stg>
@@ -898,7 +4921,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">ӧтнёж</l>
      <stg>
@@ -920,7 +4943,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">ӧтпыр</l>
      <stg>
@@ -942,7 +4965,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="1">
    <lg>
      <l pos="Adv">ӧтпырісь</l>
      <stg>

@@ -3,7 +3,7 @@
    <lg>
      <l pos="CS">ась</l>
      <stg>
-       <st>ась</st>
+       <st Contlex="CS_">ась</st>
      </stg>
    </lg>
      <sources>
@@ -18,6 +18,123 @@
      <xg>
        <x>ась локтӧ</x>
        <xt xml:lang="kpv">мед локтӧ</xt>
+     </xg>
+   </mg>
+</e>
+<e> <lg> <l hid="Hom2" pos="CS">коли</l> <stg> <st Contlex="CS_">коли</st> </stg> </lg> <mg relId="0"> <tg xml:lang="rus"> <t>если, поскольку; коли</t> </tg> <xg> <x>коли быдӧс лоас бур, мунам тшакьявны</x> <xt xml:lang="rus">если всё будет хорошо, пойдём за грибами</xt> </xg> </mg> </e>
+<e>
+   <lg>
+     <l pos="CS">да</l>
+     <stg>
+       <st Contlex="CS_">да</st>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>потому что, так как</t>
+     </tg>
+     <xg>
+       <x>таво сюэс бурӧсь, гожумыс зэра волі да</x>
+       <xt xml:lang="rus">в этом году урожай хороший, так как летом часто перепадали дожди</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>когда</t>
+     </tg>
+     <xg>
+       <x>книгасӧ тэныт сета, лыддьӧта да</x>
+       <xt xml:lang="rus">книгу я отдам тебе, когда прочту</xt>
+     </xg>
+     <xg>
+       <x>да</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">дак</l>
+     <stg>
+       <st Contlex="CS_">дак</st>
+     </stg>
+   </lg>
+   <mg>2.
+     <tg xml:lang="rus">
+       <t><pos>союз</pos> 1) [если] так</t>
+     </tg>
+     <xg>
+       <x>деньга абу, дак колӧ одзӧстны</x>
+       <xt xml:lang="rus">[если] денег нет, так надо занять</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>так как, потому что</t>
+     </tg>
+     <xg>
+       <x>одзжык вартісӧ вартаннэзӧн, машинаэс эз вӧлӧ дак</x>
+       <xt xml:lang="rus">раньше молотили цепами, так как машин не было</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="CS">раз</l>
+     <stg>
+       <st Contlex="CS_">раз</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><i>союз и частица</i> раз, если</t>
+     </tg>
+     <xg>
+       <x>раз он тӧд, эн баит</x>
+       <xt xml:lang="rus">если не знаешь, не говори</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">что</l>
+     <stg>
+       <st Contlex="CS_">что</st>
+       <st Contlex="CS_" geo="dial">што</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><pos>союз</pos> что</t>
+     </tg>
+     <xg>
+       <x>надейтчам, что вежӧртас</x>
+       <xt xml:lang="rus">надеемся, что [он] поймёт □ диал.</xt>
+     </xg>
+     <xg>
+       <x>што</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">чтобы</l>
+     <stg>
+       <st Contlex="CS_">чтобы</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t><pos>союз</pos> чтобы</t>
+     </tg>
+     <xg>
+       <x>чтобы бура быдмис карч, колӧны зэррез</x>
+       <xt xml:lang="rus">чтобы хорошо уродились овощи, нужны дожди □ диал.</xt>
+     </xg>
+     <xg>
+       <x>штобы</x>
+       <xt xml:lang="rus"/>
      </xg>
    </mg>
 </e>
