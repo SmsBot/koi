@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
   <e>
-   <lg><l>бе-е</l>
+   <lg><l pos="Interj">бе-е</l>
      <stg>
        <st Contlex="INTERJ_">бе-е</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><i>изобр. -</i> бе-е (подражание блеянию овцы)</t>
+       <t pos="Interj" type="descr">бе-е (подражание блеянию овцы)</t>
      </tg>
    </mg>
 </e>
@@ -379,9 +379,33 @@
    </mg>
 </e>
   <e>
-   <lg><l pos="Interj">маччик, маччика, маччикана</l>
+   <lg><l pos="Interj">маччик</l>
      <stg>
-       <st Contlex="INTERJ_">маччик, маччика, маччикана</st>
+       <st Contlex="INTERJ_">маччик</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой-ой-ой (выражает удивление)</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg><l pos="Interj">маччика</l>
+     <stg>
+       <st Contlex="INTERJ_">маччика</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Interj">ой-ой-ой (выражает удивление)</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg><l pos="Interj">маччикана</l>
+     <stg>
+       <st Contlex="INTERJ_">маччикана</st>
      </stg>
    </lg>
    <mg relId="0">

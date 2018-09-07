@@ -4,7 +4,7 @@
    <lg>
      <l pos="Adv">тюк</l>
      <stg>
-       <st Contlex="N_">тюк</st>
+       <st Contlex="ADV_">тюк</st>
      </stg>
    </lg>
      <sources>
@@ -26,7 +26,7 @@
    <lg>
      <l pos="Interj">вону</l>
      <stg>
-       <st Contlex="N_">вону</st>
+       <st Contlex="INTERJ_">вону</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -23386,9 +23386,27 @@
 </e>
   <e>
    <lg>
-     <l pos="N">кӧчвир, кӧчвиртурун</l>
+     <l pos="N">кӧчвир</l>
      <stg>
-       <st Contlex="N_">кӧчвир, кӧчвиртурун</st>
+       <st Contlex="N_">кӧчвир</st>
+     </stg>
+   </lg>
+   <mg relId="0"><dom>бот.</dom>
+     <tg xml:lang="rus">
+       <t>чистотел</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t><i>коч.</i> дымянка лекарственная</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">кӧчвиртурун</l>
+     <stg>
+       <st Contlex="N_">кӧчвиртурун</st>
      </stg>
    </lg>
    <mg relId="0"><dom>бот.</dom>
@@ -29659,9 +29677,22 @@
 </e>
   <e order="2">
    <lg>
-     <l pos="N">огорейч, огородеч</l>
+     <l pos="N">огорейч</l>
      <stg>
-       <st Contlex="N_">огорейч, огородеч</st>
+       <st Contlex="N_">огорейч</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>огород</t>
+     </tg>
+   </mg>
+</e>
+  <e order="2">
+   <lg>
+     <l pos="N">огородеч</l>
+     <stg>
+       <st Contlex="N_">огородеч</st>
      </stg>
    </lg>
    <mg relId="0">
@@ -30533,9 +30564,9 @@
 </e>
   <e>
    <lg>
-     <l pos="N">оспожья, оспожьятурун</l>
+     <l pos="N">оспожья</l>
      <stg>
-       <st Contlex="N_">оспожья, оспожьятурун</st>
+       <st Contlex="N_">оспожья</st>
      </stg>
    </lg>
    <mg relId="0"><dom>бот.</dom>
@@ -30543,7 +30574,24 @@
        <t>валерьяна</t>
      </tg>
      <xg>
-       <x>оспожья, оспожьятурун вуж</x>
+       <x>оспожья вуж</x>
+       <xt xml:lang="rus">валерьяновый корень</xt>
+     </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">оспожьятурун</l>
+     <stg>
+       <st Contlex="N_">оспожьятурун</st>
+     </stg>
+   </lg>
+   <mg relId="0"><dom>бот.</dom>
+     <tg xml:lang="rus">
+       <t>валерьяна</t>
+     </tg>
+     <xg>
+       <x>оспожьятурун вуж</x>
        <xt xml:lang="rus">валерьяновый корень</xt>
      </xg>
    </mg>
@@ -43054,14 +43102,15 @@
    </mg>
 </e>
   <e order="2">
-   <lg><l pos="N">турипув, турипул</l>
+   <lg><l pos="N">турипув</l>
      <stg>
-       <st Contlex="N_">турипув, турипул</st>
+       <st Contlex="N_">турипув</st>
+       <st Contlex="N_">турипул</st>
      </stg>
    </lg>
    <mg relId="0"><geo>сев.</geo>
      <tg xml:lang="rus">
-       <t pos="N"> клюква || клюквенный</t>
+       <t pos="N">клюква || клюквенный</t>
      </tg>
      <xg>
        <x>воӧм турипув, турипул</x>
@@ -54085,6 +54134,34 @@
        <x>колас ветлыны магазинӧ</x>
        <xt xml:lang="rus">нужно будет сходить в магазин</xt>
      </xg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ошлопан</l>
+     <stg>
+       <st Contlex="N_">ошлопан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>долговязый человек</t>
+       <t pos="N">неуклюжий человек</t>
+     </tg>
+   </mg>
+</e>
+  <e>
+   <lg>
+     <l pos="N">ошлопень</l>
+     <stg>
+       <st Contlex="N_">ошлопень</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>долговязый человек</t>
+       <t pos="N">неуклюжий человек</t>
+     </tg>
    </mg>
 </e>
 </r>
