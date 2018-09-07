@@ -3,7 +3,7 @@
    <lg>
      <l pos="Det">эта</l>
      <stg>
-       <st>эта</st>
+       <st Contlex="DET_">эта</st>
      </stg>
    </lg>
      <sources>
@@ -14,9 +14,13 @@
      <tg xml:lang="kpv">
        <t pos="Det">тайӧ</t>
      </tg>
+     <tg xml:lang="rus">
+       <t>этот, эта, это</t>
+     </tg>
      <xg>
        <x>эта юын уна чери</x>
        <xt>тайӧ юын уна чери</xt>
+       <xt xml:lang="rus">в этой реке много рыбы</xt>
      </xg>
    </mg>
 </e>
@@ -24,7 +28,7 @@
    <lg>
      <l pos="Det">этна</l>
      <stg>
-       <st>этна</st>
+       <st Contlex="DET_">этна</st>
      </stg>
    </lg>
      <sources>
@@ -33,11 +37,17 @@
      <semantics>
      </semantics>
      <tg xml:lang="kpv">
-       <t pos="Det">тайӧ(яс)</t>
+       <t pos="Det">тайӧ</t>
+       <t pos="Det">тайӧяс</t>
+     </tg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>эти</t>
      </tg>
      <xg>
        <x>вот этна керкуэс</x>
        <xt>вот тайӧ керкаяс</xt>
+       <xt xml:lang="rus">вот эти дома</xt>
      </xg>
    </mg>
 </e>
