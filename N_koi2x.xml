@@ -32281,7 +32281,7 @@
      </stg>
      <compg drv="N:Suf»N" type="Der">
        <comp ord="E1" pos="N">палак</comp>
-       <comp ord="E2" pos="Suf" type="Der/Уsht"/></compg>
+       <comp ord="E2" pos="Suf" type="Der/Dim"/></compg>
    </lg>
    <mg sem_type="уменьш." relId="0">
      <tg xml:lang="rus">
@@ -48201,7 +48201,7 @@
      </stg>
      <compg drv="N:Suf»N" type="Der">
        <comp ord="E1" pos="N">чинь</comp>
-       <comp ord="E2" pos="Suf" type="Der/Уsht"/></compg>
+       <comp ord="E2" pos="Suf" type="Der/Dim"/></compg>
    </lg>
    <mg sem_type="уменьш." relId="0">
      <tg xml:lang="rus">
@@ -50240,7 +50240,7 @@
      </stg>
      <compg drv="N:Suf»N" type="Der">
        <comp ord="E1" pos="N">шор</comp>
-       <comp ord="E2" pos="Suf" type="Der/Уsht"/></compg>
+       <comp ord="E2" pos="Suf" type="Der/Dim"/></compg>
    </lg>
    <mg sem_type="уменьш." relId="0">
      <tg xml:lang="rus"> <t/>

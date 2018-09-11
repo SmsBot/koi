@@ -387,7 +387,7 @@
        <xt xml:lang="rus">он живет своим умом</xt>
      </xg>
      <xg>
-       <x>сія аслас годдэз сьӧрті пӧpисьӧв</x>
+       <x>сія аслас годдэз сьӧрті пӧрисьӧв</x>
        <xt xml:lang="rus">он выглядит старше своих лет</xt>
      </xg>
    </mg>
@@ -1530,7 +1530,7 @@
      <stg>
        <st Contlex="PRON_">ныись</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="исходн."/></compg>
    </lg>
@@ -1548,7 +1548,7 @@
      <stg>
        <st Contlex="PRON_">нылань</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="прибл."/></compg>
    </lg>
@@ -1570,7 +1570,7 @@
      <stg>
        <st Contlex="PRON_">нылісь</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="притяж."/></compg>
    </lg>
@@ -1596,7 +1596,7 @@
      <stg>
        <st Contlex="PRON_">нылӧ</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="дат."/></compg>
    </lg>
@@ -1618,7 +1618,7 @@
      <stg>
        <st Contlex="PRON_">нылӧн</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="род."/></compg>
    </lg>
@@ -1645,7 +1645,7 @@
      <stg>
        <st Contlex="PRON_">нысся</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="сравн."/></compg>
    </lg>
@@ -1659,7 +1659,7 @@
      <stg>
        <st Contlex="PRON_">нысянь</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="отдал."/></compg>
    </lg>
@@ -1678,7 +1678,7 @@
      <stg>
        <st Contlex="PRON_">нытӧг</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="лиш."/></compg>
    </lg>
@@ -1700,7 +1700,7 @@
      <stg>
        <st Contlex="PRON_">ныын</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="местн."/></compg>
    </lg>
@@ -1722,7 +1722,7 @@
      <stg>
        <st Contlex="PRON_">нійӧ</st>
      </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
+     <compg drv="Pron:Suf" type="Infl">
        <comp ord="E1" pos="Pron">нія</comp>
        <comp ord="E2" pos="Suf" type="вин."/></compg>
    </lg>
