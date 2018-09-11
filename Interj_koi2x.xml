@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
-  <e>
-   <lg><l pos="Interj">бе-е</l>
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="Interj">бе-е</l>
      <stg>
        <st Contlex="INTERJ_">бе-е</st>
      </stg>
@@ -12,7 +12,7 @@
      </tg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">а</l>
      <stg>
@@ -21,7 +21,8 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">а, а-а</t>
+       <t pos="Interj">а</t>
+       <t pos="Interj">а-а</t>
      </tg>
      <xg>
        <x>а-а, локтін ачыт!</x>
@@ -29,7 +30,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">адззан</l>
      <stg>
@@ -38,7 +39,8 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t>вишь, смотри</t>
+       <t>вишь</t>
+       <t>смотри</t>
      </tg>
      <xg>
        <x>адззан, ме кынми ни</x>
@@ -62,7 +64,7 @@
      </xg>
    </mg>
 </e>
-  <e order="2">
+<e order="2">
    <lg>
      <l pos="Interj">аньӧ</l>
      <stg>
@@ -75,7 +77,7 @@
      </tg><sg><s pos="Interj" s_type="see">аня</s></sg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">аня</l>
      <stg>
@@ -97,7 +99,7 @@
      </xg>
    </mg>
 </e>
-  <e order="2">
+<e order="2">
    <lg>
      <l pos="Interj">аня</l>
      <stg>
@@ -106,7 +108,7 @@
    </lg>
    <mg relId="0"><range>дет.</range>
      <tg xml:lang="rus">
-       <t> нельзя, не смей, не трогай</t>
+       <t>нельзя, не смей, не трогай</t>
      </tg>
      <xg>
        <x>этӧ, кага, аня!</x>
@@ -114,7 +116,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">ась</l>
      <stg>
@@ -123,7 +125,8 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t>пусть, пускай</t>
+       <t>пусть</t>
+       <t>пускай</t>
      </tg>
      <xg>
        <x>ась локтӧ</x>
@@ -135,7 +138,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">батя</l>
      <stg>
@@ -157,8 +160,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">бе</l>
+<e>
+   <lg>
+     <l pos="Interj">бе</l>
      <stg>
        <st Contlex="INTERJ_">бе</st>
      </stg>
@@ -173,7 +177,7 @@
      </xg>
    </mg>
 </e>
-  <e order="2">
+<e order="2">
    <lg>
      <l pos="Interj">беленько</l>
      <stg>
@@ -190,7 +194,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">бытшӧм асылӧн</l>
      <stg>
@@ -207,7 +211,7 @@
      </tg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">волькыт туй</l>
      <stg>
@@ -224,7 +228,7 @@
      </tg>
    </mg>
 </e>
-  <e order="2">
+<e order="2">
    <lg>
      <l hid="Hom2" pos="Interj">вон</l>
      <stg>
@@ -245,7 +249,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">вот</l>
      <stg>
@@ -286,8 +290,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">гыд-гыд</l>
+<e>
+   <lg>
+     <l pos="Interj">гыд-гыд</l>
      <stg>
        <st Contlex="INTERJ_">гыд-гыд</st>
      </stg>
@@ -298,8 +303,9 @@
      </tg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">жысь</l>
+<e>
+   <lg>
+     <l pos="Interj">жысь</l>
      <stg>
        <st Contlex="INTERJ_">жысь</st>
      </stg>
@@ -314,8 +320,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">и-ик!</l>
+<e>
+   <lg>
+     <l pos="Interj">и-ик!</l>
      <stg>
        <st Contlex="INTERJ_">и-ик!</st>
      </stg>
@@ -326,7 +333,7 @@
      </tg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">кытчӧдз быдӧс</l>
      <stg>
@@ -343,7 +350,7 @@
      </tg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">локтан здорово.</l>
      <stg>
@@ -361,7 +368,7 @@
      </tg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l hid="Hom2" pos="Interj">мак</l>
      <stg>
@@ -378,8 +385,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">маччик</l>
+<e>
+   <lg>
+     <l pos="Interj">маччик</l>
      <stg>
        <st Contlex="INTERJ_">маччик</st>
      </stg>
@@ -390,8 +398,9 @@
      </tg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">маччика</l>
+<e>
+   <lg>
+     <l pos="Interj">маччика</l>
      <stg>
        <st Contlex="INTERJ_">маччика</st>
      </stg>
@@ -402,8 +411,9 @@
      </tg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">маччикана</l>
+<e>
+   <lg>
+     <l pos="Interj">маччикана</l>
      <stg>
        <st Contlex="INTERJ_">маччикана</st>
      </stg>
@@ -414,7 +424,7 @@
      </tg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l hid="Hom1" pos="Interj">маш</l>
      <stg>
@@ -423,7 +433,8 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">ой; ну (выражает удивление, тревогу, досаду)</t>
+       <t pos="Interj">ой</t>
+       <t pos="Interj">ну (выражает удивление, тревогу, досаду)</t>
      </tg>
      <xg>
        <x>маш тэнӧ!</x>
@@ -431,8 +442,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">маш-маш</l>
+<e>
+   <lg>
+     <l pos="Interj">маш-маш</l>
      <stg>
        <st Contlex="INTERJ_">маш-маш</st>
      </stg>
@@ -459,8 +471,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">но</l>
+<e>
+   <lg>
+     <l pos="Interj">но</l>
      <stg>
        <st Contlex="INTERJ_">но</st>
      </stg>
@@ -475,15 +488,16 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">ну</l>
+<e>
+   <lg>
+     <l pos="Interj">ну</l>
      <stg>
        <st Contlex="INTERJ_">ну</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">1) ну (выражает побуждение к действию)</t>
+       <t pos="Interj">ну (выражает побуждение к действию)</t>
      </tg>
      <xg>
        <x>ну пондам сьывны!</x>
@@ -492,15 +506,15 @@
    </mg>
    <mg>
      <tg xml:lang="rus">
-       <t><i>в сочет. с</i> "и" передаёт восхищение или недовольство</t>
-</tg>
+       <t>{в сочет. с} "и" передаёт восхищение или недовольство</t>
+     </tg>
      <xg>
        <x>ну и нывкаок!</x>
        <xt xml:lang="rus">ну и девочка!</xt>
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">нянь-сов тіянлӧ.</l>
      <stg>
@@ -517,8 +531,9 @@
      </tg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">о</l>
+<e>
+   <lg>
+     <l pos="Interj">о</l>
      <stg>
        <st Contlex="INTERJ_">о</st>
      </stg>
@@ -545,7 +560,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">ой</l>
      <stg>
@@ -562,8 +577,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">ой-ей</l>
+<e>
+   <lg>
+     <l pos="Interj">ой-ей</l>
      <stg>
        <st Contlex="INTERJ_">ой-ей</st>
      </stg>
@@ -578,8 +594,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">ой-йой-ой</l>
+<e>
+   <lg>
+     <l pos="Interj">ой-йой-ой</l>
      <stg>
        <st Contlex="INTERJ_">ой-йой-ой</st>
      </stg>
@@ -594,15 +611,18 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">ок</l>
+<e>
+   <lg>
+     <l pos="Interj">ок</l>
      <stg>
        <st Contlex="INTERJ_">ок</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">ах; ох; ой</t>
+       <t pos="Interj">ах</t>
+       <t pos="Interj">ох</t>
+       <t pos="Interj">ой</t>
      </tg>
      <xg>
        <x>ок, кытшӧм басӧк гӧгӧр!</x>
@@ -618,8 +638,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">сыть</l>
+<e>
+   <lg>
+     <l pos="Interj">сыть</l>
      <stg>
        <st Contlex="INTERJ_">сыть</st>
      </stg>
@@ -630,7 +651,7 @@
      </tg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">тартарӧ тарӧвтчы.</l>
      <stg>
@@ -648,8 +669,9 @@
      </tg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">тинь-тинь</l>
+<e>
+   <lg>
+     <l pos="Interj">тинь-тинь</l>
      <stg>
        <st Contlex="INTERJ_">тинь-тинь</st>
      </stg>
@@ -660,7 +682,7 @@
      </tg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l hid="Hom2" pos="Interj">ток</l>
      <stg>
@@ -669,7 +691,8 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">тук, тук-тук</t>
+       <t pos="Interj">тук</t>
+       <t pos="Interj">тук-тук</t>
      </tg>
      <xg>
        <x>ток да ток ёткӧптӧ сьӧлӧм</x>
@@ -681,7 +704,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">тыр доз тэныт</l>
      <stg>
@@ -700,8 +723,9 @@
      </tg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">ук</l>
+<e>
+   <lg>
+     <l pos="Interj">ук</l>
      <stg>
        <st Contlex="INTERJ_">ук</st>
      </stg>
@@ -716,8 +740,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">уф</l>
+<e>
+   <lg>
+     <l pos="Interj">уф</l>
      <stg>
        <st Contlex="INTERJ_">уф</st>
      </stg>
@@ -736,7 +761,7 @@
      </xg>
      <xg>
        <x>уф да уф керны</x>
-       <xt xml:lang="rus"> с трудом дышать □ <i>диал.</i></xt>
+       <xt xml:lang="rus">с трудом дышать □ {диал.}</xt>
      </xg>
      <xg>
        <x>уп</x>
@@ -744,8 +769,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">чу</l>
+<e>
+   <lg>
+     <l pos="Interj">чу</l>
      <stg>
        <st Contlex="INTERJ_">чу</st>
      </stg>
@@ -755,12 +781,12 @@
        <t pos="Interj">чу</t>
      </tg>
      <xg>
-       <x>чу,  кывзы!</x>
+       <x>чу, кывзы!</x>
        <xt xml:lang="rus">чу, слушай!</xt>
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l hid="Hom1" pos="Interj">чур</l>
      <stg>
@@ -781,15 +807,17 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">ша</l>
+<e>
+   <lg>
+     <l pos="Interj">ша</l>
      <stg>
        <st Contlex="INTERJ_">ша</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">ша, хватит</t>
+       <t pos="Interj">ша</t>
+       <t pos="Interj">хватит</t>
      </tg>
      <xg>
        <x>челядь, ша!</x>
@@ -797,27 +825,29 @@
      </xg>
      <xg>
        <x>шабаркнитны</x>
-       <xt xml:lang="rus"> <i>изобр. -</i> 1) рубить, отрубить с размаху</xt>
+       <xt xml:lang="rus">{изобр. -} 1) рубить, отрубить с размаху</xt>
      </xg>
    </mg>
    <mg>
      <tg xml:lang="rus">
        <t>ударить с размаху</t>
-</tg>
+     </tg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">ыш</l>
+<e>
+   <lg>
+     <l pos="Interj">ыш</l>
      <stg>
        <st Contlex="INTERJ_">ыш</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">ох; ух</t>
+       <t pos="Interj">ох</t>
+       <t pos="Interj">ух</t>
      </tg>
      <xg>
-       <x>ыш,  кытшӧм кӧдзыт!</x>
+       <x>ыш, кытшӧм кӧдзыт!</x>
        <xt xml:lang="rus">ох, как холодно!</xt>
      </xg>
      <xg>
@@ -834,18 +864,21 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">э</l>
+<e>
+   <lg>
+     <l pos="Interj">э</l>
      <stg>
        <st Contlex="INTERJ_">э</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">1) э, эй; вот</t>
+       <t pos="Interj">э</t>
+       <t pos="Interj">эй</t>
+       <t pos="Interj">вот</t>
      </tg>
      <xg>
-       <x>э,  кытшӧм!</x>
+       <x>э, кытшӧм!</x>
        <xt xml:lang="rus">вот какой!</xt>
      </xg>
      <xg>
@@ -854,24 +887,26 @@
      </xg>
    </mg>
    <mg>
-     <tg xml:lang="rus">
-       <t><range>дет.</range> бяка</t>
-</tg>
+     <range>дет.</range><tg xml:lang="rus">
+       <t> бяка</t>
+     </tg>
      <xg>
        <x>сія - э!</x>
        <xt xml:lang="rus">это бяка! (не трогай!)</xt>
      </xg>
-</mg>
+   </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">эк</l>
+<e>
+   <lg>
+     <l pos="Interj">эк</l>
      <stg>
        <st Contlex="INTERJ_">эк</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">ой, больно</t>
+       <t pos="Interj">ой</t>
+       <t pos="Interj">больно</t>
      </tg>
      <xg>
        <x>эк, кытшӧм зубыт!</x>
@@ -883,15 +918,17 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">экка</l>
+<e>
+   <lg>
+     <l pos="Interj">экка</l>
      <stg>
        <st Contlex="INTERJ_">экка</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">ух; вот</t>
+       <t pos="Interj">ух</t>
+       <t pos="Interj">вот</t>
      </tg>
      <xg>
        <x>экка тэ кытшӧмас!</x>
@@ -903,8 +940,9 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">экма</l>
+<e>
+   <lg>
+     <l pos="Interj">экма</l>
      <stg>
        <st Contlex="INTERJ_">экма</st>
      </stg>
@@ -915,19 +953,21 @@
      </tg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Interj">ӧввӧ-ӧввӧ</l>
+<e>
+   <lg>
+     <l pos="Interj">ӧввӧ-ӧввӧ</l>
      <stg>
        <st Contlex="INTERJ_">ӧввӧ-ӧввӧ</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Interj">бай-бай, баю-бай</t>
+       <t pos="Interj">бай-бай</t>
+       <t pos="Interj">баю-бай</t>
      </tg>
    </mg>
 </e>
-  <e order="2">
+<e order="2">
    <lg>
      <l pos="Interj">ӧджжӧ</l>
      <stg>
@@ -936,7 +976,11 @@
    </lg>
    <mg relId="0"><range>прост.</range>
      <tg xml:lang="rus">
-       <t> видишь, смотри; глянь, ишь, вишь</t>
+       <t>видишь</t>
+       <t>смотри</t>
+       <t>глянь</t>
+       <t>ишь</t>
+       <t>вишь</t>
      </tg>
      <xg>
        <x>ӧджжӧ кытшӧм!</x>
@@ -944,7 +988,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Interj">ӧткымын шуӧм здорово тіянлӧ.</l>
      <stg>
@@ -961,4 +1005,4 @@
      </tg>
    </mg>
 </e>
-</r>
+</r> 

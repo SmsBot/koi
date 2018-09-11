@@ -36,7 +36,8 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="CC">да</l>
+   <lg>
+     <l pos="CC">да</l>
      <stg>
        <st Contlex="CC_">да</st>
      </stg>
@@ -71,7 +72,8 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="CC">и</l>
+   <lg>
+     <l pos="CC">и</l>
      <stg>
        <st Contlex="CC_">и</st>
      </stg>
@@ -90,5 +92,4 @@
      </xg>
    </mg>
 </e>
-
-</r>
+</r> 

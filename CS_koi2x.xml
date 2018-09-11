@@ -21,7 +21,25 @@
      </xg>
    </mg>
 </e>
-<e> <lg> <l hid="Hom2" pos="CS">коли</l> <stg> <st Contlex="CS_">коли</st> </stg> </lg> <mg relId="0"> <tg xml:lang="rus"> <t>если, поскольку; коли</t> </tg> <xg> <x>коли быдӧс лоас бур, мунам тшакьявны</x> <xt xml:lang="rus">если всё будет хорошо, пойдём за грибами</xt> </xg> </mg> </e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="CS">коли</l>
+     <stg>
+       <st Contlex="CS_">коли</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>если</t>
+       <t>поскольку</t>
+       <t>коли</t>
+     </tg>
+     <xg>
+       <x>коли быдӧс лоас бур, мунам тшакьявны</x>
+       <xt xml:lang="rus">если всё будет хорошо, пойдём за грибами</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="CS">да</l>
@@ -59,9 +77,9 @@
        <st Contlex="CS_">дак</st>
      </stg>
    </lg>
-   <mg>2.
+   <mg>
      <tg xml:lang="rus">
-       <t><pos>союз</pos> 1) [если] так</t>
+       <t pos="CS">[если] так</t>
      </tg>
      <xg>
        <x>деньга абу, дак колӧ одзӧстны</x>
@@ -87,7 +105,7 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><i>союз и частица</i> раз, если</t>
+       <t>{союз и частица} раз, если</t>
      </tg>
      <xg>
        <x>раз он тӧд, эн баит</x>
@@ -105,15 +123,11 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><pos>союз</pos> что</t>
+       <t pos="CS">что</t>
      </tg>
      <xg>
        <x>надейтчам, что вежӧртас</x>
-       <xt xml:lang="rus">надеемся, что [он] поймёт □ диал.</xt>
-     </xg>
-     <xg>
-       <x>што</x>
-       <xt xml:lang="rus"/>
+       <xt xml:lang="rus">надеемся, что [он] поймёт</xt>
      </xg>
    </mg>
 </e>
@@ -126,7 +140,7 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t><pos>союз</pos> чтобы</t>
+       <t pos="CS">чтобы</t>
      </tg>
      <xg>
        <x>чтобы бура быдмис карч, колӧны зэррез</x>

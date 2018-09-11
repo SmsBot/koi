@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
-  <e>
-   <lg><l pos="Pcle">разь</l>
+<e>
+   <lg>
+     <l pos="Pcle">разь</l>
      <stg>
        <st Contlex="PCLE_">разь</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="V"><i>частица вопр.</i></t>
+       <t pos="V">{частица вопр.}</t>
      </tg>
      <xg>
        <x>разве</x>
@@ -23,15 +24,16 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Pcle">да</l>
+<e>
+   <lg>
+     <l pos="Pcle">да</l>
      <stg>
        <st Contlex="PCLE_">да</st>
      </stg>
    </lg>
-   <mg>2.
+   <mg>
      <tg xml:lang="rus">
-       <t pos="Pcle"> да</t>
+       <t pos="Pcle">да</t>
      </tg>
      <xg>
        <x>да олас КПРФ!</x>
@@ -59,15 +61,17 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Pcle">и</l>
+<e>
+   <lg>
+     <l pos="Pcle">и</l>
      <stg>
        <st Contlex="PCLE_">и</st>
      </stg>
    </lg>
-   <mg>2.
+   <mg>
      <tg xml:lang="rus">
-       <t pos="Pcle"> и, даже</t>
+       <t pos="Pcle">и</t>
+       <t pos="Pcle">даже</t>
      </tg>
      <xg>
        <x>ог тӧд, мый и керны</x>
@@ -91,15 +95,16 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Pcle">но</l>
+<e>
+   <lg>
+     <l pos="Pcle">но</l>
      <stg>
        <st Contlex="PCLE_">но</st>
      </stg>
    </lg>
-   <mg>2.
+   <mg>
      <tg xml:lang="rus">
-       <t pos="Pcle"> 1) ну</t>
+       <t pos="Pcle">1) ну</t>
      </tg>
      <xg>
        <x>но, эн мешайт</x>
@@ -113,14 +118,14 @@
    <mg>
      <tg xml:lang="rus">
        <t>ладно, хорошо (согласие)</t>
-</tg>
+     </tg>
      <xg>
        <x>книгасӧ меным сетан, но?</x>
        <xt xml:lang="rus">книгу мне отдашь, хорошо?</xt>
      </xg>
      <xg>
        <x>няньысла ветлан? - Но</x>
-       <xt xml:lang="rus"> за хлебом сходишь? - Ладно [схожу] 3. <pos>союз</pos> но, а</xt>
+       <xt xml:lang="rus">за хлебом сходишь? - Ладно [схожу] 3. <pos>союз</pos> но, а</xt>
      </xg>
      <xg>
        <x>том, но пиня</x>
@@ -136,15 +141,18 @@
      </xg>
    </mg>
 </e>
-  <e>
-   <lg><l pos="Pcle">ну</l>
+<e>
+   <lg>
+     <l pos="Pcle">ну</l>
      <stg>
        <st Contlex="PCLE_">ну</st>
      </stg>
    </lg>
-   <mg>2.
+   <mg>
      <tg xml:lang="rus">
-       <t pos="Pcle">да, хорошо, ладно</t>
+       <t pos="Pcle">да</t>
+       <t pos="Pcle">хорошо</t>
+       <t pos="Pcle">ладно</t>
      </tg>
      <xg>
        <x>ну, ветла магазинас</x>
@@ -160,7 +168,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Pcle">а</l>
      <stg>
@@ -169,7 +177,7 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Pcle"><i>вопр.</i> а</t>
+       <t pos="Pcle">{вопр.} а</t>
      </tg>
      <xg>
        <x>мый чӧлан, а?</x>
@@ -178,8 +186,8 @@
    </mg>
    <mg>
      <tg xml:lang="rus">
-       <t><i>усил.</i> (в конце сложного предложения) а ведь</t>
-</tg>
+       <t>{усил.} (в конце сложного предложения) а ведь</t>
+     </tg>
      <xg>
        <x>сія эз лок, мӧдіс а</x>
        <xt xml:lang="rus">он не приехал, а обещал ведь</xt>
@@ -190,7 +198,7 @@
      </xg>
    </mg>
 </e>
-  <e>
+<e>
    <lg>
      <l pos="Pcle">абу</l>
      <stg>
@@ -216,8 +224,8 @@
    </mg>
    <mg>
      <tg xml:lang="rus">
-       <t><i>с прил. и нареч.</i> не-</t>
-</tg>
+       <t>{с прил. и нареч.} не-</t>
+     </tg>
      <xg>
        <x>абу бур </x>
        <xt xml:lang="rus">нехорошо</xt>
@@ -234,7 +242,7 @@
    <mg>
      <tg xml:lang="rus">
        <t>нет</t>
-</tg>
+     </tg>
      <xg>
        <x>абу, абу сія талун гортас</x>
        <xt xml:lang="rus">нет, нет его сегодня дома</xt>
