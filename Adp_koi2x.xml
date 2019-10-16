@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
 <e order="2">
    <lg>
      <l pos="Adp">бердам</l>
@@ -222,26 +222,6 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Adp">бердланьӧ</l>
-     <stg>
-       <st Contlex="ADP_">бердланьӧ</st>
-       <st Contlex="ADP_" geo="иньв.">бердваньӧ</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Adp">по направлению {к кому-чему-либо}; в направлении {кого-чего-либо}</t>
-     </tg>
-     <xg>
-       <x>колӧ вешшыны туй бердланьӧ</x>
-       <xt xml:lang="rus">надо продвинуться к дороге</xt>
-     </xg>
-   </mg>
-   <mg><sg> <s pos="Adp" s_type="see">бердланям</s> <s pos="Adp" s_type="see">бердланят</s> <s pos="Adp" s_type="see">бердланяс</s> <s pos="Adp" s_type="see">бердланяным</s> <s pos="Adp" s_type="see">бердланяныс</s> <s pos="Adp" s_type="see">бердланяныт</s> </sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
      <l pos="Adp">бердланьсянь</l>
      <stg>
        <st Contlex="ADP_">бердланьсянь</st>
@@ -260,6 +240,26 @@
        <x>вӧр бердланьсяняс вайӧтіс сир дукӧн</x>
        <xt xml:lang="rus">с опушки леса повеяло запахом смолы</xt>
      </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">бердланьӧ</l>
+     <stg>
+       <st Contlex="ADP_">бердланьӧ</st>
+       <st Contlex="ADP_" geo="иньв.">бердваньӧ</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adp">по направлению {к кому-чему-либо}; в направлении {кого-чего-либо}</t>
+     </tg>
+     <xg>
+       <x>колӧ вешшыны туй бердланьӧ</x>
+       <xt xml:lang="rus">надо продвинуться к дороге</xt>
+     </xg>
+   </mg>
+   <mg><sg> <s pos="Adp" s_type="see">бердланям</s> <s pos="Adp" s_type="see">бердланят</s> <s pos="Adp" s_type="see">бердланяс</s> <s pos="Adp" s_type="see">бердланяным</s> <s pos="Adp" s_type="see">бердланяныс</s> <s pos="Adp" s_type="see">бердланяныт</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -513,7 +513,7 @@
    </mg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="V"></t>
+       <t pos="V"/>
      </tg> <sg> <s pos="Adp" s_type="see">бердсяням</s> <s pos="Adp" s_type="see">бердсянят</s> <s pos="Adp" s_type="see">бердсяняс</s> <s pos="Adp" s_type="see">бердсяняным</s> <s pos="Adp" s_type="see">бердсяняныс</s> <s pos="Adp" s_type="see">бердсяняныт</s> </sg>
    </mg>
 </e>
@@ -642,12 +642,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бердсям</s>
-       <s pos="Adp" s_type="see">бердсиным</s>
-       <s pos="Adp" s_type="see">бердсиныс</s>
-       <s pos="Adp" s_type="see">бердсиныт</s>
-       <s pos="Adp" s_type="see">бердсис</s>
-       <s pos="Adp" s_type="see">бердсит</s></sg>
+     </tg><sg><s s_type="see">бердсям</s> <s pos="Adp" s_type="see">бердсиным</s> <s pos="Adp" s_type="see">бердсиныс</s> <s pos="Adp" s_type="see">бердсиныт</s> <s pos="Adp" s_type="see">бердсис</s> <s pos="Adp" s_type="see">бердсит</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -696,12 +691,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бердам</s>
-       <s pos="Adp" s_type="see">берданым</s>
-       <s pos="Adp" s_type="see">берданыс</s>
-       <s pos="Adp" s_type="see">берданыт</s>
-       <s pos="Adp" s_type="see">бердас</s>
-       <s pos="Adp" s_type="see">бердат</s></sg>
+     </tg><sg><s s_type="see">бердам</s> <s pos="Adp" s_type="see">берданым</s> <s pos="Adp" s_type="see">берданыс</s> <s pos="Adp" s_type="see">берданыт</s> <s pos="Adp" s_type="see">бердас</s> <s pos="Adp" s_type="see">бердат</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -723,12 +713,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бердӧдззам</s>
-       <s pos="Adp" s_type="see">бердӧдззаным</s>
-       <s pos="Adp" s_type="see">бердӧдззаныс</s>
-       <s pos="Adp" s_type="see">бердӧдззаныт</s>
-       <s pos="Adp" s_type="see">бердӧдззас</s>
-       <s pos="Adp" s_type="see">бердӧдззат</s></sg>
+     </tg><sg><s s_type="see">бердӧдззам</s> <s pos="Adp" s_type="see">бердӧдззаным</s> <s pos="Adp" s_type="see">бердӧдззаныс</s> <s pos="Adp" s_type="see">бердӧдззаныт</s> <s pos="Adp" s_type="see">бердӧдззас</s> <s pos="Adp" s_type="see">бердӧдззат</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -856,12 +841,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бердӧттям</s>
-       <s pos="Adp" s_type="see">бердӧттяным</s>
-       <s pos="Adp" s_type="see">бердӧттяныс</s>
-       <s pos="Adp" s_type="see">бердӧттяныт</s>
-       <s pos="Adp" s_type="see">бердӧттяс</s>
-       <s pos="Adp" s_type="see">бердӧттят</s></sg>
+     </tg><sg><s s_type="see">бердӧттям</s> <s pos="Adp" s_type="see">бердӧттяным</s> <s pos="Adp" s_type="see">бердӧттяныс</s> <s pos="Adp" s_type="see">бердӧттяныт</s> <s pos="Adp" s_type="see">бердӧттяс</s> <s pos="Adp" s_type="see">бердӧттят</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -1389,15 +1369,7 @@
      <xg>
        <x>мийӧ пондӧтчим вундыны йӧр боксянь</x>
        <xt xml:lang="rus">мы начали жать от изгороди</xt>
-     </xg>
-     <sg>
-       <s pos="Adp" s_type="see">боксяням</s>
-       <s pos="Adp" s_type="see">боксяняным</s>
-       <s pos="Adp" s_type="see">боксяняныс</s>
-       <s pos="Adp" s_type="see">боксяняныт</s>
-       <s pos="Adp" s_type="see">боксяняс</s>
-       <s pos="Adp" s_type="see">боксянят</s>
-     </sg>
+     </xg> <sg> <s pos="Adp" s_type="see">боксяням</s> <s pos="Adp" s_type="see">боксяняным</s> <s pos="Adp" s_type="see">боксяняныс</s> <s pos="Adp" s_type="see">боксяняныт</s> <s pos="Adp" s_type="see">боксяняс</s> <s pos="Adp" s_type="see">боксянят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -1595,12 +1567,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бокам</s>
-       <s pos="Adp" s_type="see">боканым</s>
-       <s pos="Adp" s_type="see">боканыс</s>
-       <s pos="Adp" s_type="see">боканыт</s>
-       <s pos="Adp" s_type="see">бокас</s>
-       <s pos="Adp" s_type="see">бокат</s></sg>
+     </tg><sg><s s_type="see">бокам</s> <s pos="Adp" s_type="see">боканым</s> <s pos="Adp" s_type="see">боканыс</s> <s pos="Adp" s_type="see">боканыт</s> <s pos="Adp" s_type="see">бокас</s> <s pos="Adp" s_type="see">бокат</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -1652,12 +1619,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бокам</s>
-       <s pos="Adp" s_type="see">боканым</s>
-       <s pos="Adp" s_type="see">боканыс</s>
-       <s pos="Adp" s_type="see">боканыт</s>
-       <s pos="Adp" s_type="see">бокас</s>
-       <s pos="Adp" s_type="see">бокат</s></sg>
+     </tg><sg><s s_type="see">бокам</s> <s pos="Adp" s_type="see">боканым</s> <s pos="Adp" s_type="see">боканыс</s> <s pos="Adp" s_type="see">боканыт</s> <s pos="Adp" s_type="see">бокас</s> <s pos="Adp" s_type="see">бокат</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -1679,12 +1641,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бокӧдззам</s>
-       <s pos="Adp" s_type="see">бокӧдззаным</s>
-       <s pos="Adp" s_type="see">бокӧдззаныс</s>
-       <s pos="Adp" s_type="see">бокӧдззаныт</s>
-       <s pos="Adp" s_type="see">бокӧдззас</s>
-       <s pos="Adp" s_type="see">бокӧдззат</s></sg>
+     </tg><sg><s s_type="see">бокӧдззам</s> <s pos="Adp" s_type="see">бокӧдззаным</s> <s pos="Adp" s_type="see">бокӧдззаныс</s> <s pos="Adp" s_type="see">бокӧдззаныт</s> <s pos="Adp" s_type="see">бокӧдззас</s> <s pos="Adp" s_type="see">бокӧдззат</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -2540,12 +2497,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бӧрсяням</s>
-       <s pos="Adp" s_type="see">бӧрсяняным</s>
-       <s pos="Adp" s_type="see">бӧрсяняныс</s>
-       <s pos="Adp" s_type="see">бӧрсяняныт</s>
-       <s pos="Adp" s_type="see">бӧрсяняс</s>
-       <s pos="Adp" s_type="see">бӧрсянят</s></sg>
+     </tg><sg><s s_type="see">бӧрсяням</s> <s pos="Adp" s_type="see">бӧрсяняным</s> <s pos="Adp" s_type="see">бӧрсяняныс</s> <s pos="Adp" s_type="see">бӧрсяняныт</s> <s pos="Adp" s_type="see">бӧрсяняс</s> <s pos="Adp" s_type="see">бӧрсянят</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -2838,16 +2790,8 @@
    </mg>
    <mg>
      <tg xml:lang="rus">
-       <t pos="V"></t>
-     </tg>
-     <sg>
-       <s pos="Adp" s_type="see">бӧрам</s>
-       <s pos="Adp" s_type="see">бӧраным</s>
-       <s pos="Adp" s_type="see">бӧраныс</s>
-       <s pos="Adp" s_type="see">бӧраныт</s>
-       <s pos="Adp" s_type="see">бӧрас</s>
-       <s pos="Adp" s_type="see">бӧрат</s>
-     </sg>
+       <t pos="V"/>
+     </tg> <sg> <s pos="Adp" s_type="see">бӧрам</s> <s pos="Adp" s_type="see">бӧраным</s> <s pos="Adp" s_type="see">бӧраныс</s> <s pos="Adp" s_type="see">бӧраныт</s> <s pos="Adp" s_type="see">бӧрас</s> <s pos="Adp" s_type="see">бӧрат</s> </sg>
      <xg>
        <x>кольччыны бӧрӧ</x>
        <xt xml:lang="rus">отстать</xt>
@@ -2873,12 +2817,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бӧрӧдззам</s>
-       <s pos="Adp" s_type="see">бӧрӧдззаным</s>
-       <s pos="Adp" s_type="see">бӧрӧдззаныс</s>
-       <s pos="Adp" s_type="see">бӧрӧдззаныт</s>
-       <s pos="Adp" s_type="see">бӧрӧдззас</s>
-       <s pos="Adp" s_type="see">бӧрӧдззат</s></sg>
+     </tg><sg><s s_type="see">бӧрӧдззам</s> <s pos="Adp" s_type="see">бӧрӧдззаным</s> <s pos="Adp" s_type="see">бӧрӧдззаныс</s> <s pos="Adp" s_type="see">бӧрӧдззаныт</s> <s pos="Adp" s_type="see">бӧрӧдззас</s> <s pos="Adp" s_type="see">бӧрӧдззат</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -3009,12 +2948,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">бӧрӧттям</s>
-       <s pos="Adp" s_type="see">бӧрӧттяным</s>
-       <s pos="Adp" s_type="see">бӧрӧттяныс</s>
-       <s pos="Adp" s_type="see">бӧрӧттяныт</s>
-       <s pos="Adp" s_type="see">бӧрӧттяс</s>
-       <s pos="Adp" s_type="see">бӧрӧттят</s></sg>
+     </tg><sg><s s_type="see">бӧрӧттям</s> <s pos="Adp" s_type="see">бӧрӧттяным</s> <s pos="Adp" s_type="see">бӧрӧттяныс</s> <s pos="Adp" s_type="see">бӧрӧттяныт</s> <s pos="Adp" s_type="see">бӧрӧттяс</s> <s pos="Adp" s_type="see">бӧрӧттят</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -3377,15 +3311,7 @@
        <xt xml:lang="rus">дрова мы привезли из того места, что расположено выше [деревни] Шлян</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">вевдӧрсим</s>
-       <s pos="Adp" s_type="see">вевдӧрсиным</s>
-       <s pos="Adp" s_type="see">вевдӧрсиныс</s>
-       <s pos="Adp" s_type="see">вевдӧрсиныт</s>
-       <s pos="Adp" s_type="see">вевдӧрсис</s>
-       <s pos="Adp" s_type="see">вевдӧрсит</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">вевдӧрсим</s> <s pos="Adp" s_type="see">вевдӧрсиным</s> <s pos="Adp" s_type="see">вевдӧрсиныс</s> <s pos="Adp" s_type="see">вевдӧрсиныт</s> <s pos="Adp" s_type="see">вевдӧрсис</s> <s pos="Adp" s_type="see">вевдӧрсит</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -3588,12 +3514,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">вевдӧрам</s>
-       <s pos="Adp" s_type="see">вевдӧраным</s>
-       <s pos="Adp" s_type="see">вевдӧраныс</s>
-       <s pos="Adp" s_type="see">вевдӧраныт</s>
-       <s pos="Adp" s_type="see">вевдӧрас</s>
-       <s pos="Adp" s_type="see">вевдӧрат</s></sg>
+     </tg><sg><s s_type="see">вевдӧрам</s> <s pos="Adp" s_type="see">вевдӧраным</s> <s pos="Adp" s_type="see">вевдӧраныс</s> <s pos="Adp" s_type="see">вевдӧраныт</s> <s pos="Adp" s_type="see">вевдӧрас</s> <s pos="Adp" s_type="see">вевдӧрат</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -3619,12 +3540,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">вевдӧрам</s>
-       <s pos="Adp" s_type="see">вевдӧраным</s>
-       <s pos="Adp" s_type="see">вевдӧраныс</s>
-       <s pos="Adp" s_type="see">вевдӧраныт</s>
-       <s pos="Adp" s_type="see">вевдӧрас</s>
-       <s pos="Adp" s_type="see">вевдӧрат</s></sg>
+     </tg><sg><s s_type="see">вевдӧрам</s> <s pos="Adp" s_type="see">вевдӧраным</s> <s pos="Adp" s_type="see">вевдӧраныс</s> <s pos="Adp" s_type="see">вевдӧраныт</s> <s pos="Adp" s_type="see">вевдӧрас</s> <s pos="Adp" s_type="see">вевдӧрат</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -3677,12 +3593,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">вевдӧрӧттям</s>
-       <s pos="Adp" s_type="see">вевдӧрӧттяным</s>
-       <s pos="Adp" s_type="see">вевдӧрӧттяныс</s>
-       <s pos="Adp" s_type="see">вевдӧрӧттяныт</s>
-       <s pos="Adp" s_type="see">вевдӧрӧттяс</s>
-       <s pos="Adp" s_type="see">вевдӧрӧттят</s></sg>
+     </tg><sg><s s_type="see">вевдӧрӧттям</s> <s pos="Adp" s_type="see">вевдӧрӧттяным</s> <s pos="Adp" s_type="see">вевдӧрӧттяныс</s> <s pos="Adp" s_type="see">вевдӧрӧттяныт</s> <s pos="Adp" s_type="see">вевдӧрӧттяс</s> <s pos="Adp" s_type="see">вевдӧрӧттят</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -3935,14 +3846,7 @@
        <xt xml:lang="rus">над кухонным столом повесили полку</xt>
      </xg>
    </mg>
-   <mg>     <sg>
-       <s pos="Adp" s_type="see">весьтам</s>
-       <s pos="Adp" s_type="see">весьтаным</s>
-       <s pos="Adp" s_type="see">весьтаныс</s>
-       <s pos="Adp" s_type="see">весьтаныт</s>
-       <s pos="Adp" s_type="see">весьтас</s>
-       <s pos="Adp" s_type="see">весьтат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">весьтам</s> <s pos="Adp" s_type="see">весьтаным</s> <s pos="Adp" s_type="see">весьтаныс</s> <s pos="Adp" s_type="see">весьтаныт</s> <s pos="Adp" s_type="see">весьтас</s> <s pos="Adp" s_type="see">весьтат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -3961,14 +3865,7 @@
        <xt xml:lang="rus">диван следует поставить против стола</xt>
      </xg>
    </mg>
-   <mg>     <sg>
-       <s pos="Adp" s_type="see">весьтӧдззам</s>
-       <s pos="Adp" s_type="see">весьтӧдззаным</s>
-       <s pos="Adp" s_type="see">весьтӧдззаныс</s>
-       <s pos="Adp" s_type="see">весьтӧдззаныт</s>
-       <s pos="Adp" s_type="see">весьтӧдззас</s>
-       <s pos="Adp" s_type="see">весьтӧдззат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">весьтӧдззам</s> <s pos="Adp" s_type="see">весьтӧдззаным</s> <s pos="Adp" s_type="see">весьтӧдззаныс</s> <s pos="Adp" s_type="see">весьтӧдззаныт</s> <s pos="Adp" s_type="see">весьтӧдззас</s> <s pos="Adp" s_type="see">весьтӧдззат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -4102,15 +3999,7 @@
        <xt xml:lang="rus">самолёт летит над лесом</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">весьтӧттям</s>
-       <s pos="Adp" s_type="see">весьтӧттяным</s>
-       <s pos="Adp" s_type="see">весьтӧттяныс</s>
-       <s pos="Adp" s_type="see">весьтӧттяныт</s>
-       <s pos="Adp" s_type="see">весьтӧттяс</s>
-       <s pos="Adp" s_type="see">весьтӧттят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">весьтӧттям</s> <s pos="Adp" s_type="see">весьтӧттяным</s> <s pos="Adp" s_type="see">весьтӧттяныс</s> <s pos="Adp" s_type="see">весьтӧттяныт</s> <s pos="Adp" s_type="see">весьтӧттяс</s> <s pos="Adp" s_type="see">весьтӧттят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -4446,12 +4335,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">вывсяням</s>
-       <s pos="Adp" s_type="see">вывсяняным</s>
-       <s pos="Adp" s_type="see">вывсяняныс</s>
-       <s pos="Adp" s_type="see">вывсяняныт</s>
-       <s pos="Adp" s_type="see">вывсяняс</s>
-       <s pos="Adp" s_type="see">вывсянят</s></sg>
+     </tg><sg><s s_type="see">вывсяням</s> <s pos="Adp" s_type="see">вывсяняным</s> <s pos="Adp" s_type="see">вывсяняныс</s> <s pos="Adp" s_type="see">вывсяняныт</s> <s pos="Adp" s_type="see">вывсяняс</s> <s pos="Adp" s_type="see">вывсянят</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -4863,15 +4747,7 @@
        <xt xml:lang="rus">они живут на горе</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">вылам</s>
-       <s pos="Adp" s_type="see">выланым</s>
-       <s pos="Adp" s_type="see">выланыс</s>
-       <s pos="Adp" s_type="see">выланыт</s>
-       <s pos="Adp" s_type="see">вылас</s>
-       <s pos="Adp" s_type="see">вылат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">вылам</s> <s pos="Adp" s_type="see">выланым</s> <s pos="Adp" s_type="see">выланыс</s> <s pos="Adp" s_type="see">выланыт</s> <s pos="Adp" s_type="see">вылас</s> <s pos="Adp" s_type="see">вылат</s> </sg>
      <xg>
        <x>сы вылын паськӧмыс чегӧ</x>
        <xt xml:lang="rus">он одет с иголочки</xt>
@@ -4913,15 +4789,7 @@
        <xt xml:lang="rus">со стола упала газета</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">вывсим</s>
-       <s pos="Adp" s_type="see">вывсиным</s>
-       <s pos="Adp" s_type="see">вывсиныс</s>
-       <s pos="Adp" s_type="see">вывсиныт</s>
-       <s pos="Adp" s_type="see">вывсис</s>
-       <s pos="Adp" s_type="see">вывсит</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">вывсим</s> <s pos="Adp" s_type="see">вывсиным</s> <s pos="Adp" s_type="see">вывсиныс</s> <s pos="Adp" s_type="see">вывсиныт</s> <s pos="Adp" s_type="see">вывсис</s> <s pos="Adp" s_type="see">вывсит</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -4978,15 +4846,7 @@
        <xt xml:lang="rus">он хочет выучиться на врача</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">вылам</s>
-       <s pos="Adp" s_type="see">выланым</s>
-       <s pos="Adp" s_type="see">выланыс</s>
-       <s pos="Adp" s_type="see">выланыт</s>
-       <s pos="Adp" s_type="see">вылас</s>
-       <s pos="Adp" s_type="see">вылат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">вылам</s> <s pos="Adp" s_type="see">выланым</s> <s pos="Adp" s_type="see">выланыс</s> <s pos="Adp" s_type="see">выланыт</s> <s pos="Adp" s_type="see">вылас</s> <s pos="Adp" s_type="see">вылат</s> </sg>
      <xg>
        <x>тэ вылӧӧв лэбтісин</x>
        <xt xml:lang="rus">ты очень загордился (зазнался), ты очень высоко вознёсся</xt>
@@ -5022,15 +4882,7 @@
        <xt xml:lang="rus">он едва поднялся на крыльцо</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">вылӧдззам</s>
-       <s pos="Adp" s_type="see">вылӧдззаным</s>
-       <s pos="Adp" s_type="see">вылӧдззаныс</s>
-       <s pos="Adp" s_type="see">вылӧдззаныт</s>
-       <s pos="Adp" s_type="see">вылӧдззас</s>
-       <s pos="Adp" s_type="see">вылӧдззат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">вылӧдззам</s> <s pos="Adp" s_type="see">вылӧдззаным</s> <s pos="Adp" s_type="see">вылӧдззаныс</s> <s pos="Adp" s_type="see">вылӧдззаныт</s> <s pos="Adp" s_type="see">вылӧдззас</s> <s pos="Adp" s_type="see">вылӧдззат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -5196,12 +5048,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">вылӧттям</s>
-       <s pos="Adp" s_type="see">вылӧттяным</s>
-       <s pos="Adp" s_type="see">вылӧттяныс</s>
-       <s pos="Adp" s_type="see">вылӧттяныт</s>
-       <s pos="Adp" s_type="see">вылӧттяс</s>
-       <s pos="Adp" s_type="see">вылӧттят</s></sg>
+     </tg><sg><s s_type="see">вылӧттям</s> <s pos="Adp" s_type="see">вылӧттяным</s> <s pos="Adp" s_type="see">вылӧттяныс</s> <s pos="Adp" s_type="see">вылӧттяныт</s> <s pos="Adp" s_type="see">вылӧттяс</s> <s pos="Adp" s_type="see">вылӧттят</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -5663,15 +5510,7 @@
        <xt xml:lang="rus">от [места] пожара несёт гарью</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">гӧгӧрсяням</s>
-       <s pos="Adp" s_type="see">гӧгӧрсяняным</s>
-       <s pos="Adp" s_type="see">гӧгӧрсяняныс</s>
-       <s pos="Adp" s_type="see">гӧгӧрсяняныт</s>
-       <s pos="Adp" s_type="see">гӧгӧрсяняс</s>
-       <s pos="Adp" s_type="see">гӧгӧрсянят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">гӧгӧрсяням</s> <s pos="Adp" s_type="see">гӧгӧрсяняным</s> <s pos="Adp" s_type="see">гӧгӧрсяняныс</s> <s pos="Adp" s_type="see">гӧгӧрсяняныт</s> <s pos="Adp" s_type="see">гӧгӧрсяняс</s> <s pos="Adp" s_type="see">гӧгӧрсянят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -5707,15 +5546,7 @@
        <xt xml:lang="rus">вокруг школы собрался народ</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">гӧгӧрам</s>
-       <s pos="Adp" s_type="see">гӧгораным</s>
-       <s pos="Adp" s_type="see">гӧгӧраныс</s>
-       <s pos="Adp" s_type="see">гӧгӧраныт</s>
-       <s pos="Adp" s_type="see">гӧгӧрас</s>
-       <s pos="Adp" s_type="see">гӧгӧрат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">гӧгӧрам</s> <s pos="Adp" s_type="see">гӧгораным</s> <s pos="Adp" s_type="see">гӧгӧраныс</s> <s pos="Adp" s_type="see">гӧгӧраныт</s> <s pos="Adp" s_type="see">гӧгӧрас</s> <s pos="Adp" s_type="see">гӧгӧрат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -5734,15 +5565,7 @@
        <xt xml:lang="rus">я хочу сходить в правление</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">гӧгӧрӧдззам</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧдззаным</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧдззаныс</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧдззаныт</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧдззас</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧдззат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">гӧгӧрӧдззам</s> <s pos="Adp" s_type="see">гӧгӧрӧдззаным</s> <s pos="Adp" s_type="see">гӧгӧрӧдззаныс</s> <s pos="Adp" s_type="see">гӧгӧрӧдззаныт</s> <s pos="Adp" s_type="see">гӧгӧрӧдззас</s> <s pos="Adp" s_type="see">гӧгӧрӧдззат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -5778,15 +5601,7 @@
        <xt xml:lang="rus">дорога пролегала вдоль изгороди</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">гӧгӧрӧттям</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧттяным</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧттяныс</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧттяныт</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧттяс</s>
-       <s pos="Adp" s_type="see">гӧгӧрӧттят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">гӧгӧрӧттям</s> <s pos="Adp" s_type="see">гӧгӧрӧттяным</s> <s pos="Adp" s_type="see">гӧгӧрӧттяныс</s> <s pos="Adp" s_type="see">гӧгӧрӧттяныт</s> <s pos="Adp" s_type="see">гӧгӧрӧттяс</s> <s pos="Adp" s_type="see">гӧгӧрӧттят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -5962,15 +5777,7 @@
        <xt xml:lang="rus">на моей стороне сам бригадир</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">дорам</s>
-       <s pos="Adp" s_type="see">дораным</s>
-       <s pos="Adp" s_type="see">дораныс</s>
-       <s pos="Adp" s_type="see">дораныт</s>
-       <s pos="Adp" s_type="see">дорас</s>
-       <s pos="Adp" s_type="see">дорат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">дорам</s> <s pos="Adp" s_type="see">дораным</s> <s pos="Adp" s_type="see">дораныс</s> <s pos="Adp" s_type="see">дораныт</s> <s pos="Adp" s_type="see">дорас</s> <s pos="Adp" s_type="see">дорат</s> </sg>
      <xg>
        <x>конец не дор оз тыдав</x>
        <xt xml:lang="rus">не видно ни конца ни края</xt>
@@ -6150,12 +5957,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">дорсим</s>
-       <s pos="Adp" s_type="see">дорсиным</s>
-       <s pos="Adp" s_type="see">дорсиныс</s>
-       <s pos="Adp" s_type="see">дорсиныт</s>
-       <s pos="Adp" s_type="see">дорсис</s>
-       <s pos="Adp" s_type="see">дорсит</s></sg>
+     </tg><sg><s s_type="see">дорсим</s> <s pos="Adp" s_type="see">дорсиным</s> <s pos="Adp" s_type="see">дорсиныс</s> <s pos="Adp" s_type="see">дорсиныт</s> <s pos="Adp" s_type="see">дорсис</s> <s pos="Adp" s_type="see">дорсит</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -6369,15 +6171,7 @@
        <xt xml:lang="rus">жать надо начать от межи</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">дорсяням</s>
-       <s pos="Adp" s_type="see">дорсяняным</s>
-       <s pos="Adp" s_type="see">дорсяняныс</s>
-       <s pos="Adp" s_type="see">дорсяняныт</s>
-       <s pos="Adp" s_type="see">дорсяняс</s>
-       <s pos="Adp" s_type="see">дорсянят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">дорсяням</s> <s pos="Adp" s_type="see">дорсяняным</s> <s pos="Adp" s_type="see">дорсяняныс</s> <s pos="Adp" s_type="see">дорсяняныт</s> <s pos="Adp" s_type="see">дорсяняс</s> <s pos="Adp" s_type="see">дорсянят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -6574,12 +6368,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">дорӧдззам</s>
-       <s pos="Adp" s_type="see">дорӧдззаным</s>
-       <s pos="Adp" s_type="see">дорӧдззаныс</s>
-       <s pos="Adp" s_type="see">дорӧдззаныт</s>
-       <s pos="Adp" s_type="see">дорӧдззас</s>
-       <s pos="Adp" s_type="see">дорӧдззат</s></sg>
+     </tg><sg><s s_type="see">дорӧдззам</s> <s pos="Adp" s_type="see">дорӧдззаным</s> <s pos="Adp" s_type="see">дорӧдззаныс</s> <s pos="Adp" s_type="see">дорӧдззаныт</s> <s pos="Adp" s_type="see">дорӧдззас</s> <s pos="Adp" s_type="see">дорӧдззат</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -6716,12 +6505,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="V">{с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">дорӧттям</s>
-       <s pos="Adp" s_type="see">дорӧттяным</s>
-       <s pos="Adp" s_type="see">дорӧттяныс</s>
-       <s pos="Adp" s_type="see">дорӧттяныт</s>
-       <s pos="Adp" s_type="see">дорӧттяс</s>
-       <s pos="Adp" s_type="see">дорӧттят</s></sg>
+     </tg><sg><s s_type="see">дорӧттям</s> <s pos="Adp" s_type="see">дорӧттяным</s> <s pos="Adp" s_type="see">дорӧттяныс</s> <s pos="Adp" s_type="see">дорӧттяныт</s> <s pos="Adp" s_type="see">дорӧттяс</s> <s pos="Adp" s_type="see">дорӧттят</s></sg>
    </mg>
 </e>
 <e order="2">
@@ -7230,15 +7014,7 @@
        <xt xml:lang="rus">косить мы начали от ручья</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">дынсяням</s>
-       <s pos="Adp" s_type="see">дынсяняным</s>
-       <s pos="Adp" s_type="see">дынсяняныс</s>
-       <s pos="Adp" s_type="see">дынсяняныт</s>
-       <s pos="Adp" s_type="see">дынсяняс</s>
-       <s pos="Adp" s_type="see">дынсянят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">дынсяням</s> <s pos="Adp" s_type="see">дынсяняным</s> <s pos="Adp" s_type="see">дынсяняныс</s> <s pos="Adp" s_type="see">дынсяняныт</s> <s pos="Adp" s_type="see">дынсяняс</s> <s pos="Adp" s_type="see">дынсянят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -7498,15 +7274,7 @@
        <xt xml:lang="rus">мы дошли до стадиона</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">дынӧдззам</s>
-       <s pos="Adp" s_type="see">дынӧдззаным</s>
-       <s pos="Adp" s_type="see">дынӧдззаныс</s>
-       <s pos="Adp" s_type="see">дынӧдззаныт</s>
-       <s pos="Adp" s_type="see">дынӧдззас</s>
-       <s pos="Adp" s_type="see">дынӧдззат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">дынӧдззам</s> <s pos="Adp" s_type="see">дынӧдззаным</s> <s pos="Adp" s_type="see">дынӧдззаныс</s> <s pos="Adp" s_type="see">дынӧдззаныт</s> <s pos="Adp" s_type="see">дынӧдззас</s> <s pos="Adp" s_type="see">дынӧдззат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -8363,15 +8131,8 @@
        <x>ёртӧ петыштіс моз одзлань</x>
        <xt xml:lang="rus">мой друг чуть-чуть выступил вперёд</xt>
      </xg>
-</mg><mg>
-     <sg>
-       <s pos="Adp" s_type="see">мознам</s>
-       <s pos="Adp" s_type="see">мознаным</s>
-       <s pos="Adp" s_type="see">мознаныс</s>
-       <s pos="Adp" s_type="see">мознаныт</s>
-       <s pos="Adp" s_type="see">мознас</s>
-       <s pos="Adp" s_type="see">мознат</s>
-     </sg>
+   </mg>
+   <mg> <sg> <s pos="Adp" s_type="see">мознам</s> <s pos="Adp" s_type="see">мознаным</s> <s pos="Adp" s_type="see">мознаныс</s> <s pos="Adp" s_type="see">мознаныт</s> <s pos="Adp" s_type="see">мознас</s> <s pos="Adp" s_type="see">мознат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -8568,15 +8329,8 @@
        <x>мун менам син одзись!</x>
        <xt xml:lang="rus">уходи с глаз моих!</xt>
      </xg>
-</mg><mg>
-     <sg>
-       <s pos="Adp" s_type="see">одзсим</s>
-       <s pos="Adp" s_type="see">одзсиным</s>
-       <s pos="Adp" s_type="see">одзсиныс</s>
-       <s pos="Adp" s_type="see">одзсиныт</s>
-       <s pos="Adp" s_type="see">одзсис</s>
-       <s pos="Adp" s_type="see">одзсит</s>
-     </sg>
+   </mg>
+   <mg> <sg> <s pos="Adp" s_type="see">одзсим</s> <s pos="Adp" s_type="see">одзсиным</s> <s pos="Adp" s_type="see">одзсиныс</s> <s pos="Adp" s_type="see">одзсиныт</s> <s pos="Adp" s_type="see">одзсис</s> <s pos="Adp" s_type="see">одзсит</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -8748,15 +8502,7 @@
        <xt xml:lang="rus">от двери до кути постлана дорожка</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">одзсяням</s>
-       <s pos="Adp" s_type="see">одзсяняным</s>
-       <s pos="Adp" s_type="see">одзсяняныс</s>
-       <s pos="Adp" s_type="see">одзсяняныт</s>
-       <s pos="Adp" s_type="see">одзсяняс</s>
-       <s pos="Adp" s_type="see">одзсянят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">одзсяням</s> <s pos="Adp" s_type="see">одзсяняным</s> <s pos="Adp" s_type="see">одзсяняныс</s> <s pos="Adp" s_type="see">одзсяняныт</s> <s pos="Adp" s_type="see">одзсяняс</s> <s pos="Adp" s_type="see">одзсянят</s> </sg>
      <xg>
        <x>одзсяням</x>
        <xt xml:lang="rus">от места передо мной</xt>
@@ -8988,15 +8734,8 @@
        <x>сія вайис письмосӧсы син одзӧ</x>
        <xt xml:lang="rus">он поднёс письмо к его глазам</xt>
      </xg>
-</mg><mg>
-     <sg>
-       <s pos="Adp" s_type="see">одзам</s>
-       <s pos="Adp" s_type="see">одзаным</s>
-       <s pos="Adp" s_type="see">одзаныс</s>
-       <s pos="Adp" s_type="see">одзаныт</s>
-       <s pos="Adp" s_type="see">одзас</s>
-       <s pos="Adp" s_type="see">одзат</s>
-     </sg>
+   </mg>
+   <mg> <sg> <s pos="Adp" s_type="see">одзам</s> <s pos="Adp" s_type="see">одзаным</s> <s pos="Adp" s_type="see">одзаныс</s> <s pos="Adp" s_type="see">одзаныт</s> <s pos="Adp" s_type="see">одзас</s> <s pos="Adp" s_type="see">одзат</s> </sg>
      <xg>
        <x>пырны син одзӧ</x>
        <xt xml:lang="rus">попадаться на глаза</xt>
@@ -9081,15 +8820,8 @@
        <x>керкуодзӧт ветлӧтӧчасовӧй</x>
        <xt xml:lang="rus">перед домом ходит часовой</xt>
      </xg>
-</mg><mg>
-     <sg>
-       <s pos="Adp" s_type="see">одзӧттям</s>
-       <s pos="Adp" s_type="see">одзӧттяным</s>
-       <s pos="Adp" s_type="see">одзӧттяныс</s>
-       <s pos="Adp" s_type="see">одзӧттяныт</s>
-       <s pos="Adp" s_type="see">одзӧттяс</s>
-       <s pos="Adp" s_type="see">ӧдзӧттят</s>
-     </sg>
+   </mg>
+   <mg> <sg> <s pos="Adp" s_type="see">одзӧттям</s> <s pos="Adp" s_type="see">одзӧттяным</s> <s pos="Adp" s_type="see">одзӧттяныс</s> <s pos="Adp" s_type="see">одзӧттяныт</s> <s pos="Adp" s_type="see">одзӧттяс</s> <s pos="Adp" s_type="see">ӧдзӧттят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -9260,8 +8992,8 @@
        <st Contlex="ADP_">ота</st>
      </stg>
    </lg>
-   <mg relId="0">
-     <geo>сев.</geo><tg xml:lang="rus">
+   <mg relId="0"> <geo>сев.</geo>
+     <tg xml:lang="rus">
        <t> широкий</t>
      </tg>
      <xg>
@@ -9607,15 +9339,7 @@
        <xt xml:lang="rus">поэтому</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">пондам</s>
-       <s pos="Adp" s_type="see">понданым</s>
-       <s pos="Adp" s_type="see">понданыс</s>
-       <s pos="Adp" s_type="see">понданыт</s>
-       <s pos="Adp" s_type="see">пондас</s>
-       <s pos="Adp" s_type="see">пондат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">пондам</s> <s pos="Adp" s_type="see">понданым</s> <s pos="Adp" s_type="see">понданыс</s> <s pos="Adp" s_type="see">понданыт</s> <s pos="Adp" s_type="see">пондас</s> <s pos="Adp" s_type="see">пондат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -9714,8 +9438,7 @@
        <xt xml:lang="rus">[он] для себя собирает книги</xt>
      </xg>
    </mg>
-   <mg>
-<sg><s s_type="see">пондасим</s><s s_type="see">пондасиным</s><s s_type="see">пондасиныс</s><s s_type="see">пондасиныт</s><s s_type="see">пондасис</s><s s_type="see">пондасит</s> </sg>
+   <mg> <sg><s s_type="see">пондасим</s><s s_type="see">пондасиным</s><s s_type="see">пондасиныс</s><s s_type="see">пондасиныт</s><s s_type="see">пондасис</s><s s_type="see">пондасит</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -9997,15 +9720,7 @@
        <xt xml:lang="rus">заболеть после родов</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">понсим</s>
-       <s pos="Adp" s_type="see">понсиным</s>
-       <s pos="Adp" s_type="see">понсиныс</s>
-       <s pos="Adp" s_type="see">понсиныт</s>
-       <s pos="Adp" s_type="see">понсис</s>
-       <s pos="Adp" s_type="see">понсит</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">понсим</s> <s pos="Adp" s_type="see">понсиным</s> <s pos="Adp" s_type="see">понсиныс</s> <s pos="Adp" s_type="see">понсиныт</s> <s pos="Adp" s_type="see">понсис</s> <s pos="Adp" s_type="see">понсит</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -10401,15 +10116,8 @@
        <x>ва пытшкӧ лэдзны</x>
        <xt xml:lang="rus">опуститьв воду</xt>
      </xg>
-</mg><mg>
-     <sg>
-       <s pos="Adp" s_type="see">пытшкам</s>
-       <s pos="Adp" s_type="see">пытшканым</s>
-       <s pos="Adp" s_type="see">пытшканыс</s>
-       <s pos="Adp" s_type="see">пытшканыт</s>
-       <s pos="Adp" s_type="see">пытшкас</s>
-       <s pos="Adp" s_type="see">пытшкат</s>
-     </sg>
+   </mg>
+   <mg> <sg> <s pos="Adp" s_type="see">пытшкам</s> <s pos="Adp" s_type="see">пытшканым</s> <s pos="Adp" s_type="see">пытшканыс</s> <s pos="Adp" s_type="see">пытшканыт</s> <s pos="Adp" s_type="see">пытшкас</s> <s pos="Adp" s_type="see">пытшкат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -10496,15 +10204,7 @@
        <xt xml:lang="rus">трактор пашет за нашей деревней</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">сайланям</s>
-       <s pos="Adp" s_type="see">сайланяным</s>
-       <s pos="Adp" s_type="see">сайланяныс</s>
-       <s pos="Adp" s_type="see">сайланяныт</s>
-       <s pos="Adp" s_type="see">сайланяс</s>
-       <s pos="Adp" s_type="see">сайланят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">сайланям</s> <s pos="Adp" s_type="see">сайланяным</s> <s pos="Adp" s_type="see">сайланяныс</s> <s pos="Adp" s_type="see">сайланяныт</s> <s pos="Adp" s_type="see">сайланяс</s> <s pos="Adp" s_type="see">сайланят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -10642,15 +10342,7 @@
        <xt xml:lang="rus">помощь с твоей стороны была своевременной</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">сайсяням</s>
-       <s pos="Adp" s_type="see">сайсяняным</s>
-       <s pos="Adp" s_type="see">сайсяняныс</s>
-       <s pos="Adp" s_type="see">сайсяняныт</s>
-       <s pos="Adp" s_type="see">сайсяняс</s>
-       <s pos="Adp" s_type="see">сайсянят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">сайсяням</s> <s pos="Adp" s_type="see">сайсяняным</s> <s pos="Adp" s_type="see">сайсяняныс</s> <s pos="Adp" s_type="see">сайсяняныт</s> <s pos="Adp" s_type="see">сайсяняс</s> <s pos="Adp" s_type="see">сайсянят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -10839,15 +10531,7 @@
        <xt xml:lang="rus">луна скрылась за тучу</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">саям</s>
-       <s pos="Adp" s_type="see">саяным</s>
-       <s pos="Adp" s_type="see">саяныс</s>
-       <s pos="Adp" s_type="see">саяныт</s>
-       <s pos="Adp" s_type="see">саяс</s>
-       <s pos="Adp" s_type="see">саят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">саям</s> <s pos="Adp" s_type="see">саяным</s> <s pos="Adp" s_type="see">саяныс</s> <s pos="Adp" s_type="see">саяныт</s> <s pos="Adp" s_type="see">саяс</s> <s pos="Adp" s_type="see">саят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -10866,15 +10550,7 @@
        <xt xml:lang="rus">по ягоды ходят за лог</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">сайӧдззам</s>
-       <s pos="Adp" s_type="see">сайӧдззаным</s>
-       <s pos="Adp" s_type="see">сайӧдззаныс</s>
-       <s pos="Adp" s_type="see">сайӧдззаныт</s>
-       <s pos="Adp" s_type="see">сайӧдззас</s>
-       <s pos="Adp" s_type="see">сайӧдззат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">сайӧдззам</s> <s pos="Adp" s_type="see">сайӧдззаным</s> <s pos="Adp" s_type="see">сайӧдззаныс</s> <s pos="Adp" s_type="see">сайӧдззаныт</s> <s pos="Adp" s_type="see">сайӧдззас</s> <s pos="Adp" s_type="see">сайӧдззат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -10982,15 +10658,7 @@
        <xt xml:lang="rus">за рощей проходит шоссе</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">сайӧттям</s>
-       <s pos="Adp" s_type="see">сайӧттяным</s>
-       <s pos="Adp" s_type="see">сайӧттяныс</s>
-       <s pos="Adp" s_type="see">сайӧттяныт</s>
-       <s pos="Adp" s_type="see">сайӧттяс</s>
-       <s pos="Adp" s_type="see">сайӧттят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">сайӧттям</s> <s pos="Adp" s_type="see">сайӧттяным</s> <s pos="Adp" s_type="see">сайӧттяныс</s> <s pos="Adp" s_type="see">сайӧттяныт</s> <s pos="Adp" s_type="see">сайӧттяс</s> <s pos="Adp" s_type="see">сайӧттят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -11365,15 +11033,8 @@
        <x>йики каттисьӧкок сьӧр</x>
        <xt xml:lang="rus">мякина пристаёт к ногам</xt>
      </xg>
-</mg><mg>
-     <sg>
-       <s pos="Adp" s_type="see">сьӧрам</s>
-       <s pos="Adp" s_type="see">сьӧраным</s>
-       <s pos="Adp" s_type="see">сьӧраныс</s>
-       <s pos="Adp" s_type="see">сьӧраныт</s>
-       <s pos="Adp" s_type="see">сьӧрас</s>
-       <s pos="Adp" s_type="see">сьӧрат</s>
-     </sg>
+   </mg>
+   <mg> <sg> <s pos="Adp" s_type="see">сьӧрам</s> <s pos="Adp" s_type="see">сьӧраным</s> <s pos="Adp" s_type="see">сьӧраныс</s> <s pos="Adp" s_type="see">сьӧраныт</s> <s pos="Adp" s_type="see">сьӧрас</s> <s pos="Adp" s_type="see">сьӧрат</s> </sg>
      <xg>
        <x>ас сьӧр</x>
        <xt xml:lang="rus">своенравный</xt>
@@ -11823,15 +11484,7 @@
        <xt xml:lang="rus">ключ из-под горы бьёт ключ</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">увтсяням</s>
-       <s pos="Adp" s_type="see">увтсяняным</s>
-       <s pos="Adp" s_type="see">увтсяняныс</s>
-       <s pos="Adp" s_type="see">увтсяняныт</s>
-       <s pos="Adp" s_type="see">увтсяняс</s>
-       <s pos="Adp" s_type="see">увтсянят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">увтсяням</s> <s pos="Adp" s_type="see">увтсяняным</s> <s pos="Adp" s_type="see">увтсяняныс</s> <s pos="Adp" s_type="see">увтсяняныт</s> <s pos="Adp" s_type="see">увтсяняс</s> <s pos="Adp" s_type="see">увтсянят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -11935,15 +11588,7 @@
        <xt xml:lang="rus">спуститься к подножью горы</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">увтӧдззам</s>
-       <s pos="Adp" s_type="see">увтӧдззаным</s>
-       <s pos="Adp" s_type="see">увтӧдззаныс</s>
-       <s pos="Adp" s_type="see">увтӧдззаныт</s>
-       <s pos="Adp" s_type="see">увтӧдззас</s>
-       <s pos="Adp" s_type="see">увтӧдззат</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">увтӧдззам</s> <s pos="Adp" s_type="see">увтӧдззаным</s> <s pos="Adp" s_type="see">увтӧдззаныс</s> <s pos="Adp" s_type="see">увтӧдззаныт</s> <s pos="Adp" s_type="see">увтӧдззас</s> <s pos="Adp" s_type="see">увтӧдззат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -12072,15 +11717,7 @@
        <xt xml:lang="rus">дорога проходит под изгородью</xt>
      </xg>
    </mg>
-   <mg>
-     <sg>
-       <s pos="Adp" s_type="see">увтӧттям</s>
-       <s pos="Adp" s_type="see">увтӧттяным</s>
-       <s pos="Adp" s_type="see">увтӧттяныс</s>
-       <s pos="Adp" s_type="see">увтӧттяныт</s>
-       <s pos="Adp" s_type="see">увтӧттяс</s>
-       <s pos="Adp" s_type="see">увтӧттят</s>
-     </sg>
+   <mg> <sg> <s pos="Adp" s_type="see">увтӧттям</s> <s pos="Adp" s_type="see">увтӧттяным</s> <s pos="Adp" s_type="see">увтӧттяныс</s> <s pos="Adp" s_type="see">увтӧттяныт</s> <s pos="Adp" s_type="see">увтӧттяс</s> <s pos="Adp" s_type="see">увтӧттят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -12442,15 +12079,8 @@
        <x>томмез гажӧтчисӧ ой шӧрӧдз</x>
        <xt xml:lang="rus">молодёжь веселилась до полуночи</xt>
      </xg>
-</mg><mg>
-     <sg>
-       <s pos="Adp" s_type="see">шӧрӧдззам</s>
-       <s pos="Adp" s_type="see">шӧрӧдззаным</s>
-       <s pos="Adp" s_type="see">шӧрӧдззаныс</s>
-       <s pos="Adp" s_type="see">шӧрӧдззаныт</s>
-       <s pos="Adp" s_type="see">шӧрӧдззас</s>
-       <s pos="Adp" s_type="see">шӧрӧдззат</s>
-     </sg>
+   </mg>
+   <mg> <sg> <s pos="Adp" s_type="see">шӧрӧдззам</s> <s pos="Adp" s_type="see">шӧрӧдззаным</s> <s pos="Adp" s_type="see">шӧрӧдззаныс</s> <s pos="Adp" s_type="see">шӧрӧдззаныт</s> <s pos="Adp" s_type="see">шӧрӧдззас</s> <s pos="Adp" s_type="see">шӧрӧдззат</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -12582,15 +12212,7 @@
      <xg>
        <x>лог шӧрӧт котӧртӧ шор</x>
        <xt xml:lang="rus">посреди оврага течёт ручей</xt>
-     </xg>
-     <sg>
-       <s pos="Adp" s_type="see">шӧрӧттям</s>
-       <s pos="Adp" s_type="see">шӧрӧттяным</s>
-       <s pos="Adp" s_type="see">шӧрӧттяныс</s>
-       <s pos="Adp" s_type="see">шӧрӧттяныт</s>
-       <s pos="Adp" s_type="see">шӧрӧттяс</s>
-       <s pos="Adp" s_type="see">шӧрӧттят</s>
-     </sg>
+     </xg> <sg> <s pos="Adp" s_type="see">шӧрӧттям</s> <s pos="Adp" s_type="see">шӧрӧттяным</s> <s pos="Adp" s_type="see">шӧрӧттяныс</s> <s pos="Adp" s_type="see">шӧрӧттяныт</s> <s pos="Adp" s_type="see">шӧрӧттяс</s> <s pos="Adp" s_type="see">шӧрӧттят</s> </sg>
    </mg>
 </e>
 <e order="2">
@@ -12616,15 +12238,7 @@
      <xg>
        <x>туйыс мунӧ видз шӧрӧт</x>
        <xt xml:lang="rus">дорога идёт через луг</xt>
-     </xg>
-     <sg>
-       <s pos="Adp" s_type="see">шӧрӧттям</s>
-       <s pos="Adp" s_type="see">шӧрӧттяным</s>
-       <s pos="Adp" s_type="see">шӧрӧттяныс</s>
-       <s pos="Adp" s_type="see">шӧрӧттяныт</s>
-       <s pos="Adp" s_type="see">шӧрӧттяс</s>
-       <s pos="Adp" s_type="see">шӧрӧттят</s>
-     </sg>
+     </xg> <sg> <s pos="Adp" s_type="see">шӧрӧттям</s> <s pos="Adp" s_type="see">шӧрӧттяным</s> <s pos="Adp" s_type="see">шӧрӧттяныс</s> <s pos="Adp" s_type="see">шӧрӧттяныт</s> <s pos="Adp" s_type="see">шӧрӧттяс</s> <s pos="Adp" s_type="see">шӧрӧттят</s> </sg>
    </mg>
 </e>
 <e order="2">

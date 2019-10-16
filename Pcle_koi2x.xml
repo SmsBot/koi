@@ -1,26 +1,114 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
 <e>
    <lg>
-     <l pos="Pcle">разь</l>
+     <l pos="Pcle">а</l>
      <stg>
-       <st Contlex="PCLE_">разь</st>
+       <st Contlex="PCLE_">а</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="V">{частица вопр.}</t>
+       <t pos="Pcle">{вопр.} а</t>
      </tg>
      <xg>
-       <x>разве</x>
-       <xt xml:lang="rus"></xt>
+       <x>мый чӧлан, а?</x>
+       <xt xml:lang="rus">почему молчишь, а?</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>{усил.} (в конце сложного предложения) а ведь</t>
+     </tg>
+     <xg>
+       <x>сія эз лок, мӧдіс а</x>
+       <xt xml:lang="rus">он не приехал, а обещал ведь</xt>
      </xg>
      <xg>
-       <x>разь нія ӧшӧмась вӧрас?</x>
-       <xt xml:lang="rus">разве они потерялись в лесу?</xt>
+       <x>сія эз мун удж вылӧ, тшӧктісӧ а</x>
+       <xt xml:lang="rus">он не пошел на работу, а ведь велели</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">абу</l>
+     <stg>
+       <st Contlex="PCLE_">абу</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t>не</t>
+     </tg>
+     <xg>
+       <x>абу сідз</x>
+       <xt xml:lang="rus">не так</xt>
      </xg>
      <xg>
-       <x>разь сія эз лок? </x>
-       <xt xml:lang="rus">разве он не пришёл?</xt>
+       <x>абу ни сія морт, а зверь</x>
+       <xt xml:lang="rus">он не человек, а зверь</xt>
+     </xg>
+     <xg>
+       <x>сія кӧркӧ абу велӧтчылӧма</x>
+       <xt xml:lang="rus">он в своё время, оказывается, не учился</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>{с прил. и нареч.} не-</t>
+     </tg>
+     <xg>
+       <x>абу бур </x>
+       <xt xml:lang="rus">нехорошо</xt>
+     </xg>
+     <xg>
+       <x>абу дона</x>
+       <xt xml:lang="rus">недорогой</xt>
+     </xg>
+     <xg>
+       <x>абу ыджыт</x>
+       <xt xml:lang="rus">небольшой</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t>нет</t>
+     </tg>
+     <xg>
+       <x>абу, абу сія талун гортас</x>
+       <xt xml:lang="rus">нет, нет его сегодня дома</xt>
+     </xg>
+     <xg>
+       <x>челядьыс сылӧн абуӧсь </x>
+       <xt xml:lang="rus">детей у него нет</xt>
+     </xg>
+     <xg>
+       <x>деньга немымда абу</x>
+       <xt xml:lang="rus">денег совсем нет.</xt>
+     </xg>
+     <xg>
+       <x>абуӧдз воштыны</x>
+       <xt xml:lang="rus">довести до нищеты</xt>
+     </xg>
+     <xg>
+       <x>абусис нем лӧгасьны</x>
+       <xt xml:lang="rus">из-за пустяка нечего сердиться</xt>
+     </xg>
+     <xg>
+       <x>абусӧ не тӧдны</x>
+       <xt xml:lang="rus">не знать нужды</xt>
+     </xg>
+     <xg>
+       <x>абусӧ эн модь </x>
+       <xt xml:lang="rus">(</xt>
+     </xg>
+     <xg>
+       <x>лёб</x>
+       <xt xml:lang="rus">) не болтай пустое, не говори чего не было</xt>
+     </xg>
+     <xg>
+       <x>абусӧ эн ышты</x>
+       <xt xml:lang="rus">не привирай, не строй из себя</xt>
      </xg>
    </mg>
 </e>
@@ -170,114 +258,26 @@
 </e>
 <e>
    <lg>
-     <l pos="Pcle">а</l>
+     <l pos="Pcle">разь</l>
      <stg>
-       <st Contlex="PCLE_">а</st>
+       <st Contlex="PCLE_">разь</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Pcle">{вопр.} а</t>
+       <t pos="V">{частица вопр.}</t>
      </tg>
      <xg>
-       <x>мый чӧлан, а?</x>
-       <xt xml:lang="rus">почему молчишь, а?</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>{усил.} (в конце сложного предложения) а ведь</t>
-     </tg>
-     <xg>
-       <x>сія эз лок, мӧдіс а</x>
-       <xt xml:lang="rus">он не приехал, а обещал ведь</xt>
+       <x>разве</x>
+       <xt xml:lang="rus"/>
      </xg>
      <xg>
-       <x>сія эз мун удж вылӧ, тшӧктісӧ а</x>
-       <xt xml:lang="rus">он не пошел на работу, а ведь велели</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Pcle">абу</l>
-     <stg>
-       <st Contlex="PCLE_">абу</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>не</t>
-     </tg>
-     <xg>
-       <x>абу сідз</x>
-       <xt xml:lang="rus">не так</xt>
+       <x>разь нія ӧшӧмась вӧрас?</x>
+       <xt xml:lang="rus">разве они потерялись в лесу?</xt>
      </xg>
      <xg>
-       <x>абу ни сія морт, а зверь</x>
-       <xt xml:lang="rus">он не человек, а зверь</xt>
-     </xg>
-     <xg>
-       <x>сія кӧркӧ абу велӧтчылӧма</x>
-       <xt xml:lang="rus">он в своё время, оказывается, не учился</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>{с прил. и нареч.} не-</t>
-     </tg>
-     <xg>
-       <x>абу бур </x>
-       <xt xml:lang="rus">нехорошо</xt>
-     </xg>
-     <xg>
-       <x>абу дона</x>
-       <xt xml:lang="rus">недорогой</xt>
-     </xg>
-     <xg>
-       <x>абу ыджыт</x>
-       <xt xml:lang="rus">небольшой</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>нет</t>
-     </tg>
-     <xg>
-       <x>абу, абу сія талун гортас</x>
-       <xt xml:lang="rus">нет, нет его сегодня дома</xt>
-     </xg>
-     <xg>
-       <x>челядьыс сылӧн абуӧсь </x>
-       <xt xml:lang="rus">детей у него нет</xt>
-     </xg>
-     <xg>
-       <x>деньга немымда абу</x>
-       <xt xml:lang="rus">денег совсем нет.</xt>
-     </xg>
-     <xg>
-       <x>абуӧдз воштыны</x>
-       <xt xml:lang="rus">довести до нищеты</xt>
-     </xg>
-     <xg>
-       <x>абусис нем лӧгасьны</x>
-       <xt xml:lang="rus">из-за пустяка нечего сердиться</xt>
-     </xg>
-     <xg>
-       <x>абусӧ не тӧдны</x>
-       <xt xml:lang="rus">не знать нужды</xt>
-     </xg>
-     <xg>
-       <x>абусӧ эн модь </x>
-       <xt xml:lang="rus">(</xt>
-     </xg>
-     <xg>
-       <x>лёб</x>
-       <xt xml:lang="rus">) не болтай пустое, не говори чего не было</xt>
-     </xg>
-     <xg>
-       <x>абусӧ эн ышты</x>
-       <xt xml:lang="rus">не привирай, не строй из себя</xt>
+       <x>разь сія эз лок? </x>
+       <xt xml:lang="rus">разве он не пришёл?</xt>
      </xg>
    </mg>
 </e>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
 <e>
    <lg>
      <l pos="Pron">ас</l>
@@ -1177,7 +1177,7 @@
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Pron"></t>
+       <t pos="Pron"/>
      </tg>
      <xg>
        <x>сійӧ асьсӧ колӧ берегитны</x>
@@ -1351,45 +1351,6 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="Pron">нія</l>
-     <stg>
-       <st Contlex="PRON_">нія</st>
-       <st Contlex="PRON_" geo="чур.">на</st>
-       <st Contlex="PRON_" geo="н.-иньв.">ная</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Pron">они</t>
-     </tg>
-     <xg>
-       <x>нія олӧны бура</x>
-       <xt xml:lang="rus">они живут хорошо</xt>
-     </xg>
-     <xg>
-       <x>нія татісь</x>
-       <xt xml:lang="rus">они здешние</xt>
-     </xg>
-     <xg>
-       <x>нія быдӧнныс велӧтчӧны</x>
-       <xt xml:lang="rus">все они учатся</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">те</t>
-     </tg>
-     <xg>
-       <x>нія керкуэзын олӧны колхозниккез</x>
-       <xt xml:lang="rus">в тех домах живут колхозники</xt>
-     </xg>
-     <xg>
-       <x>нія годдэзӧ мийӧ вӧлім томӧсь</x>
-       <xt xml:lang="rus">в те годы мы были молоды</xt>
-     </xg>
-   </mg>
-</e>
-<e>
    <lg>
      <l pos="Pron">нем</l>
      <stg>
@@ -1489,44 +1450,7 @@
 </e>
 <e>
    <lg>
-     <l hid="Hom1" pos="Pron">став</l>
-     <stg>
-       <st Contlex="PRON_">став</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-<sg><s pos="Pron" s_type="see">ставень</s></sg>     <tg xml:lang="rus">
-       <t pos="Pron"></t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l hid="Hom2" pos="Pron">став</l>
-     <stg>
-       <st Contlex="PRON_">став</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <geo>сев.</geo><tg xml:lang="rus">
-       <t pos="Pron">весь, вся, всё</t>
-     </tg>
-     <xg>
-       <x>ставсӧ сія тӧдӧ</x>
-       <xt xml:lang="rus">! всё-то он знает!</xt>
-     </xg>
-     <xg>
-       <x>ставыс пӧ кывсьӧм ни</x>
-       <xt xml:lang="rus">говорят, что обо всём уже известно</xt>
-     </xg>
-     <xg>
-       <x>сійӧстав деревняӧн панталӧмась</x>
-       <xt xml:lang="rus">его встретили всей деревней</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg><l pos="Pron">ныись</l>
+     <l pos="Pron">ныись</l>
      <stg>
        <st Contlex="PRON_">ныись</st>
      </stg>
@@ -1544,7 +1468,29 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="Pron">нылань</l>
+   <lg>
+     <l pos="Pron">ныкӧт</l>
+     <stg>
+       <st Contlex="PRON_">ныкӧт</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Pron">{соед. п. от} нія</t>
+     </tg>
+     <xg>
+       <x>эта шогмис ныкӧт</x>
+       <xt xml:lang="rus">это случилось с ними</xt>
+     </xg>
+     <xg>
+       <x>ныкӧт колӧ лӧсявны</x>
+       <xt xml:lang="rus">с ними надо ладить</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нылань</l>
      <stg>
        <st Contlex="PRON_">нылань</st>
      </stg>
@@ -1566,7 +1512,8 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="Pron">нылісь</l>
+   <lg>
+     <l pos="Pron">нылісь</l>
      <stg>
        <st Contlex="PRON_">нылісь</st>
      </stg>
@@ -1592,7 +1539,8 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="Pron">нылӧ</l>
+   <lg>
+     <l pos="Pron">нылӧ</l>
      <stg>
        <st Contlex="PRON_">нылӧ</st>
      </stg>
@@ -1614,7 +1562,8 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="Pron">нылӧн</l>
+   <lg>
+     <l pos="Pron">нылӧн</l>
      <stg>
        <st Contlex="PRON_">нылӧн</st>
      </stg>
@@ -1655,7 +1604,8 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="Pron">нысянь</l>
+   <lg>
+     <l pos="Pron">нысянь</l>
      <stg>
        <st Contlex="PRON_">нысянь</st>
      </stg>
@@ -1696,7 +1646,8 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="Pron">ныын</l>
+   <lg>
+     <l pos="Pron">ныын</l>
      <stg>
        <st Contlex="PRON_">ныын</st>
      </stg>
@@ -1718,7 +1669,8 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="Pron">нійӧ</l>
+   <lg>
+     <l pos="Pron">нійӧ</l>
      <stg>
        <st Contlex="PRON_">нійӧ</st>
      </stg>
@@ -1736,22 +1688,80 @@
    </mg>
 </e>
 <e>
-   <lg><l pos="Pron">ныкӧт</l>
+   <lg>
+     <l pos="Pron">нія</l>
      <stg>
-       <st Contlex="PRON_">ныкӧт</st>
+       <st Contlex="PRON_">нія</st>
+       <st Contlex="PRON_" geo="чур.">на</st>
+       <st Contlex="PRON_" geo="н.-иньв.">ная</st>
      </stg>
    </lg>
    <mg relId="0">
      <tg xml:lang="rus">
-       <t pos="Pron">{соед. п. от} нія</t>
+       <t pos="Pron">они</t>
      </tg>
      <xg>
-       <x>эта шогмис ныкӧт</x>
-       <xt xml:lang="rus">это случилось с ними</xt>
+       <x>нія олӧны бура</x>
+       <xt xml:lang="rus">они живут хорошо</xt>
      </xg>
      <xg>
-       <x>ныкӧт колӧ лӧсявны</x>
-       <xt xml:lang="rus">с ними надо ладить</xt>
+       <x>нія татісь</x>
+       <xt xml:lang="rus">они здешние</xt>
+     </xg>
+     <xg>
+       <x>нія быдӧнныс велӧтчӧны</x>
+       <xt xml:lang="rus">все они учатся</xt>
+     </xg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="V">те</t>
+     </tg>
+     <xg>
+       <x>нія керкуэзын олӧны колхозниккез</x>
+       <xt xml:lang="rus">в тех домах живут колхозники</xt>
+     </xg>
+     <xg>
+       <x>нія годдэзӧ мийӧ вӧлім томӧсь</x>
+       <xt xml:lang="rus">в те годы мы были молоды</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom1" pos="Pron">став</l>
+     <stg>
+       <st Contlex="PRON_">став</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <sg><s pos="Pron" s_type="see">ставень</s></sg>
+     <tg xml:lang="rus">
+       <t pos="Pron"/>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l hid="Hom2" pos="Pron">став</l>
+     <stg>
+       <st Contlex="PRON_">став</st>
+     </stg>
+   </lg>
+   <mg relId="0"> <geo>сев.</geo>
+     <tg xml:lang="rus">
+       <t pos="Pron">весь, вся, всё</t>
+     </tg>
+     <xg>
+       <x>ставсӧ сія тӧдӧ</x>
+       <xt xml:lang="rus">! всё-то он знает!</xt>
+     </xg>
+     <xg>
+       <x>ставыс пӧ кывсьӧм ни</x>
+       <xt xml:lang="rus">говорят, что обо всём уже известно</xt>
+     </xg>
+     <xg>
+       <x>сійӧстав деревняӧн панталӧмась</x>
+       <xt xml:lang="rus">его встретили всей деревней</xt>
      </xg>
    </mg>
 </e>

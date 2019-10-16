@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
+<e>
+   <lg>
+     <l pos="Adv">абужык</l>
+     <stg>
+       <st Contlex="ADV_">абужык</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">не так</t>
+     </tg>
+     <xg>
+       <x>эта абужык сьӧкыт</x>
+       <xt xml:lang="rus">это не так трудно</xt>
+     </xg>
+     <xg>
+       <x>тіян дынӧдз абужык ылын</x>
+       <xt xml:lang="rus">до вас не так далеко</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">абужык</l>
+     <stg>
+       <st Contlex="N_">абужык</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="A">нищий</t>
+       <t pos="A">неимущий</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="N">забитый человек</t>
+       <t pos="N">робкий человек</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="N">пустяк</t>
+       <t pos="N">ничто</t>
+     </tg>
+     <xg>
+       <x>споритны абужык понда</x>
+       <xt xml:lang="rus">спорить из-за пустяка, спорить из-за ничего</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="A">абутӧм</l>
@@ -49,7 +100,7 @@
    <lg>
      <l pos="A">абыз</l>
      <stg>
-       <st>абыз</st>
+       <st Contlex="A_">абыз</st>
      </stg>
    </lg>
      <sources>
@@ -260,7 +311,7 @@
    <lg>
      <l pos="A">айпӧв</l>
      <stg>
-       <st>айпӧв</st>
+       <st Contlex="A_">айпӧв</st>
      </stg>
    </lg>
      <sources>
@@ -619,9 +670,9 @@
        <comp ord="E1" pos="V">аскодявны</comp>
        <comp ord="E2" pos="Suf" type="прич."/></compg>
    </lg>
-   <mg relId="0">
-     <dom>лингв.</dom><tg xml:lang="rus">
-       <t pos="A"> ассимилированный</t>
+   <mg relId="0" domain="Linguistics:Лингвистика">
+     <tg xml:lang="rus">
+       <t pos="A">ассимилированный</t>
      </tg>
      <xg>
        <x>аскодялӧм звук</x>
@@ -679,7 +730,7 @@
    <lg>
      <l pos="A">аспытшкся</l>
      <stg>
-       <st>аспытшкся</st>
+       <st Contlex="A_">аспытшкся</st>
      </stg>
    </lg>
      <sources>
@@ -1147,6 +1198,32 @@
 </e>
 <e>
    <lg>
+     <l hid="Hom2" pos="N">бан</l>
+     <stg>
+       <st Contlex="N_">бан</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="N">береста, береста || берёстовый</t>
+       <t pos="A">берестяной</t>
+     </tg>
+     <xg>
+       <x>бан кульны</x>
+       <xt xml:lang="rus">драть берёсту</xt>
+     </xg>
+     <xg>
+       <x>бансӧ усикас кульӧны</x>
+       <xt xml:lang="rus">берёсту сдирают, когда она отстаёт</xt>
+     </xg>
+     <xg>
+       <x>бан гырдззим</x>
+       <xt xml:lang="rus">полосы берёсты (берестовины), свёрнутые в трубочку</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="A">бана</l>
      <stg>
        <st Contlex="A_">бана</st>
@@ -1453,9 +1530,9 @@
      <xg>
        <x>анну, белеюшко, эн горзы, ме чожа локта</x> <src>(С.Можаев)</src>
        <xt xml:lang="rus"/>
-     </xg>
-     <range>ласк.</range><tg xml:lang="rus">
-       <t pos="A"> беленький, миленький, родненький (о ребёнке)</t>
+     </xg> <range>ласк.</range>
+     <tg xml:lang="rus">
+       <t pos="A">беленький, миленький, родненький (о ребёнке)</t>
      </tg>
      <xg>
        <x>сёйӧ, белейез, сёйӧ</x>
@@ -1470,9 +1547,9 @@
        <st Contlex="A_">белеюшко</st>
      </stg>
    </lg>
-   <mg relId="0">
-     <range>ласк.</range><tg xml:lang="rus">
-       <t pos="A"> родненький (о ребёнке)</t>
+   <mg relId="0"> <range>ласк.</range>
+     <tg xml:lang="rus">
+       <t pos="A">родненький (о ребёнке)</t>
      </tg>
      <xg>
        <x>белеюшкоыс менам</x>
@@ -1484,7 +1561,7 @@
    <lg>
      <l pos="A">бель</l>
      <stg>
-       <st>бель</st>
+       <st Contlex="A_">бель</st>
      </stg>
    </lg>
      <sources>
@@ -1504,6 +1581,28 @@
        <x>бель видзӧ</x>
        <xt xml:lang="kpv">вач еджыд гӧгӧр</xt>
      </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бергалан</l>
+     <stg>
+       <st Contlex="A_">бергалан</st>
+       <st Contlex="A_" geo="иньв.">бергаван</st>
+     </stg>
+     <compg drv="V:Suf»Prc" type="Der">
+       <comp ord="E1" pos="V">бергавны</comp>
+       <comp ord="E2" pos="Suf" type="прич."/></compg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="A">вращающийся</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="A">вращательный</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -2218,6 +2317,22 @@
 </e>
 <e>
    <lg>
+     <l pos="N">босьтасись</l>
+     <stg>
+       <st Contlex="N_">босьтасись</st>
+     </stg>
+     <compg drv="V:Suf»N" type="Der">
+       <comp ord="E1" pos="V">босьтасьны</comp>
+       <comp ord="E2" pos="Suf" type="NomAct"/></compg>
+   </lg>
+   <mg>
+     <tg xml:lang="rus">
+       <t pos="N">покупатель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="A" type="Prc">босьтісь</l>
      <stg>
        <st Contlex="A_">босьтісь</st>
@@ -2314,9 +2429,9 @@
        <st Contlex="A_">бот</st>
      </stg>
    </lg>
-   <mg relId="0">
-     <dom>бот.</dom><tg xml:lang="rus">
-       <t pos="A"> ботало (шест, которым загоняют рыбу в сеть)</t>
+   <mg relId="0"> <dom>бот.</dom>
+     <tg xml:lang="rus">
+       <t pos="A">ботало (шест, которым загоняют рыбу в сеть)</t>
      </tg>
    </mg>
 </e>
@@ -2962,7 +3077,7 @@
    <lg>
      <l pos="A">быгрӧтчан</l>
      <stg>
-       <st>быгрӧтчан</st>
+       <st Contlex="A_">быгрӧтчан</st>
      </stg>
    </lg>
      <sources>
@@ -3498,7 +3613,7 @@
    <lg>
      <l pos="A">быльнӧй</l>
      <stg>
-       <st>быльнӧй</st>
+       <st Contlex="A_">быльнӧй</st>
      </stg>
    </lg>
      <sources>
@@ -4041,9 +4156,9 @@
        <t pos="A">{с каким-либо} хвостом</t>
      </tg>
    </mg>
-   <mg>
-     <range>перен.</range><range>разг.</range><tg xml:lang="rus">
-       <t pos="A"> с хвостом (о студентах, имеющих задолженность по успеваемости)</t>
+   <mg> <range>перен.</range><range>разг.</range>
+     <tg xml:lang="rus">
+       <t pos="A">с хвостом (о студентах, имеющих задолженность по успеваемости)</t>
      </tg>
    </mg>
    <mg>
@@ -7600,9 +7715,9 @@
        <comp ord="E1" pos="V">видзавны</comp>
        <comp ord="E2" pos="Suf" type="прич."/></compg>
    </lg>
-   <mg relId="0">
-     <dom>рел.</dom><tg xml:lang="rus">
-       <t pos="A"> 1. соблюдающий пост</t>
+   <mg relId="0"> <dom>рел.</dom>
+     <tg xml:lang="rus">
+       <t pos="A">1. соблюдающий пост</t>
      </tg>
    </mg>
    <mg>
@@ -8294,7 +8409,7 @@
    <lg>
      <l pos="A">викеран</l>
      <stg>
-       <st>викеран</st>
+       <st Contlex="A_">викеран</st>
      </stg>
    </lg>
      <sources>
@@ -8501,7 +8616,7 @@
    <lg>
      <l pos="A">винер</l>
      <stg>
-       <st>винер</st>
+       <st Contlex="A_">винер</st>
      </stg>
    </lg>
      <sources>
@@ -8594,7 +8709,7 @@
    <lg>
      <l pos="A">виньӧрик</l>
      <stg>
-       <st>виньӧр(ик)</st>
+       <st Contlex="A_">виньӧр(ик)</st>
      </stg>
    </lg>
      <sources>
@@ -9111,9 +9226,9 @@
        <st Contlex="A_">вота</st>
      </stg>
    </lg>
-   <mg relId="0">
-     <dom>ист.</dom><tg xml:lang="rus">
-       <t pos="A"> податной</t>
+   <mg relId="0"> <dom>ист.</dom>
+     <tg xml:lang="rus">
+       <t pos="A">податной</t>
        <t pos="A">оброчный</t>
      </tg>
    </mg>
@@ -12539,7 +12654,7 @@
    <lg>
      <l pos="A">горӧнӧв</l>
      <stg>
-       <st>горӧнӧв</st>
+       <st Contlex="A_">горӧнӧв</st>
      </stg>
    </lg>
      <sources>
@@ -14007,7 +14122,7 @@
    <lg>
      <l pos="A">дзарньӧв</l>
      <stg>
-       <st>дзарньӧв</st>
+       <st Contlex="A_">дзарньӧв</st>
      </stg>
    </lg>
      <sources>
@@ -14437,7 +14552,7 @@
    <lg>
      <l pos="A">дзирыт</l>
      <stg>
-       <st>дзирыт</st>
+       <st Contlex="A_">дзирыт</st>
      </stg>
    </lg>
      <sources>
@@ -14549,6 +14664,23 @@
      <xg>
        <x>дзор рӧма</x>
        <xt xml:lang="rus">белёсый, сероватый</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дзор</l>
+     <stg>
+       <st Contlex="N_">дзор</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="N">седина, седые волосы</t>
+     </tg>
+     <xg>
+       <x>дзорӧдз овны</x>
+       <xt xml:lang="rus">дожить до седин</xt>
      </xg>
    </mg>
 </e>
@@ -16056,7 +16188,7 @@
    <lg>
      <l pos="A">дӧс</l>
      <stg>
-       <st>дӧс</st>
+       <st Contlex="A_">дӧс</st>
      </stg>
    </lg>
      <sources>
@@ -16841,7 +16973,7 @@
    <lg>
      <l pos="A">жыммез</l>
      <stg>
-       <st>жыммез</st>
+       <st Contlex="A_">жыммез</st>
      </stg>
    </lg>
      <sources>
@@ -16893,7 +17025,7 @@
    <lg>
      <l pos="A">запона</l>
      <stg>
-       <st>запона</st>
+       <st Contlex="A_">запона</st>
      </stg>
    </lg>
      <sources>
@@ -18145,7 +18277,7 @@
    <lg>
      <l pos="A">йикиа</l>
      <stg>
-       <st>йикиа</st>
+       <st Contlex="A_">йикиа</st>
      </stg>
    </lg>
      <sources>
@@ -18167,7 +18299,7 @@
    <lg>
      <l pos="A">йыовӧй</l>
      <stg>
-       <st>йыовӧй</st>
+       <st Contlex="A_">йыовӧй</st>
      </stg>
    </lg>
      <sources>
@@ -18202,7 +18334,7 @@
    <lg>
      <l pos="A">каз</l>
      <stg>
-       <st>каз</st>
+       <st Contlex="A_">каз</st>
      </stg>
    </lg>
      <sources>
@@ -18537,7 +18669,7 @@
    <lg>
      <l pos="A">калян</l>
      <stg>
-       <st>калян</st>
+       <st Contlex="A_">калян</st>
      </stg>
    </lg>
      <sources>
@@ -19767,9 +19899,9 @@
        <xt xml:lang="rus">разваленное хозяйство</xt>
      </xg>
    </mg>
-   <mg>
-     <dom>тех.</dom><tg xml:lang="rus">
-       <t pos="A"> отлитый</t>
+   <mg> <dom>тех.</dom>
+     <tg xml:lang="rus">
+       <t pos="A">отлитый</t>
      </tg>
    </mg>
 </e>
@@ -20588,7 +20720,7 @@
    <lg>
      <l pos="A">комолӧй</l>
      <stg>
-       <st>комолӧй</st>
+       <st Contlex="A_">комолӧй</st>
      </stg>
    </lg>
      <sources>
@@ -20787,7 +20919,7 @@
    <lg>
      <l pos="A">корпося</l>
      <stg>
-       <st>корпося</st>
+       <st Contlex="A_">корпося</st>
      </stg>
    </lg>
      <sources>
@@ -21884,9 +22016,9 @@
        <st Contlex="A_">кулисвӧн</st>
      </stg>
    </lg>
-   <mg relId="0">
-     <geo>иньв.</geo><range>бран.</range><tg xml:lang="rus">
-       <t pos="A"> чертовский</t>
+   <mg relId="0"> <geo>иньв.</geo><range>бран.</range>
+     <tg xml:lang="rus">
+       <t pos="A">чертовский</t>
        <t pos="A">поганый</t>
      </tg>
      <xg>
@@ -21946,7 +22078,7 @@
    <lg>
      <l pos="A">кульысвӧн</l>
      <stg>
-       <st>кульыслӧн / кульысвӧн</st>
+       <st Contlex="A_">кульыслӧн / кульысвӧн</st>
      </stg>
    </lg>
      <sources>
@@ -21974,7 +22106,7 @@
    <lg>
      <l pos="A">кульыслӧн</l>
      <stg>
-       <st>кульыслӧн / кульысвӧн</st>
+       <st Contlex="A_">кульыслӧн / кульысвӧн</st>
      </stg>
    </lg>
      <sources>
@@ -23451,6 +23583,20 @@
        <x>кывтӧм кер</x>
        <xt xml:lang="rus">уплывшее бревно</xt>
      </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A">кывтӧм-пельтӧм</l>
+     <stg>
+       <st Contlex="A_">кывтӧм-пельтӧм</st>
+       <st Contlex="A_" geo="сев.">кылтӧм-пельтӧм</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="A">глухонемой</t>
+     </tg>
    </mg>
 </e>
 <e>
@@ -25887,9 +26033,9 @@
        <xt xml:lang="rus">бестолковый человек</xt>
      </xg>
    </mg>
-   <mg>
-     <geo>лев.</geo><tg xml:lang="rus">
-       <t pos="A"> дикий</t>
+   <mg> <geo>лев.</geo>
+     <tg xml:lang="rus">
+       <t pos="A">дикий</t>
        <t pos="A">необузданный</t>
      </tg>
    </mg>
@@ -26019,9 +26165,9 @@
        <xt xml:lang="rus">развесистая берёза</xt>
      </xg>
    </mg>
-   <mg>
-     <geo>чур.</geo><tg xml:lang="rus">
-       <t pos="A"> низкий</t>
+   <mg> <geo>чур.</geo>
+     <tg xml:lang="rus">
+       <t pos="A">низкий</t>
        <t pos="A">невысокий</t>
      </tg>
      <xg>
@@ -26244,9 +26390,9 @@
        <xt xml:lang="rus"><src_type>посл.</src_type> когда камбий сходит, тогда его и снимай; {соотв.} куй железо пока горячо</xt>
      </xg>
    </mg>
-   <mg>
-     <geo>юсьв.</geo><tg xml:lang="rus">
-       <t pos="A"> сок</t>
+   <mg> <geo>юсьв.</geo>
+     <tg xml:lang="rus">
+       <t pos="A">сок</t>
      </tg>
      <xg>
        <x>кыдз ли</x>
@@ -27297,8 +27443,7 @@
        <comp ord="E1" pos="V">лыддьыны</comp>
        <comp ord="E2" pos="Suf" type="прич."/></compg>
    </lg>
-   <mg relId="0">
-     <sg><s pos="A" s_type="seeAlso">лыддьӧтан</s></sg>
+   <mg relId="0"> <sg><s pos="A" s_type="seeAlso">лыддьӧтан</s></sg>
      <tg xml:lang="rus">
        <t pos="A">{усол.} счёт</t>
      </tg>
@@ -28292,7 +28437,7 @@
    <lg>
      <l pos="A">люштыра</l>
      <stg>
-       <st>люштыра</st>
+       <st Contlex="A_">люштыра</st>
      </stg>
    </lg>
      <sources>
@@ -28734,7 +28879,7 @@
    <lg>
      <l pos="A">лёнчикися</l>
      <stg>
-       <st>лёнчикися</st>
+       <st Contlex="A_">лёнчикися</st>
      </stg>
    </lg>
      <sources>
@@ -29823,7 +29968,7 @@
    <lg>
      <l pos="A">масісь</l>
      <stg>
-       <st>масісь</st>
+       <st Contlex="A_">масісь</st>
      </stg>
    </lg>
      <sources>
@@ -30161,9 +30306,9 @@
        <t pos="A">мирской</t>
      </tg>
    </mg>
-   <mg>
-     <range>бран.</range><tg xml:lang="rus">
-       <t pos="A"> нагулянный. (о ребёнке)</t>
+   <mg> <range>бран.</range>
+     <tg xml:lang="rus">
+       <t pos="A">нагулянный. (о ребёнке)</t>
      </tg>
      <xg>
        <x>мирскӧй чужӧм</x>
@@ -30839,7 +30984,7 @@
    <lg>
      <l pos="A">муксим</l>
      <stg>
-       <st>муксим</st>
+       <st Contlex="A_">муксим</st>
      </stg>
    </lg>
      <sources>
@@ -31478,7 +31623,7 @@
    <lg>
      <l pos="A">мылаа</l>
      <stg>
-       <st>мылаа</st>
+       <st Contlex="A_">мылаа</st>
      </stg>
    </lg>
      <sources>
@@ -32428,7 +32573,7 @@
    <lg>
      <l pos="A">небытса</l>
      <stg>
-       <st>небытса</st>
+       <st Contlex="A_">небытса</st>
      </stg>
    </lg>
      <sources>
@@ -32606,7 +32751,7 @@
    <lg>
      <l pos="A">невежӧртана</l>
      <stg>
-       <st>невежӧртана</st>
+       <st Contlex="A_">невежӧртана</st>
      </stg>
    </lg>
      <sources>
@@ -32761,7 +32906,7 @@
    <lg>
      <l pos="A">недолыт</l>
      <stg>
-       <st>недолыт</st>
+       <st Contlex="A_">недолыт</st>
      </stg>
    </lg>
      <sources>
@@ -32796,7 +32941,7 @@
    <lg>
      <l pos="A">неетша</l>
      <stg>
-       <st>неетша</st>
+       <st Contlex="A_">неетша</st>
      </stg>
    </lg>
      <sources>
@@ -32944,7 +33089,7 @@
    <lg>
      <l pos="A">некокнит</l>
      <stg>
-       <st>некокнит</st>
+       <st Contlex="A_">некокнит</st>
      </stg>
    </lg>
      <sources>
@@ -32962,7 +33107,7 @@
    <lg>
      <l pos="A">некусан</l>
      <stg>
-       <st>некусан</st>
+       <st Contlex="A_">некусан</st>
      </stg>
    </lg>
      <sources>
@@ -32980,7 +33125,7 @@
    <lg>
      <l pos="A">некусана</l>
      <stg>
-       <st>некусана</st>
+       <st Contlex="A_">некусана</st>
      </stg>
    </lg>
      <sources>
@@ -33001,7 +33146,7 @@
    <lg>
      <l pos="A">некывзісь</l>
      <stg>
-       <st>некывзісь</st>
+       <st Contlex="A_">некывзісь</st>
      </stg>
    </lg>
      <sources>
@@ -33045,7 +33190,7 @@
    <lg>
      <l pos="A">нелюбӧй</l>
      <stg>
-       <st>нелюбӧй</st>
+       <st Contlex="A_">нелюбӧй</st>
      </stg>
    </lg>
      <sources>
@@ -33067,7 +33212,7 @@
    <lg>
      <l pos="A">непаськыт</l>
      <stg>
-       <st>непаськыт</st>
+       <st Contlex="A_">непаськыт</st>
      </stg>
    </lg>
      <sources>
@@ -33085,7 +33230,7 @@
    <lg>
      <l pos="A">неполісь</l>
      <stg>
-       <st>неполісь</st>
+       <st Contlex="A_">неполісь</st>
      </stg>
    </lg>
      <sources>
@@ -33158,9 +33303,9 @@
        <st Contlex="A_">нетопыр</st>
      </stg>
    </lg>
-   <mg relId="0">
-     <dom>зоол.</dom><tg xml:lang="rus">
-       <t pos="A"> нетопырь</t>
+   <mg relId="0"> <dom>зоол.</dom>
+     <tg xml:lang="rus">
+       <t pos="A">нетопырь</t>
      </tg>
    </mg>
    <mg><range>перен.</range>
@@ -33250,7 +33395,7 @@
    <lg>
      <l pos="A">нетыдалан</l>
      <stg>
-       <st>нетыдалан</st>
+       <st Contlex="A_">нетыдалан</st>
      </stg>
    </lg>
      <sources>
@@ -33288,7 +33433,7 @@
    <lg>
      <l pos="A">неумӧль</l>
      <stg>
-       <st>неумӧль</st>
+       <st Contlex="A_">неумӧль</st>
      </stg>
    </lg>
      <sources>
@@ -33352,7 +33497,7 @@
    <lg>
      <l pos="A">нешоча</l>
      <stg>
-       <st>нешоча</st>
+       <st Contlex="A_">нешоча</st>
      </stg>
    </lg>
      <sources>
@@ -33436,7 +33581,7 @@
    <lg>
      <l pos="A">неӧтпӧвса</l>
      <stg>
-       <st>неӧтпӧвса</st>
+       <st Contlex="A_">неӧтпӧвса</st>
      </stg>
    </lg>
      <sources>
@@ -34547,7 +34692,7 @@
    <lg>
      <l pos="A">ньыв</l>
      <stg>
-       <st>ньыв</st>
+       <st Contlex="A_">ньыв</st>
      </stg>
    </lg>
      <sources>
@@ -35327,9 +35472,9 @@
        <xt xml:lang="rus">сходить туда, где мнут лён</xt>
      </xg>
    </mg>
-   <mg>
-     <dom>с.-х.</dom><tg xml:lang="rus">
-       <t pos="A"> треста</t>
+   <mg> <dom>с.-х.</dom>
+     <tg xml:lang="rus">
+       <t pos="A">треста</t>
      </tg>
    </mg>
 </e>
@@ -37774,7 +37919,7 @@
    <lg>
      <l pos="A">падеж</l>
      <stg>
-       <st>падеж</st>
+       <st Contlex="A_">падеж</st>
      </stg>
    </lg>
      <sources>
@@ -37811,7 +37956,7 @@
    <lg>
      <l pos="A">падер</l>
      <stg>
-       <st>падер</st>
+       <st Contlex="A_">падер</st>
      </stg>
    </lg>
      <sources>
@@ -37837,7 +37982,7 @@
    <lg>
      <l pos="A">падера</l>
      <stg>
-       <st>падера</st>
+       <st Contlex="A_">падера</st>
      </stg>
    </lg>
      <sources>
@@ -43756,7 +43901,7 @@
    <lg>
      <l pos="A">потшша</l>
      <stg>
-       <st>потшша</st>
+       <st Contlex="A_">потшша</st>
      </stg>
    </lg>
      <sources>
@@ -43932,7 +44077,7 @@
    <lg>
      <l pos="A">прока</l>
      <stg>
-       <st>прока</st>
+       <st Contlex="A_">прока</st>
      </stg>
    </lg>
      <sources>
@@ -44480,7 +44625,7 @@
    <mg>
      <tg xml:lang="rus">
        <t pos="A">то, что предназначено для скручивания</t>
-       <t pos="A"></t>
+       <t pos="A"/>
      </tg><sg><s pos="A" s_type="see">путшкисян</s></sg>
    </mg>
 </e>
@@ -44977,7 +45122,7 @@
    <lg>
      <l pos="A">пым</l>
      <stg>
-       <st>пым</st>
+       <st Contlex="A_">пым</st>
      </stg>
    </lg>
      <sources>
@@ -45330,9 +45475,9 @@
        <t pos="A">невведённый</t>
      </tg>
    </mg>
-   <mg>
-     <dom>рел.</dom><tg xml:lang="rus">
-       <t pos="A"> некрещёный.</t>
+   <mg> <dom>рел.</dom>
+     <tg xml:lang="rus">
+       <t pos="A">некрещёный.</t>
      </tg>
      <xg>
        <x>пырттӧм кодь</x>
@@ -46721,7 +46866,7 @@
    <lg>
      <l pos="A">пӧрись</l>
      <stg>
-       <st>пӧрись</st>
+       <st Contlex="A_">пӧрись</st>
      </stg>
    </lg>
      <sources>
@@ -46960,9 +47105,9 @@
        <t pos="A">превратившийся, обратившийся {во что-либо}</t>
      </tg>
    </mg>
-   <mg>
-     <dom>фольк.</dom><tg xml:lang="rus">
-       <t pos="A"> обернувшийся, оборотившийся {кем-чем-либо}</t>
+   <mg> <dom>фольк.</dom>
+     <tg xml:lang="rus">
+       <t pos="A">обернувшийся, оборотившийся {кем-чем-либо}</t>
      </tg>
    </mg>
 </e>
@@ -48290,7 +48435,7 @@
    <lg>
      <l pos="A">розосвося</l>
      <stg>
-       <st>розосвося</st>
+       <st Contlex="A_">розосвося</st>
      </stg>
    </lg>
      <sources>
@@ -48968,10 +49113,9 @@
        <comp ord="E1" pos="V">садсьыны</comp>
        <comp ord="E2" pos="Suf" type="прич."/></compg>
    </lg>
-   <mg relId="0">
-     <sg><s pos="A" s_type="see">садісьӧм</s></sg>
+   <mg relId="0"> <sg><s pos="A" s_type="see">садісьӧм</s></sg>
      <tg xml:lang="rus">
-       <t pos="A"></t>
+       <t pos="A"/>
      </tg>
    </mg>
    <mg>
@@ -49408,7 +49552,7 @@
    <lg>
      <l pos="A">сапйӧсь</l>
      <stg>
-       <st>сапйӧсь</st>
+       <st Contlex="A_">сапйӧсь</st>
      </stg>
    </lg>
      <sources>
@@ -49539,7 +49683,7 @@
    <lg>
      <l pos="A">своячина</l>
      <stg>
-       <st>своячина</st>
+       <st Contlex="A_">своячина</st>
      </stg>
    </lg>
      <sources>
@@ -50150,7 +50294,7 @@
    <lg>
      <l pos="A">сина</l>
      <stg>
-       <st>сина</st>
+       <st Contlex="A_">сина</st>
      </stg>
    </lg>
      <sources>
@@ -50185,7 +50329,7 @@
    <lg>
      <l pos="A">синнэзісь би чеччӧ</l>
      <stg>
-       <st>синнэзісь би чеччӧ</st>
+       <st Contlex="A_">синнэзісь би чеччӧ</st>
      </stg>
    </lg>
      <sources>
@@ -50364,7 +50508,7 @@
    <lg>
      <l pos="A">слепӧй тамыш</l>
      <stg>
-       <st>слепӧй тамыш</st>
+       <st Contlex="A_">слепӧй тамыш</st>
      </stg>
    </lg>
      <sources>
@@ -50505,20 +50649,6 @@
 </e>
 <e>
    <lg>
-     <l pos="A">кывтӧм-пельтӧм</l>
-     <stg>
-       <st Contlex="A_">кывтӧм-пельтӧм</st>
-       <st Contlex="A_" geo="сев.">кылтӧм-пельтӧм</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="A">глухонемой</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
      <l pos="A" type="Prc">содӧм</l>
      <stg>
        <st Contlex="A_">содӧм</st>
@@ -50536,7 +50666,7 @@
    <lg>
      <l pos="A">созлӧй</l>
      <stg>
-       <st>созлӧй</st>
+       <st Contlex="A_">созлӧй</st>
      </stg>
    </lg>
      <sources>
@@ -51185,7 +51315,7 @@
    <lg>
      <l pos="A">стогодся</l>
      <stg>
-       <st>стогодся</st>
+       <st Contlex="A_">стогодся</st>
      </stg>
    </lg>
      <sources>
@@ -51206,7 +51336,7 @@
    <lg>
      <l pos="A">стожар</l>
      <stg>
-       <st>стожар</st>
+       <st Contlex="A_">стожар</st>
      </stg>
    </lg>
      <sources>
@@ -52293,9 +52423,9 @@
        <t pos="A">поющий величание (в честь {кого-либо})</t>
      </tg>
    </mg>
-   <mg><range>уст.</range>
-     <dom>церк.</dom><tg xml:lang="rus">
-       <t pos="A"> отпевающий</t>
+   <mg><range>уст.</range> <dom>церк.</dom>
+     <tg xml:lang="rus">
+       <t pos="A">отпевающий</t>
      </tg>
    </mg>
    <mg>
@@ -58242,9 +58372,9 @@
        <xt xml:lang="rus">лающая собака</xt>
      </xg>
    </mg>
-   <mg>
-     <range>перен.</range><range>прост.</range><tg xml:lang="rus">
-       <t pos="A"> ругающий</t>
+   <mg> <range>перен.</range><range>прост.</range>
+     <tg xml:lang="rus">
+       <t pos="A">ругающий</t>
      </tg>
    </mg>
    <mg>
@@ -62909,9 +63039,9 @@
        <t pos="A">шатающийся (без цели, без дела)</t>
      </tg>
    </mg>
-   <mg>
-     <range>ирон.</range><tg xml:lang="rus">
-       <t pos="A"> шляющийся; развратничающий</t>
+   <mg> <range>ирон.</range>
+     <tg xml:lang="rus">
+       <t pos="A">шляющийся; развратничающий</t>
      </tg>
    </mg>
    <mg>
@@ -62919,9 +63049,9 @@
        <t pos="A">1) тот, кто шатается, ходит, бродит (без цели, без дела)</t>
      </tg>
    </mg>
-   <mg>
-     <range>ирон.</range><tg xml:lang="rus">
-       <t pos="A"> тот, кто шляется (развратничает)</t>
+   <mg> <range>ирон.</range>
+     <tg xml:lang="rus">
+       <t pos="A">тот, кто шляется (развратничает)</t>
      </tg>
    </mg>
 </e>
@@ -64894,27 +65024,6 @@
        <t pos="A">подстрекающий</t>
      </tg>
    </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="A">1) тот, кто склоняет, побуждает, уговаривает</t>
-     </tg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="A">тот, кто подзадоривает, подстрекает</t>
-       <t pos="A">подстрекатель</t>
-     </tg>
-   </mg>
-   <mg>
-     <geo>Чеч.</geo><tg xml:lang="rus">
-       <t pos="A"> бунтовщик</t>
-     </tg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="A">{прип.} зачинщик</t>
-     </tg>
-   </mg>
 </e>
 <e>
    <lg>
@@ -65133,7 +65242,7 @@
    <lg>
      <l pos="A">ылӧстӧм</l>
      <stg>
-       <st>ылӧстӧм</st>
+       <st Contlex="A_">ылӧстӧм</st>
      </stg>
    </lg>
      <sources>
@@ -66780,6 +66889,30 @@
 </e>
 <e>
    <lg>
+     <l pos="Adv">ятнӧя</l>
+     <stg>
+       <st Contlex="ADV_">ятнӧя</st>
+     </stg>
+   </lg>
+   <mg relId="0">
+     <tg xml:lang="rus">
+       <t pos="Adv">ясно</t>
+       <t pos="Adv">чётко</t>
+       <t pos="Adv">отчётливо || ясный</t>
+       <t pos="A">чёткий</t>
+     </tg>
+     <xg>
+       <x>ятнӧя тыдалӧ</x>
+       <xt xml:lang="rus">чётко видно</xt>
+     </xg>
+     <xg>
+       <x>гижӧма ятнӧя</x>
+       <xt xml:lang="rus">написано разборчиво</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
      <l pos="A">яя</l>
      <stg>
        <st Contlex="A_">яя</st>
@@ -68009,7 +68142,7 @@
    <lg>
      <l pos="A">ӧнняся</l>
      <stg>
-       <st>ӧнняся</st>
+       <st Contlex="A_">ӧнняся</st>
      </stg>
    </lg>
      <sources>
@@ -68684,162 +68817,6 @@
      <xg>
        <x>ӧшӧтӧм люстра</x>
        <xt xml:lang="rus">подвешенная [к потолку] люстра</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">абужык</l>
-     <stg>
-       <st Contlex="ADV_">абужык</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Adv">не так</t>
-     </tg>
-     <xg>
-       <x>эта абужык сьӧкыт</x>
-       <xt xml:lang="rus">это не так трудно</xt>
-     </xg>
-     <xg>
-       <x>тіян дынӧдз абужык ылын</x>
-       <xt xml:lang="rus">до вас не так далеко</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">ятнӧя</l>
-     <stg>
-       <st Contlex="ADV_">ятнӧя</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Adv">ясно</t>
-       <t pos="Adv">чётко</t>
-       <t pos="Adv">отчётливо || ясный</t>
-       <t pos="A">чёткий</t>
-     </tg>
-     <xg>
-       <x>ятнӧя тыдалӧ</x>
-       <xt xml:lang="rus">чётко видно</xt>
-     </xg>
-     <xg>
-       <x>гижӧма ятнӧя</x>
-       <xt xml:lang="rus">написано разборчиво</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">абужык</l>
-     <stg>
-       <st Contlex="N_">абужык</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="A">нищий</t>
-       <t pos="A">неимущий</t>
-     </tg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="N">забитый человек</t>
-       <t pos="N">робкий человек</t>
-     </tg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="N">пустяк</t>
-       <t pos="N">ничто</t>
-     </tg>
-     <xg>
-       <x>споритны абужык понда</x>
-       <xt xml:lang="rus">спорить из-за пустяка, спорить из-за ничего</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l hid="Hom2" pos="N">бан</l>
-     <stg>
-       <st Contlex="N_">бан</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="N">береста, береста || берёстовый</t>
-       <t pos="A">берестяной</t>
-     </tg>
-     <xg>
-       <x>бан кульны</x>
-       <xt xml:lang="rus">драть берёсту</xt>
-     </xg>
-     <xg>
-       <x>бансӧ усикас кульӧны</x>
-       <xt xml:lang="rus">берёсту сдирают, когда она отстаёт</xt>
-     </xg>
-     <xg>
-       <x>бан гырдззим</x>
-       <xt xml:lang="rus">полосы берёсты (берестовины), свёрнутые в трубочку</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">бергалан</l>
-     <stg>
-       <st Contlex="A_">бергалан</st>
-       <st Contlex="A_" geo="иньв.">бергаван</st>
-     </stg>
-     <compg drv="V:Suf»Prc" type="Der">
-       <comp ord="E1" pos="V">бергавны</comp>
-       <comp ord="E2" pos="Suf" type="прич."/></compg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="A">вращающийся</t>
-     </tg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="A">вращательный</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">босьтасись</l>
-     <stg>
-       <st Contlex="N_">босьтасись</st>
-     </stg>
-     <compg drv="V:Suf»N" type="Der">
-       <comp ord="E1" pos="V">босьтасьны</comp>
-       <comp ord="E2" pos="Suf" type="NomAct"/></compg>
-   </lg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="N">покупатель</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="N">дзор</l>
-     <stg>
-       <st Contlex="N_">дзор</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="N">седина, седые волосы</t>
-     </tg>
-     <xg>
-       <x>дзорӧдз овны</x>
-       <xt xml:lang="rus">дожить до седин</xt>
      </xg>
    </mg>
 </e>
