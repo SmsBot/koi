@@ -1563,7 +1563,70 @@
      </xg>
    </mg>
 </e>
-<e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧнным</l>
+     <stg>
+       <st Contlex="PRON_">быдӧнным</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>все мы</t>
+     </tg>
+     <xg>
+       <x>быдӧнным мунам походӧ</x>
+       <xt xml:lang="rus">все мы идём в поход</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧнныс</l>
+     <stg>
+       <st Contlex="PRON_">быдӧнныс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>все они</t>
+     </tg>
+     <xg>
+       <x>быдӧнныс нія уджалӧны</x>
+       <xt xml:lang="rus">все они работают</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧнныт</l>
+     <stg>
+       <st Contlex="PRON_">быдӧнныт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>все вы</t>
+     </tg>
+     <xg>
+       <x>быдӧнныт тійӧ велӧтчатӧ</x>
+       <xt xml:lang="rus">все вы учитесь</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
    <lg>
      <l pos="Pron">быдӧс</l>
      <stg>
@@ -1575,14 +1638,312 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="kpv">
-       <t pos="Pron">ставыс</t>
-       <t pos="Pron">став</t>
-       <t pos="Pron">быдтор</t>
+     <tg xml:lang="rus">
+       <t>всё, весь</t>
      </tg>
      <xg>
+       <x>видзыштны быдӧс деньга</x>
+       <xt xml:lang="rus">израсходовать все деньги</xt>
+     </xg>
+     <xg>
+       <x>керны быдӧс заданнёэз</x>
+       <xt xml:lang="rus">выполнить все задания</xt>
+     </xg>
+     <xg>
+       <x>быдӧс кольччас быдса</x>
+       <xt xml:lang="rus">всё останется целым</xt>
+     </xg>
+     <xg>
+       <x>быдӧс Россия пасьтся</x>
+       <xt xml:lang="rus">всероссийский</xt>
+     </xg>
+     <xg>
+       <x>быдӧс Союз пасьтся</x>
+       <xt xml:lang="rus">всесоюзный.</xt>
+     </xg>
+     <xg>
+       <x>меным быдӧс ӧткодь</x>
+       <xt xml:lang="rus">мне всё равно</xt>
+     </xg>
+     <xg>
        <x>сы киись быдӧс петӧ</x>
-       <xt xml:lang="kpv">сы киын ставыс артмӧ</xt>
+       <xt xml:lang="rus">он мастер на все руки</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧссӧ</l>
+     <stg>
+       <st Contlex="PRON_">быдӧссӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>всего, итого</t>
+     </tg>
+     <xg>
+       <x>неделяын быдӧссӧ сизим лун</x>
+       <xt xml:lang="rus">в неделе всего семь дней</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быдӧсыс</l>
+     <stg>
+       <st Contlex="PRON_">быдӧсыс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">быйкӧб</l>
+     <stg>
+       <st Contlex="PRON_">быйкӧб</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">кин</l>
+     <stg>
+       <st Contlex="PRON_">кин</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>кто</t>
+     </tg>
+     <xg>
+       <x>киннэз</x>
+       <xt xml:lang="rus">{мн.} кто</xt>
+     </xg>
+     <xg>
+       <x>кин локтӧ?</x>
+       <xt xml:lang="rus">кто идёт?</xt>
+     </xg>
+     <xg>
+       <x>кинлӧ эта колӧ?</x>
+       <xt xml:lang="rus">кому это нужно?</xt>
+     </xg>
+     <xg>
+       <x>кинӧс кошшӧны?</x>
+       <xt xml:lang="rus">кого ищут?</xt>
+     </xg>
+     <xg>
+       <x>кинкӧт пантасит?</x>
+       <xt xml:lang="rus">с кем вы встретились?</xt>
+     </xg>
+     <xg>
+       <x>кин вылӧ надейтчат?</x>
+       <xt xml:lang="rus">на кого надеетесь?</xt>
+     </xg>
+     <xg>
+       <x>кин ордӧ мунны?</x>
+       <xt xml:lang="rus">к кому (в чей дом) идти?</xt>
+     </xg>
+     <xg>
+       <x>кин сьӧрӧ тэ мунӧмыт?</x>
+       <xt xml:lang="rus">в кого ты пошёл?; на кого ты похож?</xt>
+     </xg>
+     <xg>
+       <x>кин оз лыддьӧт газетаэз, сія оз тӧд, мый керсьӧ мирас</x>
+       <xt xml:lang="rus">кто не читает газеты, тот не знает, что происходит в мире</xt>
+     </xg>
+     <xg>
+       <x>кин оз уджав, сія оз сёй</x>
+       <xt xml:lang="rus">кто не работает, тот не ест</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>чей</t>
+     </tg>
+     <xg>
+       <x>кин увтыр тэ?</x>
+       <xt xml:lang="rus">какого ты рода?</xt>
+     </xg>
+     <xg>
+       <x>кин керкуын олат?</x>
+       <xt xml:lang="rus">в чьём доме вы живёте?</xt>
+     </xg>
+     <xg>
+       <x>кин пальтоӧн ветлӧтан?</x>
+       <xt xml:lang="rus">в чьём пальто ты ходишь?</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">кин-ненабудь</l>
+     <stg>
+       <st Contlex="PRON_">кин-ненабудь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">кин-нибудь</l>
+     <stg>
+       <st Contlex="PRON_">кин-нибудь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>кто-нибудь</t>
+     </tg>
+     <xg>
+       <x>кин-нибудь отсалас миянлӧ</x>
+       <xt xml:lang="rus">кто-нибудь поможет нам</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">месся</l>
+     <stg>
+       <st Contlex="PRON_">месся</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{сравн. п. от} ме</t>
+     </tg>
+     <xg>
+       <x>месся татӧн сія некинӧс оз тӧд</x>
+       <xt xml:lang="rus">кроме меня, он здесь никого не знает</xt>
+     </xg>
+     <xg>
+       <x>тэ месся ыджытжык</x>
+       <xt xml:lang="rus">ты старше меня</xt>
+     </xg>
+     <xg>
+       <x>татӧн месся некин абу</x>
+       <xt xml:lang="rus">здесь, кроме меня, никого нет</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">метӧг</l>
+     <stg>
+       <st Contlex="PRON_">метӧг</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{лиш. п. от} ме</t>
+     </tg>
+     <xg>
+       <x>басниыс вӧлӧм метӧг</x>
+       <xt xml:lang="rus">[этот] разговор был без меня</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">миянтӧг</l>
+     <stg>
+       <st Contlex="PRON_">миянтӧг</st>
+     </stg>
+     <compg drv="Pron:Suf" type="Іnfl">
+       <comp ord="E1" pos="Pron">мийӧ</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+     <xg>
+       <x>эта быдӧс аркмӧм миянтӧг</x>
+       <xt xml:lang="rus">всё это случилось без нас</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">некин</l>
+     <stg>
+       <st Contlex="PRON_">некин</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>никто</t>
+     </tg>
+     <xg>
+       <x>татӧн менӧ некин оз тӧд</x>
+       <xt xml:lang="rus">здесь меня никто не знает</xt>
+     </xg>
+     <xg>
+       <x>сія некин сьӧрись оз кольччы</x>
+       <xt xml:lang="rus">он ни от кого не отстаёт</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>некого</t>
+     </tg>
+     <xg>
+       <x>некинӧс винитны</x>
+       <xt xml:lang="rus">некого винить</xt>
      </xg>
    </mg>
 </e>
@@ -2052,6 +2413,33 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Pron">сытӧг</l>
+     <stg>
+       <st Contlex="PRON_">сытӧг</st>
+     </stg>
+     <compg drv="Pron:Suf" type="Іnfl">
+       <comp ord="E1" pos="Pron">сія</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+     <xg>
+       <x>сытӧгнекыдз оз позь</x>
+       <xt xml:lang="rus">без него никак нельзя</xt>
+     </xg>
+     <xg>
+       <x>сытӧг ми ог адззӧ туйсӧ</x>
+       <xt xml:lang="rus">без него мы не найдём дороги</xt>
+     </xg>
+   </mg>
+</e>
 <e exclude="fst">
    <map/>
    <lg>
@@ -2083,165 +2471,134 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Pron">быдӧнным</l>
+     <l pos="Pron">тэтӧг</l>
      <stg>
-       <st Contlex="PRON_">быдӧнным</st>
+       <st Contlex="PRON_">тэтӧг</st>
      </stg>
+     <compg drv="Pron:Suf" type="Іnfl">
+       <comp ord="E1" pos="Pron">тэ</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
-     <tg xml:lang="rus">
-       <t>все мы</t>
-     </tg>
-     <xg>
-       <x>быдӧнным мунам походӧ</x>
-       <xt xml:lang="rus">все мы идём в поход</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">быдӧнныс</l>
-     <stg>
-       <st Contlex="PRON_">быдӧнныс</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>все они</t>
-     </tg>
-     <xg>
-       <x>быдӧнныс нія уджалӧны</x>
-       <xt xml:lang="rus">все они работают</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">быдӧнныт</l>
-     <stg>
-       <st Contlex="PRON_">быдӧнныт</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>все вы</t>
-     </tg>
-     <xg>
-       <x>быдӧнныт тійӧ велӧтчатӧ</x>
-       <xt xml:lang="rus">все вы учитесь</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">быдӧс</l>
-     <stg>
-       <st Contlex="PRON_">быдӧс</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>всё, весь</t>
-     </tg>
-     <xg>
-       <x>видзыштны быдӧс деньга</x>
-       <xt xml:lang="rus">израсходовать все деньги</xt>
-     </xg>
-     <xg>
-       <x>керны быдӧс заданнёэз</x>
-       <xt xml:lang="rus">выполнить все задания</xt>
-     </xg>
-     <xg>
-       <x>быдӧс кольччас быдса</x>
-       <xt xml:lang="rus">всё останется целым</xt>
-     </xg>
-     <xg>
-       <x>быдӧс Россия пасьтся</x>
-       <xt xml:lang="rus">всероссийский</xt>
-     </xg>
-     <xg>
-       <x>быдӧс Союз пасьтся</x>
-       <xt xml:lang="rus">всесоюзный.</xt>
-     </xg>
-     <xg>
-       <x>меным быдӧс ӧткодь</x>
-       <xt xml:lang="rus">мне всё равно</xt>
-     </xg>
-     <xg>
-       <x>сы киись быдӧс петӧ</x>
-       <xt xml:lang="rus">он мастер на все руки</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">быдӧссӧ</l>
-     <stg>
-       <st Contlex="PRON_">быдӧссӧ</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>всего, итого</t>
-     </tg>
-     <xg>
-       <x>неделяын быдӧссӧ сизим лун</x>
-       <xt xml:lang="rus">в неделе всего семь дней</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">быдӧсыс</l>
-     <stg>
-       <st Contlex="PRON_">быдӧсыс</st>
-     </stg>
-   </lg>
-   <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">быдӧссӧ</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">быйкӧб</l>
-     <stg>
-       <st Contlex="PRON_">быйкӧб</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="V"><range>уст.</range></t>
-     </tg><sg><s s_type="see">быдӧс</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">кин-ненабудь</l>
-     <stg>
-       <st Contlex="PRON_">кин-ненабудь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">кин-нибудь</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">кин-нибудь</l>
-     <stg>
-       <st Contlex="PRON_">кин-нибудь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>кто-нибудь</t>
      </tg>
      <xg>
-       <x>кин-нибудь отсалас миянлӧ</x>
-       <xt xml:lang="rus">кто-нибудь поможет нам</xt>
+       <x>тэтӧг татӧн гажтӧм</x>
+       <xt xml:lang="rus">без тебя здесь грустно</xt>
      </xg>
+     <xg>
+       <x>уджыс тэтӧг керсяс</x>
+       <xt xml:lang="rus">работа будет выполнена и без тебя</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">ті</l>
+     <stg>
+       <st Contlex="PRON_">тій</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>вы</t>
+     </tg>
+     <xg>
+       <x>ті асьныт вежӧртат</x>
+       <xt xml:lang="rus">вы сами понимаете</xt>
+     </xg>
+     <xg>
+       <x>ті кысянь локтіт?</x>
+       <xt xml:lang="rus">вы откуда прибыли?</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">тійӧ</l>
+     <stg>
+       <st Contlex="PRON_">тійӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">тіянтӧг</l>
+     <stg>
+       <st Contlex="PRON_">тіянтӧг</st>
+     </stg>
+     <compg drv="Pron:Suf" type="Іnfl">
+       <comp ord="E1" pos="Pron">ті</comp>
+       <comp ord="E2" pos="Suf" type="лиш."/> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+     <xg>
+       <x>тіянтӧг татӧн лоас сьӧкыт</x>
+       <xt xml:lang="rus">без вас здесь трудно будет</xt>
+     </xg>
+     <xg>
+       <x>этӧ ыбсӧ тіянтӧг вундам</x>
+       <xt xml:lang="rus">это поле уберём без вас</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">эна</l>
+     <stg>
+       <st Contlex="PRON_">эна</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>эти</t>
+     </tg>
+     <xg>
+       <x>эна луннэзӧ</x>
+       <xt xml:lang="rus">в эти дни</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Pron">эсія</l>
+     <stg>
+       <st Contlex="PRON_">эсія</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg>
    </mg>
 </e>
 <e order="2">
@@ -2251,7 +2608,11 @@
        <st Contlex="PRON_">ӧтнаным</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>мы одни</t>
      </tg>
@@ -2280,7 +2641,11 @@
        <st Contlex="PRON_">ӧтнаныс</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>они одни</t>
      </tg>
@@ -2309,7 +2674,11 @@
        <st Contlex="PRON_">ӧтнаныт</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>вы одни</t>
      </tg>
@@ -2329,305 +2698,16 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Pron">кин</l>
-     <stg>
-       <st Contlex="PRON_">кин</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>кто</t>
-     </tg>
-     <xg>
-       <x>киннэз</x>
-       <xt xml:lang="rus">{мн.} кто</xt>
-     </xg>
-     <xg>
-       <x>кин локтӧ?</x>
-       <xt xml:lang="rus">кто идёт?</xt>
-     </xg>
-     <xg>
-       <x>кинлӧ эта колӧ?</x>
-       <xt xml:lang="rus">кому это нужно?</xt>
-     </xg>
-     <xg>
-       <x>кинӧс кошшӧны?</x>
-       <xt xml:lang="rus">кого ищут?</xt>
-     </xg>
-     <xg>
-       <x>кинкӧт пантасит?</x>
-       <xt xml:lang="rus">с кем вы встретились?</xt>
-     </xg>
-     <xg>
-       <x>кин вылӧ надейтчат?</x>
-       <xt xml:lang="rus">на кого надеетесь?</xt>
-     </xg>
-     <xg>
-       <x>кин ордӧ мунны?</x>
-       <xt xml:lang="rus">к кому (в чей дом) идти?</xt>
-     </xg>
-     <xg>
-       <x>кин сьӧрӧ тэ мунӧмыт?</x>
-       <xt xml:lang="rus">в кого ты пошёл?; на кого ты похож?</xt>
-     </xg>
-     <xg>
-       <x>кин оз лыддьӧт газетаэз, сія оз тӧд, мый керсьӧ мирас</x>
-       <xt xml:lang="rus">кто не читает газеты, тот не знает, что происходит в мире</xt>
-     </xg>
-     <xg>
-       <x>кин оз уджав, сія оз сёй</x>
-       <xt xml:lang="rus">кто не работает, тот не ест</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>чей</t>
-     </tg>
-     <xg>
-       <x>кин увтыр тэ?</x>
-       <xt xml:lang="rus">какого ты рода?</xt>
-     </xg>
-     <xg>
-       <x>кин керкуын олат?</x>
-       <xt xml:lang="rus">в чьём доме вы живёте?</xt>
-     </xg>
-     <xg>
-       <x>кин пальтоӧн ветлӧтан?</x>
-       <xt xml:lang="rus">в чьём пальто ты ходишь?</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">месся</l>
-     <stg>
-       <st Contlex="PRON_">месся</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>{сравн. п. от} ме</t>
-     </tg>
-     <xg>
-       <x>месся татӧн сія некинӧс оз тӧд</x>
-       <xt xml:lang="rus">кроме меня, он здесь никого не знает</xt>
-     </xg>
-     <xg>
-       <x>тэ месся ыджытжык</x>
-       <xt xml:lang="rus">ты старше меня</xt>
-     </xg>
-     <xg>
-       <x>татӧн месся некин абу</x>
-       <xt xml:lang="rus">здесь, кроме меня, никого нет</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">метӧг</l>
-     <stg>
-       <st Contlex="PRON_">метӧг</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>{лиш. п. от} ме</t>
-     </tg>
-     <xg>
-       <x>басниыс вӧлӧм метӧг</x>
-       <xt xml:lang="rus">[этот] разговор был без меня</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">миянтӧг</l>
-     <stg>
-       <st Contlex="PRON_">миянтӧг</st>
-     </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
-       <comp ord="E1" pos="Pron">мийӧ</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg>
-     <xg>
-       <x>эта быдӧс аркмӧм миянтӧг</x>
-       <xt xml:lang="rus">всё это случилось без нас</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">некин</l>
-     <stg>
-       <st Contlex="PRON_">некин</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>никто</t>
-     </tg>
-     <xg>
-       <x>татӧн менӧ некин оз тӧд</x>
-       <xt xml:lang="rus">здесь меня никто не знает</xt>
-     </xg>
-     <xg>
-       <x>сія некин сьӧрись оз кольччы</x>
-       <xt xml:lang="rus">он ни от кого не отстаёт</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>некого</t>
-     </tg>
-     <xg>
-       <x>некинӧс винитны</x>
-       <xt xml:lang="rus">некого винить</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">сытӧг</l>
-     <stg>
-       <st Contlex="PRON_">сытӧг</st>
-     </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
-       <comp ord="E1" pos="Pron">сія</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg>
-     <xg>
-       <x>сытӧгнекыдз оз позь</x>
-       <xt xml:lang="rus">без него никак нельзя</xt>
-     </xg>
-     <xg>
-       <x>сытӧг ми ог адззӧ туйсӧ</x>
-       <xt xml:lang="rus">без него мы не найдём дороги</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">тэтӧг</l>
-     <stg>
-       <st Contlex="PRON_">тэтӧг</st>
-     </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
-       <comp ord="E1" pos="Pron">тэ</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg>
-     <xg>
-       <x>тэтӧг татӧн гажтӧм</x>
-       <xt xml:lang="rus">без тебя здесь грустно</xt>
-     </xg>
-     <xg>
-       <x>уджыс тэтӧг керсяс</x>
-       <xt xml:lang="rus">работа будет выполнена и без тебя</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">ті</l>
-     <stg>
-       <st Contlex="PRON_">тій</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>вы</t>
-     </tg>
-     <xg>
-       <x>ті асьныт вежӧртат</x>
-       <xt xml:lang="rus">вы сами понимаете</xt>
-     </xg>
-     <xg>
-       <x>ті кысянь локтіт?</x>
-       <xt xml:lang="rus">вы откуда прибыли?</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">тійӧ</l>
-     <stg>
-       <st Contlex="PRON_">тійӧ</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">ті</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">тіянтӧг</l>
-     <stg>
-       <st Contlex="PRON_">тіянтӧг</st>
-     </stg>
-     <compg drv="Pron:Suf" type="Іnfl">
-       <comp ord="E1" pos="Pron">ті</comp>
-       <comp ord="E2" pos="Suf" type="лиш."/></compg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg>
-     <xg>
-       <x>тіянтӧг татӧн лоас сьӧкыт</x>
-       <xt xml:lang="rus">без вас здесь трудно будет</xt>
-     </xg>
-     <xg>
-       <x>этӧ ыбсӧ тіянтӧг вундам</x>
-       <xt xml:lang="rus">это поле уберём без вас</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">эна</l>
-     <stg>
-       <st Contlex="PRON_">эна</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>эти</t>
-     </tg>
-     <xg>
-       <x>эна луннэзӧ</x>
-       <xt xml:lang="rus">в эти дни</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Pron">эсія</l>
-     <stg>
-       <st Contlex="PRON_">эсія</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><geo>Чеч.</geo>, {усол.} этот, эта, это</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
      <l pos="Pron">ӧті-мӧді</l>
      <stg>
        <st Contlex="PRON_">ӧті-мӧді</st>
      </stg>
    </lg>
+     <sources>
+     </sources>
    <mg relId="0">
+     <semantics>
+     </semantics>
      <tg xml:lang="rus">
        <t>один-другой; кое-какой; одно-другое</t>
      </tg>

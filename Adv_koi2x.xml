@@ -126,7 +126,7 @@
    <lg>
      <l pos="Adv">арсӧ</l>
      <stg>
-       <st Contlex="ADV_">арсӧ</st>
+       <st>арсӧ</st>
      </stg>
    </lg>
      <sources>
@@ -147,7 +147,7 @@
    <lg>
      <l pos="Adv">арттӧг</l>
      <stg>
-       <st Contlex="ADV_">арттӧг</st>
+       <st>арттӧг</st>
      </stg>
    </lg>
      <sources>
@@ -169,7 +169,7 @@
    <lg>
      <l pos="Adv">арттӧм</l>
      <stg>
-       <st Contlex="ADV_">арттӧм</st>
+       <st>арттӧм</st>
      </stg>
    </lg>
      <sources>
@@ -247,7 +247,7 @@
    <lg>
      <l pos="Adv">асмоз</l>
      <stg>
-       <st Contlex="ADV_">асмоз(нас)</st>
+       <st>асмоз(нас)</st>
      </stg>
    </lg>
      <sources>
@@ -270,7 +270,7 @@
    <lg>
      <l pos="Adv">асмознас</l>
      <stg>
-       <st Contlex="ADV_">асмоз(нас)</st>
+       <st>асмоз(нас)</st>
      </stg>
    </lg>
      <sources>
@@ -314,7 +314,7 @@
    <lg>
      <l pos="Adv">асъяпон</l>
      <stg>
-       <st Contlex="ADV_">асъяпон</st>
+       <st>асъяпон</st>
      </stg>
    </lg>
      <sources>
@@ -578,7 +578,7 @@
    <lg>
      <l pos="Adv">басӧка</l>
      <stg>
-       <st Contlex="ADV_">басӧка</st>
+       <st>басӧка</st>
      </stg>
    </lg>
      <sources>
@@ -595,7 +595,7 @@
    <lg>
      <l pos="Adv">бат</l>
      <stg>
-       <st Contlex="ADV_">бат</st>
+       <st>бат</st>
      </stg>
    </lg>
      <sources>
@@ -1083,7 +1083,7 @@
    <lg>
      <l pos="Adv">бордпавйӧн</l>
      <stg>
-       <st Contlex="ADV_">бордпавйӧн / бордпавкйӧн</st>
+       <st>бордпавйӧн / бордпавкйӧн</st>
      </stg>
    </lg>
      <sources>
@@ -1104,7 +1104,7 @@
    <lg>
      <l pos="Adv">бордпавкйӧн</l>
      <stg>
-       <st Contlex="ADV_">бордпавйӧн / бордпавкйӧн</st>
+       <st>бордпавйӧн / бордпавкйӧн</st>
      </stg>
    </lg>
      <sources>
@@ -1491,7 +1491,7 @@
    <lg>
      <l pos="Adv">бурна</l>
      <stg>
-       <st Contlex="ADV_">бурна</st>
+       <st>бурна</st>
      </stg>
    </lg>
      <sources>
@@ -1818,7 +1818,7 @@
    <lg>
      <l pos="Adv">быднёж</l>
      <stg>
-       <st Contlex="ADV_">быднёж</st>
+       <st>быднёж</st>
      </stg>
    </lg>
      <sources>
@@ -1857,7 +1857,7 @@
    <lg>
      <l pos="Adv">быдпыр</l>
      <stg>
-       <st Contlex="ADV_">быдпыр / быдпырся</st>
+       <st>быдпыр / быдпырся</st>
      </stg>
    </lg>
      <sources>
@@ -1876,7 +1876,7 @@
    <lg>
      <l pos="Adv">быдпырся</l>
      <stg>
-       <st Contlex="ADV_">быдпыр / быдпырся</st>
+       <st>быдпыр / быдпырся</st>
      </stg>
    </lg>
      <sources>
@@ -1895,7 +1895,7 @@
    <lg>
      <l pos="Adv">быдса</l>
      <stg>
-       <st Contlex="ADV_">быдса</st>
+       <st>быдса</st>
      </stg>
    </lg>
      <sources>
@@ -2010,7 +2010,7 @@
    <lg>
      <l pos="Adv">былись</l>
      <stg>
-       <st Contlex="ADV_">былись</st>
+       <st>былись</st>
      </stg>
    </lg>
      <sources>
@@ -2117,7 +2117,7 @@
    <lg>
      <l pos="Adv">бытшӧма</l>
      <stg>
-       <st Contlex="ADV_">бытшӧма</st>
+       <st>бытшӧма</st>
      </stg>
    </lg>
      <sources>
@@ -2135,7 +2135,7 @@
    <lg>
      <l pos="Adv">бытшӧмика</l>
      <stg>
-       <st Contlex="ADV_">бытшӧмика</st>
+       <st>бытшӧмика</st>
      </stg>
    </lg>
      <sources>
@@ -2283,6 +2283,161 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Adv">бӧрлань</l>
+     <stg>
+       <st Contlex="ADV_">бӧрлань</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">,</t>
+     </tg>
+     <xg>
+       <x> бӧрланьӧ</x>
+       <xt xml:lang="rus">1. назад</xt>
+     </xg>
+     <xg>
+       <x>кыскыны бӧрлань</x>
+       <xt xml:lang="rus">тяуть назад</xt>
+     </xg>
+     <xg>
+       <x>бӧрлань петитчыны</x>
+       <xt xml:lang="rus">пятиться [назад]</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">2. {с притяж. суф.,}</t>
+     </tg>
+     <xg>
+       <x>бӧрланям, бӧрланяным, бӧрланяныс, бӧрланяныт, бӧрланяс, бӧрланят</x>
+       <xt xml:lang="rus"> , □ <geo>иньв.</geo> </xt>
+     </xg>
+     <xg>
+       <x>бӧрвань, бӧрваньӧ</x>
+       <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">бӧрланьын</l>
+     <stg>
+       <st Contlex="ADV_">бӧрланьын</st>
+       <st Contlex="ADV_" geo="иньв.">бӧрваньын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>... тому назад, спустя</t>
+     </tg>
+     <xg>
+       <x>вит год бӧрланьын</x>
+       <xt xml:lang="rus">пять лет назад; пять лет спустя</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">бӧрӧн</l>
+     <stg>
+       <st Contlex="ADV_">бӧрӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>задом, задом наперёд</t>
+     </tg>
+     <xg>
+       <x>мунны бӧрӧн</x>
+       <xt xml:lang="rus">пятиться, идти спиной (задом)</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>задом наперёд</t>
+     </tg>
+     <xg>
+       <x>бӧрӧн пасьтавны</x>
+       <xt xml:lang="rus">надеть {что-либо} задом наперёд</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>наоборот</t>
+     </tg>
+     <xg>
+       <x>бӧрӧн керны</x>
+       <xt xml:lang="rus">сделать наоборот</xt>
+     </xg>
+     <xg>
+       <x>бӧрӧн лыддьыны</x>
+       <xt xml:lang="rus">считать в обратном порядке</xt>
+     </xg>
+     <xg>
+       <x>бӧрӧн вежӧртны</x>
+       <xt xml:lang="rus">понять превратно</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">вадом</l>
+     <stg>
+       <st Contlex="ADV_">вадом</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <geo>иньв.</geo> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">важмоз</l>
+     <stg>
+       <st Contlex="ADV_">важмоз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>по-прежнему, как прежде</t>
+     </tg>
+     <xg>
+       <x>овны важмоз</x>
+       <xt xml:lang="rus">жить по-прежнему</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">важын</l>
@@ -2359,6 +2514,27 @@
      <tg xml:lang="rus">
        <t pos="Adv">давным-давно</t>
      </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">важынсянь</l>
+     <stg>
+       <st Contlex="ADV_">важынсянь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>с давних нор, издавна, исстари</t>
+     </tg>
+     <xg>
+       <x>важынсянь сідз керӧны</x>
+       <xt xml:lang="rus">с давних пор так повелось</xt>
+     </xg>
    </mg>
 </e>
 <e order="2">
@@ -2443,6 +2619,31 @@
      <xg>
        <x>сія вач-вач куш</x>
        <xt xml:lang="rus">он совсем голый</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">вевсьӧн</l>
+     <stg>
+       <st Contlex="ADV_">вевсьӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>одно на другом, друг на друге</t>
+     </tg>
+     <xg>
+       <x>пызан вылын вевсьӧн куйлісӧ кык книга</x>
+       <xt xml:lang="rus">на столе лежали две книги одна на другой</xt>
+     </xg>
+     <xg>
+       <x>тетраддез волі тэчӧмӧсь вевсьӧн</x>
+       <xt xml:lang="rus">тетради были сложены стопкой</xt>
      </xg>
    </mg>
 </e>
@@ -2595,6 +2796,31 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Adv">весьтӧмись</l>
+     <stg>
+       <st Contlex="ADV_">весьтӧмись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>зря, напрасно, попусту, без цели</t>
+     </tg>
+     <xg>
+       <x>поныс весьтӧмись оз увт</x>
+       <xt xml:lang="rus">собака зря не лает</xt>
+     </xg>
+     <xg>
+       <x>тійӧ кадсӧ ӧштат весьтӧмись</x>
+       <xt xml:lang="rus">вы напрасно тратите время</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">весёла</l>
@@ -2644,7 +2870,7 @@
    <lg>
      <l pos="Adv">вижлокӧн</l>
      <stg>
-       <st Contlex="ADV_">вижлокӧн</st>
+       <st>вижлокӧн</st>
      </stg>
    </lg>
      <sources>
@@ -2663,6 +2889,27 @@
      <xg>
        <x>эн лет вижлоктӧ!</x>
        <xt>эн горзы!, горштӧ эн нетшкӧд!</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">виззьӧн</l>
+     <stg>
+       <st Contlex="ADV_">виззьӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>сплошной массой</t>
+     </tg>
+     <xg>
+       <x>кӧдзыввез котрасьӧны виззьӧн муравьи</x>
+       <xt xml:lang="rus">движутся колонной (при миграции)</xt>
      </xg>
    </mg>
 </e>
@@ -2757,6 +3004,78 @@
      </xg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="Adv">вильмоз</l>
+     <stg>
+       <st Contlex="ADV_">вильмоз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">по-новому</t>
+     </tg>
+     <xg>
+       <x>овны вильмоз</x>
+       <xt xml:lang="rus">жить по-новому</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">вильмозӧн</l>
+     <stg>
+       <st Contlex="ADV_">вильмозӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">по-новому</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">вильнёж</l>
+     <stg>
+       <st Contlex="ADV_">вильнёж</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adv">по-новому</t>
+     </tg> <sg/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">вильнёжӧн</l>
+     <stg>
+       <st Contlex="ADV_">вильнёжӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adv">по-новому</t>
+     </tg> <sg/>
+   </mg>
+</e>
 <e order="2">
    <lg>
      <l pos="Adv">винатӧг</l>
@@ -2782,7 +3101,7 @@
    <lg>
      <l pos="Adv">вирдыштӧмӧн</l>
      <stg>
-       <st Contlex="ADV_">вирдыштӧмӧн</st>
+       <st>вирдыштӧмӧн</st>
      </stg>
    </lg>
      <sources>
@@ -2818,6 +3137,27 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adv">витісь</l>
+     <stg>
+       <st Contlex="ADV-MULT_">витісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>пять раз</t>
+     </tg>
+     <xg>
+       <x>челядь витісь ветлісӧ ягӧдавны</x>
+       <xt xml:lang="rus">дети пять раз ходили по ягоды</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adv">виш</l>
      <stg>
        <st Contlex="ADV_">виш</st>
@@ -2845,7 +3185,7 @@
    <lg>
      <l pos="Adv">вокорень</l>
      <stg>
-       <st Contlex="ADV_">вокорень</st>
+       <st>вокорень</st>
      </stg>
    </lg>
      <sources>
@@ -2903,7 +3243,7 @@
    <lg>
      <l pos="Adv">вопотки</l>
      <stg>
-       <st Contlex="ADV_">вопотки</st>
+       <st>вопотки</st>
      </stg>
    </lg>
      <sources>
@@ -2943,6 +3283,32 @@
      <xg>
        <x>вуп-воп керавны</x>
        <xt xml:lang="rus">рубить {что-либо} рыхлое, трухлявое</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">вывсиныс</l>
+     <stg>
+       <st Contlex="ADV_">вывсиныс</st>
+       <st Contlex="ADV_" geo="сев.">вылсиныс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>с них; [они] с себя</t>
+     </tg>
+     <xg>
+       <x>нія чапкисӧ вывсиныс паськӧмсӧ и пырисӧ ваӧ</x>
+       <xt xml:lang="rus"> они сняли с себя одежду и вошли в воду 2, <pos>послелог</pos> с [их...]; [они] со [своего...] </xt>
+     </xg>
+     <xg>
+       <x>пӧлать вывсиныс лэдзчисӧ саймӧм челядь</x>
+       <xt xml:lang="rus">с полатей (со своих полатей) слезли проснувшиеся дети</xt>
      </xg>
    </mg>
 </e>
@@ -3029,6 +3395,32 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adv">вылӧттяныс</l>
+     <stg>
+       <st Contlex="ADV_">вылӧттяныс</st>
+       <st Contlex="ADV_" geo="иньв.">вывӧттяныс, выӧттяныс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>по ним</t>
+     </tg>
+     <xg>
+       <x>вылӧттяныс вермис мунны чарньӧв</x>
+       <xt xml:lang="rus"> их могла поразить молния 2, <pos>послелог</pos> по [их...]; [они] по [своему...] </xt>
+     </xg>
+     <xg>
+       <x>ыб вылӧттяныс гӧняйтӧмась вӧввез</x>
+       <xt xml:lang="rus">по их полям бегали лошади</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adv">выс-выс</l>
      <stg>
        <st Contlex="ADV_">выс-выс</st>
@@ -3101,7 +3493,7 @@
    <lg>
      <l pos="Adv">гажӧн</l>
      <stg>
-       <st Contlex="ADV_">гажӧн</st>
+       <st>гажӧн</st>
      </stg>
    </lg>
      <sources>
@@ -3118,7 +3510,7 @@
    <lg>
      <l pos="Adv">гажӧна</l>
      <stg>
-       <st Contlex="ADV_">гажӧна</st>
+       <st>гажӧна</st>
      </stg>
    </lg>
      <sources>
@@ -3304,7 +3696,7 @@
    <lg>
      <l pos="Adv">гожумӧн</l>
      <stg>
-       <st Contlex="ADV_">гожумӧн</st>
+       <st>гожумӧн</st>
      </stg>
    </lg>
      <sources>
@@ -3911,6 +4303,279 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adv">гӧгӧрпӧв</l>
+     <stg>
+       <st Contlex="ADV_">гӧгӧрпӧв</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>кругом</t>
+     </tg>
+     <xg>
+       <x>гӧгӧрпӧв бергӧтчыны</x>
+       <xt xml:lang="rus">повернуться кругом</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>всесторонне</t>
+     </tg>
+     <xg>
+       <x>этӧ предложеннёсӧ колӧ видзӧтлыны гӧгӧрпӧв</x>
+       <xt xml:lang="rus">это предложение надо рассмотреть со всех сторон</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">гӧгӧрӧттяныт</l>
+     <stg>
+       <st Contlex="ADV_">гӧгӧрӧттяныт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>поленица гӧгӧрӧттяныт лымыс абу на сылӧм</x>
+       <xt xml:lang="rus">вокруг [вашей] поленницы снег ещё не растаял</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">дасвитісь</l>
+     <stg>
+       <st Contlex="ADV-MULT_">дасвитісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>пятнадцать раз</t>
+     </tg>
+     <xg>
+       <x>ӧтікӧ и сійӧ висьтавлан дасвитісь</x>
+       <xt xml:lang="rus">одно и то же повторяешь пятнадцать раз</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">даскватись</l>
+     <stg>
+       <st Contlex="ADV-MULT_">даскватись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>шестнадцать раз</t>
+     </tg>
+     <xg>
+       <x>талун опытсӧ повторитім даскватись ни</x>
+       <xt xml:lang="rus">сегодня опыт повторили уже шестнадцатый раз</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">даскуимись</l>
+     <stg>
+       <st Contlex="ADV-MULT_">даскуимись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>тринадцать раз</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">даскыкись</l>
+     <stg>
+       <st Contlex="ADV-MULT_">даскыкись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>двенадцать раз</t>
+     </tg>
+     <xg>
+       <x>вӧрсӧ тракторнас кыскисӧ даскыкись</x>
+       <xt xml:lang="rus">ни лес повезли на тракторе уже двенадцатый раз</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">даскыкьямысісь</l>
+     <stg>
+       <st Contlex="ADV-MULT_">даскыкьямысісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>восемнадцать раз</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">даснёлись</l>
+     <stg>
+       <st Contlex="ADV-MULT_">даснёлись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>четырнадцать раз</t>
+     </tg>
+     <xg>
+       <x>галясӧ кыскит тракт вылас даснёлись</x>
+       <xt xml:lang="rus">гравий вы вывезли на тракт четырнадцать раз</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">даспӧв</l>
+     <stg>
+       <st Contlex="ADV_">даспӧв</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>десять раз</t>
+     </tg>
+     <xg>
+       <x>задачасӧ кери даспӧв</x>
+       <xt xml:lang="rus">я десять раз переделывал задачу</xt>
+     </xg>
+     <xg>
+       <x>даспӧв каттьыны</x>
+       <xt xml:lang="rus">обернуть {что-либо} в десять слоев</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">дасісь</l>
+     <stg>
+       <st Contlex="ADV-MULT_">дасісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>десять раз</t>
+     </tg>
+     <xg>
+       <x>колхозниккез дасісь ни ветлісӧ ытшкисьны</x>
+       <xt xml:lang="rus">колхозники уже десять раз ходили на покос</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">дасӧкмысісь</l>
+     <stg>
+       <st Contlex="ADV-MULT_">дасӧкмысісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>девятнадцать раз</t>
+     </tg>
+     <xg>
+       <x>таво тӧвнас кайлісӧ керасьны дасӧкмысісь</x>
+       <xt xml:lang="rus">в этом году зимой девятнадцать раз ездили на рубку [леса]</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">дасӧтікись</l>
+     <stg>
+       <st Contlex="ADV-MULT_">дасӧтікись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>одиннадцать раз</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">дасӧтісь</l>
+     <stg>
+       <st Contlex="ADV-ORD-MULT_">дасӧтісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>десятый раз</t>
+     </tg>
+     <xg>
+       <x>дасӧтісь ни ме тэныт баита</x>
+       <xt xml:lang="rus">я тебе уже десятый раз говорю</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adv">дбрунь</l>
      <stg>
        <st Contlex="ADV_">дбрунь</st>
@@ -3980,7 +4645,7 @@
    <lg>
      <l pos="Adv">дзар</l>
      <stg>
-       <st Contlex="ADV_">дзар</st>
+       <st>дзар</st>
      </stg>
    </lg>
      <sources>
@@ -4441,7 +5106,7 @@
    <lg>
      <l pos="Adv">досповна</l>
      <stg>
-       <st Contlex="ADV_">досповна</st>
+       <st>досповна</st>
      </stg>
    </lg>
      <sources>
@@ -4697,7 +5362,7 @@
    <lg>
      <l pos="Adv">дыв</l>
      <stg>
-       <st Contlex="ADV_">дыв</st>
+       <st>дыв</st>
      </stg>
    </lg>
      <sources>
@@ -4750,6 +5415,31 @@
      <xg>
        <x>дынӧттям, дынӧттяным, дынӧттяныс, дынӧттяныт, дынӧттяс, дынӧттят</x>
        <xt xml:lang="rus"/>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">дынӧттяныт</l>
+     <stg>
+       <st Contlex="ADV_">дынӧттяныт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>около (мимо, возле) вас, [вы] около (мимо) себя</t>
+     </tg>
+     <xg>
+       <x>дынӧттяныт некин оз лысьт ветлӧтны</x>
+       <xt xml:lang="rus"> мимо [вас] никто не смеет ходить 2, <pos>послелог</pos> около, мимо, возле [вашего...]; [вы] около (мимо, возле) [своего...] </xt>
+     </xg>
+     <xg>
+       <x>ферма дынӧттяныт туйыс тшыкӧм</x>
+       <xt xml:lang="rus">около вашей фермы дорога испортилась</xt>
      </xg>
    </mg>
 </e>
@@ -4856,7 +5546,7 @@
    <lg>
      <l pos="Adv">дюж</l>
      <stg>
-       <st Contlex="ADV_">дюж</st>
+       <st>дюж</st>
      </stg>
    </lg>
      <sources>
@@ -4879,7 +5569,7 @@
    <lg>
      <l pos="Adv">дӧсповна</l>
      <stg>
-       <st Contlex="ADV_">дӧсповна</st>
+       <st>дӧсповна</st>
      </stg>
    </lg>
      <sources>
@@ -4898,7 +5588,7 @@
    <lg>
      <l pos="Adv">етша</l>
      <stg>
-       <st Contlex="ADV_">етша</st>
+       <st>етша</st>
      </stg>
    </lg>
      <sources>
@@ -4958,7 +5648,7 @@
    <lg>
      <l pos="Adv">жага</l>
      <stg>
-       <st Contlex="ADV_">жага</st>
+       <st>жага</st>
      </stg>
    </lg>
      <sources>
@@ -4976,7 +5666,7 @@
    <lg>
      <l pos="Adv">жагвыв</l>
      <stg>
-       <st Contlex="ADV_">жагвыв</st>
+       <st>жагвыв</st>
      </stg>
    </lg>
      <sources>
@@ -4998,7 +5688,7 @@
    <lg>
      <l pos="Adv">жагӧн</l>
      <stg>
-       <st Contlex="ADV_">жагӧн</st>
+       <st>жагӧн</st>
      </stg>
    </lg>
      <sources>
@@ -5019,7 +5709,7 @@
    <lg>
      <l pos="Adv">жагӧника</l>
      <stg>
-       <st Contlex="ADV_">жагӧника</st>
+       <st>жагӧника</st>
      </stg>
    </lg>
      <sources>
@@ -5249,7 +5939,7 @@
    <lg>
      <l pos="Adv">жыв</l>
      <stg>
-       <st Contlex="ADV_">жыв</st>
+       <st>жыв</st>
      </stg>
    </lg>
      <sources>
@@ -5272,7 +5962,7 @@
    <lg>
      <l pos="Adv">жын</l>
      <stg>
-       <st Contlex="ADV_">жын</st>
+       <st>жын</st>
      </stg>
    </lg>
      <sources>
@@ -6022,6 +6712,27 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adv">кватись</l>
+     <stg>
+       <st Contlex="ADV-MULT_">кватись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>шесть раз; по шесть раз</t>
+     </tg>
+     <xg>
+       <x>ме кватись лыдди типпесӧ</x>
+       <xt xml:lang="rus">я цыплят пересчитал шесть раз</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adv">кватш</l>
      <stg>
        <st Contlex="ADV_">кватш</st>
@@ -6042,6 +6753,123 @@
      <xg>
        <x>печкан ватшыс кватш чегис</x>
        <xt xml:lang="rus">основание прялки с треском сломалось</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кватьлаын</l>
+     <stg>
+       <st Contlex="ADV_">кватьлаын</st>
+       <st Contlex="ADV_" geo="иньв.">кватьваын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>в шести местах</t>
+     </tg>
+     <xg>
+       <x>талун колхозниккез вундісӧ кватьлаын</x>
+       <xt xml:lang="rus">сегодня колхозники жали в шести местах</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кватьпӧв</l>
+     <stg>
+       <st Contlex="ADV_">кватьпӧв</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>шесть раз</t>
+     </tg>
+     <xg>
+       <x>кватьпӧв керны</x>
+       <xt xml:lang="rus">переделать шесть раз</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>в шесть слоев</t>
+     </tg>
+     <xg>
+       <x>кватьпӧв кӧстыны</x>
+       <xt xml:lang="rus">сложить в шесть слоев</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кватьӧн</l>
+     <stg>
+       <st Contlex="ADV_">кватьӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>вшестером</t>
+     </tg>
+     <xg>
+       <x>мийӧ вӧлім кватьӧн</x>
+       <xt xml:lang="rus">мы были вшестером</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кватьӧтчид</l>
+     <stg>
+       <st Contlex="ADV_">кватьӧтчид</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>шестой раз, в шестой раз</t>
+     </tg> <geo>сев.</geo>
+     <xg>
+       <x>кватьӧтчид вовлыны магазинӧ</x>
+       <xt xml:lang="rus">приходить в магазин шестой раз</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кватьӧтісь</l>
+     <stg>
+       <st Contlex="ADV-ORD-MULT_">кватьӧтісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>шестой раз</t>
+     </tg>
+     <xg>
+       <x>сія вовліскватьӧтісь ни</x>
+       <xt xml:lang="rus">он приходил уже шестой раз</xt>
      </xg>
    </mg>
 </e>
@@ -6323,6 +7151,27 @@
      <xg>
        <x>ковс-ковс кашельтны</x>
        <xt xml:lang="rus">сильно кашлять</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кодыр</l>
+     <stg>
+       <st Contlex="ADV_">кодыр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <geo>н.-иньв.</geo>
+     <xg>
+       <x>кӧр</x>
+       <xt xml:lang="rus">ІІІ</xt>
      </xg>
    </mg>
 </e>
@@ -6745,6 +7594,24 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кругпӧв</l>
+     <stg>
+       <st Contlex="ADV_">кругпӧв</st>
+       <st Contlex="ADV_" geo="сев.">кругпӧл</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>кругом</t>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">крута</l>
@@ -6909,6 +7776,190 @@
        <x>кузя видзны кыв</x>
        <xt xml:lang="rus">иметь длинный язык, болтать, сплетничать</xt>
      </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">куимдасӧн</l>
+     <stg>
+       <st Contlex="ADV_">куимдасӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>в количестве тридцати</t>
+     </tg>
+     <xg>
+       <x>куимдасӧн дӧнзис быдӧннымлӧ</x>
+       <xt xml:lang="rus">всем досталось по тридцать [рублей]</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">куимдасӧтісь</l>
+     <stg>
+       <st Contlex="ADV-ORD-MULT_">куимдасӧтісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>тридцатый раз</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">куимись</l>
+     <stg>
+       <st Contlex="ADV-MULT_">куимись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>трижды, три раза</t>
+     </tg>
+     <xg>
+       <x>пионеррез ягӧдавны ветлісӧ куимись</x>
+       <xt xml:lang="rus">пионеры за ягодами ходили три раза</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">куимпӧв</l>
+     <stg>
+       <st Contlex="ADV_">куимпӧв</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>трижды, три раза</t>
+     </tg>
+     <xg>
+       <x>куимпӧв керны</x>
+       <xt xml:lang="rus">трижды переделать</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>в три слоя</t>
+     </tg>
+     <xg>
+       <x>куимпӧв кӧстыны</x>
+       <xt xml:lang="rus">сложить в три слоя</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">куимӧн</l>
+     <stg>
+       <st Contlex="ADV_">куимӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>втроём, в количестве трёх</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">куимӧткӧ</l>
+     <stg>
+       <st Contlex="ADV_">куимӧткӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>в-трётьих</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">куимӧтчид</l>
+     <stg>
+       <st Contlex="ADV_">куимӧтчид</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>третий раз, в третий раз</t>
+     </tg> <geo>сев.</geo>
+     <xg>
+       <x>зонка мунӧ городӧкуимӧтчид ни</x>
+       <xt xml:lang="rus">парень едет в город уже третий раз</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">куимӧтісь</l>
+     <stg>
+       <st Contlex="ADV-ORD-MULT_">куимӧтісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>третий раз</t>
+     </tg>
+     <xg>
+       <x>ме куимӧтісь ни локті деньгала</x>
+       <xt xml:lang="rus">я пришёл за деньгами уже третий раз</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">куимӧччыд</l>
+     <stg>
+       <st Contlex="ADV_">куимӧччыд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">{чур.}</t>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -7244,6 +8295,22 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кыдзи</l>
+     <stg>
+       <st Contlex="ADV_">кыдзи</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">кыдзкӧ</l>
@@ -7329,6 +8396,153 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кыкдасӧн</l>
+     <stg>
+       <st Contlex="ADV_">кыкдасӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>[всего] двадцать; в количестве двадцати</t>
+     </tg>
+     <xg>
+       <x>мийӧ вӧлім кыкдасӧн</x>
+       <xt xml:lang="rus">нас было двадцать</xt>
+     </xg>
+     <xg>
+       <x>кыкдасӧт</x>
+       <xt xml:lang="rus">двадцатый</xt>
+     </xg>
+     <xg>
+       <x>кыкдасӧн лун</x>
+       <xt xml:lang="rus">двадцатый день</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кыкдасӧтісь</l>
+     <stg>
+       <st Contlex="ADV-ORD-MULT_">кыкдасӧтісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>двадцать раз, двадцатый раз</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кыкись</l>
+     <stg>
+       <st Contlex="ADV-MULT_">кыкись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>дважды, два раза</t>
+     </tg>
+     <xg>
+       <x>кыкись керны</x>
+       <xt xml:lang="rus">дважды переделать</xt>
+     </xg>
+     <xg>
+       <x>кыкись ветлыны вӧрӧ</x>
+       <xt xml:lang="rus">два раза сходитьв лес</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кыкисьӧн</l>
+     <stg>
+       <st Contlex="ADV-MULT-DIST_">кыкисьӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>по два раза</t>
+     </tg>
+     <xg>
+       <x>луннас кыкисьӧн киськавны цветтэз</x>
+       <xt xml:lang="rus">по два раза в день поливать цветы</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кыкьямысдасісь</l>
+     <stg>
+       <st Contlex="ADV-MULT_">кыкьямысдасісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>восемьдесят раз</t>
+     </tg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кыкьямысісь</l>
+     <stg>
+       <st Contlex="ADV-MULT_">кыкьямысісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>восемь раз</t>
+     </tg>
+     <xg>
+       <x>кыкьямысісь ветлім тшакла</x>
+       <xt xml:lang="rus">восемь раз мы ходили за грибами</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кыкӧтчид</l>
+     <stg>
+       <st Contlex="ADV_">кыкӧтчид</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>второй раз</t>
+     </tg> <geo>сев.</geo>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">кыным</l>
@@ -7381,6 +8595,48 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кынымись</l>
+     <stg>
+       <st Contlex="ADV-MULT_">кынымись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>сколько раз, который раз</t>
+     </tg>
+     <xg>
+       <x>кынымись ветліт ягӧдавны?</x>
+       <xt xml:lang="rus">сколько раз вы ходили за ягодами?</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кынымиськӧ</l>
+     <stg>
+       <st Contlex="ADV_">кынымиськӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>несколько раз</t>
+     </tg>
+     <xg>
+       <x>мийӧ кынымиськӧ ветлім жӧ ягӧдавны</x>
+       <xt xml:lang="rus">мы несколько раз тоже ходили за ягодами</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">кынымкӧ</l>
@@ -7399,6 +8655,30 @@
      <xg>
        <x>кынымкӧ лун ни чулаліс сэксянь, кыдз</x>
        <xt xml:lang="rus">... уже прошло несколько дней с тех пор, как...</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">кынымӧтісь</l>
+     <stg>
+       <st Contlex="ADV-ORD-MULT_">кынымӧтісь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="myv">
+       <t pos="Adv">зяроцеде</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Adv">который раз</t>
+     </tg>
+     <xg>
+       <x>кынымӧтісь ни ме висьталі тэныт, что</x>
+       <xt xml:lang="rus">... который раз уже я говорил тебе, что...</xt>
      </xg>
    </mg>
 </e>
@@ -9118,6 +10398,48 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Adv">мӧдпӧв</l>
+     <stg>
+       <st Contlex="ADV_">мӧдпӧв</st>
+       <st Contlex="ADV_" geo="сев.">мӧдпӧл</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>заново (сделать {что-либо})</t>
+     </tg>
+     <xg>
+       <x>мӧдпӧв видзӧтны</x>
+       <xt xml:lang="rus">пересмотреть</xt>
+     </xg>
+     <xg>
+       <x>мӧдпӧв вурны</x>
+       <xt xml:lang="rus">перешить</xt>
+     </xg>
+     <xg>
+       <x>мӧдпӧв гижны</x>
+       <xt xml:lang="rus">переписать</xt>
+     </xg>
+     <xg>
+       <x>мӧдпӧв керны</x>
+       <xt xml:lang="rus">переделать</xt>
+     </xg>
+     <xg>
+       <x>мӧдпӧв миссьӧтны</x>
+       <xt xml:lang="rus">перемыть</xt>
+     </xg>
+     <xg>
+       <x>гижны мӧдпӧв диплом</x>
+       <xt xml:lang="rus">написать диплом заново</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l hid="Hom1" pos="Adv">на</l>
@@ -10076,6 +11398,38 @@
      </xg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="Adv">нёльпӧв</l>
+     <stg>
+       <st Contlex="ADV_">нёльпӧв</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>четырежды, четыре раза</t>
+     </tg>
+     <xg>
+       <x>нёльпӧв керны</x>
+       <xt xml:lang="rus">четырежды переделывать</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>в четыре слоя</t>
+     </tg>
+     <xg>
+       <x>нёльпӧв кӧстыны</x>
+       <xt xml:lang="rus">сложить в четыре слоя</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Adv">нёштӧма</l>
@@ -10121,6 +11475,28 @@
      <xg>
        <x>нёштӧма шуны</x>
        <xt xml:lang="rus">обозвать {кого-либо}</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">одзӧдззас</l>
+     <stg>
+       <st Contlex="ADV_">одзӧдззас</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{послелог до чего-либо}до места перед [его...]; [он] до места перед [своим...]</t>
+     </tg>
+     <xg>
+       <x>сія локтістоп ыбӧс одзӧдззас</x>
+       <xt xml:lang="rus">он подошёл вплотную к дверям;</xt>
+       <xt xml:lang="rus">он подошёл вплотную к своим дверям</xt>
      </xg>
    </mg>
 </e>
@@ -10852,6 +12228,42 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adv">пытшкам</l>
+     <stg>
+       <st Contlex="ADV_">пытшкам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>керку пытшкам</x>
+       <xt xml:lang="rus">внутри моего дома</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">пытшксит</l>
+     <stg>
+       <st Contlex="ADV_">пытшксит</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>шкаф пытшксит кыскы бекӧр-паньсӧ</x>
+       <xt xml:lang="rus">достань чашки и ложки из своего шкафа</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adv">пыть-пыть</l>
      <stg>
        <st Contlex="ADV_">пыть-пыть</st>
@@ -11169,6 +12581,28 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adv">рытлапӧв</l>
+     <stg>
+       <st Contlex="ADV_">рытлапӧв</st>
+       <st Contlex="ADV_" geo="иньв.">рытвапӧв</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>предвечернее время; к вечеру</t>
+     </tg>
+     <xg>
+       <x>рытлапӧлас ни гортӧ бертісӧ</x>
+       <xt xml:lang="rus">[они] вернулись к вечеру</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adv">рышкыта</l>
      <stg>
        <st Contlex="ADV_">рышкыта</st>
@@ -11212,6 +12646,50 @@
        <x>сайкыта пасьтасьны</x>
        <xt xml:lang="rus">легко одеться (не по сезону)</xt>
      </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">сайӧ</l>
+     <stg>
+       <st Contlex="ADV-SPAT-ILL">сайӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>в сторону</t>
+     </tg>
+     <xg>
+       <x>пызан вештыны сайӧ</x>
+       <xt xml:lang="rus">отодвинуть стол в сторону</xt>
+     </xg>
+     <xg>
+       <x>сайӧ видзӧтны</x>
+       <xt xml:lang="rus">посмотреть в сторону</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Adp">за {кого-что-либо}</t>
+     </tg>
+     <xg>
+       <x>ытшкисиссез вуджисӧ ва сайӧ</x>
+       <xt xml:lang="rus">косари переправились за реку</xt>
+     </xg>
+     <xg>
+       <x>тӧлісь сайӧвтчис кымӧр сайӧ</x>
+       <xt xml:lang="rus">луна скрылась за тучу</xt>
+     </xg>
+   </mg>
+   <mg relId="2">
+     <semantics>
+     </semantics> <sg> </sg>
    </mg>
 </e>
 <e order="2">
@@ -11556,6 +13034,42 @@
        <x>сьӧкыта узьны</x>
        <xt xml:lang="rus">забыться тяжёлым сном;</xt>
        <xt xml:lang="rus">крепко спать</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">сьӧрсис</l>
+     <stg>
+       <st Contlex="ADV_">сьӧрсис</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>1. с ним, [он] с собой</t>
+     </tg>
+     <xg>
+       <x>чемодансӧвайис сьӧрсис</x>
+       <xt xml:lang="rus">чемодан он привёз с собой</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">2. {послелог от кого-чего-либо}</t>
+     </tg>
+     <xg>
+       <x>мам сьӧрсис кальк оз кер</x>
+       <xt xml:lang="rus">от матери ни на шаг не отстаёт (о ребёнке).</xt>
+     </xg>
+     <xg>
+       <x>ки сьӧрсис быдӧс петӧ</x>
+       <xt xml:lang="rus">он мастер на все руки</xt>
      </xg>
    </mg>
 </e>
@@ -13677,6 +15191,149 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adv">увтас</l>
+     <stg>
+       <st Contlex="ADV_">увтас</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>вниз</t>
+     </tg>
+     <xg>
+       <x>лэдз сійӧ увтас</x>
+       <xt xml:lang="rus">спусти его вниз</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">2. {послелог под чем-либо}; под [его...], [он] под (своим...]</t>
+     </tg>
+     <xg>
+       <x>песыс гор увтас</x>
+       <xt xml:lang="rus">дрова под печкой</xt>
+     </xg>
+     <xg>
+       <x>поныс куйлӧкок увтас</x>
+       <xt xml:lang="rus">собака лежит у его ног</xt>
+     </xg>
+     <xg>
+       <x>ведраэз сулалӧны ӧшынувтас</x>
+       <xt xml:lang="rus">вёдра стоят под его окнами</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">увтсяняс</l>
+     <stg>
+       <st Contlex="ADV_">увтсяняс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{послелог из-под чего-либо}; из-под [его...], [он] из-под [своего...]</t>
+     </tg>
+     <xg>
+       <x>керӧс увтсяняс кыліс гора сьылӧм</x>
+       <xt xml:lang="rus">из-под горы доносилось звонкое пение</xt>
+     </xg>
+     <xg>
+       <x>шапка увтсяняс тыдалісӧ сьӧд кудриэс</x>
+       <xt xml:lang="rus">из-под шапки у него виднелись чёрные кудри</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">увтын</l>
+     <stg>
+       <st Contlex="ADV_">увтын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>внизу</t>
+     </tg>
+     <xg>
+       <x>увтын тыдалӧ ю</x>
+       <xt xml:lang="rus">внизу виднеется река</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">2. {послелог под чем-либо}</t>
+     </tg>
+     <xg>
+       <x>керӧс увтын югйӧвтіс юок</x>
+       <xt xml:lang="rus">под горой блестела речка</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">увтӧ</l>
+     <stg>
+       <st Contlex="ADV_">увтӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{послелог под что-либо}</t>
+     </tg>
+     <xg>
+       <x>вундіссез пуксьӧмась шоччисьны кӧз увтӧ</x>
+       <xt xml:lang="rus">жнецы сели отдохнуть под ель</xt>
+     </xg>
+     <xg>
+       <x>ӧт зоночкаыс дзебсисис кровать увтӧ</x>
+       <xt xml:lang="rus">один из мальчиков спрятался под кровать</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">увтӧттяс</l>
+     <stg>
+       <st Contlex="ADV_">увтӧттяс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{послелог под чем-либо}; под [его...], [он] под [своим...]</t>
+     </tg>
+     <xg>
+       <x>карчйӧр увтӧттяс мунӧ подӧна туёк</x>
+       <xt xml:lang="rus">по месту, находящемуся ниже огорода, проходит тропинка</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adv">удала</l>
      <stg>
        <st Contlex="ADV_">удала</st>
@@ -15392,6 +17049,31 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adv">шоныта</l>
+     <stg>
+       <st Contlex="ADV_">шоныта</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>тепло</t>
+     </tg>
+     <xg>
+       <x>шоныта пасьтасьны</x>
+       <xt xml:lang="rus">тепло одеваться</xt>
+     </xg>
+     <xg>
+       <x>шоныта пантавны гӧссезӧс</x>
+       <xt xml:lang="rus">тепло встретить гостей</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adv">шорк</l>
      <stg>
        <st Contlex="ADV_">шорк</st>
@@ -15752,6 +17434,27 @@
      <xg>
        <x>шӧриӧн небны керку</x>
        <xt xml:lang="rus">купить дом на паях (пополам)</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adv">шӧрӧ</l>
+     <stg>
+       <st Contlex="ADV-SPAT-ILL">шӧрӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>на середину</t>
+     </tg>
+     <xg>
+       <x>шӧрӧ колӧ сувтӧтны</x>
+       <xt xml:lang="rus">нужно поставить на середину</xt>
      </xg>
    </mg>
 </e>
@@ -16430,7 +18133,7 @@
    <lg>
      <l pos="Adv">янын</l>
      <stg>
-       <st Contlex="ADV_">янын</st>
+       <st>янын</st>
      </stg>
    </lg>
      <sources>
@@ -16451,7 +18154,7 @@
    <lg>
      <l pos="Adv">янӧ</l>
      <stg>
-       <st Contlex="ADV_">янӧ</st>
+       <st>янӧ</st>
      </stg>
    </lg>
      <sources>
@@ -16525,7 +18228,7 @@
    <lg>
      <l pos="Adv">ятнӧя</l>
      <stg>
-       <st Contlex="ADV_">ятнӧя</st>
+       <st>ятнӧя</st>
      </stg>
    </lg>
      <sources>
@@ -16749,7 +18452,7 @@
    <lg>
      <l pos="Adv">ӧддьӧн</l>
      <stg>
-       <st Contlex="ADV_">ӧддьӧн</st>
+       <st>ӧддьӧн</st>
      </stg>
    </lg>
      <sources>
@@ -17050,7 +18753,7 @@
    <lg>
      <l pos="Adv">ӧпеть</l>
      <stg>
-       <st Contlex="ADV_">ӧпеть</st>
+       <st>ӧпеть</st>
      </stg>
    </lg>
      <sources>
@@ -17137,7 +18840,7 @@
    <lg>
      <l pos="Adv">ӧтдруг</l>
      <stg>
-       <st Contlex="ADV_">ӧтдруг</st>
+       <st>ӧтдруг</st>
      </stg>
    </lg>
      <sources>
@@ -17632,7 +19335,7 @@
    <lg>
      <l pos="Adv">ӧтнёж</l>
      <stg>
-       <st Contlex="ADV_">ӧтнёж</st>
+       <st>ӧтнёж</st>
      </stg>
    </lg>
      <sources>
@@ -17679,7 +19382,7 @@
    <lg>
      <l pos="Adv">ӧтпыр</l>
      <stg>
-       <st Contlex="ADV_">ӧтпыр / ӧтпырiсь</st>
+       <st>ӧтпыр / ӧтпырiсь</st>
      </stg>
    </lg>
      <sources>
@@ -17699,10 +19402,9 @@
 </e>
 <e>
    <lg>
-     <l pos="Adv">ӧтпырись</l>
+     <l pos="Adv">ӧтпырiсь</l>
      <stg>
-       <st Contlex="ADV_">ӧтпыр</st>
-       <st Contlex="ADV-MULT_">ӧтпырiсь</st>
+       <st>ӧтпыр / ӧтпырiсь</st>
      </stg>
    </lg>
      <sources>
@@ -17716,11 +19418,12 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e order="1">
    <lg>
      <l pos="Adv">ӧтпырись</l>
      <stg>
        <st Contlex="ADV-MULT_">ӧтпырись</st>
+       <st Contlex="ADV-MULT_">ӧтпыр</st>
      </stg>
    </lg>
      <sources>
@@ -17728,28 +19431,10 @@
    <mg relId="0">
      <semantics>
      </semantics>
-     <tg xml:lang="rus">
-       <t pos="Adv">однажды</t>
+     <tg xml:lang="kpv">
+       <t pos="Adv">ӧтчыд</t>
+       <t pos="Adv">ӧтчыдысь</t>
      </tg>
-     <xg>
-       <x>кыдзкӧ ӧтпырись</x>
-       <xt xml:lang="rus">как-то раз</xt>
-     </xg>
-     <xg>
-       <x>ӧтпырись ми мунім вӧрӧ, и</x>
-       <xt xml:lang="rus">... один раз мы шли в лес, и...</xt>
-     </xg>
-   </mg>
-   <mg relId="1">
-     <semantics>
-     </semantics>
-     <tg xml:lang="rus">
-       <t pos="Adv">за один раз, в один приём</t>
-     </tg>
-     <xg>
-       <x>быдӧс пессӧ сія нуӧтіс ӧтпырись</x>
-       <xt xml:lang="rus">все дрова он унёс в один приём (за один раз)</xt>
-     </xg>
    </mg>
 </e>
 <e order="2">
@@ -17796,10 +19481,9 @@
 </e>
 <e order="1">
    <lg>
-     <l pos="Adv">ӧтпырись</l>
+     <l pos="Adv">ӧтпырісь</l>
      <stg>
-       <st Contlex="ADV-MULT_">ӧтпырись</st>
-       <st Contlex="ADV-MULT_">ӧтпыр</st>
+       <st Contlex="ADV_">ӧтпыр / ӧтпырісь</st>
      </stg>
    </lg>
      <sources>
@@ -18104,1343 +19788,6 @@
      <tg xml:lang="rus">
        <t pos="V">{чур.}</t>
      </tg> <sg/>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">бӧрлань</l>
-     <stg>
-       <st Contlex="ADV_">бӧрлань</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="V">,</t>
-     </tg>
-     <xg>
-       <x> бӧрланьӧ</x>
-       <xt xml:lang="rus">1. назад</xt>
-     </xg>
-     <xg>
-       <x>кыскыны бӧрлань</x>
-       <xt xml:lang="rus">тяуть назад</xt>
-     </xg>
-     <xg>
-       <x>бӧрлань петитчыны</x>
-       <xt xml:lang="rus">пятиться [назад]</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">2. {с притяж. суф.,}<sg><s s_type="see"/></sg></t>
-     </tg>
-     <xg>
-       <x>бӧрланям, бӧрланяным, бӧрланяныс, бӧрланяныт, бӧрланяс, бӧрланят</x>
-       <xt xml:lang="rus">, □<geo>иньв.</geo></xt>
-     </xg>
-     <xg>
-       <x>бӧрвань, бӧрваньӧ</x>
-       <xt xml:lang="rus"/>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">бӧрланьын</l>
-     <stg>
-       <st Contlex="ADV_">бӧрланьын</st>
-       <st Contlex="ADV_" geo="иньв.">бӧрваньын</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>... тому назад, спустя</t>
-     </tg>
-     <xg>
-       <x>вит год бӧрланьын</x>
-       <xt xml:lang="rus">пять лет назад; пять лет спустя</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">бӧрӧн</l>
-     <stg>
-       <st Contlex="ADV_">бӧрӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>задом, задом наперёд</t>
-     </tg>
-     <xg>
-       <x>мунны бӧрӧн</x>
-       <xt xml:lang="rus">пятиться, идти спиной (задом)</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>задом наперёд</t>
-     </tg>
-     <xg>
-       <x>бӧрӧн пасьтавны</x>
-       <xt xml:lang="rus">надеть {что-либо} задом наперёд</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>наоборот</t>
-     </tg>
-     <xg>
-       <x>бӧрӧн керны</x>
-       <xt xml:lang="rus">сделать наоборот</xt>
-     </xg>
-     <xg>
-       <x>бӧрӧн лыддьыны</x>
-       <xt xml:lang="rus">считать в обратном порядке</xt>
-     </xg>
-     <xg>
-       <x>бӧрӧн вежӧртны</x>
-       <xt xml:lang="rus">понять превратно</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">вадом</l>
-     <stg>
-       <st Contlex="ADV_">вадом</st>
-     </stg>
-   </lg>
-   <mg relId="0"><geo>иньв.</geo>
-     <tg xml:lang="rus">
-       <t pos="V"/>
-     </tg><sg><s s_type="see">ӧддьӧн</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">важмоз</l>
-     <stg>
-       <st Contlex="ADV_">важмоз</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>по-прежнему, как прежде</t>
-     </tg>
-     <xg>
-       <x>овны важмоз</x>
-       <xt xml:lang="rus">жить по-прежнему</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">важынсянь</l>
-     <stg>
-       <st Contlex="ADV_">важынсянь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>с давних нор, издавна, исстари</t>
-     </tg>
-     <xg>
-       <x>важынсянь сідз керӧны</x>
-       <xt xml:lang="rus">с давних пор так повелось</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">вевсьӧн</l>
-     <stg>
-       <st Contlex="ADV_">вевсьӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>одно на другом, друг на друге</t>
-     </tg>
-     <xg>
-       <x>пызан вылын вевсьӧн куйлісӧ кык книга</x>
-       <xt xml:lang="rus">на столе лежали две книги одна на другой</xt>
-     </xg>
-     <xg>
-       <x>тетраддез волі тэчӧмӧсь вевсьӧн</x>
-       <xt xml:lang="rus">тетради были сложены стопкой</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">весьтӧмись</l>
-     <stg>
-       <st Contlex="ADV_">весьтӧмись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>зря, напрасно, попусту, без цели</t>
-     </tg>
-     <xg>
-       <x>поныс весьтӧмись оз увт</x>
-       <xt xml:lang="rus">собака зря не лает</xt>
-     </xg>
-     <xg>
-       <x>тійӧ кадсӧ ӧштат весьтӧмись</x>
-       <xt xml:lang="rus">вы напрасно тратите время</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">виззьӧн</l>
-     <stg>
-       <st Contlex="ADV_">виззьӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>сплошной массой</t>
-     </tg>
-     <xg>
-       <x>кӧдзыввез котрасьӧны виззьӧн муравьи</x>
-       <xt xml:lang="rus">движутся колонной (при миграции)</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">вильмоз</l>
-     <stg>
-       <st Contlex="ADV_">вильмоз</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="V">по-новому</t>
-     </tg>
-     <xg>
-       <x>овны вильмоз</x>
-       <xt xml:lang="rus">жить по-новому</xt>
-     </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">вильмозӧн</l>
-     <stg>
-       <st Contlex="ADV_">вильмозӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="V">по-новому</t>
-     </tg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">вильнёж</l>
-     <stg>
-       <st Contlex="ADV_">вильнёж</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Adv">по-новому</t>
-     </tg>
-     <sg><s pos="Adv" s_type="seeAlso">вильмоз</s><s pos="Adv" s_type="seeAlso">вильмозӧн</s></sg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">вильнёжӧн</l>
-     <stg>
-       <st Contlex="ADV_">вильнёжӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="Adv">по-новому</t>
-     </tg>
-     <sg><s pos="Adv" s_type="seeAlso">вильмоз</s><s pos="Adv" s_type="seeAlso">вильмозӧн</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">витісь</l>
-     <stg>
-       <st Contlex="ADV-MULT_">витісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>пять раз</t>
-     </tg>
-     <xg>
-       <x>челядь витісь ветлісӧ ягӧдавны</x>
-       <xt xml:lang="rus">дети пять раз ходили по ягоды</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">вывсиныс</l>
-     <stg>
-       <st Contlex="ADV_">вывсиныс</st>
-       <st Contlex="ADV_" geo="сев.">вылсиныс</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>с них; [они] с себя</t>
-     </tg>
-     <xg>
-       <x>нія чапкисӧ вывсиныс паськӧмсӧ и пырисӧ ваӧ</x>
-       <xt xml:lang="rus">они сняли с себя одежду и вошли в воду 2,<pos>послелог</pos> с [их...]; [они] со [своего...]</xt>
-     </xg>
-     <xg>
-       <x>пӧлать вывсиныс лэдзчисӧ саймӧм челядь</x>
-       <xt xml:lang="rus">с полатей (со своих полатей) слезли проснувшиеся дети</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">вылӧттяныс</l>
-     <stg>
-       <st Contlex="ADV_">вылӧттяныс</st>
-       <st Contlex="ADV_" geo="иньв.">вывӧттяныс, выӧттяныс</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>по ним</t>
-     </tg>
-     <xg>
-       <x>вылӧттяныс вермис мунны чарньӧв</x>
-       <xt xml:lang="rus">их могла поразить молния 2,<pos>послелог</pos> по [их...]; [они] по [своему...]</xt>
-     </xg>
-     <xg>
-       <x>ыб вылӧттяныс гӧняйтӧмась вӧввез</x>
-       <xt xml:lang="rus">по их полям бегали лошади</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">гӧгӧрпӧв</l>
-     <stg>
-       <st Contlex="ADV_">гӧгӧрпӧв</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>кругом</t>
-     </tg>
-     <xg>
-       <x>гӧгӧрпӧв бергӧтчыны</x>
-       <xt xml:lang="rus">повернуться кругом</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>всесторонне</t>
-     </tg>
-     <xg>
-       <x>этӧ предложеннёсӧ колӧ видзӧтлыны гӧгӧрпӧв</x>
-       <xt xml:lang="rus">это предложение надо рассмотреть со всех сторон</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">гӧгӧрӧттяныт</l>
-     <stg>
-       <st Contlex="ADV_">гӧгӧрӧттяныт</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> вокруг, около [вашего...]; [вы] вокруг, около [своего...];,
-     <xg>
-       <x>поленица гӧгӧрӧттяныт лымыс абу на сылӧм</x>
-       <xt xml:lang="rus">вокруг [вашей] поленницы снег ещё не растаял</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">дасвитісь</l>
-     <stg>
-       <st Contlex="ADV-MULT_">дасвитісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>пятнадцать раз</t>
-     </tg>
-     <xg>
-       <x>ӧтікӧ и сійӧ висьтавлан дасвитісь</x>
-       <xt xml:lang="rus">одно и то же повторяешь пятнадцать раз</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">даскватись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">даскватись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>шестнадцать раз</t>
-     </tg>
-     <xg>
-       <x>талун опытсӧ повторитім даскватись ни</x>
-       <xt xml:lang="rus">сегодня опыт повторили уже шестнадцатый раз</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">даскуимись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">даскуимись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>тринадцать раз</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">даскыкись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">даскыкись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>двенадцать раз</t>
-     </tg>
-     <xg>
-       <x>вӧрсӧ тракторнас кыскисӧ даскыкись</x>
-       <xt xml:lang="rus">ни лес повезли на тракторе уже двенадцатый раз</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">даскыкьямысісь</l>
-     <stg>
-       <st Contlex="ADV-MULT_">даскыкьямысісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>восемнадцать раз</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">даснёлись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">даснёлись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>четырнадцать раз</t>
-     </tg>
-     <xg>
-       <x>галясӧ кыскит тракт вылас даснёлись</x>
-       <xt xml:lang="rus">гравий вы вывезли на тракт четырнадцать раз</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">даспӧв</l>
-     <stg>
-       <st Contlex="ADV_">даспӧв</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>десять раз</t>
-     </tg>
-     <xg>
-       <x>задачасӧ кери даспӧв</x>
-       <xt xml:lang="rus">я десять раз переделывал задачу</xt>
-     </xg>
-     <xg>
-       <x>даспӧв каттьыны</x>
-       <xt xml:lang="rus">обернуть {что-либо} в десять слоев</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">дасісь</l>
-     <stg>
-       <st Contlex="ADV-MULT_">дасісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>десять раз</t>
-     </tg>
-     <xg>
-       <x>колхозниккез дасісь ни ветлісӧ ытшкисьны</x>
-       <xt xml:lang="rus">колхозники уже десять раз ходили на покос</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">дасӧкмысісь</l>
-     <stg>
-       <st Contlex="ADV-MULT_">дасӧкмысісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>девятнадцать раз</t>
-     </tg>
-     <xg>
-       <x>таво тӧвнас кайлісӧ керасьны дасӧкмысісь</x>
-       <xt xml:lang="rus">в этом году зимой девятнадцать раз ездили на рубку [леса]</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">дасӧтікись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">дасӧтікись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>одиннадцать раз</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">дасӧтісь</l>
-     <stg>
-       <st Contlex="ADV-ORD-MULT_">дасӧтісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>десятый раз</t>
-     </tg>
-     <xg>
-       <x>дасӧтісь ни ме тэныт баита</x>
-       <xt xml:lang="rus">я тебе уже десятый раз говорю</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">дынӧттяныт</l>
-     <stg>
-       <st Contlex="ADV_">дынӧттяныт</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>около (мимо, возле) вас, [вы] около (мимо) себя</t>
-     </tg>
-     <xg>
-       <x>дынӧттяныт некин оз лысьт ветлӧтны</x>
-       <xt xml:lang="rus">мимо [вас] никто не смеет ходить 2,<pos>послелог</pos> около, мимо, возле [вашего...]; [вы] около (мимо, возле) [своего...]</xt>
-     </xg>
-     <xg>
-       <x>ферма дынӧттяныт туйыс тшыкӧм</x>
-       <xt xml:lang="rus">около вашей фермы дорога испортилась</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кватись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">кватись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>шесть раз; по шесть раз</t>
-     </tg>
-     <xg>
-       <x>ме кватись лыдди типпесӧ</x>
-       <xt xml:lang="rus">я цыплят пересчитал шесть раз</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кватьлаын</l>
-     <stg>
-       <st Contlex="ADV_">кватьлаын</st>
-       <st Contlex="ADV_" geo="иньв.">кватьваын</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>в шести местах</t>
-     </tg>
-     <xg>
-       <x>талун колхозниккез вундісӧ кватьлаын</x>
-       <xt xml:lang="rus">сегодня колхозники жали в шести местах</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кватьпӧв</l>
-     <stg>
-       <st Contlex="ADV_">кватьпӧв</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>шесть раз</t>
-     </tg>
-     <xg>
-       <x>кватьпӧв керны</x>
-       <xt xml:lang="rus">переделать шесть раз</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>в шесть слоев</t>
-     </tg>
-     <xg>
-       <x>кватьпӧв кӧстыны</x>
-       <xt xml:lang="rus">сложить в шесть слоев</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кватьӧн</l>
-     <stg>
-       <st Contlex="ADV_">кватьӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>вшестером</t>
-     </tg>
-     <xg>
-       <x>мийӧ вӧлім кватьӧн</x>
-       <xt xml:lang="rus">мы были вшестером</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кватьӧтчид</l>
-     <stg>
-       <st Contlex="ADV_">кватьӧтчид</st>
-     </stg>
-   </lg>
-   <mg relId="0"><geo>сев.</geo>
-     <tg xml:lang="rus">
-       <t>шестой раз, в шестой раз</t>
-     </tg>
-     <xg>
-       <x>кватьӧтчид вовлыны магазинӧ</x>
-       <xt xml:lang="rus">приходить в магазин шестой раз</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кватьӧтісь</l>
-     <stg>
-       <st Contlex="ADV-ORD-MULT_">кватьӧтісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>шестой раз</t>
-     </tg>
-     <xg>
-       <x>сія вовліскватьӧтісь ни</x>
-       <xt xml:lang="rus">он приходил уже шестой раз</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кодыр</l>
-     <stg>
-       <st Contlex="ADV_">кодыр</st>
-     </stg>
-   </lg>
-   <mg relId="0"><geo>н.-иньв.</geo>
-     <tg xml:lang="rus">
-       <t pos="V"><sg><s s_type="see"/></sg></t>
-     </tg>
-     <xg>
-       <x>кӧр</x>
-       <xt xml:lang="rus">ІІІ</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кругпӧв</l>
-     <stg>
-       <st Contlex="ADV_">кругпӧв</st>
-       <st Contlex="ADV_" geo="сев.">кругпӧл</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>кругом</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">куимдасӧн</l>
-     <stg>
-       <st Contlex="ADV_">куимдасӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>в количестве тридцати</t>
-     </tg>
-     <xg>
-       <x>куимдасӧн дӧнзис быдӧннымлӧ</x>
-       <xt xml:lang="rus">всем досталось по тридцать [рублей]</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">куимдасӧтісь</l>
-     <stg>
-       <st Contlex="ADV-ORD-MULT_">куимдасӧтісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>тридцатый раз</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">куимись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">куимись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>трижды, три раза</t>
-     </tg>
-     <xg>
-       <x>пионеррез ягӧдавны ветлісӧ куимись</x>
-       <xt xml:lang="rus">пионеры за ягодами ходили три раза</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">куимпӧв</l>
-     <stg>
-       <st Contlex="ADV_">куимпӧв</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>трижды, три раза</t>
-     </tg>
-     <xg>
-       <x>куимпӧв керны</x>
-       <xt xml:lang="rus">трижды переделать</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>в три слоя</t>
-     </tg>
-     <xg>
-       <x>куимпӧв кӧстыны</x>
-       <xt xml:lang="rus">сложить в три слоя</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">куимӧн</l>
-     <stg>
-       <st Contlex="ADV_">куимӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>втроём, в количестве трёх</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">куимӧткӧ</l>
-     <stg>
-       <st Contlex="ADV_">куимӧткӧ</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>в-трётьих</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">куимӧтчид</l>
-     <stg>
-       <st Contlex="ADV_">куимӧтчид</st>
-     </stg>
-   </lg>
-   <mg relId="0"><geo>сев.</geo>
-     <tg xml:lang="rus">
-       <t>третий раз, в третий раз</t>
-     </tg>
-     <xg>
-       <x>зонка мунӧ городӧкуимӧтчид ни</x>
-       <xt xml:lang="rus">парень едет в город уже третий раз</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">куимӧтісь</l>
-     <stg>
-       <st Contlex="ADV-ORD-MULT_">куимӧтісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>третий раз</t>
-     </tg>
-     <xg>
-       <x>ме куимӧтісь ни локті деньгала</x>
-       <xt xml:lang="rus">я пришёл за деньгами уже третий раз</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">куимӧччыд</l>
-     <stg>
-       <st Contlex="ADV_">куимӧччыд</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="V">{чур.}</t>
-     </tg><sg><s s_type="see">куимӧтчид</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кыдзи</l>
-     <stg>
-       <st Contlex="ADV_">кыдзи</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t><sg><s pos="" s_type="seeAlso">кыдз</s></sg> ІІ</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кыкдасӧн</l>
-     <stg>
-       <st Contlex="ADV_">кыкдасӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>[всего] двадцать; в количестве двадцати</t>
-     </tg>
-     <xg>
-       <x>мийӧ вӧлім кыкдасӧн</x>
-       <xt xml:lang="rus">нас было двадцать</xt>
-     </xg>
-     <xg>
-       <x>кыкдасӧт</x>
-       <xt xml:lang="rus">двадцатый</xt>
-     </xg>
-     <xg>
-       <x>кыкдасӧн лун</x>
-       <xt xml:lang="rus">двадцатый день</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кыкдасӧтісь</l>
-     <stg>
-       <st Contlex="ADV-ORD-MULT_">кыкдасӧтісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>двадцать раз, двадцатый раз</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кыкись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">кыкись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>дважды, два раза</t>
-     </tg>
-     <xg>
-       <x>кыкись керны</x>
-       <xt xml:lang="rus">дважды переделать</xt>
-     </xg>
-     <xg>
-       <x>кыкись ветлыны вӧрӧ</x>
-       <xt xml:lang="rus">два раза сходитьв лес</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кыкисьӧн</l>
-     <stg>
-       <st Contlex="ADV-MULT-DIST_">кыкисьӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>по два раза</t>
-     </tg>
-     <xg>
-       <x>луннас кыкисьӧн киськавны цветтэз</x>
-       <xt xml:lang="rus">по два раза в день поливать цветы</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кыкьямысдасісь</l>
-     <stg>
-       <st Contlex="ADV-MULT_">кыкьямысдасісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>восемьдесят раз</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кыкьямысісь</l>
-     <stg>
-       <st Contlex="ADV-MULT_">кыкьямысісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>восемь раз</t>
-     </tg>
-     <xg>
-       <x>кыкьямысісь ветлім тшакла</x>
-       <xt xml:lang="rus">восемь раз мы ходили за грибами</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кыкӧтчид</l>
-     <stg>
-       <st Contlex="ADV_">кыкӧтчид</st>
-     </stg>
-   </lg>
-   <mg relId="0"><geo>сев.</geo>
-     <tg xml:lang="rus">
-       <t>второй раз</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кынымись</l>
-     <stg>
-       <st Contlex="ADV-MULT_">кынымись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>сколько раз, который раз</t>
-     </tg>
-     <xg>
-       <x>кынымись ветліт ягӧдавны?</x>
-       <xt xml:lang="rus">сколько раз вы ходили за ягодами?</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кынымиськӧ</l>
-     <stg>
-       <st Contlex="ADV_">кынымиськӧ</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>несколько раз</t>
-     </tg>
-     <xg>
-       <x>мийӧ кынымиськӧ ветлім жӧ ягӧдавны</x>
-       <xt xml:lang="rus">мы несколько раз тоже ходили за ягодами</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">кынымӧтісь</l>
-     <stg>
-       <st Contlex="ADV-ORD-MULT_">кынымӧтісь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="myv">
-       <t pos="Adv">зяроцеде</t>
-     </tg>
-     <tg xml:lang="rus">
-       <t pos="Adv">который раз</t>
-     </tg>
-     <xg>
-       <x>кынымӧтісь ни ме висьталі тэныт, что</x>
-       <xt xml:lang="rus">... который раз уже я говорил тебе, что...</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">мӧдпӧв</l>
-     <stg>
-       <st Contlex="ADV_">мӧдпӧв</st>
-       <st Contlex="ADV_" geo="сев.">мӧдпӧл</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>заново (сделать {что-либо})</t>
-     </tg>
-     <xg>
-       <x>мӧдпӧв видзӧтны</x>
-       <xt xml:lang="rus">пересмотреть</xt>
-     </xg>
-     <xg>
-       <x>мӧдпӧв вурны</x>
-       <xt xml:lang="rus">перешить</xt>
-     </xg>
-     <xg>
-       <x>мӧдпӧв гижны</x>
-       <xt xml:lang="rus">переписать</xt>
-     </xg>
-     <xg>
-       <x>мӧдпӧв керны</x>
-       <xt xml:lang="rus">переделать</xt>
-     </xg>
-     <xg>
-       <x>мӧдпӧв миссьӧтны</x>
-       <xt xml:lang="rus">перемыть</xt>
-     </xg>
-     <xg>
-       <x>гижны мӧдпӧв диплом</x>
-       <xt xml:lang="rus">написать диплом заново</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">нёльпӧв</l>
-     <stg>
-       <st Contlex="ADV_">нёльпӧв</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>четырежды, четыре раза</t>
-     </tg>
-     <xg>
-       <x>нёльпӧв керны</x>
-       <xt xml:lang="rus">четырежды переделывать</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>в четыре слоя</t>
-     </tg>
-     <xg>
-       <x>нёльпӧв кӧстыны</x>
-       <xt xml:lang="rus">сложить в четыре слоя</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">одзӧдззас</l>
-     <stg>
-       <st Contlex="ADV_">одзӧдззас</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>{послелог до чего-либо}до места перед [его...]; [он] до места перед [своим...]</t>
-     </tg>
-     <xg>
-       <x>сія локтістоп ыбӧс одзӧдззас</x>
-       <xt xml:lang="rus">он подошёл вплотную к дверям;</xt>
-       <xt xml:lang="rus">он подошёл вплотную к своим дверям</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">пытшкам</l>
-     <stg>
-       <st Contlex="ADV_">пытшкам</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> внутри [моего...], в [моём...];
-     <xg>
-       <x>керку пытшкам</x>
-       <xt xml:lang="rus">внутри моего дома</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">пытшксит</l>
-     <stg>
-       <st Contlex="ADV_">пытшксит</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> из [твоего...]; [ты] из [своего...];
-     <xg>
-       <x>шкаф пытшксит кыскы бекӧр-паньсӧ</x>
-       <xt xml:lang="rus">достань чашки и ложки из своего шкафа</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">рытлапӧв</l>
-     <stg>
-       <st Contlex="ADV_">рытлапӧв</st>
-       <st Contlex="ADV_" geo="иньв.">рытвапӧв</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>предвечернее время; к вечеру</t>
-     </tg>
-     <xg>
-       <x>рытлапӧлас ни гортӧ бертісӧ</x>
-       <xt xml:lang="rus">[они] вернулись к вечеру</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">сьӧрсис</l>
-     <stg>
-       <st Contlex="ADV_">сьӧрсис</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>1. с ним, [он] с собой</t>
-     </tg>
-     <xg>
-       <x>чемодансӧвайис сьӧрсис</x>
-       <xt xml:lang="rus">чемодан он привёз с собой</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">2. {послелог от кого-чего-либо}</t>
-     </tg>
-     <xg>
-       <x>мам сьӧрсис кальк оз кер</x>
-       <xt xml:lang="rus">от матери ни на шаг не отстаёт (о ребёнке).</xt>
-     </xg>
-     <xg>
-       <x>ки сьӧрсис быдӧс петӧ</x>
-       <xt xml:lang="rus">он мастер на все руки</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">увтас</l>
-     <stg>
-       <st Contlex="ADV_">увтас</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>вниз</t>
-     </tg>
-     <xg>
-       <x>лэдз сійӧ увтас</x>
-       <xt xml:lang="rus">спусти его вниз</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">2. {послелог под чем-либо}; под [его...], [он] под (своим...]</t>
-     </tg>
-     <xg>
-       <x>песыс гор увтас</x>
-       <xt xml:lang="rus">дрова под печкой</xt>
-     </xg>
-     <xg>
-       <x>поныс куйлӧкок увтас</x>
-       <xt xml:lang="rus">собака лежит у его ног</xt>
-     </xg>
-     <xg>
-       <x>ведраэз сулалӧны ӧшынувтас</x>
-       <xt xml:lang="rus">вёдра стоят под его окнами</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">увтсяняс</l>
-     <stg>
-       <st Contlex="ADV_">увтсяняс</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>{послелог из-под чего-либо}; из-под [его...], [он] из-под [своего...]</t>
-     </tg>
-     <xg>
-       <x>керӧс увтсяняс кыліс гора сьылӧм</x>
-       <xt xml:lang="rus">из-под горы доносилось звонкое пение</xt>
-     </xg>
-     <xg>
-       <x>шапка увтсяняс тыдалісӧ сьӧд кудриэс</x>
-       <xt xml:lang="rus">из-под шапки у него виднелись чёрные кудри</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">увтын</l>
-     <stg>
-       <st Contlex="ADV_">увтын</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>внизу</t>
-     </tg>
-     <xg>
-       <x>увтын тыдалӧ ю</x>
-       <xt xml:lang="rus">внизу виднеется река</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">2. {послелог под чем-либо}</t>
-     </tg>
-     <xg>
-       <x>керӧс увтын югйӧвтіс юок</x>
-       <xt xml:lang="rus">под горой блестела речка</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">увтӧ</l>
-     <stg>
-       <st Contlex="ADV_">увтӧ</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>{послелог под что-либо}</t>
-     </tg>
-     <xg>
-       <x>вундіссез пуксьӧмась шоччисьны кӧз увтӧ</x>
-       <xt xml:lang="rus">жнецы сели отдохнуть под ель</xt>
-     </xg>
-     <xg>
-       <x>ӧт зоночкаыс дзебсисис кровать увтӧ</x>
-       <xt xml:lang="rus">один из мальчиков спрятался под кровать</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">увтӧттяс</l>
-     <stg>
-       <st Contlex="ADV_">увтӧттяс</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>{послелог под чем-либо}; под [его...], [он] под [своим...]</t>
-     </tg>
-     <xg>
-       <x>карчйӧр увтӧттяс мунӧ подӧна туёк</x>
-       <xt xml:lang="rus">по месту, находящемуся ниже огорода, проходит тропинка</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adv">шоныта</l>
-     <stg>
-       <st Contlex="ADV_">шоныта</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>тепло</t>
-     </tg>
-     <xg>
-       <x>шоныта пасьтасьны</x>
-       <xt xml:lang="rus">тепло одеваться</xt>
-     </xg>
-     <xg>
-       <x>шоныта пантавны гӧссезӧс</x>
-       <xt xml:lang="rus">тепло встретить гостей</xt>
-     </xg>
    </mg>
 </e>
 </r> 

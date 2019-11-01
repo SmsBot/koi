@@ -80,7 +80,7 @@
    <lg>
      <l pos="Interj">аня</l>
      <stg>
-       <st Contlex="INTERJ_">аня</st>
+       <st>аня</st>
      </stg>
    </lg>
      <sources>
@@ -128,7 +128,7 @@
    <lg>
      <l pos="Interj">батя</l>
      <stg>
-       <st Contlex="INTERJ_">батя</st>
+       <st>батя</st>
      </stg>
    </lg>
      <sources>
@@ -226,7 +226,7 @@
    <lg>
      <l pos="Interj">бытшӧм асылӧн.</l>
      <stg>
-       <st Contlex="INTERJ_">бытшӧм асылӧн.</st>
+       <st>бытшӧм асылӧн.</st>
      </stg>
    </lg>
      <sources>
@@ -243,7 +243,7 @@
    <lg>
      <l pos="Interj">волькыт туй</l>
      <stg>
-       <st Contlex="INTERJ_">волькыт туй</st>
+       <st>волькыт туй</st>
      </stg>
    </lg>
      <sources>
@@ -456,7 +456,7 @@
    <lg>
      <l pos="Interj">кытчӧдз быдӧс</l>
      <stg>
-       <st Contlex="INTERJ_">кытчӧдз быдӧс</st>
+       <st>кытчӧдз быдӧс</st>
      </stg>
    </lg>
      <sources>
@@ -473,7 +473,7 @@
    <lg>
      <l pos="Interj">локтан здорово.</l>
      <stg>
-       <st Contlex="INTERJ_">локтан здорово.</st>
+       <st>локтан здорово.</st>
      </stg>
    </lg>
      <sources>
@@ -692,7 +692,7 @@
    <lg>
      <l pos="Interj">нянь-сов тіянлӧ.</l>
      <stg>
-       <st Contlex="INTERJ_">нянь-сов тіянлӧ.</st>
+       <st>нянь-сов тіянлӧ.</st>
      </stg>
    </lg>
      <sources>
@@ -853,7 +853,7 @@
    <lg>
      <l pos="Interj">тартарӧ тарӧвтчы.</l>
      <stg>
-       <st Contlex="INTERJ_">тартарӧ тарӧвтчы.</st>
+       <st>тартарӧ тарӧвтчы.</st>
      </stg>
    </lg>
      <sources>
@@ -914,7 +914,7 @@
    <lg>
      <l pos="Interj">тыр доз тэныт</l>
      <stg>
-       <st Contlex="INTERJ_">тыр доз тэныт</st>
+       <st>тыр доз тэныт</st>
      </stg>
    </lg>
      <sources>
@@ -1250,7 +1250,7 @@
    <lg>
      <l pos="Interj">ӧткымын шуӧм здорово тіянлӧ.</l>
      <stg>
-       <st Contlex="INTERJ_">ӧткымын шуӧм здорово тіянлӧ.</st>
+       <st>ӧткымын шуӧм здорово тіянлӧ.</st>
      </stg>
    </lg>
      <sources>

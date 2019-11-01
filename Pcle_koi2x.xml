@@ -126,6 +126,87 @@
      </xg>
    </mg>
 </e>
+<e exclude="fst" order="2">
+   <lg>
+     <l pos="Pcle">бы</l>
+     <stg>
+       <st Contlex="PCLE-AUX_">бы</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Pcle">бы</t>
+     </tg>
+     <xg>
+       <x>ветлі бы вӧрӧ, кӧбы дугдіс зэрны</x>
+       <xt xml:lang="rus">я сходил бы в лес, если бы перестал дождь</xt>
+     </xg>
+     <xg>
+       <x>узьыштны бы</x>
+       <xt xml:lang="rus">поспать бы</xt>
+     </xg>
+     <xg>
+       <x>ме бы узьышта</x>
+       <xt xml:lang="rus">мне бы поспать, я бы хотел поспать</xt>
+     </xg>
+     <xg>
+       <x>кагаыс бы сёйӧ</x>
+       <xt xml:lang="rus">ребёнок хочет есть</xt>
+     </xg>
+     <xg>
+       <x>тэныт бы коліс шоччисьыштны</x>
+       <xt xml:lang="rus">тебе надо бы отдохнуть</xt>
+     </xg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pcle">вай</l>
+     <stg>
+       <st Contlex="PCLE-AUX-IMP_">вай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Pcle">дай</t>
+       <t pos="Pcle">давай</t>
+     </tg>
+     <xg>
+       <x>вай видзӧтам книгасӧ</x>
+       <xt xml:lang="rus">давай посмотрим книгу</xt>
+     </xg>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pcle">вайко</l>
+     <stg>
+       <st Contlex="PCLE-AUX-IMP_">вайко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="Pcle">дай</t>
+       <t pos="Pcle">давай</t>
+     </tg>
+     <xg>
+       <x>вай видзӧтам книгасӧ</x>
+       <xt xml:lang="rus">давай посмотрим книгу</xt>
+     </xg>
+   </mg>
+</e>
 <e>
    <lg>
      <l pos="Pcle">да</l>
@@ -321,7 +402,7 @@
    <lg>
      <l pos="Pcle">эд</l>
      <stg>
-       <st Contlex="PCLE_">эд</st>
+       <st>эд</st>
      </stg>
    </lg>
      <sources>
@@ -342,7 +423,7 @@
    <lg>
      <l pos="Pcle">я</l>
      <stg>
-       <st Contlex="PCLE_">я</st>
+       <st>я</st>
      </stg>
    </lg>
      <sources>

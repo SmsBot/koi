@@ -2392,6 +2392,47 @@
 </e>
 <e order="2">
    <lg>
+     <l hid="Hom2" pos="Adp">бура</l>
+     <stg>
+       <st Contlex="ADP_">бура</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">бурна</l>
+     <stg>
+       <st Contlex="ADP_">бурна</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>:</t>
+     </tg>
+     <xg>
+       <x>сы бурна</x>
+       <xt xml:lang="rus">с такой силой, так сильно</xt>
+     </xg>
+     <xg>
+       <x>киӧ сы бурна доймӧ, что узьны оз сет</x>
+       <xt xml:lang="rus">рука так сильно болит, что не даёт спать</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adp">бӧрам</l>
      <stg>
        <st Contlex="ADP_">бӧрам</st>
@@ -4297,6 +4338,38 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adp">вевдӧрӧдз</l>
+     <stg>
+       <st Contlex="PO-SPAT-TERI">вевдӧр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>1.</t>
+     </tg>
+     <xg>
+       <x>турунсӧ тэчим крыша вевдӧрӧдз</x>
+       <xt xml:lang="rus">сено [мы] сложили до [самой] крыши</xt>
+     </xg>
+     <xg>
+       <x>тшакьялікас мийӧ петалім Вотяк вевдӧрӧдз</x>
+       <xt xml:lang="rus">собирая грибы, мы доходили до самой [деревни] Вотяк</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">2. {с притяж. суф.,}</t>
+     </tg> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adp">вевдӧрӧдззас</l>
      <stg>
        <st Contlex="ADP_">вевдӧрӧдззас</st>
@@ -4510,6 +4583,28 @@
      <xg>
        <x>баня весьтам лэбтасӧ сруб</x>
        <xt xml:lang="rus">против моей бани поставят сруб</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">весьтаным</l>
+     <stg>
+       <st Contlex="ADP_">весьтаным</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>весьтаным</x>
+       <xt xml:lang="rus">], под, над, за [нашим...]; [мы] против [своего...]</xt>
+     </xg>
+     <xg>
+       <x>керку весьтаным сувтӧтісӧ фонарь</x>
+       <xt xml:lang="rus">против нашего дома поставили фонарь</xt>
      </xg>
    </mg>
 </e>
@@ -6508,13 +6603,14 @@
      </sources>
    <mg relId="0">
      <semantics>
-     </semantics>
-     <tg xml:lang="rus">
-       <t pos="Adp">от места вокруг {чего-либо}</t>
-     </tg>
+     </semantics> <pos>послелог</pos>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics> <sg/>
      <xg>
-       <x>быдӧс ёгсӧ школа гӧгӧрись мийӧ аскадӧ дзимлялім</x>
-       <xt xml:lang="rus">весь мусор около школы мы своевременно убрали</xt>
+       <x>гӧгӧрсим, гӧгӧрсиным, гӧгӧрсиныс, гӧгӧрсиныт, гӧгӧрсис, гӧгӧрсит</x>
+       <xt xml:lang="rus"/>
      </xg>
    </mg>
 </e>
@@ -6700,6 +6796,28 @@
      <xg>
        <x>шор гӧгӧрсяняс кыліс герскан шы</x>
        <xt xml:lang="rus">со стороны ручья доносился скрип коростеля</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">гӧгӧрын</l>
+     <stg>
+       <st Contlex="PO-SPAT-INE">гӧгӧр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>горт гӧгӧрын уджавны бур</x>
+       <xt xml:lang="rus">работать близко от дома хорошо</xt>
+     </xg>
+     <xg>
+       <x>карчйӧр гӧгӧрын жексӧ-котрасьӧ порсьпиян</x>
+       <xt xml:lang="rus">вокруг огорода с визгом бегает поросёнок</xt>
      </xg>
    </mg>
 </e>
@@ -8748,6 +8866,39 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adp">дынісь</l>
+     <stg>
+       <st Contlex="PO-SPAT-ELA">дын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>пызан дынісь мунны</x>
+       <xt xml:lang="rus">отойти от стола</xt>
+     </xg>
+     <xg>
+       <x>горт дынісь ме некытчӧ эг ветлы</x>
+       <xt xml:lang="rus">от дома я никуда не отходил</xt>
+     </xg>
+     <xg>
+       <x>сы дынісь вачкӧ чӧснӧг дукӧн</x>
+       <xt xml:lang="rus">от него пахнет чесноком</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{употр.} {с притяж. суф.};</t>
+     </tg> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adp">дынӧ</l>
      <stg>
        <st Contlex="PO-SPAT-ILL">дын</st>
@@ -9295,6 +9446,56 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adp">катын</l>
+     <stg>
+       <st Contlex="PO-SPAT-INE">кат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>:</t>
+     </tg>
+     <xg>
+       <x>Иньва катын</x>
+       <xt xml:lang="rus">в верхнем течении Иньвы</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">кежын</l>
+     <stg>
+       <st Contlex="ADP_">кежын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>:</t>
+     </tg>
+     <xg>
+       <x>ас кежын</x>
+       <xt xml:lang="rus">между собой</xt>
+     </xg>
+     <xg>
+       <x>баитны ас кежын</x>
+       <xt xml:lang="rus">говорить между собой</xt>
+     </xg>
+     <xg>
+       <x>торйӧтны быдӧс ас кежын</x>
+       <xt xml:lang="rus">поделить всё между собой</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adp">кежӧ</l>
      <stg>
        <st Contlex="PO-SPAT-ILL">кеж</st>
@@ -9369,6 +9570,38 @@
        <x>кежам, кежаным, кежаныс, кежаныт, кежас, кежат</x>
        <xt xml:lang="rus"/>
      </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">киндза</l>
+     <stg>
+       <st Contlex="ADP_">киндза</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg>
+     <xg>
+       <x>сы киндза</x>
+       <xt xml:lang="rus">сверх того</xt>
+     </xg>
+     <xg>
+       <x>сы киндза учӧтик</x>
+       <xt xml:lang="rus">меньше того</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>кроме</t>
+     </tg> <geo>Рог.</geo>
    </mg>
 </e>
 <e order="2">
@@ -9600,6 +9833,24 @@
      <xg>
        <x>йӧз коласісь петны</x>
        <xt xml:lang="rus">выйти из народа</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">коласӧ</l>
+     <stg>
+       <st Contlex="ADP_">коласӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos> <geo>иньв.</geo>
+     <xg>
+       <x>ковасӧ, коасӧ</x>
+       <xt xml:lang="rus"/>
      </xg>
    </mg>
 </e>
@@ -9882,6 +10133,36 @@
      <xg>
        <x>мыйись-мый</x>
        <xt xml:lang="rus">если что, в случае чего</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">ньылат</l>
+     <stg>
+       <st Contlex="ADP_">ньылат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>ва ньылат кывтны</x>
+       <xt xml:lang="rus">плыть вниз по течению реки</xt>
+     </xg>
+     <xg>
+       <x>тӧвньылат лэдзны</x>
+       <xt xml:lang="rus">пустить по ветру</xt>
+     </xg>
+     <xg>
+       <x>туманыс ва ньылат мунӧ</x>
+       <xt xml:lang="rus"> туман стелется вниз по течению реки ↔ <geo>иньв.</geo> </xt>
+     </xg>
+     <xg>
+       <x>ньыват, ньыат</x>
+       <xt xml:lang="rus"/>
      </xg>
    </mg>
 </e>
@@ -10597,6 +10878,31 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adp">одзӧдз</l>
+     <stg>
+       <st Contlex="ADP_">одзӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>кыссьыны ворота одзӧдз</x>
+       <xt xml:lang="rus">доползти до ворот</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">2. {с притяж. суф.}</t>
+     </tg> <sg/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adp">одзӧдззаным</l>
      <stg>
        <st Contlex="ADP_">одзӧдззаным</st>
@@ -10851,6 +11157,88 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adp">ордсянь</l>
+     <stg>
+       <st Contlex="ADP_">ордсянь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>тэ кысянь локтан? - Вонӧордсянь</x>
+       <xt xml:lang="rus">ты откуда идёшь? - От [своего] брата</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{редко с притяж. суф.}:</t>
+     </tg>
+     <xg>
+       <x>ӧрдсяняныс, ордсяняныт, ордсяняс, ордсянят</x>
+       <xt xml:lang="rus"/>
+     </xg>
+     <xg>
+       <x>сой ордсяняныт петіс старик</x>
+       <xt xml:lang="rus">из дома вашей сестры вышел старик</xt>
+     </xg>
+     <xg>
+       <x>челядьыс котӧртісӧЕфим ордсянь</x>
+       <xt xml:lang="rus">дети выбежали из дома Ефима</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">ордын</l>
+     <stg>
+       <st Contlex="ADP_">ордын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>сія рытывбыт пукаліс айыс ордын</x>
+       <xt xml:lang="rus">он весь вечер просидел у своего отца</xt>
+     </xg>
+     <xg>
+       <x>сылӧн нылыс олӧМиков ордын</x>
+       <xt xml:lang="rus">его дочь живёт в доме Николая</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{с притяж. суф.}:</t>
+     </tg>
+     <xg>
+       <x>ордам, орданым, орданыс, орданыт, ордас, ӧрдат</x>
+       <xt xml:lang="rus"/>
+     </xg>
+     <xg>
+       <x>сіяталун узис вон ордас</x>
+       <xt xml:lang="rus">он сегодня ночевал у своего брата</xt>
+     </xg>
+     <xg>
+       <x>сой орданым пукалісӧ гӧссез</x>
+       <xt xml:lang="rus">у нашей сестры сидели гости</xt>
+     </xg>
+     <xg>
+       <x>тӧдтӧм морт дыр пукаліс дядь ордам</x>
+       <xt xml:lang="rus">незнакомец долго сидел у моего дяди</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adp">ордісь</l>
      <stg>
        <st Contlex="PO-SPAT-ELA">орд</st>
@@ -10891,6 +11279,96 @@
      <xg>
        <x>баб ордсиныт петіс врач</x>
        <xt xml:lang="rus">из дома вашей бабушки вышел врач</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">ордӧ</l>
+     <stg>
+       <st Contlex="ADP_">ордӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>ветлыны ёрт ордӧ</x>
+       <xt xml:lang="rus">сходить к другу; вовлыны сой</xt>
+     </xg>
+     <xg>
+       <x>ордӧ</x>
+       <xt xml:lang="rus">побывать у сестры</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{с притяж. суф.}:</t>
+     </tg>
+     <xg>
+       <x>ордам, орданым, орданыс, орданыт, ордас, ордат</x>
+       <xt xml:lang="rus"/>
+     </xg>
+     <xg>
+       <x>ме муна вон ордам</x>
+       <xt xml:lang="rus">я иду к брату</xt>
+     </xg>
+     <xg>
+       <x>гортӧ берттӧн мийӧпыралім аймаммез орданым</x>
+       <xt xml:lang="rus">на обратном пути мы заходили к нашим родителям</xt>
+     </xg>
+     <xg>
+       <x>сія мӧдӧ пыравны айыс ордӧ</x>
+       <xt xml:lang="rus">он хочет зайти к своему отцу</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">ордӧдз</l>
+     <stg>
+       <st Contlex="ADP_">ордӧдз</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>старик етша ветлӧтіс, мӧддэз ордӧдз петалас и бӧра водӧ</x>
+       <xt xml:lang="rus">старик мало двигался, сходит к родственникам и опять ложится</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{редко с притяж. суф.}:</t>
+     </tg>
+     <xg>
+       <x>ӧрдӧдззам, ӧрдӧдззаным, ордӧдззаныс, ордӧдззаныт, ордӧдззас, ордӧдззат</x>
+       <xt xml:lang="rus"/>
+     </xg>
+     <xg>
+       <x>ме сійӧ кольлалі председатель ордӧдззаным</x>
+       <xt xml:lang="rus">я его проводил до [дома] нашего председателя</xt>
+     </xg>
+     <xg>
+       <x>меным сё ни колӧветлыны сой ордӧдззам</x>
+       <xt xml:lang="rus">мне обязательно надо побывать у моей сестры</xt>
+     </xg>
+     <xg>
+       <x>сылӧ некӧр вӧлі ветлыны нельки вон ордӧдззас</x>
+       <xt xml:lang="rus">ему некогда было сходить даже к своему брату</xt>
+     </xg>
+     <xg>
+       <x>нія эзӧ вермӧ шедӧтчыны сой ордӧдззат</x>
+       <xt xml:lang="rus"> они не могли попасть к твоей сестре ( <range>букв.</range> в дом твоей сестры) </xt>
      </xg>
    </mg>
 </e>
@@ -11871,6 +12349,45 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adp">пыдди</l>
+     <stg>
+       <st Contlex="ADP_">пыдди</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg> <geo>сев.</geo>
+     <xg>
+       <x>сіясылӧмам пыдди вӧлі</x>
+       <xt xml:lang="rus">она была ему вместо матери</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>{за кого-либо}</t>
+     </tg>
+     <xg>
+       <x>зон пыдди видзны</x>
+       <xt xml:lang="rus">считать за сына.</xt>
+     </xg>
+     <xg>
+       <x>пыдди пуктыны</x>
+       <xt xml:lang="rus">а) считаться {с кем-либо};признавать, уважать, почитать {кого-либо}; б) учитывать, принимать всерьёз {что-либо}</xt>
+     </xg>
+     <xg>
+       <x>этӧ сія пыдди эз пукты</x>
+       <xt xml:lang="rus">этого он не учёл</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adp">пыр</l>
      <stg>
        <st Contlex="ADP_">пыр</st>
@@ -12216,6 +12733,52 @@
      <xg>
        <x>карман пытшксис усис карточка</x>
        <xt xml:lang="rus">из его кармана выпала фотокарточка</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">пытшкын</l>
+     <stg>
+       <st Contlex="ADP_">пытшкын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">{нареч.} внутри</t>
+     </tg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">2.</t>
+     </tg>
+     <xg> <x/>
+       <xt xml:lang="rus"> <pos>послелог</pos> внутри {чего-либо, в чём-либо}; </xt>
+     </xg>
+     <xg>
+       <x>вӧр пытшкын</x>
+       <xt xml:lang="rus">в лесу</xt>
+     </xg>
+     <xg>
+       <x>жыр пытшкын</x>
+       <xt xml:lang="rus">в</xt>
+     </xg>
+     <xg> <x/>
+       <xt xml:lang="rus">комнате, внутри комнаты;</xt>
+     </xg>
+     <xg>
+       <x>ас пытшкын видзны</x>
+       <xt xml:lang="rus"> держать при себе, не высказывать вслух 3. {с притяж. суф.,} <sg> <s s_type="see"/> </sg> </xt>
+     </xg>
+     <xg>
+       <x>пытшкам, пытшканым, пытшканыс, пытшканыт, пытшкас, пытшкат</x>
+       <xt xml:lang="rus"/>
      </xg>
    </mg>
 </e>
@@ -12725,9 +13288,9 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Adv">сайӧ</l>
+     <l pos="Adp">сайӧ</l>
      <stg>
-       <st Contlex="ADV-SPAT-ILL">сайӧ</st>
+       <st Contlex="ADP_">сайӧ</st>
      </stg>
    </lg>
      <sources>
@@ -12831,6 +13394,24 @@
      <xg>
        <x>короссезла ветлім гуна сайӧдззаным</x>
        <xt xml:lang="rus">за вениками мы пошли за [своё] гумно</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">сайӧдззаныс</l>
+     <stg>
+       <st Contlex="ADP_">сайӧдззаныс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>канавасӧ гарйӧмась деревня сайӧдззаныс</x>
+       <xt xml:lang="rus">они докопали канаву до своей деревни</xt>
      </xg>
    </mg>
 </e>
@@ -13263,6 +13844,36 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adp">сорӧн</l>
+     <stg>
+       <st Contlex="ADP_">сорӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics> <pos>послелог</pos>
+     <xg>
+       <x>сорӧн</x>
+       <xt xml:lang="rus">[в смеси] с водой</xt>
+     </xg>
+     <xg>
+       <x>горзӧм сорӧн</x>
+       <xt xml:lang="rus">со слезами, с плачем</xt>
+     </xg>
+     <xg>
+       <x>тэрмасьӧм сорӧн</x>
+       <xt xml:lang="rus">в спешке</xt>
+     </xg>
+     <xg>
+       <x>нянь сорӧн сёйны</x>
+       <xt xml:lang="rus">есть с хлебом</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adp">сувда</l>
      <stg>
        <st Contlex="ADP_">сувда</st>
@@ -13417,6 +14028,46 @@
 </e>
 <e order="2">
    <lg>
+     <l pos="Adp">сьӧрись</l>
+     <stg>
+       <st Contlex="ADP_">сьӧрись</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>1. [имеющийся, находящийся] при себе, с собой</t>
+     </tg>
+     <xg>
+       <x>сьӧрись деньга видзны</x>
+       <xt xml:lang="rus">израсходовать деньги, имевшиеся с собой</xt>
+     </xg>
+     <xg>
+       <x>сьӧрись сёян сёйны</x>
+       <xt xml:lang="rus">питаться пищей, имеющейся при себе</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">2. {послелог от кого-чего-либо}</t>
+     </tg>
+     <xg>
+       <x>кольччыны машина сьӧрись</x>
+       <xt xml:lang="rus">отстать от машины</xt>
+     </xg>
+     <xg>
+       <x>ме тэ сьӧрись ог кольччы</x>
+       <xt xml:lang="rus">я от тебя не отстану</xt>
+     </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
      <l pos="Adp">сьӧрна</l>
      <stg>
        <st Contlex="ADP_">сьӧрна</st>
@@ -13456,6 +14107,34 @@
        <x>лун сьӧрна удж</x>
        <xt xml:lang="rus">работа, выполненная в течение дня</xt>
      </xg>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Adp">сьӧрсянь</l>
+     <stg>
+       <st Contlex="ADP_">сьӧрсянь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t>1.</t>
+     </tg>
+     <xg>
+       <x>тэ сьӧрсянь воныт и муніс</x>
+       <xt xml:lang="rus">вслед за тобой твой брат и ушёл</xt>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V">2. {с притяж. суф.,}</t>
+     </tg> <sg/>
    </mg>
 </e>
 <e order="2">
@@ -14580,27 +15259,6 @@
 </e>
 <e order="2">
    <lg>
-     <l pos="Adv">шӧрӧ</l>
-     <stg>
-       <st Contlex="ADV-SPAT-ILL">шӧрӧ</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="rus">
-       <t>на середину</t>
-     </tg>
-     <xg>
-       <x>шӧрӧ колӧ сувтӧтны</x>
-       <xt xml:lang="rus">нужно поставить на середину</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
      <l pos="Adp">шӧрӧ</l>
      <stg>
        <st Contlex="PO-SPAT-ILL">шӧр</st>
@@ -15126,593 +15784,18 @@
 </e>
 <e order="2">
    <lg>
-     <l hid="Hom2" pos="Adp">бура</l>
-     <stg>
-       <st Contlex="ADP_">бура</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus"> <t/>
-     </tg><sg><s pos="" s_type="seeAlso">бурна</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">бурна</l>
-     <stg>
-       <st Contlex="ADP_">бурна</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>:</t>
-     </tg>
-     <xg>
-       <x>сы бурна</x>
-       <xt xml:lang="rus">с такой силой, так сильно</xt>
-     </xg>
-     <xg>
-       <x>киӧ сы бурна доймӧ, что узьны оз сет</x>
-       <xt xml:lang="rus">рука так сильно болит, что не даёт спать</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg><l pos="Adp">вевдӧрӧдз</l>
-     <stg>
-       <st Contlex="PO-SPAT-TERI">вевдӧр</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>1.<pos>послелог</pos> до самого верха, верхней границы {чего-либо}</t>
-     </tg>
-     <xg>
-       <x>турунсӧ тэчим крыша вевдӧрӧдз</x>
-       <xt xml:lang="rus">сено [мы] сложили до [самой] крыши</xt>
-     </xg>
-     <xg>
-       <x>тшакьялікас мийӧ петалім Вотяк вевдӧрӧдз</x>
-       <xt xml:lang="rus">собирая грибы, мы доходили до самой [деревни] Вотяк</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">2. {с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">вевдӧрӧдззас</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg><l pos="Adp">весьтаным</l>
-     <stg>
-       <st Contlex="ADP_">весьтаным</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> против [нащего...], рядом с [нашим.
-     <xg>
-       <x>весьтаным</x>
-       <xt xml:lang="rus">], под, над, за [нашим...]; [мы] против [своего...]</xt>
-     </xg>
-     <xg>
-       <x>керку весьтаным сувтӧтісӧ фонарь</x>
-       <xt xml:lang="rus">против нашего дома поставили фонарь</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg><l pos="Adp">гӧгӧрись</l>
-     <stg>
-       <st Contlex="PO-SPAT-ELA">гӧгӧр</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos>
-   </mg>
-   <mg> с притяж суф.,<sg><s s_type="see"/></sg>
-     <xg>
-       <x>гӧгӧрсим, гӧгӧрсиным, гӧгӧрсиныс, гӧгӧрсиныт, гӧгӧрсис, гӧгӧрсит</x>
-       <xt xml:lang="rus"/>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg><l pos="Adp">гӧгӧрын</l>
-     <stg>
-       <st Contlex="PO-SPAT-INE">гӧгӧр</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> около, вокруг, {около чего-либо}; поблизости {от чего-либо}:
-     <xg>
-       <x>горт гӧгӧрын уджавны бур</x>
-       <xt xml:lang="rus">работать близко от дома хорошо</xt>
-     </xg>
-     <xg>
-       <x>карчйӧр гӧгӧрын жексӧ-котрасьӧ порсьпиян</x>
-       <xt xml:lang="rus">вокруг огорода с визгом бегает поросёнок</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg><l pos="Adp">дынісь</l>
-     <stg>
-       <st Contlex="PO-SPAT-ELA">дын</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> от ({кого-чего-либо})
-     <xg>
-       <x>пызан дынісь мунны</x>
-       <xt xml:lang="rus">отойти от стола</xt>
-     </xg>
-     <xg>
-       <x>горт дынісь ме некытчӧ эг ветлы</x>
-       <xt xml:lang="rus">от дома я никуда не отходил</xt>
-     </xg>
-     <xg>
-       <x>сы дынісь вачкӧ чӧснӧг дукӧн</x>
-       <xt xml:lang="rus">от него пахнет чесноком</xt>
-     </xg>
-   </mg>
-   <mg>2.
-     <tg xml:lang="rus">
-       <t>{употр.} {с притяж. суф.};</t>
-     </tg><sg><s s_type="see">дынсим, дынсиным, дынсиныс, дынсиныт, дынсис, дынсит</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">катын</l>
-     <stg>
-       <st Contlex="PO-SPAT-INE">кат</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>:</t>
-     </tg>
-     <xg>
-       <x>Иньва катын</x>
-       <xt xml:lang="rus">в верхнем течении Иньвы</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">кежын</l>
-     <stg>
-       <st Contlex="ADP_">кежын</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>:</t>
-     </tg>
-     <xg>
-       <x>ас кежын</x>
-       <xt xml:lang="rus">между собой</xt>
-     </xg>
-     <xg>
-       <x>баитны ас кежын</x>
-       <xt xml:lang="rus">говорить между собой</xt>
-     </xg>
-     <xg>
-       <x>торйӧтны быдӧс ас кежын</x>
-       <xt xml:lang="rus">поделить всё между собой</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">киндза</l>
-     <stg>
-       <st Contlex="ADP_">киндза</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="V"><geo>Чеч.</geo>:</t>
-     </tg>
-     <xg>
-       <x>сы киндза</x>
-       <xt xml:lang="rus">сверх того</xt>
-     </xg>
-     <xg>
-       <x>сы киндза учӧтик</x>
-       <xt xml:lang="rus">меньше того</xt>
-     </xg>
-   </mg>
-   <mg><geo>Рог.</geo>
-     <tg xml:lang="rus">
-       <t>кроме</t>
-     </tg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">коласӧ</l>
-     <stg>
-       <st Contlex="ADP_">коласӧ</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> {во что-либо}; {между чем-либо} □ <geo>иньв.</geo>
-     <xg>
-       <x>ковасӧ, коасӧ</x>
-       <xt xml:lang="rus"/>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">ньылат</l>
-     <stg>
-       <st Contlex="ADP_">ньылат</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> в направлении {чего-либо};.
-     <xg>
-       <x>ва ньылат кывтны</x>
-       <xt xml:lang="rus">плыть вниз по течению реки</xt>
-     </xg>
-     <xg>
-       <x>тӧвньылат лэдзны</x>
-       <xt xml:lang="rus">пустить по ветру</xt>
-     </xg>
-     <xg>
-       <x>туманыс ва ньылат мунӧ</x>
-       <xt xml:lang="rus">туман стелется вниз по течению реки ↔<geo>иньв.</geo></xt>
-     </xg>
-     <xg>
-       <x>ньыват, ньыат</x>
-       <xt xml:lang="rus"/>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">одзӧдз</l>
-     <stg>
-       <st Contlex="ADP_">одзӧдз</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> 1. до места, находящегося перед {кем-чем-либо}
-     <xg>
-       <x>кыссьыны ворота одзӧдз</x>
-       <xt xml:lang="rus">доползти до ворот</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">2. {с притяж. суф.}</t>
-     </tg><sg><s s_type="see">одзӧдззам, одзӧдззаным, одзӧдззаныс, одзӧдззаныт, ӧдзӧдззас, одзӧдззат</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">ордсянь</l>
-     <stg>
-       <st Contlex="ADP_">ордсянь</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> 1) из (от) дома {кого-либо}
-     <xg>
-       <x>тэ кысянь локтан? - Вонӧордсянь</x>
-       <xt xml:lang="rus">ты откуда идёшь? - От [своего] брата</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>{редко с притяж. суф.}:</t>
-     </tg>
-     <xg>
-       <x>ӧрдсяняныс, ордсяняныт, ордсяняс, ордсянят</x>
-       <xt xml:lang="rus"/>
-     </xg>
-     <xg>
-       <x>сой ордсяняныт петіс старик</x>
-       <xt xml:lang="rus">из дома вашей сестры вышел старик</xt>
-     </xg>
-     <xg>
-       <x>челядьыс котӧртісӧЕфим ордсянь</x>
-       <xt xml:lang="rus">дети выбежали из дома Ефима</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">ордын</l>
-     <stg>
-       <st Contlex="ADP_">ордын</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> 1)в доме {кого-либо}
-     <xg>
-       <x>сія рытывбыт пукаліс айыс ордын</x>
-       <xt xml:lang="rus">он весь вечер просидел у своего отца</xt>
-     </xg>
-     <xg>
-       <x>сылӧн нылыс олӧМиков ордын</x>
-       <xt xml:lang="rus">его дочь живёт в доме Николая</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>{с притяж. суф.}:</t>
-     </tg>
-     <xg>
-       <x>ордам, орданым, орданыс, орданыт, ордас, ӧрдат</x>
-       <xt xml:lang="rus"/>
-     </xg>
-     <xg>
-       <x>сіяталун узис вон ордас</x>
-       <xt xml:lang="rus">он сегодня ночевал у своего брата</xt>
-     </xg>
-     <xg>
-       <x>сой орданым пукалісӧ гӧссез</x>
-       <xt xml:lang="rus">у нашей сестры сидели гости</xt>
-     </xg>
-     <xg>
-       <x>тӧдтӧм морт дыр пукаліс дядь ордам</x>
-       <xt xml:lang="rus">незнакомец долго сидел у моего дяди</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">ордӧ</l>
-     <stg>
-       <st Contlex="ADP_">ордӧ</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> 1) в дом {кого-либо, к кому-либо}
-     <xg>
-       <x>ветлыны ёрт ордӧ</x>
-       <xt xml:lang="rus">сходить к другу; вовлыны сой</xt>
-     </xg>
-     <xg>
-       <x>ордӧ</x>
-       <xt xml:lang="rus">побывать у сестры</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>{с притяж. суф.}:</t>
-     </tg>
-     <xg>
-       <x>ордам, орданым, орданыс, орданыт, ордас, ордат</x>
-       <xt xml:lang="rus"/>
-     </xg>
-     <xg>
-       <x>ме муна вон ордам</x>
-       <xt xml:lang="rus">я иду к брату</xt>
-     </xg>
-     <xg>
-       <x>гортӧ берттӧн мийӧпыралім аймаммез орданым</x>
-       <xt xml:lang="rus">на обратном пути мы заходили к нашим родителям</xt>
-     </xg>
-     <xg>
-       <x>сія мӧдӧ пыравны айыс ордӧ</x>
-       <xt xml:lang="rus">он хочет зайти к своему отцу</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">ордӧдз</l>
-     <stg>
-       <st Contlex="ADP_">ордӧдз</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> 1) до дома {кого-либо}
-     <xg>
-       <x>старик етша ветлӧтіс, мӧддэз ордӧдз петалас и бӧра водӧ</x>
-       <xt xml:lang="rus">старик мало двигался, сходит к родственникам и опять ложится</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>{редко с притяж. суф.}:</t>
-     </tg>
-     <xg>
-       <x>ӧрдӧдззам, ӧрдӧдззаным, ордӧдззаныс, ордӧдззаныт, ордӧдззас, ордӧдззат</x>
-       <xt xml:lang="rus"/>
-     </xg>
-     <xg>
-       <x>ме сійӧ кольлалі председатель ордӧдззаным</x>
-       <xt xml:lang="rus">я его проводил до [дома] нашего председателя</xt>
-     </xg>
-     <xg>
-       <x>меным сё ни колӧветлыны сой ордӧдззам</x>
-       <xt xml:lang="rus">мне обязательно надо побывать у моей сестры</xt>
-     </xg>
-     <xg>
-       <x>сылӧ некӧр вӧлі ветлыны нельки вон ордӧдззас</x>
-       <xt xml:lang="rus">ему некогда было сходить даже к своему брату</xt>
-     </xg>
-     <xg>
-       <x>нія эзӧ вермӧ шедӧтчыны сой ордӧдззат</x>
-       <xt xml:lang="rus">они не могли попасть к твоей сестре (<range>букв.</range> в дом твоей сестры)</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">пыдди</l>
-     <stg>
-       <st Contlex="ADP_">пыдди</st>
-     </stg>
-   </lg>
-   <mg relId="0"><geo>сев.</geo>
-     <tg xml:lang="rus">
-       <t><pos>послелог</pos> 1) вместо {кого-либо}</t>
-     </tg>
-     <xg>
-       <x>сіясылӧмам пыдди вӧлі</x>
-       <xt xml:lang="rus">она была ему вместо матери</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t>{за кого-либо}</t>
-     </tg>
-     <xg>
-       <x>зон пыдди видзны</x>
-       <xt xml:lang="rus">считать за сына.</xt>
-     </xg>
-     <xg>
-       <x>пыдди пуктыны</x>
-       <xt xml:lang="rus">а) считаться {с кем-либо};признавать, уважать, почитать {кого-либо}; б) учитывать, принимать всерьёз {что-либо}</xt>
-     </xg>
-     <xg>
-       <x>этӧ сія пыдди эз пукты</x>
-       <xt xml:lang="rus">этого он не учёл</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">пытшкын</l>
-     <stg>
-       <st Contlex="ADP_">пытшкын</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t pos="V">{нареч.} внутри</t>
-     </tg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">2.</t>
-     </tg>
-     <xg> <x/>
-       <xt xml:lang="rus"><pos>послелог</pos> внутри {чего-либо, в чём-либо};</xt>
-     </xg>
-     <xg>
-       <x>вӧр пытшкын</x>
-       <xt xml:lang="rus">в лесу</xt>
-     </xg>
-     <xg>
-       <x>жыр пытшкын</x>
-       <xt xml:lang="rus">в</xt>
-     </xg>
-     <xg> <x/>
-       <xt xml:lang="rus">комнате, внутри комнаты;</xt>
-     </xg>
-     <xg>
-       <x>ас пытшкын видзны</x>
-       <xt xml:lang="rus">держать при себе, не высказывать вслух 3. {с притяж. суф.,}<sg><s s_type="see"/></sg></xt>
-     </xg>
-     <xg>
-       <x>пытшкам, пытшканым, пытшканыс, пытшканыт, пытшкас, пытшкат</x>
-       <xt xml:lang="rus"/>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">сайӧдззаныс</l>
-     <stg>
-       <st Contlex="ADP_">сайӧдззаныс</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> до места за [их...], [они] до места за [своим...];
-     <xg>
-       <x>канавасӧ гарйӧмась деревня сайӧдззаныс</x>
-       <xt xml:lang="rus">они докопали канаву до своей деревни</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">сорӧн</l>
-     <stg>
-       <st Contlex="ADP_">сорӧн</st>
-     </stg>
-   </lg>
-   <mg relId="0"><pos>послелог</pos> [в смеси] {с чем-либо}; ва
-     <xg>
-       <x>сорӧн</x>
-       <xt xml:lang="rus">[в смеси] с водой</xt>
-     </xg>
-     <xg>
-       <x>горзӧм сорӧн</x>
-       <xt xml:lang="rus">со слезами, с плачем</xt>
-     </xg>
-     <xg>
-       <x>тэрмасьӧм сорӧн</x>
-       <xt xml:lang="rus">в спешке</xt>
-     </xg>
-     <xg>
-       <x>нянь сорӧн сёйны</x>
-       <xt xml:lang="rus">есть с хлебом</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">сьӧрись</l>
-     <stg>
-       <st Contlex="ADP_">сьӧрись</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>1. [имеющийся, находящийся] при себе, с собой</t>
-     </tg>
-     <xg>
-       <x>сьӧрись деньга видзны</x>
-       <xt xml:lang="rus">израсходовать деньги, имевшиеся с собой</xt>
-     </xg>
-     <xg>
-       <x>сьӧрись сёян сёйны</x>
-       <xt xml:lang="rus">питаться пищей, имеющейся при себе</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">2. {послелог от кого-чего-либо}</t>
-     </tg>
-     <xg>
-       <x>кольччыны машина сьӧрись</x>
-       <xt xml:lang="rus">отстать от машины</xt>
-     </xg>
-     <xg>
-       <x>ме тэ сьӧрись ог кольччы</x>
-       <xt xml:lang="rus">я от тебя не отстану</xt>
-     </xg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
-     <l pos="Adp">сьӧрсянь</l>
-     <stg>
-       <st Contlex="ADP_">сьӧрсянь</st>
-     </stg>
-   </lg>
-   <mg relId="0">
-     <tg xml:lang="rus">
-       <t>1.<pos>послелог</pos> вслед {за кем-либо}</t>
-     </tg>
-     <xg>
-       <x>тэ сьӧрсянь воныт и муніс</x>
-       <xt xml:lang="rus">вслед за тобой твой брат и ушёл</xt>
-     </xg>
-   </mg>
-   <mg>
-     <tg xml:lang="rus">
-       <t pos="V">2. {с притяж. суф.,}</t>
-     </tg><sg><s s_type="see">сьӧрсяням, сьӧрсяняным, сьӧрсяняныс, сьӧрсяняныт, сьӧрсяняс, сьӧрсянят</s></sg>
-   </mg>
-</e>
-<e order="2">
-   <lg>
      <l pos="Adp">ӧприч</l>
      <stg>
        <st Contlex="ADP_">ӧприч</st>
      </stg>
    </lg>
-   <mg relId="0"><geo>сев.</geo>
-     <tg xml:lang="rus">
-       <t><pos>послелог</pos> кроме</t>
-     </tg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus"> <t/>
+     </tg> <geo>сев.</geo>
      <xg>
        <x>сы ӧприч некин эз вӧл</x>
        <xt xml:lang="rus">кроме него, никого не было</xt>
