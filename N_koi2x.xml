@@ -1738,7 +1738,7 @@
    <lg>
      <l pos="N">бабыв</l>
      <stg>
-       <st Contlex="N_">бабыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">бабыл</st>
      </stg>
    </lg>
      <sources>
@@ -3651,7 +3651,7 @@
    <lg>
      <l pos="N">бикыв</l>
      <stg>
-       <st Contlex="N_">бикыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">бикыл</st>
      </stg>
    </lg>
      <sources>
@@ -4455,7 +4455,7 @@
    <lg>
      <l pos="N">бордтыв</l>
      <stg>
-       <st Contlex="N_">бордтыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">бордтыл</st>
      </stg>
    </lg>
      <sources>
@@ -10779,7 +10779,7 @@
    <lg>
      <l pos="N">висьӧв</l>
      <stg>
-       <st Contlex="N_">висьӧв</st>
+       <st Contlex="N_PARAGOGIC-V/L">висьӧл</st>
      </stg>
    </lg>
      <sources>
@@ -16240,7 +16240,7 @@
    <lg>
      <l pos="N">горвыв</l>
      <stg>
-       <st Contlex="N_">горвыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">горвыл</st>
      </stg>
    </lg>
      <sources>
@@ -20363,7 +20363,7 @@
    <lg>
      <l pos="N">джоджув</l>
      <stg>
-       <st Contlex="N_">джоджув</st>
+       <st Contlex="N_PARAGOGIC-V/L">джоджул</st>
      </stg>
    </lg>
      <sources>
@@ -21586,7 +21586,7 @@
    <lg>
      <l pos="N">дзӧдзыв</l>
      <stg>
-       <st Contlex="N_">дзӧдзыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">дзӧдзыл</st>
      </stg>
    </lg>
      <sources>
@@ -24876,7 +24876,7 @@
    <lg>
      <l pos="N">жодза йӧв</l>
      <stg>
-       <st Contlex="N_">жодза йӧв</st>
+       <st Contlex="N_PARAGOGIC-V/L">жодза йӧл</st>
      </stg>
    </lg>
      <sources>
@@ -29734,7 +29734,7 @@
    <lg>
      <l pos="N">картов</l>
      <stg>
-       <st Contlex="N_">картов</st>
+       <st Contlex="N_PARAGOGIC-V/L">картол</st>
      </stg>
    </lg>
      <sources>
@@ -32282,7 +32282,7 @@
    <lg>
      <l pos="N">ков</l>
      <stg>
-       <st Contlex="N_">ков</st>
+       <st Contlex="N_PARAGOGIC-V/L">кол</st>
      </stg>
    </lg>
      <sources>
@@ -32669,7 +32669,7 @@
    <lg>
      <l pos="N">койвыв</l>
      <stg>
-       <st Contlex="N_">койвыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">койвыл</st>
      </stg>
    </lg>
      <sources>
@@ -33156,7 +33156,7 @@
    <lg>
      <l pos="N">коков</l>
      <stg>
-       <st Contlex="N_" varid="1">коков</st>
+       <st Contlex="N_PARAGOGIC-V/L" varid="1">кокол</st>
        <st Contlex="N_" geo="сев." status="Err/Orth" varid="2">кӧкӧл</st>
      </stg>
    </lg>
@@ -37797,7 +37797,7 @@
    <lg>
      <l pos="N">куштӧв</l>
      <stg>
-       <st Contlex="N_">куштӧв</st>
+       <st Contlex="N_PARAGOGIC-V/L">куштӧл</st>
      </stg>
    </lg>
      <sources>
@@ -37926,7 +37926,7 @@
    <lg>
      <l pos="N">кыв</l>
      <stg>
-       <st Contlex="N_" varid="1">кыл</st>
+       <st Contlex="N_PARAGOGIC-V/L" varid="1">кыл</st>
        <st Contlex="N_" geo="сев." status="Err/Orth" varid="2">кыл</st>
      </stg>
    </lg>
@@ -38411,7 +38411,7 @@
    <lg>
      <l pos="N">кызсюв</l>
      <stg>
-       <st Contlex="N_">кызсюв</st>
+       <st Contlex="N_PARAGOGIC-V/L">кызсюл</st>
      </stg>
    </lg>
      <sources>
@@ -39176,7 +39176,7 @@
    <lg>
      <l pos="N">кыров</l>
      <stg>
-       <st Contlex="N_">кыров</st>
+       <st Contlex="N_PARAGOGIC-V/L">кырол</st>
      </stg>
    </lg>
      <sources>
@@ -39793,7 +39793,7 @@
    <lg>
      <l hid="Hom1" pos="N">кӧдзыв</l>
      <stg>
-       <st Contlex="N_">кӧдзыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">кӧдзыл</st>
      </stg>
    </lg>
      <sources>
@@ -39814,7 +39814,7 @@
    <lg>
      <l hid="Hom2" pos="N">кӧдзыв</l>
      <stg>
-       <st Contlex="N_">кӧдзыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">кӧдзыл</st>
      </stg>
    </lg>
      <sources>
@@ -40114,7 +40114,7 @@
    <lg>
      <l pos="N">кӧкӧв</l>
      <stg>
-       <st Contlex="N_">кӧкӧв</st>
+       <st Contlex="N_PARAGOGIC-V/L">кӧкӧл</st>
      </stg>
    </lg>
      <sources>
@@ -41841,7 +41841,7 @@
    <lg>
      <l pos="N">лукасов</l>
      <stg>
-       <st Contlex="N_">лукасов</st>
+       <st Contlex="N_PARAGOGIC-V/L">лукасол</st>
      </stg>
    </lg>
      <sources>
@@ -43870,7 +43870,7 @@
    <lg>
      <l pos="N">майӧв</l>
      <stg>
-       <st Contlex="N_">майӧв</st>
+       <st Contlex="N_PARAGOGIC-V/L">майӧл</st>
      </stg>
    </lg>
      <sources>
@@ -44119,7 +44119,7 @@
    <lg>
      <l pos="N">мампӧв</l>
      <stg>
-       <st Contlex="N_">мампӧв</st>
+       <st Contlex="N_PARAGOGIC-V/L">мампӧл</st>
      </stg>
    </lg>
      <sources>
@@ -49106,7 +49106,7 @@
    <lg>
      <l pos="N">оськӧв</l>
      <stg>
-       <st Contlex="N_">оськӧв</st>
+       <st Contlex="N_PARAGOGIC-V/L">оськӧл</st>
      </stg>
    </lg>
      <sources>
@@ -51023,7 +51023,7 @@
    <lg>
      <l pos="N">паськыв</l>
      <stg>
-       <st Contlex="N_">паськыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">паськыл</st>
      </stg>
    </lg>
      <sources>
@@ -64181,7 +64181,7 @@
    <lg>
      <l pos="N">тыпыв</l>
      <stg>
-       <st Contlex="N_">тыпыв</st>
+       <st Contlex="N_PARAGOGIC-V/L">тыпыл</st>
      </stg>
    </lg>
      <sources>
@@ -65796,7 +65796,7 @@
    <lg>
      <l pos="N">угов</l>
      <stg>
-       <st Contlex="N_">угов</st>
+       <st Contlex="N_PARAGOGIC-V/L">угол</st>
      </stg>
    </lg>
      <sources>
@@ -65817,7 +65817,7 @@
    <lg>
      <l pos="N">удав</l>
      <stg>
-       <st Contlex="N_">удав</st>
+       <st Contlex="N_PARAGOGIC-V/L">удал</st>
      </stg>
    </lg>
      <sources>
@@ -66930,7 +66930,7 @@
    <lg>
      <l pos="N">чарньӧв</l>
      <stg>
-       <st Contlex="N_">чарньӧв</st>
+       <st Contlex="N_PARAGOGIC-V/L">чарньӧл</st>
      </stg>
    </lg>
      <sources>
@@ -69564,7 +69564,7 @@
    <lg>
      <l pos="N">швав</l>
      <stg>
-       <st Contlex="N_">швав</st>
+       <st Contlex="N_PARAGOGIC-V/L">швал</st>
      </stg>
    </lg>
      <sources>
@@ -71086,7 +71086,7 @@
    <lg>
      <l pos="N">шынньӧв</l>
      <stg>
-       <st Contlex="N_">шынньӧв</st>
+       <st Contlex="N_PARAGOGIC-V/L">шынньӧл</st>
      </stg>
    </lg>
      <sources>
