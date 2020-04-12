@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">витнан</l>
      <stg>
@@ -55,7 +55,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дасвитӧдз</l>
      <stg>
@@ -71,7 +71,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дасвитӧт</l>
      <stg>
@@ -92,7 +92,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даскватьӧдз</l>
      <stg>
@@ -108,7 +108,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даскватьӧт</l>
      <stg>
@@ -125,7 +125,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даскуимӧдз</l>
      <stg>
@@ -141,7 +141,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даскуимӧт</l>
      <stg>
@@ -162,7 +162,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даскыкьямысӧдз</l>
      <stg>
@@ -178,7 +178,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даскыкьямысӧт</l>
      <stg>
@@ -199,7 +199,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даскыкӧдз</l>
      <stg>
@@ -215,7 +215,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даскыкӧт</l>
      <stg>
@@ -236,7 +236,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даснан</l>
      <stg>
@@ -280,7 +280,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даснёльӧдз</l>
      <stg>
@@ -296,7 +296,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">даснёльӧт</l>
      <stg>
@@ -317,7 +317,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дассизимӧдз</l>
      <stg>
@@ -333,7 +333,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дассизимӧт</l>
      <stg>
@@ -354,7 +354,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дассэсдасӧт</l>
      <stg>
@@ -371,7 +371,7 @@
      </tg> <geo>Рог.</geo>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дасӧдз</l>
      <stg>
@@ -387,7 +387,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дасӧкмысӧдз</l>
      <stg>
@@ -403,7 +403,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дасӧкмысӧт</l>
      <stg>
@@ -420,7 +420,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дасӧт</l>
      <stg>
@@ -441,7 +441,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дасӧтікӧдз</l>
      <stg>
@@ -457,7 +457,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">дасӧтікӧт</l>
      <stg>
@@ -470,7 +470,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Num" type="Ord">одиннадцатый</t>
+       <t type="Ord" pos="Num">одиннадцатый</t>
      </tg>
      <xg>
        <x>сойӧлӧ тырис дасӧтікӧт год</x>
@@ -478,7 +478,24 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
+   <lg>
+     <l pos="" hid="Hom2">жагыт</l>
+     <stg>
+       <st Contlex="A_">жагыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <geo>сев.</geo> <sg/>
+   </mg>
+</e>
+<e meta="" id="None">
    <lg>
      <l pos="Det">кватьнан</l>
      <stg>
@@ -522,7 +539,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">куимнан</l>
      <stg>
@@ -578,7 +595,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">кыкнан</l>
      <stg>
@@ -650,7 +667,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">нёльнан</l>
      <stg>
@@ -706,7 +723,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">сизимнан</l>
      <stg>
@@ -755,7 +772,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Det">эта</l>
      <stg>
@@ -782,7 +799,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Det">этна</l>
      <stg>
@@ -808,7 +825,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">этнія</l>
      <stg>
@@ -825,7 +842,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">ӧкмысдасӧт</l>
      <stg>
@@ -842,7 +859,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">ӧкмысӧдз</l>
      <stg>
@@ -863,7 +880,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Det">ӧкмысӧт</l>
      <stg>
@@ -876,7 +893,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Num" type="Ord">девятый</t>
+       <t type="Ord" pos="Num">девятый</t>
      </tg>
      <xg>
        <x>январь ӧкмысӧт лунӧ</x>

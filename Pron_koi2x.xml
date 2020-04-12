@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ас</l>
      <stg>
@@ -80,7 +80,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аскӧттям</l>
      <stg>
@@ -103,7 +103,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аскӧттяс</l>
      <stg>
@@ -130,7 +130,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аскӧттят</l>
      <stg>
@@ -153,7 +153,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслам</l>
      <stg>
@@ -192,7 +192,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асланым</l>
      <stg>
@@ -240,7 +240,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асланыс</l>
      <stg>
@@ -264,7 +264,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асланыт</l>
      <stg>
@@ -292,7 +292,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслань</l>
      <stg>
@@ -318,7 +318,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асланьӧ</l>
      <stg>
@@ -344,7 +344,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асланям</l>
      <stg>
@@ -368,7 +368,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асланяс</l>
      <stg>
@@ -392,7 +392,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асланят</l>
      <stg>
@@ -416,7 +416,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслас</l>
      <stg>
@@ -448,7 +448,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслат</l>
      <stg>
@@ -476,7 +476,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслым</l>
      <stg>
@@ -508,7 +508,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслыным</l>
      <stg>
@@ -531,7 +531,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслыныс</l>
      <stg>
@@ -559,7 +559,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслыныт</l>
      <stg>
@@ -582,7 +582,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслыс</l>
      <stg>
@@ -619,7 +619,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">аслыт</l>
      <stg>
@@ -643,7 +643,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассим</l>
      <stg>
@@ -666,7 +666,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассиным</l>
      <stg>
@@ -689,7 +689,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассиныс</l>
      <stg>
@@ -716,7 +716,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассиныт</l>
      <stg>
@@ -739,7 +739,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассис</l>
      <stg>
@@ -762,7 +762,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассит</l>
      <stg>
@@ -785,7 +785,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асся</l>
      <stg>
@@ -808,7 +808,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассям</l>
      <stg>
@@ -831,7 +831,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассяным</l>
      <stg>
@@ -854,7 +854,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассяныс</l>
      <stg>
@@ -877,7 +877,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассяныт</l>
      <stg>
@@ -900,7 +900,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассянь</l>
      <stg>
@@ -923,7 +923,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассяням</l>
      <stg>
@@ -946,7 +946,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассяняным</l>
      <stg>
@@ -969,7 +969,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассяняныс</l>
      <stg>
@@ -992,7 +992,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассяняныт</l>
      <stg>
@@ -1015,7 +1015,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассяняс</l>
      <stg>
@@ -1038,7 +1038,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассянят</l>
      <stg>
@@ -1061,7 +1061,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассяс</l>
      <stg>
@@ -1084,7 +1084,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ассят</l>
      <stg>
@@ -1107,7 +1107,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">астӧгьям</l>
      <stg>
@@ -1130,7 +1130,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">астӧгьяным</l>
      <stg>
@@ -1153,7 +1153,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">астӧгьяныс</l>
      <stg>
@@ -1176,7 +1176,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">астӧгьяныт</l>
      <stg>
@@ -1199,7 +1199,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">астӧгьяс</l>
      <stg>
@@ -1222,7 +1222,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">астӧгьят</l>
      <stg>
@@ -1245,7 +1245,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асьным</l>
      <stg>
@@ -1266,7 +1266,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асьнымӧс</l>
      <stg>
@@ -1289,7 +1289,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асьныс</l>
      <stg>
@@ -1310,7 +1310,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асьнысӧ</l>
      <stg>
@@ -1333,7 +1333,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асьныт</l>
      <stg>
@@ -1354,7 +1354,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асьнытӧ</l>
      <stg>
@@ -1377,7 +1377,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асьсӧ</l>
      <stg>
@@ -1409,7 +1409,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">асьтӧ</l>
      <stg>
@@ -1436,7 +1436,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ачым</l>
      <stg>
@@ -1465,7 +1465,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ачымӧс</l>
      <stg>
@@ -1484,7 +1484,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ачыс</l>
      <stg>
@@ -1509,7 +1509,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ачыт</l>
      <stg>
@@ -1542,7 +1542,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">быдыс</l>
      <stg>
@@ -1563,7 +1563,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">быдӧнным</l>
      <stg>
@@ -1584,7 +1584,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">быдӧнныс</l>
      <stg>
@@ -1605,7 +1605,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">быдӧнныт</l>
      <stg>
@@ -1626,7 +1626,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">быдӧс</l>
      <stg>
@@ -1671,7 +1671,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">быдӧссӧ</l>
      <stg>
@@ -1692,7 +1692,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">быдӧсыс</l>
      <stg>
@@ -1708,7 +1708,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">быйкӧб</l>
      <stg>
@@ -1725,7 +1725,24 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
+   <lg>
+     <l pos="" hid="Hom2">жагыт</l>
+     <stg>
+       <st Contlex="A_">жагыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <geo>сев.</geo> <sg/>
+   </mg>
+</e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">кин</l>
      <stg>
@@ -1801,7 +1818,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">кин-ненабудь</l>
      <stg>
@@ -1817,7 +1834,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">кин-нибудь</l>
      <stg>
@@ -1838,7 +1855,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">месся</l>
      <stg>
@@ -1867,7 +1884,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">метӧг</l>
      <stg>
@@ -1888,7 +1905,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">миянтӧг</l>
      <stg>
@@ -1911,7 +1928,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">некин</l>
      <stg>
@@ -1947,7 +1964,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">нем</l>
      <stg>
@@ -2051,7 +2068,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ныись</l>
      <stg>
@@ -2074,7 +2091,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ныкӧт</l>
      <stg>
@@ -2099,7 +2116,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">нылань</l>
      <stg>
@@ -2126,7 +2143,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">нылісь</l>
      <stg>
@@ -2157,7 +2174,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">нылӧ</l>
      <stg>
@@ -2184,7 +2201,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">нылӧн</l>
      <stg>
@@ -2215,7 +2232,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">нысянь</l>
      <stg>
@@ -2238,7 +2255,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">нытӧг</l>
      <stg>
@@ -2265,7 +2282,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ныын</l>
      <stg>
@@ -2292,7 +2309,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pron">нійӧ</l>
      <stg>
@@ -2315,7 +2332,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Pron">нія</l>
@@ -2367,9 +2384,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Pron">став</l>
+     <l pos="Pron" hid="Hom1">став</l>
      <stg>
        <st Contlex="PRON_">став</st>
      </stg>
@@ -2384,9 +2401,9 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Pron">став</l>
+     <l pos="Pron" hid="Hom2">став</l>
      <stg>
        <st Contlex="PRON_">став</st>
      </stg>
@@ -2413,7 +2430,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">сытӧг</l>
      <stg>
@@ -2440,7 +2457,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <map/>
    <lg>
      <l pos="Pron">сія</l>
@@ -2469,7 +2486,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">тэтӧг</l>
      <stg>
@@ -2496,7 +2513,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ті</l>
      <stg>
@@ -2521,7 +2538,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">тійӧ</l>
      <stg>
@@ -2537,7 +2554,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">тіянтӧг</l>
      <stg>
@@ -2564,7 +2581,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">эна</l>
      <stg>
@@ -2585,7 +2602,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">эсія</l>
      <stg>
@@ -2601,7 +2618,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ӧтнаным</l>
      <stg>
@@ -2634,7 +2651,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ӧтнаныс</l>
      <stg>
@@ -2667,7 +2684,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ӧтнаныт</l>
      <stg>
@@ -2696,7 +2713,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Pron">ӧті-мӧді</l>
      <stg>

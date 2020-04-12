@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="CS">ась</l>
      <stg>
-       <st>ась</st>
+       <st Contlex="CS_">ась</st>
      </stg>
    </lg>
      <sources>
@@ -21,7 +21,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="CS">да</l>
      <stg>
@@ -57,7 +57,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="CS">дак</l>
      <stg>
@@ -89,9 +89,26 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="CS">коли</l>
+     <l pos="" hid="Hom2">жагыт</l>
+     <stg>
+       <st Contlex="A_">жагыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <geo>сев.</geo> <sg/>
+   </mg>
+</e>
+<e meta="" id="None">
+   <lg>
+     <l pos="CS" hid="Hom2">коли</l>
      <stg>
        <st Contlex="CS_">коли</st>
      </stg>
@@ -112,9 +129,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="CS">раз</l>
+     <l pos="CS" hid="Hom2">раз</l>
      <stg>
        <st Contlex="CS_">раз</st>
      </stg>
@@ -133,7 +150,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="CS">что</l>
      <stg>
@@ -155,7 +172,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="CS">чтобы</l>
      <stg>

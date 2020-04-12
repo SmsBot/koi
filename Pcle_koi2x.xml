@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">а</l>
      <stg>
@@ -35,7 +35,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">абу</l>
      <stg>
@@ -126,7 +126,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst" order="2">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Pcle">бы</l>
      <stg>
@@ -163,7 +163,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Pcle">вай</l>
      <stg>
@@ -185,7 +185,7 @@
      </xg>
    </mg>
 </e>
-<e exclude="fst">
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Pcle">вайко</l>
      <stg>
@@ -207,7 +207,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">да</l>
      <stg>
@@ -248,7 +248,24 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
+   <lg>
+     <l pos="" hid="Hom2">жагыт</l>
+     <stg>
+       <st Contlex="A_">жагыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <geo>сев.</geo> <sg/>
+   </mg>
+</e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">и</l>
      <stg>
@@ -286,7 +303,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">но</l>
      <stg>
@@ -338,7 +355,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">ну</l>
      <stg>
@@ -369,7 +386,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">разь</l>
      <stg>
@@ -398,11 +415,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">эд</l>
      <stg>
-       <st>эд</st>
+       <st Contlex="PCLE_">эд</st>
      </stg>
    </lg>
      <sources>
@@ -419,11 +436,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Pcle">я</l>
      <stg>
-       <st>я</st>
+       <st Contlex="PCLE_">я</st>
      </stg>
    </lg>
      <sources>

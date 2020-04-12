@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">абужык</l>
      <stg>
@@ -24,7 +24,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">адззисьлытӧдз</l>
      <stg>
@@ -42,7 +42,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">аняюрӧн</l>
      <stg>
@@ -59,7 +59,7 @@
      </tg> <geo>н.-иньв.</geo> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">арбыт</l>
      <stg>
@@ -80,7 +80,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">аркиллю</l>
      <stg>
@@ -101,7 +101,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">арнас</l>
      <stg>
@@ -122,11 +122,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">арсӧ</l>
      <stg>
-       <st>арсӧ</st>
+       <st Contlex="ADV_">арсӧ</st>
      </stg>
    </lg>
      <sources>
@@ -143,11 +143,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">арттӧг</l>
      <stg>
-       <st>арттӧг</st>
+       <st Contlex="ADV_">арттӧг</st>
      </stg>
    </lg>
      <sources>
@@ -165,11 +165,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">арттӧм</l>
      <stg>
-       <st>арттӧм</st>
+       <st Contlex="ADV_">арттӧм</st>
      </stg>
    </lg>
      <sources>
@@ -187,7 +187,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">арьявлас</l>
      <stg>
@@ -206,7 +206,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">арӧн</l>
      <stg>
@@ -222,7 +222,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">аскадӧ</l>
      <stg>
@@ -243,11 +243,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асмоз</l>
      <stg>
-       <st>асмоз(нас)</st>
+       <st Contlex="ADV_">асмоз(нас)</st>
      </stg>
    </lg>
      <sources>
@@ -266,11 +266,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асмознас</l>
      <stg>
-       <st>асмоз(нас)</st>
+       <st Contlex="ADV_">асмоз(нас)</st>
      </stg>
    </lg>
      <sources>
@@ -289,7 +289,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">астӧг</l>
      <stg>
@@ -310,11 +310,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асъяпон</l>
      <stg>
-       <st>асъяпон</st>
+       <st Contlex="ADV_">асъяпон</st>
      </stg>
    </lg>
      <sources>
@@ -332,7 +332,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асыввезнас</l>
      <stg>
@@ -354,7 +354,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асывлань</l>
      <stg>
@@ -373,7 +373,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асывланьсянь</l>
      <stg>
@@ -392,7 +392,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асывланьын</l>
      <stg>
@@ -411,7 +411,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асывланьӧ</l>
      <stg>
@@ -430,7 +430,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асывнас</l>
      <stg>
@@ -452,7 +452,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асывсянь</l>
      <stg>
@@ -470,7 +470,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асывсяняс</l>
      <stg>
@@ -488,7 +488,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асылӧдз</l>
      <stg>
@@ -506,7 +506,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">асылӧн</l>
      <stg>
@@ -524,7 +524,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ашынас</l>
      <stg>
@@ -545,7 +545,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бав</l>
      <stg>
@@ -574,11 +574,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">басӧка</l>
      <stg>
-       <st>басӧка</st>
+       <st Contlex="ADV_">басӧка</st>
      </stg>
    </lg>
      <sources>
@@ -591,11 +591,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бат</l>
      <stg>
-       <st>бат</st>
+       <st Contlex="ADV_">бат</st>
      </stg>
    </lg>
      <sources>
@@ -613,7 +613,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">батя</l>
      <stg>
@@ -638,7 +638,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">безоблыжно</l>
      <stg>
@@ -655,7 +655,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бекыль-бекыль</l>
      <stg>
@@ -676,7 +676,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бекыр-бекыр</l>
      <stg>
@@ -692,7 +692,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бельйӧв</l>
      <stg>
@@ -717,7 +717,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бергӧт</l>
      <stg>
@@ -738,7 +738,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">берин-берин</l>
      <stg>
@@ -759,7 +759,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">берсянёж</l>
      <stg>
@@ -779,7 +779,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бодрӧя</l>
      <stg>
@@ -800,7 +800,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">боквыв</l>
      <stg>
@@ -822,7 +822,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">боки</l>
      <stg>
@@ -848,7 +848,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бокись</l>
      <stg>
@@ -895,7 +895,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">боклань</l>
      <stg>
@@ -926,7 +926,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бокӧн</l>
      <stg>
@@ -973,7 +973,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бокӧт</l>
      <stg>
@@ -1012,7 +1012,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">боле</l>
      <stg>
@@ -1033,7 +1033,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">больс-больс</l>
      <stg>
@@ -1046,7 +1046,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">буль-буль</t>
+       <t type="descr" pos="Adv">буль-буль</t>
      </tg>
      <xg>
        <x>мыйкӧ больс-больс керис</x>
@@ -1058,7 +1058,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бор-бор</l>
      <stg>
@@ -1071,7 +1071,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание глухому журчанию ручья</t>
+       <t type="descr" pos="Adv">подражание глухому журчанию ручья</t>
      </tg>
      <xg>
        <x>бор-бор котӧртӧ шорок</x>
@@ -1079,11 +1079,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бордпавйӧн</l>
      <stg>
-       <st>бордпавйӧн / бордпавкйӧн</st>
+       <st Contlex="ADV_">бордпавйӧн / бордпавкйӧн</st>
      </stg>
    </lg>
      <sources>
@@ -1100,11 +1100,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бордпавкйӧн</l>
      <stg>
-       <st>бордпавйӧн / бордпавкйӧн</st>
+       <st Contlex="ADV_">бордпавйӧн / бордпавкйӧн</st>
      </stg>
    </lg>
      <sources>
@@ -1121,7 +1121,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ботора</l>
      <stg>
@@ -1138,7 +1138,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">боёка</l>
      <stg>
@@ -1161,7 +1161,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бродӧн</l>
      <stg>
@@ -1182,7 +1182,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бряк</l>
      <stg>
@@ -1195,7 +1195,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>бряк усьны</x>
@@ -1203,7 +1203,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">буди</l>
      <stg>
@@ -1240,7 +1240,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">буз-баз</l>
      <stg>
@@ -1253,7 +1253,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">бултых</t>
+       <t type="descr" pos="Adv">бултых</t>
      </tg>
      <xg>
        <x>сія буз-баз только ваас усис</x>
@@ -1261,7 +1261,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">буз-буз</l>
      <stg>
@@ -1274,7 +1274,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">буль-буль</t>
+       <t type="descr" pos="Adv">буль-буль</t>
      </tg>
      <xg>
        <x>буз-буз мыйкӧ керис ваас</x>
@@ -1282,7 +1282,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">букыш-букыш</l>
      <stg>
@@ -1295,7 +1295,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>ветлӧтны букыш-букыш</x>
@@ -1303,7 +1303,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">букышӧн</l>
      <stg>
@@ -1324,7 +1324,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бульчик-бульчик</l>
      <stg>
@@ -1337,7 +1337,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>бульчик-бульчик петіс муись ключ</x>
@@ -1345,9 +1345,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Adv">бура</l>
+     <l pos="Adv" hid="Hom1">бура</l>
      <stg>
        <st Contlex="ADV_">бура</st>
      </stg>
@@ -1397,7 +1397,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бура-бытшӧма</l>
      <stg>
@@ -1418,7 +1418,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">буракодь</l>
      <stg>
@@ -1443,7 +1443,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">буржыка</l>
      <stg>
@@ -1487,11 +1487,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бурна</l>
      <stg>
-       <st>бурна</st>
+       <st Contlex="ADV_">бурна</st>
      </stg>
    </lg>
      <sources>
@@ -1508,7 +1508,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бурс</l>
      <stg>
@@ -1521,7 +1521,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание хрусту</t>
+       <t type="descr" pos="Adv">подражание хрусту</t>
      </tg>
      <xg>
        <x>челядьыс бурс-бурс ветлӧтӧны чарӧм кузяс</x>
@@ -1529,7 +1529,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бурситӧм</l>
      <stg>
@@ -1546,7 +1546,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бут</l>
      <stg>
@@ -1559,7 +1559,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">хлоп</t>
+       <t type="descr" pos="Adv">хлоп</t>
      </tg>
      <xg>
        <x>бут-бут</x>
@@ -1571,7 +1571,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бут-бат</l>
      <stg>
@@ -1584,7 +1584,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание топоту ног, грохоту при падении</t>
+       <t type="descr" pos="Adv">подражание топоту ног, грохоту при падении</t>
      </tg>
      <xg>
        <x>бут-бат пырны</x>
@@ -1596,7 +1596,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бута-бата</l>
      <stg>
@@ -1609,7 +1609,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>бута-бата тэчны пессэз</x>
@@ -1617,7 +1617,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быгыль-быгыль</l>
      <stg>
@@ -1630,7 +1630,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание ходьбе мелками шагами</t>
+       <t type="descr" pos="Adv">подражание ходьбе мелками шагами</t>
      </tg>
      <xg>
        <x>быгыль-быгыль мунны</x>
@@ -1638,7 +1638,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдлаись</l>
      <stg>
@@ -1659,7 +1659,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдласянь</l>
      <stg>
@@ -1682,7 +1682,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдлаын</l>
      <stg>
@@ -1714,7 +1714,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдлаӧ</l>
      <stg>
@@ -1744,7 +1744,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдлаӧдз</l>
      <stg>
@@ -1766,7 +1766,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдлаӧт</l>
      <stg>
@@ -1789,7 +1789,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдмоз</l>
      <stg>
@@ -1814,11 +1814,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быднёж</l>
      <stg>
-       <st>быднёж</st>
+       <st Contlex="ADV_">быднёж</st>
      </stg>
    </lg>
      <sources>
@@ -1836,7 +1836,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быднёжа</l>
      <stg>
@@ -1853,11 +1853,11 @@
      </tg> <b> быднёжӧн</b> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдпыр</l>
      <stg>
-       <st>быдпыр / быдпырся</st>
+       <st Contlex="ADV_">быдпыр / быдпырся</st>
      </stg>
    </lg>
      <sources>
@@ -1872,11 +1872,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдпырся</l>
      <stg>
-       <st>быдпыр / быдпырся</st>
+       <st Contlex="ADV_">быдпыр / быдпырся</st>
      </stg>
    </lg>
      <sources>
@@ -1891,11 +1891,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдса</l>
      <stg>
-       <st>быдса</st>
+       <st Contlex="ADV_">быдса</st>
      </stg>
    </lg>
      <sources>
@@ -1913,7 +1913,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быдсӧн</l>
      <stg>
@@ -1939,7 +1939,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быз-быз</l>
      <stg>
@@ -1952,7 +1952,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>быз-быз</x>
@@ -1964,7 +1964,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быкышӧн</l>
      <stg>
@@ -1985,7 +1985,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быкӧн</l>
      <stg>
@@ -2006,11 +2006,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">былись</l>
      <stg>
-       <st>былись</st>
+       <st Contlex="ADV_">былись</st>
      </stg>
    </lg>
      <sources>
@@ -2023,7 +2023,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быль</l>
      <stg>
@@ -2049,7 +2049,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быльнӧя</l>
      <stg>
@@ -2071,7 +2071,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">быр-быр</l>
      <stg>
@@ -2084,7 +2084,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание невнятному бормотанию</t>
+       <t type="descr" pos="Adv">подражание невнятному бормотанию</t>
      </tg>
      <xg>
        <x>нылыс мамыслӧ мыйкӧ быр-быр висьталіс</x>
@@ -2092,7 +2092,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бырзьӧмӧн</l>
      <stg>
@@ -2113,11 +2113,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бытшӧма</l>
      <stg>
-       <st>бытшӧма</st>
+       <st Contlex="ADV_">бытшӧма</st>
      </stg>
    </lg>
      <sources>
@@ -2131,11 +2131,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бытшӧмика</l>
      <stg>
-       <st>бытшӧмика</st>
+       <st Contlex="ADV_">бытшӧмика</st>
      </stg>
    </lg>
      <sources>
@@ -2154,7 +2154,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бытьтӧ</l>
      <stg>
@@ -2183,7 +2183,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бӧба</l>
      <stg>
@@ -2205,7 +2205,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бӧбись</l>
      <stg>
@@ -2230,7 +2230,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бӧр-одз</l>
      <stg>
@@ -2252,7 +2252,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бӧра</l>
      <stg>
@@ -2283,7 +2283,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бӧрлань</l>
      <stg>
@@ -2327,7 +2327,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бӧрланьын</l>
      <stg>
@@ -2349,7 +2349,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">бӧрӧн</l>
      <stg>
@@ -2400,7 +2400,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вадом</l>
      <stg>
@@ -2417,7 +2417,7 @@
      </tg> <geo>иньв.</geo> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">важмоз</l>
      <stg>
@@ -2438,7 +2438,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">важын</l>
      <stg>
@@ -2478,7 +2478,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">важынкодь</l>
      <stg>
@@ -2499,7 +2499,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">важынся-важын</l>
      <stg>
@@ -2516,7 +2516,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">важынсянь</l>
      <stg>
@@ -2537,7 +2537,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вак-вак</l>
      <stg>
@@ -2550,7 +2550,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">ха-ха (подражание громкому смеху)</t>
+       <t type="descr" pos="Adv">ха-ха (подражание громкому смеху)</t>
      </tg>
      <xg>
        <x>быдӧнныс вак-вак серӧмтчисӧ</x>
@@ -2558,7 +2558,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">валькыта</l>
      <stg>
@@ -2580,7 +2580,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ватшкӧп</l>
      <stg>
@@ -2593,7 +2593,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание звуку падающего дерева</t>
+       <t type="descr" pos="Adv">подражание звуку падающего дерева</t>
      </tg>
      <xg>
        <x>ватшкӧп керны</x>
@@ -2601,7 +2601,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вач-вач</l>
      <stg>
@@ -2614,7 +2614,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сія вач-вач куш</x>
@@ -2622,7 +2622,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вевсьӧн</l>
      <stg>
@@ -2647,7 +2647,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вевттӧг</l>
      <stg>
@@ -2668,9 +2668,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Adv">весь</l>
+     <l pos="Adv" hid="Hom1">весь</l>
      <stg>
        <st Contlex="ADV_">весь</st>
      </stg>
@@ -2743,7 +2743,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">веськыта</l>
      <stg>
@@ -2796,7 +2796,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">весьтӧмись</l>
      <stg>
@@ -2821,7 +2821,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">весёла</l>
      <stg>
@@ -2844,7 +2844,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">видзчисьтӧг</l>
      <stg>
@@ -2866,11 +2866,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вижлокӧн</l>
      <stg>
-       <st>вижлокӧн</st>
+       <st Contlex="ADV_">вижлокӧн</st>
      </stg>
    </lg>
      <sources>
@@ -2892,7 +2892,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">виззьӧн</l>
      <stg>
@@ -2913,7 +2913,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">визыла</l>
      <stg>
@@ -2940,7 +2940,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вик-вик</l>
      <stg>
@@ -2953,7 +2953,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>вик-вик керны</x>
@@ -2961,7 +2961,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вились</l>
      <stg>
@@ -3004,7 +3004,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вильмоз</l>
      <stg>
@@ -3025,7 +3025,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вильмозӧн</l>
      <stg>
@@ -3042,7 +3042,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вильнёж</l>
      <stg>
@@ -3059,7 +3059,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вильнёжӧн</l>
      <stg>
@@ -3076,7 +3076,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">винатӧг</l>
      <stg>
@@ -3097,11 +3097,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вирдыштӧмӧн</l>
      <stg>
-       <st>вирдыштӧмӧн</st>
+       <st Contlex="ADV_">вирдыштӧмӧн</st>
      </stg>
    </lg>
      <sources>
@@ -3118,7 +3118,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вирс-вирс</l>
      <stg>
@@ -3131,11 +3131,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание шмыганию носом</t>
+       <t type="descr" pos="Adv">подражание шмыганию носом</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">витісь</l>
      <stg>
@@ -3156,7 +3156,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">виш</l>
      <stg>
@@ -3169,7 +3169,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>виш керны</x>
@@ -3181,11 +3181,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вокорень</l>
      <stg>
-       <st>вокорень</st>
+       <st Contlex="ADV_">вокорень</st>
      </stg>
    </lg>
      <sources>
@@ -3204,7 +3204,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">волькыта</l>
      <stg>
@@ -3239,11 +3239,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вопотки</l>
      <stg>
-       <st>вопотки</st>
+       <st Contlex="ADV_">вопотки</st>
      </stg>
    </lg>
      <sources>
@@ -3261,7 +3261,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вуп-воп</l>
      <stg>
@@ -3274,7 +3274,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>вуп-воп сёйны</x>
@@ -3286,7 +3286,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вывсиныс</l>
      <stg>
@@ -3312,7 +3312,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вывті</l>
      <stg>
@@ -3353,7 +3353,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вылына</l>
      <stg>
@@ -3393,7 +3393,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вылӧттяныс</l>
      <stg>
@@ -3419,7 +3419,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">выс-выс</l>
      <stg>
@@ -3432,7 +3432,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сія местаыс выс-выс, турун оз быдмы</x>
@@ -3440,7 +3440,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">вӧрзьӧтчытӧг</l>
      <stg>
@@ -3462,7 +3462,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гажтӧма</l>
      <stg>
@@ -3489,11 +3489,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гажӧн</l>
      <stg>
-       <st>гажӧн</st>
+       <st Contlex="ADV_">гажӧн</st>
      </stg>
    </lg>
      <sources>
@@ -3506,11 +3506,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гажӧна</l>
      <stg>
-       <st>гажӧна</st>
+       <st Contlex="ADV_">гажӧна</st>
      </stg>
    </lg>
      <sources>
@@ -3527,7 +3527,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ге-ге-ге</l>
      <stg>
@@ -3540,7 +3540,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">га-га-га (подражание гоготанию гусей)</t>
+       <t type="descr" pos="Adv">га-га-га (подражание гоготанию гусей)</t>
      </tg>
      <xg>
        <x>дзодзог ге-ге-ге горӧтіс</x>
@@ -3548,7 +3548,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гигинь-гогинь</l>
      <stg>
@@ -3561,7 +3561,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>гигинь-гогинь кырӧвтны</x>
@@ -3569,7 +3569,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гиль-голь</l>
      <stg>
@@ -3582,8 +3582,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">бряк</t>
-       <t pos="Adv" type="descr">звяк</t>
+       <t type="descr" pos="Adv">бряк</t>
+       <t type="descr" pos="Adv">звяк</t>
      </tg>
      <xg>
        <x>гиль-голь мыйкӧ керис чомьяс</x>
@@ -3599,7 +3599,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гира-гара</l>
      <stg>
@@ -3612,7 +3612,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание топоту толпы</t>
+       <t type="descr" pos="Adv">подражание топоту толпы</t>
      </tg>
      <xg>
        <x>гира-гара быдӧнныс уськӧтчисӧ ӧтӧрӧ</x>
@@ -3620,7 +3620,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гич-гич</l>
      <stg>
@@ -3633,7 +3633,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>гич-гич керны</x>
@@ -3641,7 +3641,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гичыр-гичыр</l>
      <stg>
@@ -3654,7 +3654,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание скрежету зубов</t>
+       <t type="descr" pos="Adv">подражание скрежету зубов</t>
      </tg>
      <xg>
        <x>гичыр-гичыр керис пиннезнас</x>
@@ -3662,7 +3662,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гладь</l>
      <stg>
@@ -3692,11 +3692,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гожумӧн</l>
      <stg>
-       <st>гожумӧн</st>
+       <st Contlex="ADV_">гожумӧн</st>
      </stg>
    </lg>
      <sources>
@@ -3710,7 +3710,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гола</l>
      <stg>
@@ -3731,7 +3731,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">голь</l>
      <stg>
@@ -3744,7 +3744,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>горыс голь ештісь</x>
@@ -3752,7 +3752,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">голь-бряк</l>
      <stg>
@@ -3765,7 +3765,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание сильному стуку, грохоту</t>
+       <t type="descr" pos="Adv">подражание сильному стуку, грохоту</t>
      </tg>
      <xg>
        <x>поспуэз вылӧт мыйкӧ голь-бряк, голь-бряк тараліс</x>
@@ -3773,7 +3773,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гольк</l>
      <stg>
@@ -3786,7 +3786,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>гольк пӧднавны ыбӧс</x>
@@ -3794,7 +3794,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">горша</l>
      <stg>
@@ -3819,7 +3819,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">горшӧн</l>
      <stg>
@@ -3840,7 +3840,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">горӧн</l>
      <stg>
@@ -3876,7 +3876,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">горӧна</l>
      <stg>
@@ -3912,7 +3912,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гот-гот</l>
      <stg>
@@ -3925,7 +3925,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">куд-кудах (подражание кудахтанью)</t>
+       <t type="descr" pos="Adv">куд-кудах (подражание кудахтанью)</t>
      </tg>
      <xg>
        <x>курӧгыс гот-гот керис</x>
@@ -3933,7 +3933,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гуж-важ</l>
      <stg>
@@ -3946,11 +3946,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание шуму падающего с крыши снега, скользящих досок</t>
+       <t type="descr" pos="Adv">подражание шуму падающего с крыши снега, скользящих досок</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гур-гур</l>
      <stg>
@@ -3963,7 +3963,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание урчанию, тарахтению, гудению {чего-либо}</t>
+       <t type="descr" pos="Adv">подражание урчанию, тарахтению, гудению {чего-либо}</t>
      </tg>
      <xg>
        <x>ыб вылын трактор гӧрӧ гур-гур</x>
@@ -3971,7 +3971,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гурк</l>
      <stg>
@@ -3984,7 +3984,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>гурк осьтны</x>
@@ -3992,7 +3992,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гусьӧн</l>
      <stg>
@@ -4060,7 +4060,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гусьӧна</l>
      <stg>
@@ -4128,7 +4128,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гыж-гыж</l>
      <stg>
@@ -4141,7 +4141,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание звукам, сопровождающим царапание, чесание</t>
+       <t type="descr" pos="Adv">подражание звукам, сопровождающим царапание, чесание</t>
      </tg>
      <xg>
        <x>гыж-гыж-керны юрбӧр</x>
@@ -4149,7 +4149,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гым-гым</l>
      <stg>
@@ -4162,7 +4162,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">бах, хлоп, трах (подражание грому, грохоту, сильному стуку {и т. п.})</t>
+       <t type="descr" pos="Adv">бах, хлоп, трах (подражание грому, грохоту, сильному стуку {и т. п.})</t>
      </tg>
      <xg>
        <x>гым-гым пӧрны</x>
@@ -4174,7 +4174,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гыма-ёрка</l>
      <stg>
@@ -4187,7 +4187,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание грохоту, топоту</t>
+       <t type="descr" pos="Adv">подражание грохоту, топоту</t>
      </tg>
      <xg>
        <x>челядь гыма-ёрка пырисӧ керкуӧ</x>
@@ -4195,7 +4195,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гып</l>
      <stg>
@@ -4208,7 +4208,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">бах, хлоп (подражание звуку выстрела, удара)</t>
+       <t type="descr" pos="Adv">бах, хлоп (подражание звуку выстрела, удара)</t>
      </tg>
      <xg>
        <x>гып лыйны</x>
@@ -4224,7 +4224,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гырися</l>
      <stg>
@@ -4249,7 +4249,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гырс-гырс</l>
      <stg>
@@ -4262,7 +4262,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>гырс-гырс керӧны шыррез</x>
@@ -4270,7 +4270,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гӧгӧр</l>
      <stg>
@@ -4301,7 +4301,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гӧгӧрпӧв</l>
      <stg>
@@ -4333,7 +4333,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">гӧгӧрӧттяныт</l>
      <stg>
@@ -4351,7 +4351,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дасвитісь</l>
      <stg>
@@ -4372,7 +4372,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">даскватись</l>
      <stg>
@@ -4393,7 +4393,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">даскуимись</l>
      <stg>
@@ -4410,7 +4410,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">даскыкись</l>
      <stg>
@@ -4431,7 +4431,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">даскыкьямысісь</l>
      <stg>
@@ -4448,7 +4448,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">даснёлись</l>
      <stg>
@@ -4469,7 +4469,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">даспӧв</l>
      <stg>
@@ -4494,7 +4494,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дасісь</l>
      <stg>
@@ -4515,7 +4515,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дасӧкмысісь</l>
      <stg>
@@ -4536,7 +4536,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дасӧтікись</l>
      <stg>
@@ -4553,7 +4553,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дасӧтісь</l>
      <stg>
@@ -4574,7 +4574,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дбрунь</l>
      <stg>
@@ -4587,7 +4587,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">дзинь (подражание звуку оборванной струны)</t>
+       <t type="descr" pos="Adv">дзинь (подражание звуку оборванной струны)</t>
      </tg>
      <xg>
        <x>дбрунь керны</x>
@@ -4599,7 +4599,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дженыта</l>
      <stg>
@@ -4620,7 +4620,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">джыннянтӧг</l>
      <stg>
@@ -4641,11 +4641,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзар</l>
      <stg>
-       <st>дзар</st>
+       <st Contlex="ADV_">дзар</st>
      </stg>
    </lg>
      <sources>
@@ -4663,7 +4663,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзескыта</l>
      <stg>
@@ -4699,7 +4699,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзиж-важ</l>
      <stg>
@@ -4712,7 +4712,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>дзиж-важ косявны</x>
@@ -4720,7 +4720,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзижа-важа</l>
      <stg>
@@ -4733,11 +4733,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание шипению масла на горячей сковороде</t>
+       <t type="descr" pos="Adv">подражание шипению масла на горячей сковороде</t>
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзик</l>
      <stg>
@@ -4815,7 +4815,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзиль-дзоль</l>
      <stg>
@@ -4828,7 +4828,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">вжик-вжик (подражание журчащей, текущей окидкости)</t>
+       <t type="descr" pos="Adv">вжик-вжик (подражание журчащей, текущей окидкости)</t>
      </tg>
      <xg>
        <x>дзиль-дзоль лэдзчӧ ведраас йӧлыс</x>
@@ -4836,7 +4836,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзиля-дзоля</l>
      <stg>
@@ -4849,7 +4849,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">вжик-вжик (подражание журчащей, текущей окидкости)</t>
+       <t type="descr" pos="Adv">вжик-вжик (подражание журчащей, текущей окидкости)</t>
      </tg>
      <xg>
        <x>дзиля-дзоля лэдзчӧ ведраас йӧлыс</x>
@@ -4857,7 +4857,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзим-дзурк</l>
      <stg>
@@ -4870,7 +4870,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>керкуас дзим-дзурк быдӧс керӧм</x>
@@ -4882,7 +4882,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзин-дзин</l>
      <stg>
@@ -4895,7 +4895,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание жужжанию насекомых (мух, комаров {и т. п.})</t>
+       <t type="descr" pos="Adv">подражание жужжанию насекомых (мух, комаров {и т. п.})</t>
      </tg>
      <xg>
        <x>дзин-дзин керис номыс пель одзам</x>
@@ -4903,7 +4903,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзирыта</l>
      <stg>
@@ -4924,7 +4924,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзуля</l>
      <stg>
@@ -4942,7 +4942,7 @@
      </tg> <geo>Рог.</geo>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзурк</l>
      <stg>
@@ -4955,7 +4955,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание скрипу</t>
+       <t type="descr" pos="Adv">подражание скрипу</t>
      </tg>
      <xg>
        <x>дзурк оссис ыбӧс</x>
@@ -4971,7 +4971,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзурлик</l>
      <stg>
@@ -4984,11 +4984,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">скрип-скрип (подражание скрипу)</t>
+       <t type="descr" pos="Adv">скрип-скрип (подражание скрипу)</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзурс-дзурс</l>
      <stg>
@@ -5001,7 +5001,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr"/>
+       <t type="descr" pos="Adv"/>
      </tg>
      <xg>
        <x>дзурс-дзурс юны</x>
@@ -5009,7 +5009,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дзуту-дзуту</l>
      <stg>
@@ -5022,11 +5022,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">возглас, которым подзывают поросят</t>
+       <t type="descr" pos="Adv">возглас, которым подзывают поросят</t>
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">долыта</l>
      <stg>
@@ -5052,7 +5052,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">донтӧма</l>
      <stg>
@@ -5073,7 +5073,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">донӧн</l>
      <stg>
@@ -5102,11 +5102,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">досповна</l>
      <stg>
-       <st>досповна</st>
+       <st Contlex="ADV_">досповна</st>
      </stg>
    </lg>
      <sources>
@@ -5125,7 +5125,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дрин</l>
      <stg>
@@ -5138,7 +5138,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>дрин чужйыны</x>
@@ -5154,7 +5154,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дрин-дрин</l>
      <stg>
@@ -5167,7 +5167,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>дрин-дрин пӧтны</x>
@@ -5175,9 +5175,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">друг</l>
+     <l pos="Adv" hid="Hom2">друг</l>
      <stg>
        <st Contlex="ADV_">друг</st>
      </stg>
@@ -5209,7 +5209,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дрӧг</l>
      <stg>
@@ -5222,7 +5222,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>дрӧг мунны</x>
@@ -5230,7 +5230,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дугдывтӧг</l>
      <stg>
@@ -5281,7 +5281,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дугдытӧг</l>
      <stg>
@@ -5297,7 +5297,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дузгӧн</l>
      <stg>
@@ -5314,7 +5314,7 @@
      </tg> <geo>Рог.</geo>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дук</l>
      <stg>
@@ -5358,11 +5358,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дыв</l>
      <stg>
-       <st>дыв</st>
+       <st Contlex="ADV_">дыв</st>
      </stg>
    </lg>
      <sources>
@@ -5380,7 +5380,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дынӧт</l>
      <stg>
@@ -5418,7 +5418,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дынӧттяныт</l>
      <stg>
@@ -5443,7 +5443,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дыр</l>
      <stg>
@@ -5492,7 +5492,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дырся-дыр</l>
      <stg>
@@ -5513,7 +5513,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дыша</l>
      <stg>
@@ -5542,11 +5542,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дюж</l>
      <stg>
-       <st>дюж</st>
+       <st Contlex="ADV_">дюж</st>
      </stg>
    </lg>
      <sources>
@@ -5565,11 +5565,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">дӧсповна</l>
      <stg>
-       <st>дӧсповна</st>
+       <st Contlex="ADV_">дӧсповна</st>
      </stg>
    </lg>
      <sources>
@@ -5584,11 +5584,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">етша</l>
      <stg>
-       <st>етша</st>
+       <st Contlex="ADV_">етша</st>
      </stg>
    </lg>
      <sources>
@@ -5602,7 +5602,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">етшаись</l>
      <stg>
@@ -5623,7 +5623,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">етштӧг</l>
      <stg>
@@ -5644,11 +5644,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жага</l>
      <stg>
-       <st>жага</st>
+       <st Contlex="ADV_">жага</st>
      </stg>
    </lg>
      <sources>
@@ -5662,11 +5662,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жагвыв</l>
      <stg>
-       <st>жагвыв</st>
+       <st Contlex="ADV_">жагвыв</st>
      </stg>
    </lg>
      <sources>
@@ -5684,11 +5684,28 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
+   <lg>
+     <l pos="" hid="Hom2">жагыт</l>
+     <stg>
+       <st Contlex="A_">жагыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <geo>сев.</geo> <sg/>
+   </mg>
+</e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жагӧн</l>
      <stg>
-       <st>жагӧн</st>
+       <st Contlex="ADV_">жагӧн</st>
      </stg>
    </lg>
      <sources>
@@ -5705,11 +5722,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жагӧника</l>
      <stg>
-       <st>жагӧника</st>
+       <st Contlex="ADV_">жагӧника</st>
      </stg>
    </lg>
      <sources>
@@ -5723,7 +5740,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жам-жам</l>
      <stg>
@@ -5736,7 +5753,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>жам-жам керны</x>
@@ -5744,7 +5761,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жара</l>
      <stg>
@@ -5765,7 +5782,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жарӧн</l>
      <stg>
@@ -5797,7 +5814,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жек-вак</l>
      <stg>
@@ -5810,7 +5827,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание визгу поросёнка</t>
+       <t type="descr" pos="Adv">подражание визгу поросёнка</t>
      </tg>
      <xg>
        <x>жек-вак керны</x>
@@ -5818,7 +5835,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жекыр-жекыр</l>
      <stg>
@@ -5831,7 +5848,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>жекыр-жекыр керны</x>
@@ -5839,7 +5856,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жер</l>
      <stg>
@@ -5852,7 +5869,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>жер видзӧны ӧмас быдӧссӧ кык пинь</x>
@@ -5864,7 +5881,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жерк</l>
      <stg>
@@ -5877,7 +5894,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>жерк керны ӧм</x>
@@ -5885,7 +5902,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жиль-жоль</l>
      <stg>
@@ -5898,7 +5915,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>жиль-жоль керны</x>
@@ -5910,7 +5927,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жольк</l>
      <stg>
@@ -5923,7 +5940,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>жольк-керны</x>
@@ -5935,11 +5952,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жыв</l>
      <stg>
-       <st>жыв</st>
+       <st Contlex="ADV_">жыв</st>
      </stg>
    </lg>
      <sources>
@@ -5958,11 +5975,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жын</l>
      <stg>
-       <st>жын</st>
+       <st Contlex="ADV_">жын</st>
      </stg>
    </lg>
      <sources>
@@ -5980,7 +5997,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">жӧв</l>
      <stg>
@@ -5993,7 +6010,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>жӧв керсьыны</x>
@@ -6009,7 +6026,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">забедно</l>
      <stg>
@@ -6031,7 +6048,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">заваднем</l>
      <stg>
@@ -6052,7 +6069,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">збоя</l>
      <stg>
@@ -6073,9 +6090,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">званнё</l>
+     <l pos="Adv" hid="Hom2">званнё</l>
      <stg>
        <st Contlex="ADV_">званнё</st>
      </stg>
@@ -6099,7 +6116,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">звирк</l>
      <stg>
@@ -6112,7 +6129,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание быстрому действию</t>
+       <t type="descr" pos="Adv">подражание быстрому действию</t>
      </tg>
      <xg>
        <x>звирк керны</x>
@@ -6124,7 +6141,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">зорӧн</l>
      <stg>
@@ -6145,7 +6162,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">зорӧна</l>
      <stg>
@@ -6166,7 +6183,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">зыр-бут</l>
      <stg>
@@ -6179,7 +6196,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>зыр-бут котӧртны</x>
@@ -6195,7 +6212,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">зэв</l>
      <stg>
@@ -6246,7 +6263,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">зэлыта</l>
      <stg>
@@ -6280,7 +6297,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">зэркыта</l>
      <stg>
@@ -6301,7 +6318,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">зільк</l>
      <stg>
@@ -6314,7 +6331,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>зільк керны</x>
@@ -6326,7 +6343,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">зітш</l>
      <stg>
@@ -6339,8 +6356,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">бух</t>
-       <t pos="Adv" type="descr">хлоп</t>
+       <t type="descr" pos="Adv">бух</t>
+       <t type="descr" pos="Adv">хлоп</t>
      </tg>
      <xg>
        <x>котрасикас зоночка зітш усис морос вылас</x>
@@ -6356,7 +6373,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">и-ив</l>
      <stg>
@@ -6369,7 +6386,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">и-го-го (подражание ржанию лошади)</t>
+       <t type="descr" pos="Adv">и-го-го (подражание ржанию лошади)</t>
      </tg>
      <xg>
        <x>и-ив гӧрӧвтіс воронко</x>
@@ -6377,7 +6394,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">инӧ</l>
      <stg>
@@ -6422,7 +6439,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">истӧя</l>
      <stg>
@@ -6439,7 +6456,7 @@
      </tg> <range>прост.</range>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кав-кав</l>
      <stg>
@@ -6452,7 +6469,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">гав-гав</t>
+       <t type="descr" pos="Adv">гав-гав</t>
      </tg>
      <xg>
        <x>кав-кав керис пос увтас пон</x>
@@ -6460,7 +6477,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кадтӧг</l>
      <stg>
@@ -6481,7 +6498,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">каж</l>
      <stg>
@@ -6494,7 +6511,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание хрусту</t>
+       <t type="descr" pos="Adv">подражание хрусту</t>
      </tg>
      <xg>
        <x>каж куртчӧвтны</x>
@@ -6514,7 +6531,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">казявтӧг</l>
      <stg>
@@ -6559,7 +6576,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">казялӧмӧн</l>
      <stg>
@@ -6582,7 +6599,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кальс-кальс</l>
      <stg>
@@ -6595,7 +6612,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание лязгу</t>
+       <t type="descr" pos="Adv">подражание лязгу</t>
      </tg>
      <xg>
        <x>кальс-кальс керны</x>
@@ -6603,9 +6620,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">кам</l>
+     <l pos="Adv" hid="Hom2">кам</l>
      <stg>
        <st Contlex="ADV_">кам</st>
      </stg>
@@ -6616,7 +6633,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание сильному стуку, ударам:</t>
+       <t type="descr" pos="Adv">подражание сильному стуку, ударам:</t>
      </tg>
      <xg>
        <x>кам усьны</x>
@@ -6628,7 +6645,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">капли</l>
      <stg>
@@ -6672,7 +6689,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кар-кар</l>
      <stg>
@@ -6685,11 +6702,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">кар-кар (подражание карканью вороны)</t>
+       <t type="descr" pos="Adv">кар-кар (подражание карканью вороны)</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">карс-карс</l>
      <stg>
@@ -6702,7 +6719,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">хруп-хруп (подражание звуку при разгрызании {чего-либо})</t>
+       <t type="descr" pos="Adv">хруп-хруп (подражание звуку при разгрызании {чего-либо})</t>
      </tg>
      <xg>
        <x>нывкаок йирис сахар карс-карс</x>
@@ -6710,7 +6727,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кватись</l>
      <stg>
@@ -6731,7 +6748,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кватш</l>
      <stg>
@@ -6744,7 +6761,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание хрусту, треску</t>
+       <t type="descr" pos="Adv">подражание хрусту, треску</t>
      </tg>
      <xg>
        <x>мыйкӧ порог дорас кватш керис</x>
@@ -6756,7 +6773,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кватьлаын</l>
      <stg>
@@ -6778,7 +6795,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кватьпӧв</l>
      <stg>
@@ -6810,7 +6827,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кватьӧн</l>
      <stg>
@@ -6831,7 +6848,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кватьӧтчид</l>
      <stg>
@@ -6852,7 +6869,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кватьӧтісь</l>
      <stg>
@@ -6873,7 +6890,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">квотш</l>
      <stg>
@@ -6886,11 +6903,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание хрусту, треску</t>
+       <t type="descr" pos="Adv">подражание хрусту, треску</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кер</l>
      <stg>
@@ -6923,7 +6940,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ки-ки-ки</l>
      <stg>
@@ -6936,7 +6953,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">хи-хи-хи</t>
+       <t type="descr" pos="Adv">хи-хи-хи</t>
      </tg>
      <xg>
        <x>ки-ки-ки серӧмтчыны</x>
@@ -6944,7 +6961,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кивыв</l>
      <stg>
@@ -6969,7 +6986,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кивыль-кивыль</l>
      <stg>
@@ -6982,7 +6999,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">о вилянии хвостом</t>
+       <t type="descr" pos="Adv">о вилянии хвостом</t>
      </tg>
      <xg>
        <x>поныс бӧжнас кивыль-кивыль</x>
@@ -6990,7 +7007,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кир-вар</l>
      <stg>
@@ -7003,7 +7020,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание звуку, издаваемому при разрыве материи</t>
+       <t type="descr" pos="Adv">подражание звуку, издаваемому при разрыве материи</t>
      </tg>
      <xg>
        <x>кир-вар косявны</x>
@@ -7033,7 +7050,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">китш-китш</l>
      <stg>
@@ -7046,7 +7063,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание стрекотанию сороки</t>
+       <t type="descr" pos="Adv">подражание стрекотанию сороки</t>
      </tg>
      <xg>
        <x>кытӧнкӧ катша керис китш-китш</x>
@@ -7054,7 +7071,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">китш-котш</l>
      <stg>
@@ -7067,7 +7084,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание стрекотанию сороки</t>
+       <t type="descr" pos="Adv">подражание стрекотанию сороки</t>
      </tg>
      <xg>
        <x>кытӧнкӧ катша керис китш-котш</x>
@@ -7075,7 +7092,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">клоп</l>
      <stg>
@@ -7088,7 +7105,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">хлоп</t>
+       <t type="descr" pos="Adv">хлоп</t>
      </tg>
      <xg>
        <x>клоп керны</x>
@@ -7108,7 +7125,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">клённ-клённ</l>
      <stg>
@@ -7121,7 +7138,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание гулу, гулкому звону (колокола и т.д.)</t>
+       <t type="descr" pos="Adv">подражание гулу, гулкому звону (колокола и т.д.)</t>
      </tg>
      <xg>
        <x>клённ-клённ керис колокол</x>
@@ -7129,7 +7146,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ковс-ковс</l>
      <stg>
@@ -7142,7 +7159,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>ковс-ковс юны</x>
@@ -7154,7 +7171,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кодыр</l>
      <stg>
@@ -7175,7 +7192,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кодь</l>
      <stg>
@@ -7233,7 +7250,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кокнита</l>
      <stg>
@@ -7293,7 +7310,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">конечтӧг</l>
      <stg>
@@ -7310,7 +7327,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">копыр-копыр</l>
      <stg>
@@ -7323,7 +7340,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>копыр-копыр ветлӧтны</x>
@@ -7331,7 +7348,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кор</l>
      <stg>
@@ -7352,7 +7369,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кор-кор</l>
      <stg>
@@ -7365,7 +7382,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание храпу:</t>
+       <t type="descr" pos="Adv">подражание храпу:</t>
      </tg>
      <xg>
        <x>кор-кор узьны</x>
@@ -7373,7 +7390,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">корс-корс</l>
      <stg>
@@ -7386,7 +7403,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание храпу</t>
+       <t type="descr" pos="Adv">подражание храпу</t>
      </tg>
      <xg>
        <x>вӧлыс керис корс-корс</x>
@@ -7394,7 +7411,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кортӧг</l>
      <stg>
@@ -7415,7 +7432,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кості</l>
      <stg>
@@ -7444,7 +7461,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кот-кот-кот</l>
      <stg>
@@ -7457,11 +7474,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">ко-ко-ко (подражание клохтанью курицы)</t>
+       <t type="descr" pos="Adv">ко-ко-ко (подражание клохтанью курицы)</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кот-котэк</l>
      <stg>
@@ -7474,11 +7491,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">куд-кудах (подражание кудахтанью курицы)</t>
+       <t type="descr" pos="Adv">куд-кудах (подражание кудахтанью курицы)</t>
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">крепыта</l>
      <stg>
@@ -7504,7 +7521,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кресь</l>
      <stg>
@@ -7530,7 +7547,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">крив-крув</l>
      <stg>
@@ -7543,7 +7560,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">курлы-курлы (подражание журавлиному крику)</t>
+       <t type="descr" pos="Adv">курлы-курлы (подражание журавлиному крику)</t>
      </tg>
      <xg>
        <x>крив-крув, крив-крув керлісӧтуриэз</x>
@@ -7551,7 +7568,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кромльык-кромльык</l>
      <stg>
@@ -7564,7 +7581,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание походке хромого</t>
+       <t type="descr" pos="Adv">подражание походке хромого</t>
      </tg>
      <xg>
        <x>кромльык-кромльык мунны</x>
@@ -7572,7 +7589,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кроп-кроп</l>
      <stg>
@@ -7585,8 +7602,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">бух-бах</t>
-       <t pos="Adv" type="descr">бах-бах</t>
+       <t type="descr" pos="Adv">бух-бах</t>
+       <t type="descr" pos="Adv">бах-бах</t>
      </tg>
      <xg>
        <x>кроп-кроп лыйлыны</x>
@@ -7594,7 +7611,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кругпӧв</l>
      <stg>
@@ -7612,7 +7629,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">крута</l>
      <stg>
@@ -7654,7 +7671,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кув-ков</l>
      <stg>
@@ -7667,9 +7684,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">хлоп</t>
-       <t pos="Adv" type="descr">бах</t>
-       <t pos="Adv" type="descr">бабах</t>
+       <t type="descr" pos="Adv">хлоп</t>
+       <t type="descr" pos="Adv">бах</t>
+       <t type="descr" pos="Adv">бабах</t>
      </tg>
      <xg>
        <x>кув-ков муніс вӧр пасьтас лыйӧмыс</x>
@@ -7681,7 +7698,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кужа-кажа</l>
      <stg>
@@ -7694,7 +7711,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">пунктодражание хрусту</t>
+       <t type="descr" pos="Adv">пунктодражание хрусту</t>
      </tg>
      <xg>
        <x>кужа-кажа тальны</x>
@@ -7702,7 +7719,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кужӧмӧн</l>
      <stg>
@@ -7728,9 +7745,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Adv">кузя</l>
+     <l pos="Adv" hid="Hom1">кузя</l>
      <stg>
        <st Contlex="ADV_">кузя</st>
      </stg>
@@ -7778,7 +7795,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куимдасӧн</l>
      <stg>
@@ -7799,7 +7816,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куимдасӧтісь</l>
      <stg>
@@ -7816,7 +7833,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куимись</l>
      <stg>
@@ -7837,7 +7854,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куимпӧв</l>
      <stg>
@@ -7869,7 +7886,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куимӧн</l>
      <stg>
@@ -7886,7 +7903,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куимӧткӧ</l>
      <stg>
@@ -7903,7 +7920,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куимӧтчид</l>
      <stg>
@@ -7924,7 +7941,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куимӧтісь</l>
      <stg>
@@ -7945,7 +7962,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куимӧччыд</l>
      <stg>
@@ -7962,7 +7979,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кук-ку</l>
      <stg>
@@ -7975,7 +7992,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">ку-ку</t>
+       <t type="descr" pos="Adv">ку-ку</t>
      </tg>
      <xg>
        <x>кук-ку, кук-ку кӧкӧ кӧк</x>
@@ -7983,7 +8000,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кула-кола</l>
      <stg>
@@ -7997,7 +8014,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">{подражание шуму волны}</t>
+       <t type="descr" pos="Adv">{подражание шуму волны}</t>
      </tg>
      <xg>
        <x>кула-кола вартчисӧ гыэз берег дорӧ</x>
@@ -8005,7 +8022,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кулк-палк</l>
      <stg>
@@ -8026,7 +8043,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">курк</l>
      <stg>
@@ -8039,7 +8056,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание вспархиванию, лёгкому шороху</t>
+       <t type="descr" pos="Adv">подражание вспархиванию, лёгкому шороху</t>
      </tg>
      <xg>
        <x>курк лэбзьыны</x>
@@ -8051,7 +8068,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">курни-верни</l>
      <stg>
@@ -8064,7 +8081,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание небрежным действиям</t>
+       <t type="descr" pos="Adv">подражание небрежным действиям</t>
      </tg>
      <xg>
        <x>курни-верни каттьыны голяӧшарф</x>
@@ -8076,7 +8093,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">куть-куть-куть</l>
      <stg>
@@ -8089,11 +8106,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">цып-цып-цып (возглас, которым подзывают кур)</t>
+       <t type="descr" pos="Adv">цып-цып-цып (возглас, которым подзывают кур)</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кутю-кутю-кутю</l>
      <stg>
@@ -8106,11 +8123,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">цып-цып-цып (возглас, которым подзывают кур)</t>
+       <t type="descr" pos="Adv">цып-цып-цып (возглас, которым подзывают кур)</t>
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кушим-кашим</l>
      <stg>
@@ -8133,7 +8150,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кушык-кашык</l>
      <stg>
@@ -8146,7 +8163,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>кушык-кашык керны</x>
@@ -8154,7 +8171,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кушӧдз</l>
      <stg>
@@ -8199,7 +8216,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыбыша</l>
      <stg>
@@ -8217,9 +8234,9 @@
      </tg> <geo>Рог.</geo>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">кыдз</l>
+     <l pos="Adv" hid="Hom2">кыдз</l>
      <stg>
        <st Contlex="ADV_">кыдз</st>
      </stg>
@@ -8295,7 +8312,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыдзи</l>
      <stg>
@@ -8311,7 +8328,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыдзкӧ</l>
      <stg>
@@ -8353,7 +8370,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыза</l>
      <stg>
@@ -8396,7 +8413,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыкдасӧн</l>
      <stg>
@@ -8425,7 +8442,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыкдасӧтісь</l>
      <stg>
@@ -8442,7 +8459,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыкись</l>
      <stg>
@@ -8467,7 +8484,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыкисьӧн</l>
      <stg>
@@ -8488,7 +8505,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыкьямысдасісь</l>
      <stg>
@@ -8505,7 +8522,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыкьямысісь</l>
      <stg>
@@ -8526,7 +8543,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыкӧтчид</l>
      <stg>
@@ -8543,7 +8560,7 @@
      </tg> <geo>сев.</geo>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыным</l>
      <stg>
@@ -8595,7 +8612,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кынымись</l>
      <stg>
@@ -8616,7 +8633,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кынымиськӧ</l>
      <stg>
@@ -8637,7 +8654,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кынымкӧ</l>
      <stg>
@@ -8658,7 +8675,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кынымӧтісь</l>
      <stg>
@@ -8682,7 +8699,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кысянькӧ</l>
      <stg>
@@ -8703,7 +8720,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кытікӧ</l>
      <stg>
@@ -8728,7 +8745,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кытіськӧ</l>
      <stg>
@@ -8753,7 +8770,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кытӧн-либо</l>
      <stg>
@@ -8774,7 +8791,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кытӧнкӧ</l>
      <stg>
@@ -8795,7 +8812,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыч-кыч</l>
      <stg>
@@ -8808,11 +8825,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">возглас, которым подзывают щенят</t>
+       <t type="descr" pos="Adv">возглас, которым подзывают щенят</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кычыль-кычыль</l>
      <stg>
@@ -8825,13 +8842,13 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">возглас, которым подзывают собак</t>
+       <t type="descr" pos="Adv">возглас, которым подзывают собак</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">кыш</l>
+     <l pos="Adv" hid="Hom2">кыш</l>
      <stg>
        <st Contlex="ADV_">кыш</st>
      </stg>
@@ -8842,7 +8859,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr"/>
+       <t type="descr" pos="Adv"/>
      </tg>
      <xg>
        <x>кыш</x>
@@ -8850,7 +8867,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыш-кыш</l>
      <stg>
@@ -8863,7 +8880,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание хрусту, шороху</t>
+       <t type="descr" pos="Adv">подражание хрусту, шороху</t>
      </tg>
      <xg>
        <x>мыйкӧ кыш-кыш керис коккез</x>
@@ -8871,7 +8888,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кыш-паш</l>
      <stg>
@@ -8884,7 +8901,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сія кыш-пашпасьтасис да петіс</x>
@@ -8896,7 +8913,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧдзыта</l>
      <stg>
@@ -8921,7 +8938,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧдпора</l>
      <stg>
@@ -8953,7 +8970,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧдпору</l>
      <stg>
@@ -8985,7 +9002,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧдӧрись</l>
      <stg>
@@ -9006,7 +9023,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧдӧрлань</l>
      <stg>
@@ -9027,7 +9044,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧдӧрын</l>
      <stg>
@@ -9048,7 +9065,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧдӧрӧ</l>
      <stg>
@@ -9065,7 +9082,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧдӧрӧт</l>
      <stg>
@@ -9086,7 +9103,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧмтӧг</l>
      <stg>
@@ -9107,7 +9124,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧр</l>
      <stg>
@@ -9155,7 +9172,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧса</l>
      <stg>
@@ -9183,7 +9200,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">кӧсӧдз</l>
      <stg>
@@ -9222,7 +9239,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ладно</l>
      <stg>
@@ -9260,7 +9277,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ладтӧг</l>
      <stg>
@@ -9283,7 +9300,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лажмыта</l>
      <stg>
@@ -9309,7 +9326,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лайкыта</l>
      <stg>
@@ -9331,7 +9348,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лап-лап</l>
      <stg>
@@ -9344,8 +9361,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">хлоп-хлоп</t>
-       <t pos="Adv" type="descr">дедыс кинас</t>
+       <t type="descr" pos="Adv">хлоп-хлоп</t>
+       <t type="descr" pos="Adv">дедыс кинас</t>
      </tg> <b>лап-лап </b> <i/> <geo>иньв.</geo>
      <xg>
        <x>вап-вап</x>
@@ -9353,7 +9370,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лапыта</l>
      <stg>
@@ -9379,7 +9396,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лег-лег</l>
      <stg>
@@ -9392,7 +9409,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание маханию {чем-либо}</t>
+       <t type="descr" pos="Adv">подражание маханию {чем-либо}</t>
      </tg>
      <xg>
        <x>лег-лег керны киӧн</x>
@@ -9404,7 +9421,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">легыр-легыр</l>
      <stg>
@@ -9417,7 +9434,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание маханию, вилянию {чем-либо}</t>
+       <t type="descr" pos="Adv">подражание маханию, вилянию {чем-либо}</t>
      </tg>
      <xg>
        <x>мӧсыс бӧжнас керислегыр-легыр</x>
@@ -9425,7 +9442,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лет-лет</l>
      <stg>
@@ -9438,7 +9455,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание потряхиванию</t>
+       <t type="descr" pos="Adv">подражание потряхиванию</t>
      </tg>
      <xg>
        <x>лет-лет керны</x>
@@ -9446,7 +9463,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">летки-петки</l>
      <stg>
@@ -9459,7 +9476,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>летки-петки керны</x>
@@ -9471,7 +9488,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">леш-вош</l>
      <stg>
@@ -9484,7 +9501,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">о состоянии крайнего раздражения</t>
+       <t type="descr" pos="Adv">о состоянии крайнего раздражения</t>
      </tg>
      <xg>
        <x>леш-вош керны</x>
@@ -9492,7 +9509,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">либи-лёби</l>
      <stg>
@@ -9505,7 +9522,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание {чему-либо} шаткому{,} непрочному</t>
+       <t type="descr" pos="Adv">подражание {чему-либо} шаткому{,} непрочному</t>
      </tg>
      <xg>
        <x>посӧдзыс либи-лёби керӧ</x>
@@ -9513,7 +9530,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">личыта</l>
      <stg>
@@ -9560,7 +9577,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лышкыта</l>
      <stg>
@@ -9582,7 +9599,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">люв-ляв</l>
      <stg>
@@ -9595,11 +9612,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">гав-гав</t>
+       <t type="descr" pos="Adv">гав-гав</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">люг-лег</l>
      <stg>
@@ -9612,7 +9629,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание шаткости</t>
+       <t type="descr" pos="Adv">подражание шаткости</t>
      </tg>
      <xg>
        <x>лисничыс люг-лег керис</x>
@@ -9620,7 +9637,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">люзи-лязи</l>
      <stg>
@@ -9637,7 +9654,7 @@
      </tg> <geo>сев.</geo>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">люски-ляски</l>
      <stg>
@@ -9650,7 +9667,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сія люски-ляски код</x>
@@ -9658,7 +9675,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">люш-ляш</l>
      <stg>
@@ -9671,7 +9688,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>люш-ляш усьны</x>
@@ -9679,7 +9696,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ляв-ляв</l>
      <stg>
@@ -9692,7 +9709,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">гав-гав</t>
+       <t type="descr" pos="Adv">гав-гав</t>
      </tg>
      <xg>
        <x>ляв-ляв керлыны</x>
@@ -9704,7 +9721,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ляп</l>
      <stg>
@@ -9717,7 +9734,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">шлёп</t>
+       <t type="descr" pos="Adv">шлёп</t>
      </tg>
      <xg>
        <x>ляп усьны нятьӧ</x>
@@ -9725,7 +9742,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ляп-ляп</l>
      <stg>
@@ -9738,7 +9755,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сія ляп-ляп код</x>
@@ -9746,7 +9763,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ляс</l>
      <stg>
@@ -9759,7 +9776,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>ляс</x>
@@ -9767,7 +9784,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ляч-ляч</l>
      <stg>
@@ -9780,7 +9797,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сія ляч-ляч пасьтӧм</x>
@@ -9792,7 +9809,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лёб-лёб</l>
      <stg>
@@ -9805,7 +9822,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сылӧн кынӧмыс лёб-лёб ӧшаліс</x>
@@ -9813,7 +9830,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лёздыр-баздыр</l>
      <stg>
@@ -9826,7 +9843,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>мунны лёздыр-баздыр</x>
@@ -9834,7 +9851,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лӧвйӧн</l>
      <stg>
@@ -9871,7 +9888,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лӧга</l>
      <stg>
@@ -9895,7 +9912,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лӧгӧн</l>
      <stg>
@@ -9931,7 +9948,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">лӧня</l>
      <stg>
@@ -9958,7 +9975,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">маликӧдз</l>
      <stg>
@@ -9979,7 +9996,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">марс-марс</l>
      <stg>
@@ -9992,7 +10009,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">хруп-хруп</t>
+       <t type="descr" pos="Adv">хруп-хруп</t>
      </tg>
      <xg>
        <x>марс-марс сёйны</x>
@@ -10000,7 +10017,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мася-мася</l>
      <stg>
@@ -10013,11 +10030,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">возглас, которым подзывают коз</t>
+       <t type="descr" pos="Adv">возглас, которым подзывают коз</t>
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">матӧдз</l>
      <stg>
@@ -10038,7 +10055,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ме-е</l>
      <stg>
@@ -10051,11 +10068,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">бе-е (подражание блеянию овец)</t>
+       <t type="descr" pos="Adv">бе-е (подражание блеянию овец)</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">медся</l>
      <stg>
@@ -10077,7 +10094,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мельк</l>
      <stg>
@@ -10090,7 +10107,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание мельканию</t>
+       <t type="descr" pos="Adv">подражание мельканию</t>
      </tg>
      <xg>
        <x>мельк керны</x>
@@ -10098,7 +10115,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">му-у</l>
      <stg>
@@ -10111,7 +10128,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">му-у</t>
+       <t type="descr" pos="Adv">му-у</t>
      </tg>
      <xg>
        <x>мӧсыс му-у керис</x>
@@ -10119,7 +10136,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мурмар</l>
      <stg>
@@ -10132,7 +10149,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сія баитны эз любит, мукӧдпырсяс только мурмар горӧтчас</x>
@@ -10140,7 +10157,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мутш-мутш</l>
      <stg>
@@ -10153,7 +10170,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание треску, хрусту</t>
+       <t type="descr" pos="Adv">подражание треску, хрусту</t>
      </tg>
      <xg>
        <x>мутш-мутш керны</x>
@@ -10165,7 +10182,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мыдза</l>
      <stg>
@@ -10187,7 +10204,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мыдзтӧг</l>
      <stg>
@@ -10208,7 +10225,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мыля</l>
      <stg>
@@ -10242,7 +10259,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мылякӧ</l>
      <stg>
@@ -10265,7 +10282,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мымда</l>
      <stg>
@@ -10341,7 +10358,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мымдакӧ</l>
      <stg>
@@ -10366,7 +10383,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мӧдпырся</l>
      <stg>
@@ -10398,7 +10415,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">мӧдпӧв</l>
      <stg>
@@ -10440,9 +10457,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Adv">на</l>
+     <l pos="Adv" hid="Hom1">на</l>
      <stg>
        <st Contlex="ADV_">на</st>
      </stg>
@@ -10469,9 +10486,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">на</l>
+     <l pos="Adv" hid="Hom2">на</l>
      <stg>
        <st Contlex="ADV_">на</st>
      </stg>
@@ -10490,7 +10507,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">набалмаш</l>
      <stg>
@@ -10515,7 +10532,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нагладь</l>
      <stg>
@@ -10540,7 +10557,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">надвое</l>
      <stg>
@@ -10562,7 +10579,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">надур</l>
      <stg>
@@ -10596,7 +10613,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">напрокод</l>
      <stg>
@@ -10618,7 +10635,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нарошно</l>
      <stg>
@@ -10658,7 +10675,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">натодель</l>
      <stg>
@@ -10680,7 +10697,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">натужнӧя</l>
      <stg>
@@ -10709,7 +10726,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">небасӧка</l>
      <stg>
@@ -10741,7 +10758,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">небура</l>
      <stg>
@@ -10768,7 +10785,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">небыта</l>
      <stg>
@@ -10793,7 +10810,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">неважын</l>
      <stg>
@@ -10814,7 +10831,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">невна</l>
      <stg>
@@ -10876,7 +10893,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">невночка</l>
      <stg>
@@ -10893,7 +10910,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">невнушка</l>
      <stg>
@@ -10910,7 +10927,7 @@
      </tg> <range>разг.</range>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">невнушки</l>
      <stg>
@@ -10927,7 +10944,7 @@
      </tg> <range>разг.</range>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">негорӧн</l>
      <stg>
@@ -10949,7 +10966,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">недыр</l>
      <stg>
@@ -10978,7 +10995,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нежыника</l>
      <stg>
@@ -10999,7 +11016,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">некӧр</l>
      <stg>
@@ -11020,7 +11037,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нельки</l>
      <stg>
@@ -11045,7 +11062,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">немымда</l>
      <stg>
@@ -11074,7 +11091,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">неӧткодя</l>
      <stg>
@@ -11092,7 +11109,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">неӧтпыр</l>
      <stg>
@@ -11113,7 +11130,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">неӧтпырись</l>
      <stg>
@@ -11129,7 +11146,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">норӧн</l>
      <stg>
@@ -11151,7 +11168,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">норӧна</l>
      <stg>
@@ -11173,7 +11190,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ныжа</l>
      <stg>
@@ -11194,7 +11211,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нюв-няв</l>
      <stg>
@@ -11207,7 +11224,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">{ -;}</t>
+       <t type="descr" pos="Adv">{ -;}</t>
      </tg>
      <xg>
        <x>нюв-няв сотчис керкуыс</x>
@@ -11215,7 +11232,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нюж-няж</l>
      <stg>
@@ -11228,11 +11245,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание хрусту на зубах</t>
+       <t type="descr" pos="Adv">подражание хрусту на зубах</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нюк-няк</l>
      <stg>
@@ -11245,7 +11262,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">о быстрых и решительных действиях</t>
+       <t type="descr" pos="Adv">о быстрых и решительных действиях</t>
      </tg>
      <xg>
        <x>нюк-няк порсьсӧ начкылісӧ</x>
@@ -11253,7 +11270,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нюкыр-нюкыр</l>
      <stg>
@@ -11266,8 +11283,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">кое-как</t>
-       <t pos="Adv" type="descr">тяп-ляп</t>
+       <t type="descr" pos="Adv">кое-как</t>
+       <t type="descr" pos="Adv">тяп-ляп</t>
      </tg>
      <xg>
        <x>нюкыр-нюкыр каттьыны паськӧм</x>
@@ -11275,7 +11292,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нюлыш-малыш</l>
      <stg>
@@ -11288,8 +11305,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">кое-как</t>
-       <t pos="Adv" type="descr">второпях</t>
+       <t type="descr" pos="Adv">кое-как</t>
+       <t type="descr" pos="Adv">второпях</t>
      </tg>
      <xg>
        <x>нюлыш-малыш керны чужӧм</x>
@@ -11297,7 +11314,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нюмыр-нямыр</l>
      <stg>
@@ -11310,7 +11327,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>нюмыр-нямыр керны</x>
@@ -11318,7 +11335,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нюпыр-няпыр</l>
      <stg>
@@ -11331,7 +11348,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сія нюпыр-няпыр ӧмсӧ керис</x>
@@ -11339,7 +11356,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">няв-няв</l>
      <stg>
@@ -11352,11 +11369,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">мяу</t>
+       <t type="descr" pos="Adv">мяу</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">няж-няж</l>
      <stg>
@@ -11369,7 +11386,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание хрусту, треску</t>
+       <t type="descr" pos="Adv">подражание хрусту, треску</t>
      </tg>
      <xg>
        <x>няж-няж керны</x>
@@ -11377,7 +11394,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">няп-няп</l>
      <stg>
@@ -11390,7 +11407,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>няп-няп керны тырппезӧн</x>
@@ -11398,7 +11415,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нёльпӧв</l>
      <stg>
@@ -11430,7 +11447,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">нёштӧма</l>
      <stg>
@@ -11478,7 +11495,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">одзӧдззас</l>
      <stg>
@@ -11500,7 +11517,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">одзӧсӧн</l>
      <stg>
@@ -11529,7 +11546,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ойезӧн</l>
      <stg>
@@ -11546,7 +11563,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">опастӧма</l>
      <stg>
@@ -11563,7 +11580,7 @@
      </tg> <geo>Рог.</geo>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">орлытӧг</l>
      <stg>
@@ -11584,7 +11601,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">орӧттӧг</l>
      <stg>
@@ -11609,7 +11626,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">орӧтчывтӧг</l>
      <stg>
@@ -11630,7 +11647,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">орӧтчытӧг</l>
      <stg>
@@ -11647,7 +11664,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">отсӧттӧг</l>
      <stg>
@@ -11668,7 +11685,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">павк</l>
      <stg>
@@ -11681,7 +11698,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>кувк-павк бергӧтчыны</x>
@@ -11697,9 +11714,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">паз</l>
+     <l pos="Adv" hid="Hom2">паз</l>
      <stg>
        <st Contlex="ADV_">паз</st>
      </stg>
@@ -11710,7 +11727,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>паз лӧгасьны</x>
@@ -11726,7 +11743,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">паськӧмтӧг</l>
      <stg>
@@ -11754,7 +11771,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пасьтӧг</l>
      <stg>
@@ -11788,7 +11805,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">перыта</l>
      <stg>
@@ -11814,7 +11831,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пидзӧсви</l>
      <stg>
@@ -11835,7 +11852,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">питкыль-паткыль</l>
      <stg>
@@ -11848,7 +11865,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>питкыль-паткыль мунны</x>
@@ -11860,7 +11877,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пиш</l>
      <stg>
@@ -11873,7 +11890,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пиш-керны</x>
@@ -11890,7 +11907,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пишык</l>
      <stg>
@@ -11903,7 +11920,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пишык керны</x>
@@ -11915,7 +11932,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">повно</l>
      <stg>
@@ -11947,7 +11964,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">поди</l>
      <stg>
@@ -11972,7 +11989,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">позяна</l>
      <stg>
@@ -11990,7 +12007,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">прочнӧя</l>
      <stg>
@@ -12011,7 +12028,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пуль-паль</l>
      <stg>
@@ -12024,7 +12041,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пуль-паль керны</x>
@@ -12032,7 +12049,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пульс-пальс</l>
      <stg>
@@ -12045,7 +12062,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пульс-пальс керны</x>
@@ -12053,7 +12070,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пульски-пальски</l>
      <stg>
@@ -12066,7 +12083,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пульски-пальски мунны</x>
@@ -12074,7 +12091,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пуля-паля</l>
      <stg>
@@ -12087,11 +12104,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">буль-буль</t>
+       <t type="descr" pos="Adv">буль-буль</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пур-пур</l>
      <stg>
@@ -12104,7 +12121,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пур-пур лэбзьыны</x>
@@ -12112,7 +12129,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пыдӧс</l>
      <stg>
@@ -12184,7 +12201,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пырк</l>
      <stg>
@@ -12197,7 +12214,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пырк лэбзьыны</x>
@@ -12205,7 +12222,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пырр</l>
      <stg>
@@ -12218,7 +12235,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пырр лэбзьыны</x>
@@ -12226,7 +12243,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пытшкам</l>
      <stg>
@@ -12244,7 +12261,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пытшксит</l>
      <stg>
@@ -12262,7 +12279,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пыть-пыть</l>
      <stg>
@@ -12275,7 +12292,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пыть-пыть керны</x>
@@ -12283,9 +12300,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">пыш</l>
+     <l pos="Adv" hid="Hom2">пыш</l>
      <stg>
        <st Contlex="ADV_">пыш</st>
      </stg>
@@ -12296,7 +12313,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание фырканью, шороху</t>
+       <t type="descr" pos="Adv">подражание фырканью, шороху</t>
      </tg>
      <xg>
        <x>пыш керны</x>
@@ -12304,7 +12321,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пӧвзьӧмӧн</l>
      <stg>
@@ -12326,7 +12343,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">пӧся</l>
      <stg>
@@ -12350,9 +12367,9 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Adv">рама</l>
+     <l pos="Adv" hid="Hom1">рама</l>
      <stg>
        <st Contlex="ADV_">рама</st>
      </stg>
@@ -12403,7 +12420,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">рамыника</l>
      <stg>
@@ -12425,7 +12442,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ровно</l>
      <stg>
@@ -12450,7 +12467,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ровнӧя</l>
      <stg>
@@ -12471,7 +12488,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">руш-раш</l>
      <stg>
@@ -12484,7 +12501,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>руш-раш ветлӧтны</x>
@@ -12496,7 +12513,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">рушки-рашки</l>
      <stg>
@@ -12509,7 +12526,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>пӧрись морт рушки-рашки муніс ыб туёк кузя</x>
@@ -12517,7 +12534,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">рушкыта</l>
      <stg>
@@ -12547,7 +12564,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">рызы-бызы</l>
      <stg>
@@ -12560,10 +12577,10 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">в лохмотьях</t>
-       <t pos="Adv" type="descr">небрежный</t>
-       <t pos="Adv" type="descr">неаккуратный</t>
-       <t pos="Adv" type="descr">плохо одетый</t>
+       <t type="descr" pos="Adv">в лохмотьях</t>
+       <t type="descr" pos="Adv">небрежный</t>
+       <t type="descr" pos="Adv">неаккуратный</t>
+       <t type="descr" pos="Adv">плохо одетый</t>
      </tg>
      <xg>
        <x>рызы-бызы пасьтасьны</x>
@@ -12579,7 +12596,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">рытлапӧв</l>
      <stg>
@@ -12601,7 +12618,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">рышкыта</l>
      <stg>
@@ -12622,7 +12639,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сайкыта</l>
      <stg>
@@ -12648,7 +12665,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сайӧ</l>
      <stg>
@@ -12692,9 +12709,9 @@
      </semantics> <sg> </sg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">сап</l>
+     <l pos="Adv" hid="Hom2">сап</l>
      <stg>
        <st Contlex="ADV_">сап</st>
      </stg>
@@ -12705,7 +12722,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">цап</t>
+       <t type="descr" pos="Adv">цап</t>
      </tg>
      <xg>
        <x>руч сап кутіс ракасӧ да - вӧрӧ</x>
@@ -12713,9 +12730,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">сар</l>
+     <l pos="Adv" hid="Hom2">сар</l>
      <stg>
        <st Contlex="ADV_">сар</st>
      </stg>
@@ -12726,7 +12743,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>оз ешты водны - сар онмӧссяс</x>
@@ -12734,7 +12751,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">свирк</l>
      <stg>
@@ -12747,7 +12764,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание блеску молнии</t>
+       <t type="descr" pos="Adv">подражание блеску молнии</t>
      </tg>
      <xg>
        <x>свирк-свирк вирдыштіс</x>
@@ -12759,9 +12776,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">свист</l>
+     <l pos="Adv" hid="Hom2">свист</l>
      <stg>
        <st Contlex="ADV_">свист</st>
      </stg>
@@ -12772,7 +12789,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание свисту</t>
+       <t type="descr" pos="Adv">подражание свисту</t>
      </tg>
      <xg>
        <x>свистда свист керны</x>
@@ -12788,7 +12805,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">силь</l>
      <stg>
@@ -12801,7 +12818,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание тихому звону динь, динь-динь</t>
+       <t type="descr" pos="Adv">подражание тихому звону динь, динь-динь</t>
      </tg>
      <xg>
        <x>силь керны</x>
@@ -12817,7 +12834,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">силӧй</l>
      <stg>
@@ -12852,7 +12869,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">содно</l>
      <stg>
@@ -12885,7 +12902,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сорті-кості</l>
      <stg>
@@ -12918,7 +12935,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сукман</l>
      <stg>
@@ -12942,7 +12959,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сьӧда</l>
      <stg>
@@ -12967,7 +12984,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сьӧкыта</l>
      <stg>
@@ -13037,7 +13054,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сьӧрсис</l>
      <stg>
@@ -13073,7 +13090,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэт</l>
      <stg>
@@ -13103,7 +13120,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтсянь</l>
      <stg>
@@ -13120,7 +13137,7 @@
      </tg> <geo>сев.</geo> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтті</l>
      <stg>
@@ -13137,7 +13154,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтчин</l>
      <stg>
@@ -13170,7 +13187,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтчинка</l>
      <stg>
@@ -13186,7 +13203,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтчинсянь</l>
      <stg>
@@ -13211,7 +13228,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтчинын</l>
      <stg>
@@ -13228,7 +13245,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтчинісь</l>
      <stg>
@@ -13253,7 +13270,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтчинӧт</l>
      <stg>
@@ -13280,7 +13297,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтчӧ</l>
      <stg>
@@ -13309,7 +13326,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтчӧдз</l>
      <stg>
@@ -13360,7 +13377,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтшӧма</l>
      <stg>
@@ -13382,7 +13399,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтшӧмӧдз</l>
      <stg>
@@ -13398,7 +13415,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтісь</l>
      <stg>
@@ -13435,7 +13452,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтіська</l>
      <stg>
@@ -13453,7 +13470,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтӧн</l>
      <stg>
@@ -13482,7 +13499,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сэтӧнка</l>
      <stg>
@@ -13500,7 +13517,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сюв-сяв</l>
      <stg>
@@ -13514,7 +13531,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">{ - то же, что}</t>
+       <t type="descr" pos="Adv">{ - то же, что}</t>
      </tg>
      <xg>
        <x>чав-чав</x>
@@ -13522,7 +13539,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сюг-сюг</l>
      <stg>
@@ -13543,7 +13560,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сюр-сяр</l>
      <stg>
@@ -13559,7 +13576,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сюра-сяра</l>
      <stg>
@@ -13580,7 +13597,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сюрк-сярк</l>
      <stg>
@@ -13593,7 +13610,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">тук-тук</t>
+       <t type="descr" pos="Adv">тук-тук</t>
      </tg>
      <xg>
        <x>сюрк-сярк кайны лестница кузя</x>
@@ -13601,7 +13618,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сюся</l>
      <stg>
@@ -13627,7 +13644,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сют-сят</l>
      <stg>
@@ -13640,7 +13657,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание стуку, щёлканью</t>
+       <t type="descr" pos="Adv">подражание стуку, щёлканью</t>
      </tg>
      <xg>
        <x>сют-сят игнасьны</x>
@@ -13652,7 +13669,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сяр-сяр</l>
      <stg>
@@ -13665,7 +13682,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание частому стуку</t>
+       <t type="descr" pos="Adv">подражание частому стуку</t>
      </tg>
      <xg>
        <x>сяр-сяр керны</x>
@@ -13673,7 +13690,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сят</l>
      <stg>
@@ -13686,8 +13703,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">тук</t>
-       <t pos="Adv" type="descr">тук-тук</t>
+       <t type="descr" pos="Adv">тук</t>
+       <t type="descr" pos="Adv">тук-тук</t>
      </tg>
      <xg>
        <x>сят керны</x>
@@ -13699,7 +13716,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сёравно</l>
      <stg>
@@ -13716,7 +13733,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сёрӧн</l>
      <stg>
@@ -13741,7 +13758,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сі</l>
      <stg>
@@ -13782,7 +13799,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">сӧстӧма</l>
      <stg>
@@ -13808,9 +13825,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">тан</l>
+     <l pos="Adv" hid="Hom2">тан</l>
      <stg>
        <st Contlex="ADV_">тан</st>
      </stg>
@@ -13821,8 +13838,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">тук</t>
-       <t pos="Adv" type="descr">тук-тук</t>
+       <t type="descr" pos="Adv">тук</t>
+       <t type="descr" pos="Adv">тук-тук</t>
      </tg>
      <xg>
        <x>тан-тан керны</x>
@@ -13834,7 +13851,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тарс</l>
      <stg>
@@ -13847,9 +13864,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">стук</t>
-       <t pos="Adv" type="descr">стук-стук</t>
-       <t pos="Adv" type="descr">тук-тук</t>
+       <t type="descr" pos="Adv">стук</t>
+       <t type="descr" pos="Adv">стук-стук</t>
+       <t type="descr" pos="Adv">тук-тук</t>
      </tg>
      <xg>
        <x>тарс кыліс</x>
@@ -13861,7 +13878,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тач</l>
      <stg>
@@ -13874,7 +13891,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание лёгкому треску, стуку</t>
+       <t type="descr" pos="Adv">подражание лёгкому треску, стуку</t>
      </tg>
      <xg>
        <x>тач керны</x>
@@ -13886,7 +13903,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тив</l>
      <stg>
@@ -13899,7 +13916,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание чириканью птиц</t>
+       <t type="descr" pos="Adv">подражание чириканью птиц</t>
      </tg>
      <xg>
        <x>тив-тив керлӧны воробей пияннэз</x>
@@ -13911,7 +13928,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тон-тон</l>
      <stg>
@@ -13924,7 +13941,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тон-тон кын</x>
@@ -13940,7 +13957,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">топыта</l>
      <stg>
@@ -13981,7 +13998,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тор-тор</l>
      <stg>
@@ -13994,8 +14011,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">тук-тук</t>
-       <t pos="Adv" type="descr">стук-стук</t>
+       <t type="descr" pos="Adv">тук-тук</t>
+       <t type="descr" pos="Adv">стук-стук</t>
      </tg>
      <xg>
        <x>тор-тор керны</x>
@@ -14007,7 +14024,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">торйӧн-жугӧн</l>
      <stg>
@@ -14048,7 +14065,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">торс</l>
      <stg>
@@ -14061,7 +14078,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание стуку, топоту</t>
+       <t type="descr" pos="Adv">подражание стуку, топоту</t>
      </tg>
      <xg>
        <x>торс керны</x>
@@ -14077,7 +14094,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тпруч</l>
      <stg>
@@ -14090,7 +14107,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание хлопанью, треску</t>
+       <t type="descr" pos="Adv">подражание хлопанью, треску</t>
      </tg>
      <xg>
        <x>тпруч усьны</x>
@@ -14110,7 +14127,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тран-тран</l>
      <stg>
@@ -14123,7 +14140,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание звяканью, звону</t>
+       <t type="descr" pos="Adv">подражание звяканью, звону</t>
      </tg>
      <xg>
        <x>тран-тран жугавны</x>
@@ -14131,7 +14148,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">трек</l>
      <stg>
@@ -14144,8 +14161,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">дёрг</t>
-       <t pos="Adv" type="descr">дёрг-дёрг</t>
+       <t type="descr" pos="Adv">дёрг</t>
+       <t type="descr" pos="Adv">дёрг-дёрг</t>
      </tg>
      <xg>
        <x>трек керны</x>
@@ -14161,7 +14178,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тресь</l>
      <stg>
@@ -14174,7 +14191,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание треску</t>
+       <t type="descr" pos="Adv">подражание треску</t>
      </tg>
      <xg>
        <x>тресь потны</x>
@@ -14182,7 +14199,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">трин-бран</l>
      <stg>
@@ -14195,7 +14212,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание звону разбитого стекла</t>
+       <t type="descr" pos="Adv">подражание звону разбитого стекла</t>
      </tg>
      <xg>
        <x>трин-бран киссисӧ ӧшын стекло торрез</x>
@@ -14203,7 +14220,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">трин-трон</l>
      <stg>
@@ -14216,7 +14233,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание гулкому звону</t>
+       <t type="descr" pos="Adv">подражание гулкому звону</t>
      </tg>
      <xg>
        <x>трин-трон усьны</x>
@@ -14228,7 +14245,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тринь-бринь</l>
      <stg>
@@ -14241,7 +14258,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr"/>
+       <t type="descr" pos="Adv"/>
      </tg>
      <xg>
        <x>динь-динь</x>
@@ -14249,7 +14266,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">трок</l>
      <stg>
@@ -14262,8 +14279,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">скок</t>
-       <t pos="Adv" type="descr">прыг-скок</t>
+       <t type="descr" pos="Adv">скок</t>
+       <t type="descr" pos="Adv">прыг-скок</t>
      </tg>
      <xg>
        <x>трок чечӧвтны</x>
@@ -14279,7 +14296,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ту-ту</l>
      <stg>
@@ -14292,7 +14309,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание гудку, свистку</t>
+       <t type="descr" pos="Adv">подражание гудку, свистку</t>
      </tg>
      <xg>
        <x>ту-ту тутсыны</x>
@@ -14300,7 +14317,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тульк-мельк</l>
      <stg>
@@ -14313,7 +14330,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тульк-мельк усьны</x>
@@ -14325,7 +14342,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тульки-мельки</l>
      <stg>
@@ -14338,7 +14355,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тульки-мельки усьны</x>
@@ -14350,7 +14367,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тульчик</l>
      <stg>
@@ -14363,7 +14380,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr"/>
+       <t type="descr" pos="Adv"/>
      </tg>
      <xg>
        <x>буль-буль</x>
@@ -14375,7 +14392,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">туля-боля</l>
      <stg>
@@ -14388,7 +14405,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">буль-буль</t>
+       <t type="descr" pos="Adv">буль-буль</t>
      </tg>
      <xg>
        <x>туля-боля керны</x>
@@ -14396,7 +14413,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">туп-тап</l>
      <stg>
@@ -14409,7 +14426,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">топ-топ</t>
+       <t type="descr" pos="Adv">топ-топ</t>
      </tg>
      <xg>
        <x>нывка туп-тап муніс вылын каблучока туфлиэзӧн</x>
@@ -14417,7 +14434,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тур-бар</l>
      <stg>
@@ -14430,7 +14447,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тур-бар таравны</x>
@@ -14438,7 +14455,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тур-пар</l>
      <stg>
@@ -14451,7 +14468,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">с шумом, с грохотом</t>
+       <t type="descr" pos="Adv">с шумом, с грохотом</t>
      </tg>
      <xg>
        <x>тур-пар усьны лестница вылісянь</x>
@@ -14463,7 +14480,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тур-тур</l>
      <stg>
@@ -14476,7 +14493,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тур-тур мунны</x>
@@ -14484,7 +14501,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тура-бара</l>
      <stg>
@@ -14497,7 +14514,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тура-бара усьны</x>
@@ -14505,7 +14522,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">турки-тарки</l>
      <stg>
@@ -14518,7 +14535,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>турки-тарки петкӧтны</x>
@@ -14526,7 +14543,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">туру-туру</l>
      <stg>
@@ -14539,7 +14556,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">тары-бары</t>
+       <t type="descr" pos="Adv">тары-бары</t>
      </tg>
      <xg>
        <x>туру-туру баитны</x>
@@ -14547,7 +14564,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">туч-тач</l>
      <stg>
@@ -14560,7 +14577,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание щёлканью щеколды</t>
+       <t type="descr" pos="Adv">подражание щёлканью щеколды</t>
      </tg>
      <xg>
        <x>туч-тач пӧднасьны</x>
@@ -14568,7 +14585,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тшек</l>
      <stg>
@@ -14581,7 +14598,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">скок</t>
+       <t type="descr" pos="Adv">скок</t>
      </tg>
      <xg>
        <x>тшек чеччӧвтны</x>
@@ -14593,7 +14610,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тшукыль-тшакыль</l>
      <stg>
@@ -14606,7 +14623,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тшукыль-тшакыль керны</x>
@@ -14614,9 +14631,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">тшӧк</l>
+     <l pos="Adv" hid="Hom2">тшӧк</l>
      <stg>
        <st Contlex="ADV_">тшӧк</st>
      </stg>
@@ -14627,7 +14644,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тшӧк мунны</x>
@@ -14635,7 +14652,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тшӧтш</l>
      <stg>
@@ -14677,7 +14694,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тыдалӧ</l>
      <stg>
@@ -14710,7 +14727,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тыр-тыр</l>
      <stg>
@@ -14723,7 +14740,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание стуку дятла</t>
+       <t type="descr" pos="Adv">подражание стуку дятла</t>
      </tg>
      <xg>
        <x>вӧрын лунтыр кылӧ тыр-тыр</x>
@@ -14731,7 +14748,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тырмас</l>
      <stg>
@@ -14767,7 +14784,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тырыры</l>
      <stg>
@@ -14780,7 +14797,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сьывны тырыры</x>
@@ -14788,7 +14805,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тэр-бар</l>
      <stg>
@@ -14801,7 +14818,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тэр-бар таравны кок йылісь</x>
@@ -14817,7 +14834,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тэсь</l>
      <stg>
@@ -14838,7 +14855,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тюк</l>
      <stg>
@@ -14860,9 +14877,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">тюк</l>
+     <l pos="Adv" hid="Hom2">тюк</l>
      <stg>
        <st Contlex="ADV_">тюк</st>
      </stg>
@@ -14873,8 +14890,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">вдруг</t>
-       <t pos="Adv" type="descr">неожиданно</t>
+       <t type="descr" pos="Adv">вдруг</t>
+       <t type="descr" pos="Adv">неожиданно</t>
      </tg>
      <xg>
        <x>тюк пырны</x>
@@ -14886,7 +14903,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тюп-тёп</l>
      <stg>
@@ -14899,7 +14916,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">кап-кап</t>
+       <t type="descr" pos="Adv">кап-кап</t>
      </tg>
      <xg>
        <x>тюп-тёп виялісӧ вотьваэз</x>
@@ -14907,7 +14924,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тюпки-ляпки</l>
      <stg>
@@ -14920,7 +14937,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">тяп-ляп</t>
+       <t type="descr" pos="Adv">тяп-ляп</t>
      </tg>
      <xg>
        <x>тюпки-ляпки керны</x>
@@ -14928,7 +14945,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тюпки-тяпки</l>
      <stg>
@@ -14941,9 +14958,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">кое-как</t>
-       <t pos="Adv" type="descr">небрежно</t>
-       <t pos="Adv" type="descr">плохо</t>
+       <t type="descr" pos="Adv">кое-как</t>
+       <t type="descr" pos="Adv">небрежно</t>
+       <t type="descr" pos="Adv">плохо</t>
      </tg>
      <xg>
        <x>тюпки-тяпки джодж миськавны</x>
@@ -14955,7 +14972,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тюр-тюр</l>
      <stg>
@@ -14968,7 +14985,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тюр-тюр котӧртны</x>
@@ -14980,7 +14997,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тюрлик-тюрлик</l>
      <stg>
@@ -14993,7 +15010,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тюрлик-тюрлик мунны</x>
@@ -15001,7 +15018,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тюру-тюру</l>
      <stg>
@@ -15014,7 +15031,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тюру-тюру котӧртны</x>
@@ -15026,7 +15043,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тяв-тяв</l>
      <stg>
@@ -15039,7 +15056,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">тяв-тяв</t>
+       <t type="descr" pos="Adv">тяв-тяв</t>
      </tg>
      <xg>
        <x>поннэз увтісӧ тяв-тяв</x>
@@ -15047,7 +15064,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тяк-тяк</l>
      <stg>
@@ -15060,11 +15077,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">тюк-тюк</t>
+       <t type="descr" pos="Adv">тюк-тюк</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тір-тор</l>
      <stg>
@@ -15077,7 +15094,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тір-тор вештыны</x>
@@ -15085,7 +15102,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тір-тір</l>
      <stg>
@@ -15098,7 +15115,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тір-тір кыскыны</x>
@@ -15106,7 +15123,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тірки-торки</l>
      <stg>
@@ -15119,7 +15136,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тірки-торки лэдзчыны лестница кузя</x>
@@ -15127,7 +15144,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тӧлӧн</l>
      <stg>
@@ -15146,7 +15163,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">тӧрс</l>
      <stg>
@@ -15159,7 +15176,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тӧрс-тӧрс кынмыны</x>
@@ -15171,9 +15188,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">ув</l>
+     <l pos="Adv" hid="Hom2">ув</l>
      <stg>
        <st Contlex="ADV_">ув</st>
      </stg>
@@ -15184,12 +15201,12 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">гав</t>
-       <t pos="Adv" type="descr">гав-гав</t>
+       <t type="descr" pos="Adv">гав</t>
+       <t type="descr" pos="Adv">гав-гав</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">увтас</l>
      <stg>
@@ -15229,7 +15246,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">увтсяняс</l>
      <stg>
@@ -15254,7 +15271,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">увтын</l>
      <stg>
@@ -15286,7 +15303,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">увтӧ</l>
      <stg>
@@ -15311,7 +15328,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">увтӧттяс</l>
      <stg>
@@ -15332,7 +15349,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">удала</l>
      <stg>
@@ -15356,7 +15373,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">уп</l>
      <stg>
@@ -15369,7 +15386,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">бух</t>
+       <t type="descr" pos="Adv">бух</t>
      </tg>
      <xg>
        <x>уп усьны</x>
@@ -15377,7 +15394,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ур-ур</l>
      <stg>
@@ -15390,7 +15407,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>ур-ур керны</x>
@@ -15398,7 +15415,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">устнӧя</l>
      <stg>
@@ -15419,7 +15436,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чав-чав</l>
      <stg>
@@ -15432,7 +15449,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание шуму, треску</t>
+       <t type="descr" pos="Adv">подражание шуму, треску</t>
      </tg>
      <xg>
        <x>чав-чав киссьыны</x>
@@ -15444,7 +15461,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чаж-чаж</l>
      <stg>
@@ -15457,7 +15474,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">с [сильным] треском</t>
+       <t type="descr" pos="Adv">с [сильным] треском</t>
      </tg>
      <xg>
        <x>чаж-чаж сотчӧ</x>
@@ -15469,7 +15486,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чар-чар</l>
      <stg>
@@ -15482,7 +15499,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чар-чар горзыны</x>
@@ -15490,7 +15507,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чарс-чарс</l>
      <stg>
@@ -15503,7 +15520,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чарс-чарс котрасьны чарӧм вылӧт</x>
@@ -15515,7 +15532,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чатыр-чатыр</l>
      <stg>
@@ -15528,7 +15545,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чатыр-чатыр мунны</x>
@@ -15540,7 +15557,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чатырӧн</l>
      <stg>
@@ -15569,7 +15586,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">челльо</l>
      <stg>
@@ -15586,7 +15603,7 @@
      </tg> <range>прост.</range>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чер-бар</l>
      <stg>
@@ -15599,7 +15616,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чер-бар таравны</x>
@@ -15607,7 +15624,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чер-чер</l>
      <stg>
@@ -15620,7 +15637,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>коккес чер-чер керисӧ лымас</x>
@@ -15637,7 +15654,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чив-лив</l>
      <stg>
@@ -15650,7 +15667,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чив-лив шувлӧ каёк</x>
@@ -15658,7 +15675,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чив-чив</l>
      <stg>
@@ -15671,7 +15688,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание чириканью птиц</t>
+       <t type="descr" pos="Adv">подражание чириканью птиц</t>
      </tg>
      <xg>
        <x>чив-чив горавны</x>
@@ -15679,7 +15696,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чиж</l>
      <stg>
@@ -15692,7 +15709,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание треску, шуму</t>
+       <t type="descr" pos="Adv">подражание треску, шуму</t>
      </tg>
      <xg>
        <x>чиж косявны</x>
@@ -15708,7 +15725,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чиж-важ</l>
      <stg>
@@ -15721,9 +15738,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">быстро</t>
-       <t pos="Adv" type="descr">мигом</t>
-       <t pos="Adv" type="descr">моментально</t>
+       <t type="descr" pos="Adv">быстро</t>
+       <t type="descr" pos="Adv">мигом</t>
+       <t type="descr" pos="Adv">моментально</t>
      </tg>
      <xg>
        <x>чиж-важ керны</x>
@@ -15743,7 +15760,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чик-брик</l>
      <stg>
@@ -15756,9 +15773,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">опрятно</t>
-       <t pos="Adv" type="descr">чисто</t>
-       <t pos="Adv" type="descr">аккуратно</t>
+       <t type="descr" pos="Adv">опрятно</t>
+       <t type="descr" pos="Adv">чисто</t>
+       <t type="descr" pos="Adv">аккуратно</t>
      </tg>
      <xg>
        <x>чик-брик пасьтасьны</x>
@@ -15766,7 +15783,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чик-чик</l>
      <stg>
@@ -15779,7 +15796,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание стуку, стрекоту</t>
+       <t type="descr" pos="Adv">подражание стуку, стрекоту</t>
      </tg>
      <xg>
        <x>чик-чик кыліс вылісянь</x>
@@ -15795,7 +15812,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чик-чок</l>
      <stg>
@@ -15808,7 +15825,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чик-чок пасьтасьны</x>
@@ -15820,7 +15837,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чики-брики</l>
      <stg>
@@ -15833,7 +15850,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чики-брики ветлӧтны</x>
@@ -15845,7 +15862,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чики-чоки</l>
      <stg>
@@ -15858,7 +15875,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чики-чоки мунны</x>
@@ -15870,7 +15887,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чиль-биль</l>
      <stg>
@@ -15883,7 +15900,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>тош сылӧн абу, а уссэзын гӧннэс чиль-биль</x>
@@ -15891,7 +15908,7 @@
      </xg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чиль-чоль</l>
      <stg>
@@ -15904,7 +15921,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чиль-чоль высьтыны</x>
@@ -15916,7 +15933,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чильк-чольк</l>
      <stg>
@@ -15929,7 +15946,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чильк-чольк лэдзчыны</x>
@@ -15941,7 +15958,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чир</l>
      <stg>
@@ -15968,7 +15985,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чир-чир</l>
      <stg>
@@ -15981,7 +15998,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чир-чир мунны</x>
@@ -15989,7 +16006,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чирк-чирк</l>
      <stg>
@@ -16002,7 +16019,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чирк-чирк керлӧны лым вылын воробейез</x>
@@ -16010,7 +16027,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чирс</l>
      <stg>
@@ -16023,7 +16040,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чирс кӧс</x>
@@ -16039,7 +16056,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чирс-чирс</l>
      <stg>
@@ -16052,7 +16069,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>сюыс чирс-чирс косьмӧм</x>
@@ -16064,7 +16081,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чишки-чошки</l>
      <stg>
@@ -16077,7 +16094,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чишки-чошки ветлӧтны</x>
@@ -16089,7 +16106,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чоль</l>
      <stg>
@@ -16102,11 +16119,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание журчанию ручья</t>
+       <t type="descr" pos="Adv">подражание журчанию ручья</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чоль-чоль</l>
      <stg>
@@ -16119,7 +16136,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чоль-чоль виявны</x>
@@ -16127,7 +16144,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чочкома</l>
      <stg>
@@ -16153,7 +16170,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чувиз</l>
      <stg>
@@ -16175,7 +16192,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чуй</l>
      <stg>
@@ -16188,7 +16205,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чуй видзны</x>
@@ -16204,7 +16221,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чукӧрӧн</l>
      <stg>
@@ -16259,7 +16276,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чулля-чалля</l>
      <stg>
@@ -16272,7 +16289,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">неровный</t>
+       <t type="descr" pos="Adv">неровный</t>
      </tg>
      <xg>
        <x>улыс чулля-чалля</x>
@@ -16280,7 +16297,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чуль-чаль</l>
      <stg>
@@ -16293,7 +16310,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чуль-чаль лысьтыны мӧс</x>
@@ -16305,7 +16322,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чуля-лява</l>
      <stg>
@@ -16318,7 +16335,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чуля-лява керны</x>
@@ -16326,9 +16343,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">чур</l>
+     <l pos="Adv" hid="Hom2">чур</l>
      <stg>
        <st Contlex="ADV_">чур</st>
      </stg>
@@ -16339,7 +16356,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чур видзны</x>
@@ -16356,9 +16373,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Adv">чурс</l>
+     <l pos="Adv" hid="Hom1">чурс</l>
      <stg>
        <st Contlex="ADV_">чурс</st>
      </stg>
@@ -16369,7 +16386,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чурс сьӧвзьыны</x>
@@ -16377,7 +16394,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чутькӧ</l>
      <stg>
@@ -16400,7 +16417,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чуш-ваш</l>
      <stg>
@@ -16413,7 +16430,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чуш-ваш ветлӧтны</x>
@@ -16425,7 +16442,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чуш-паш</l>
      <stg>
@@ -16438,7 +16455,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чуш-паш пырны</x>
@@ -16446,7 +16463,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чуш-чаш</l>
      <stg>
@@ -16459,7 +16476,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>эсті чуш-чаш</x>
@@ -16471,7 +16488,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чуш-чуш</l>
      <stg>
@@ -16484,7 +16501,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чуш-чуш мунны</x>
@@ -16493,7 +16510,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чывк</l>
      <stg>
@@ -16506,7 +16523,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>чывк петны</x>
@@ -16514,7 +16531,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чӧла</l>
      <stg>
@@ -16539,7 +16556,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чӧрс</l>
      <stg>
@@ -16575,7 +16592,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">чӧскыта</l>
      <stg>
@@ -16618,7 +16635,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шагӧн</l>
      <stg>
@@ -16648,7 +16665,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шакардаӧн</l>
      <stg>
@@ -16682,7 +16699,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шаня</l>
      <stg>
@@ -16711,7 +16728,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шарк</l>
      <stg>
@@ -16724,7 +16741,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">быстро</t>
+       <t type="descr" pos="Adv">быстро</t>
      </tg>
      <xg>
        <x>шарк вундыштны ножничӧн</x>
@@ -16757,7 +16774,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">швар</l>
      <stg>
@@ -16770,7 +16787,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">с треском, с небольшим хрустом</t>
+       <t type="descr" pos="Adv">с треском, с небольшим хрустом</t>
      </tg>
      <xg>
        <x>швар кыскыны</x>
@@ -16778,7 +16795,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шват</l>
      <stg>
@@ -16791,7 +16808,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание стуку</t>
+       <t type="descr" pos="Adv">подражание стуку</t>
      </tg>
      <xg>
        <x>шват</x>
@@ -16803,9 +16820,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">швач</l>
+     <l pos="Adv" hid="Hom2">швач</l>
      <stg>
        <st Contlex="ADV_">швач</st>
      </stg>
@@ -16816,7 +16833,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">хлоп</t>
+       <t type="descr" pos="Adv">хлоп</t>
      </tg>
      <xg>
        <x>швач игнавны ыбӧс</x>
@@ -16832,7 +16849,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">швыр</l>
      <stg>
@@ -16845,7 +16862,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>швыр шупкыны</x>
@@ -16857,7 +16874,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">швырк</l>
      <stg>
@@ -16870,8 +16887,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">быстро</t>
-       <t pos="Adv" type="descr">мигом</t>
+       <t type="descr" pos="Adv">быстро</t>
+       <t type="descr" pos="Adv">мигом</t>
      </tg>
      <xg>
        <x>швырк петны</x>
@@ -16887,7 +16904,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шлап</l>
      <stg>
@@ -16901,7 +16918,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шлап видзны</x>
@@ -16917,7 +16934,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шлюп-шлёп</l>
      <stg>
@@ -16930,7 +16947,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шлюп-шлёп керны</x>
@@ -16938,7 +16955,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шлёп-шлёп</l>
      <stg>
@@ -16951,7 +16968,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шлёп-шлёп керны</x>
@@ -16963,7 +16980,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шмуты-шматы</l>
      <stg>
@@ -16976,7 +16993,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шмуты-шматы пӧрны</x>
@@ -16984,7 +17001,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шовк</l>
      <stg>
@@ -16997,7 +17014,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">хлоп</t>
+       <t type="descr" pos="Adv">хлоп</t>
      </tg>
      <xg>
        <x>шовк вачкыны</x>
@@ -17021,7 +17038,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шоль-шоль</l>
      <stg>
@@ -17034,8 +17051,8 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">сырой</t>
-       <t pos="Adv" type="descr">мокрый</t>
+       <t type="descr" pos="Adv">сырой</t>
+       <t type="descr" pos="Adv">мокрый</t>
      </tg>
      <xg>
        <x>лымыс шоль-шоль лоӧм</x>
@@ -17047,7 +17064,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шоныта</l>
      <stg>
@@ -17072,7 +17089,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шорк</l>
      <stg>
@@ -17085,7 +17102,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шорк пырны</x>
@@ -17093,7 +17110,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шув-пав</l>
      <stg>
@@ -17106,7 +17123,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шув-пав пырны</x>
@@ -17118,7 +17135,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шувка-шовка</l>
      <stg>
@@ -17131,7 +17148,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шувка-шовка вартны гуна вылын</x>
@@ -17143,7 +17160,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шувки-шовки</l>
      <stg>
@@ -17156,7 +17173,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шувки-шовки мунны нятьӧт</x>
@@ -17164,7 +17181,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шупыта</l>
      <stg>
@@ -17206,9 +17223,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Adv">шур</l>
+     <l pos="Adv" hid="Hom1">шур</l>
      <stg>
        <st Contlex="ADV_">шур</st>
      </stg>
@@ -17219,7 +17236,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">мгновенно, быстро [с шумом],</t>
+       <t type="descr" pos="Adv">мгновенно, быстро [с шумом],</t>
      </tg>
      <xg>
        <x>кӧз вылӧ шур пуксисӧ кайез</x>
@@ -17227,7 +17244,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шура-шара</l>
      <stg>
@@ -17240,7 +17257,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шура-шара пырны</x>
@@ -17248,7 +17265,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шурк</l>
      <stg>
@@ -17261,9 +17278,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">мгновенно</t>
-       <t pos="Adv" type="descr">быстро</t>
-       <t pos="Adv" type="descr">стремительно</t>
+       <t type="descr" pos="Adv">мгновенно</t>
+       <t type="descr" pos="Adv">быстро</t>
+       <t type="descr" pos="Adv">стремительно</t>
      </tg>
      <xg>
        <x>шурк бергӧтчыштіс ӧшынлань</x>
@@ -17271,7 +17288,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шурк-шарк</l>
      <stg>
@@ -17284,9 +17301,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">быстро</t>
-       <t pos="Adv" type="descr">стремительно</t>
-       <t pos="Adv" type="descr">со стуком, с шорохом</t>
+       <t type="descr" pos="Adv">быстро</t>
+       <t type="descr" pos="Adv">стремительно</t>
+       <t type="descr" pos="Adv">со стуком, с шорохом</t>
      </tg>
      <xg>
        <x>шурк-шарк петны</x>
@@ -17298,7 +17315,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шылльӧн-мылльӧн</l>
      <stg>
@@ -17323,7 +17340,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шымырӧн</l>
      <stg>
@@ -17345,9 +17362,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">шыр</l>
+     <l pos="Adv" hid="Hom2">шыр</l>
      <stg>
        <st Contlex="ADV_">шыр</st>
      </stg>
@@ -17358,7 +17375,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шыр мунны машинаӧн</x>
@@ -17370,7 +17387,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шырк</l>
      <stg>
@@ -17383,7 +17400,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>шырк петны</x>
@@ -17395,7 +17412,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шытӧг</l>
      <stg>
@@ -17416,7 +17433,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шӧриӧн</l>
      <stg>
@@ -17437,7 +17454,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">шӧрӧ</l>
      <stg>
@@ -17458,7 +17475,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ыджыта</l>
      <stg>
@@ -17495,7 +17512,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ым-м-м</l>
      <stg>
@@ -17508,7 +17525,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание шороху, шуму, гудению</t>
+       <t type="descr" pos="Adv">подражание шороху, шуму, гудению</t>
      </tg>
      <xg>
        <x>ым-м-м лэбзисӧ кайез</x>
@@ -17520,7 +17537,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ып</l>
      <stg>
@@ -17533,9 +17550,9 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">бах</t>
-       <t pos="Adv" type="descr">хлоп</t>
-       <t pos="Adv" type="descr">трах</t>
+       <t type="descr" pos="Adv">бах</t>
+       <t type="descr" pos="Adv">хлоп</t>
+       <t type="descr" pos="Adv">трах</t>
      </tg>
      <xg>
        <x>ып да ып лыйны</x>
@@ -17547,7 +17564,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ыр</l>
      <stg>
@@ -17560,7 +17577,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание рычанию</t>
+       <t type="descr" pos="Adv">подражание рычанию</t>
      </tg>
      <xg>
        <x>поныс ыр керлӧ</x>
@@ -17572,7 +17589,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ышки-пойки</l>
      <stg>
@@ -17585,7 +17602,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание тяжёлому, прерывистому дыханию</t>
+       <t type="descr" pos="Adv">подражание тяжёлому, прерывистому дыханию</t>
      </tg>
      <xg>
        <x>ышки-пойки котӧртны</x>
@@ -17601,9 +17618,9 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Adv">ышы</l>
+     <l pos="Adv" hid="Hom2">ышы</l>
      <stg>
        <st Contlex="ADV_">ышы</st>
      </stg>
@@ -17614,7 +17631,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">брр</t>
+       <t type="descr" pos="Adv">брр</t>
      </tg>
      <xg>
        <x>ваыс ышы</x>
@@ -17626,7 +17643,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">эссянь</l>
      <stg>
@@ -17647,7 +17664,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">эсті</l>
      <stg>
@@ -17672,7 +17689,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">эстісь</l>
      <stg>
@@ -17697,7 +17714,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">эстӧн</l>
      <stg>
@@ -17718,7 +17735,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">эсчӧ</l>
      <stg>
@@ -17735,7 +17752,7 @@
      </tg> <geo>сев.</geo>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">этадз</l>
      <stg>
@@ -17764,7 +17781,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">этасянь</l>
      <stg>
@@ -17796,7 +17813,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">этатчӧ</l>
      <stg>
@@ -17817,7 +17834,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">этатӧн</l>
      <stg>
@@ -17834,7 +17851,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">этнаті</l>
      <stg>
@@ -17851,7 +17868,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">этчин</l>
      <stg>
@@ -17872,7 +17889,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">этчӧдз</l>
      <stg>
@@ -17905,7 +17922,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">этылань</l>
      <stg>
@@ -17926,7 +17943,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">эшӧ</l>
      <stg>
@@ -17951,7 +17968,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">югдытӧдз</l>
      <stg>
@@ -17976,7 +17993,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">югйӧв-югйӧв</l>
      <stg>
@@ -17990,7 +18007,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>югйӧв-югйӧв мыйкӧ свиттьӧвтіс одзаным</x>
@@ -18006,7 +18023,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">югыта</l>
      <stg>
@@ -18039,7 +18056,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">югытӧдз</l>
      <stg>
@@ -18061,7 +18078,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">югытӧн</l>
      <stg>
@@ -18085,7 +18102,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">юж-важ</l>
      <stg>
@@ -18106,7 +18123,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">янас</l>
      <stg>
@@ -18129,11 +18146,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">янын</l>
      <stg>
-       <st>янын</st>
+       <st Contlex="ADV_">янын</st>
      </stg>
    </lg>
      <sources>
@@ -18150,11 +18167,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">янӧ</l>
      <stg>
-       <st>янӧ</st>
+       <st Contlex="ADV_">янӧ</st>
      </stg>
    </lg>
      <sources>
@@ -18171,7 +18188,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">яра</l>
      <stg>
@@ -18203,7 +18220,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ярк</l>
      <stg>
@@ -18216,7 +18233,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>иньыс жӧникыс вылӧ ярк да ярк</x>
@@ -18224,11 +18241,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ятнӧя</l>
      <stg>
-       <st>ятнӧя</st>
+       <st Contlex="ADV_">ятнӧя</st>
      </stg>
    </lg>
      <sources>
@@ -18246,7 +18263,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ёна</l>
      <stg>
@@ -18311,7 +18328,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ёнакодь</l>
      <stg>
@@ -18336,7 +18353,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ёнкодя</l>
      <stg>
@@ -18357,7 +18374,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ёт-ёт</l>
      <stg>
@@ -18370,7 +18387,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">:</t>
+       <t type="descr" pos="Adv">:</t>
      </tg>
      <xg>
        <x>ёт-ёт кынтны</x>
@@ -18382,7 +18399,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧдва</l>
      <stg>
@@ -18413,7 +18430,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧдва-ӧдва</l>
      <stg>
@@ -18431,7 +18448,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧддьӧ</l>
      <stg>
@@ -18448,11 +18465,11 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧддьӧн</l>
      <stg>
-       <st>ӧддьӧн</st>
+       <st Contlex="ADV_">ӧддьӧн</st>
      </stg>
    </lg>
      <sources>
@@ -18470,7 +18487,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧддьӧнсӧ</l>
      <stg>
@@ -18491,7 +18508,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧддьӧнӧв</l>
      <stg>
@@ -18529,7 +18546,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧйбыт</l>
      <stg>
@@ -18554,7 +18571,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧйезнас</l>
      <stg>
@@ -18571,7 +18588,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧкмысӧн</l>
      <stg>
@@ -18588,7 +18605,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧнняюрӧн</l>
      <stg>
@@ -18604,7 +18621,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧнтай</l>
      <stg>
@@ -18626,7 +18643,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧнтайсянь</l>
      <stg>
@@ -18644,7 +18661,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧнтайын</l>
      <stg>
@@ -18661,7 +18678,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧнчир</l>
      <stg>
@@ -18682,7 +18699,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧні</l>
      <stg>
@@ -18707,7 +18724,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧнісянь</l>
      <stg>
@@ -18724,7 +18741,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧнӧдз</l>
      <stg>
@@ -18749,11 +18766,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧпеть</l>
      <stg>
-       <st>ӧпеть</st>
+       <st Contlex="ADV_">ӧпеть</st>
      </stg>
    </lg>
      <sources>
@@ -18766,7 +18783,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтвыв</l>
      <stg>
@@ -18789,7 +18806,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтвылісь</l>
      <stg>
@@ -18811,7 +18828,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтдор</l>
      <stg>
@@ -18836,11 +18853,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтдруг</l>
      <stg>
-       <st>ӧтдруг</st>
+       <st Contlex="ADV_">ӧтдруг</st>
      </stg>
    </lg>
      <sources>
@@ -18858,7 +18875,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧткодя</l>
      <stg>
@@ -18879,7 +18896,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧткӧ</l>
      <stg>
@@ -18896,7 +18913,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧткӧн</l>
      <stg>
@@ -18912,7 +18929,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтлаись</l>
      <stg>
@@ -18934,7 +18951,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтлаын</l>
      <stg>
@@ -18965,7 +18982,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтлаӧ</l>
      <stg>
@@ -18988,7 +19005,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтлаӧт</l>
      <stg>
@@ -19007,7 +19024,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмоз</l>
      <stg>
@@ -19050,7 +19067,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмоза</l>
      <stg>
@@ -19093,7 +19110,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмозӧн</l>
      <stg>
@@ -19136,7 +19153,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмунда</l>
      <stg>
@@ -19153,7 +19170,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмымда</l>
      <stg>
@@ -19175,7 +19192,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмымдаӧн</l>
      <stg>
@@ -19197,7 +19214,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмында</l>
      <stg>
@@ -19213,7 +19230,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмӧдӧрись</l>
      <stg>
@@ -19229,7 +19246,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмӧдӧрсянь</l>
      <stg>
@@ -19255,7 +19272,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмӧдӧрын</l>
      <stg>
@@ -19276,7 +19293,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмӧдӧрӧ</l>
      <stg>
@@ -19310,7 +19327,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтмӧдӧрӧт</l>
      <stg>
@@ -19331,11 +19348,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтнёж</l>
      <stg>
-       <st>ӧтнёж</st>
+       <st Contlex="ADV_">ӧтнёж</st>
      </stg>
    </lg>
      <sources>
@@ -19353,7 +19370,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтнёжӧн</l>
      <stg>
@@ -19378,11 +19395,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтпыр</l>
      <stg>
-       <st>ӧтпыр / ӧтпырiсь</st>
+       <st Contlex="ADV_">ӧтпыр / ӧтпырiсь</st>
      </stg>
    </lg>
      <sources>
@@ -19398,24 +19415,6 @@
        <x>ӧтпыр эз вӧв миянын</x>
        <xt xml:lang="kpv">ньӧтчыдысь эз вӧв миянын</xt>
      </xg>
-   </mg>
-</e>
-<e>
-   <lg>
-     <l pos="Adv">ӧтпырiсь</l>
-     <stg>
-       <st>ӧтпыр / ӧтпырiсь</st>
-     </stg>
-   </lg>
-     <sources>
-     </sources>
-   <mg relId="0">
-     <semantics>
-     </semantics>
-     <tg xml:lang="kpv">
-       <t pos="Adv">ӧтчыд</t>
-       <t pos="Adv">ӧтчыдысь</t>
-     </tg>
    </mg>
 </e>
 <e order="1">
@@ -19437,7 +19436,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтпырисьӧн</l>
      <stg>
@@ -19458,7 +19457,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтпырся</l>
      <stg>
@@ -19497,7 +19496,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтпырӧн</l>
      <stg>
@@ -19518,7 +19517,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтпӧв</l>
      <stg>
@@ -19539,7 +19538,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтпӧвсӧн</l>
      <stg>
@@ -19560,7 +19559,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтувтчӧмӧн</l>
      <stg>
@@ -19583,7 +19582,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтчид</l>
      <stg>
@@ -19600,7 +19599,7 @@
      </tg> <geo>сев.</geo>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтчидӧн</l>
      <stg>
@@ -19624,7 +19623,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧті-мӧділаын</l>
      <stg>
@@ -19643,7 +19642,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧті-мӧділаӧт</l>
      <stg>
@@ -19665,7 +19664,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтікӧн</l>
      <stg>
@@ -19697,7 +19696,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтӧрын</l>
      <stg>
@@ -19719,7 +19718,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтӧрын-мӧдӧрын</l>
      <stg>
@@ -19735,7 +19734,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтӧрӧ-мӧдӧрӧ</l>
      <stg>
@@ -19751,7 +19750,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧтӧрӧт</l>
      <stg>
@@ -19773,7 +19772,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Adv">ӧччыд</l>
      <stg>

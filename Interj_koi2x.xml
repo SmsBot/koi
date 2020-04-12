@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">а</l>
      <stg>
@@ -21,7 +21,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">адззан</l>
      <stg>
@@ -59,7 +59,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Interj">аньӧ</l>
      <stg>
@@ -76,11 +76,11 @@
      </tg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">аня</l>
      <stg>
-       <st>аня</st>
+       <st Contlex="INTERJ_">аня</st>
      </stg>
    </lg>
      <sources>
@@ -98,7 +98,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ась</l>
      <stg>
@@ -124,11 +124,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">батя</l>
      <stg>
-       <st>батя</st>
+       <st Contlex="INTERJ_">батя</st>
      </stg>
    </lg>
      <sources>
@@ -146,7 +146,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">бе</l>
      <stg>
@@ -167,7 +167,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">бе-е</l>
      <stg>
@@ -180,11 +180,11 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Interj" type="descr">бе-е (подражание блеянию овцы)</t>
+       <t type="descr" pos="Interj">бе-е (подражание блеянию овцы)</t>
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Interj">беленько</l>
      <stg>
@@ -205,7 +205,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Interj">бытшӧм асылӧн</l>
      <stg>
@@ -222,11 +222,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Interj">бытшӧм асылӧн.</l>
      <stg>
-       <st>бытшӧм асылӧн.</st>
+       <st Contlex="INTERJ_">бытшӧм асылӧн.</st>
      </stg>
    </lg>
      <sources>
@@ -239,11 +239,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Interj">волькыт туй</l>
      <stg>
-       <st>волькыт туй</st>
+       <st Contlex="INTERJ_">волькыт туй</st>
      </stg>
    </lg>
      <sources>
@@ -256,9 +256,9 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Interj">вон</l>
+     <l pos="Interj" hid="Hom2">вон</l>
      <stg>
        <st Contlex="INTERJ_">вон</st>
      </stg>
@@ -281,7 +281,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">вону</l>
      <stg>
@@ -303,7 +303,7 @@
      </xg> <sg/>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">вот</l>
      <stg>
@@ -348,7 +348,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Interj">герс-герс</l>
      <stg>
@@ -361,7 +361,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание крику коростеля</t>
+       <t type="descr" pos="Adv">подражание крику коростеля</t>
      </tg>
      <xg>
        <x>герс-герс керлӧны видз вылын герсканнэз</x>
@@ -369,7 +369,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Interj">гизь</l>
      <stg>
@@ -382,7 +382,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Adv" type="descr">подражание звук {у чего-либо} сыплющегося</t>
+       <t type="descr" pos="Adv">подражание звук {у чего-либо} сыплющегося</t>
      </tg>
      <xg>
        <x>гизь кисьтны сю</x>
@@ -397,7 +397,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">гыд-гыд</l>
      <stg>
@@ -414,7 +414,24 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
+   <lg>
+     <l pos="" hid="Hom2">жагыт</l>
+     <stg>
+       <st Contlex="A_">жагыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <geo>сев.</geo> <sg/>
+   </mg>
+</e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">жысь</l>
      <stg>
@@ -435,7 +452,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">и-ик!</l>
      <stg>
@@ -452,11 +469,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Interj">кытчӧдз быдӧс</l>
      <stg>
-       <st>кытчӧдз быдӧс</st>
+       <st Contlex="INTERJ_">кытчӧдз быдӧс</st>
      </stg>
    </lg>
      <sources>
@@ -469,11 +486,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Interj">локтан здорово.</l>
      <stg>
-       <st>локтан здорово.</st>
+       <st Contlex="INTERJ_">локтан здорово.</st>
      </stg>
    </lg>
      <sources>
@@ -487,9 +504,9 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Interj">мак</l>
+     <l pos="Interj" hid="Hom2">мак</l>
      <stg>
        <st Contlex="INTERJ_">мак</st>
      </stg>
@@ -508,7 +525,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">маччик</l>
      <stg>
@@ -525,7 +542,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">маччика</l>
      <stg>
@@ -542,7 +559,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">маччикана</l>
      <stg>
@@ -559,9 +576,9 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Interj">маш</l>
+     <l pos="Interj" hid="Hom1">маш</l>
      <stg>
        <st Contlex="INTERJ_">маш</st>
      </stg>
@@ -581,7 +598,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">маш-маш</l>
      <stg>
@@ -614,7 +631,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">но</l>
      <stg>
@@ -635,7 +652,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ну</l>
      <stg>
@@ -667,7 +684,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Interj">нянь-сов</l>
      <stg>
@@ -688,11 +705,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Interj">нянь-сов тіянлӧ.</l>
      <stg>
-       <st>нянь-сов тіянлӧ.</st>
+       <st Contlex="INTERJ_">нянь-сов тіянлӧ.</st>
      </stg>
    </lg>
      <sources>
@@ -705,7 +722,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">о</l>
      <stg>
@@ -738,7 +755,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ой</l>
      <stg>
@@ -759,7 +776,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ой-ей</l>
      <stg>
@@ -780,7 +797,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ой-йой-ой</l>
      <stg>
@@ -801,7 +818,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ок</l>
      <stg>
@@ -832,7 +849,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">сыть</l>
      <stg>
@@ -849,11 +866,11 @@
      </tg>
    </mg>
 </e>
-<e>
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Interj">тартарӧ тарӧвтчы.</l>
      <stg>
-       <st>тартарӧ тарӧвтчы.</st>
+       <st Contlex="INTERJ_">тартарӧ тарӧвтчы.</st>
      </stg>
    </lg>
      <sources>
@@ -867,7 +884,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">тинь-тинь</l>
      <stg>
@@ -884,9 +901,9 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom2" pos="Interj">ток</l>
+     <l pos="Interj" hid="Hom2">ток</l>
      <stg>
        <st Contlex="INTERJ_">ток</st>
      </stg>
@@ -910,11 +927,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Interj">тыр доз тэныт</l>
      <stg>
-       <st>тыр доз тэныт</st>
+       <st Contlex="INTERJ_">тыр доз тэныт</st>
      </stg>
    </lg>
      <sources>
@@ -929,7 +946,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ук</l>
      <stg>
@@ -950,7 +967,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">уф</l>
      <stg>
@@ -983,7 +1000,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">чу</l>
      <stg>
@@ -1004,9 +1021,9 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
-     <l hid="Hom1" pos="Interj">чур</l>
+     <l pos="Interj" hid="Hom1">чур</l>
      <stg>
        <st Contlex="INTERJ_">чур</st>
      </stg>
@@ -1029,7 +1046,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ша</l>
      <stg>
@@ -1062,7 +1079,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ыш</l>
      <stg>
@@ -1096,7 +1113,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">э</l>
      <stg>
@@ -1134,7 +1151,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">эк</l>
      <stg>
@@ -1160,7 +1177,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">экка</l>
      <stg>
@@ -1186,7 +1203,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">экма</l>
      <stg>
@@ -1203,7 +1220,7 @@
      </tg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ӧввӧ-ӧввӧ</l>
      <stg>
@@ -1221,7 +1238,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ӧджжӧ</l>
      <stg>
@@ -1246,11 +1263,11 @@
      </xg>
    </mg>
 </e>
-<e>
+<e exclude="fst" meta="" id="None">
    <lg>
      <l pos="Interj">ӧткымын шуӧм здорово тіянлӧ.</l>
      <stg>
-       <st>ӧткымын шуӧм здорово тіянлӧ.</st>
+       <st Contlex="INTERJ_">ӧткымын шуӧм здорово тіянлӧ.</st>
      </stg>
    </lg>
      <sources>
@@ -1263,7 +1280,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Interj">ӧтта</l>
      <stg>

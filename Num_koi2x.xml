@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?> <?xml-stylesheet title="Dictionary view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary.css" type="text/css"?><?xml-stylesheet alternate="yes" title="Hierarchical view" media="screen,tv,projection" href="../../../../../words/dicts/scripts/gt_dictionary_alt.css" type="text/css"?><!DOCTYPE r PUBLIC "-//DivvunGiellatekno//DTD Dictionaries//Multilingual" "../../../../../words/dicts/scripts/gt_dictionary.dtd"><r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../giella-core/schemas/fiu-dict-schema.xsd" xml:lang="koi">
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">вит</l>
      <stg>
@@ -40,7 +40,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">витдас</l>
      <stg>
@@ -57,7 +57,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">витсё</l>
      <stg>
@@ -74,7 +74,7 @@
      </tg> <range>уст.</range>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дас</l>
      <stg>
@@ -119,7 +119,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасвит</l>
      <stg>
@@ -140,7 +140,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасвитӧдз</l>
      <stg>
@@ -156,7 +156,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасвитӧт</l>
      <stg>
@@ -177,7 +177,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасдас</l>
      <stg>
@@ -194,7 +194,7 @@
      </tg> <geo>сев.</geo>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасквать</l>
      <stg>
@@ -215,7 +215,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскватьӧдз</l>
      <stg>
@@ -231,7 +231,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскватьӧт</l>
      <stg>
@@ -248,7 +248,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскуим</l>
      <stg>
@@ -269,7 +269,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскуимӧдз</l>
      <stg>
@@ -285,7 +285,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскуимӧт</l>
      <stg>
@@ -306,7 +306,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскык</l>
      <stg>
@@ -327,7 +327,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскыкьямыс</l>
      <stg>
@@ -348,7 +348,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскыкьямысӧдз</l>
      <stg>
@@ -364,7 +364,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскыкьямысӧт</l>
      <stg>
@@ -385,7 +385,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскыкӧдз</l>
      <stg>
@@ -401,7 +401,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даскыкӧт</l>
      <stg>
@@ -422,7 +422,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даснан</l>
      <stg>
@@ -466,7 +466,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даснёль</l>
      <stg>
@@ -487,7 +487,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даснёльӧдз</l>
      <stg>
@@ -503,7 +503,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">даснёльӧт</l>
      <stg>
@@ -524,7 +524,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасотік</l>
      <stg>
@@ -545,7 +545,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дассизим</l>
      <stg>
@@ -566,7 +566,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дассизимӧдз</l>
      <stg>
@@ -582,7 +582,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дассизимӧт</l>
      <stg>
@@ -603,7 +603,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дассэсдас</l>
      <stg>
@@ -620,7 +620,7 @@
      </tg> <geo>Рог.</geo>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дассэсдасӧт</l>
      <stg>
@@ -637,7 +637,7 @@
      </tg> <geo>Рог.</geo>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасӧдз</l>
      <stg>
@@ -653,7 +653,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасӧкмыс</l>
      <stg>
@@ -674,7 +674,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасӧкмысӧдз</l>
      <stg>
@@ -690,7 +690,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасӧкмысӧт</l>
      <stg>
@@ -707,7 +707,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасӧт</l>
      <stg>
@@ -728,7 +728,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасӧтік</l>
      <stg>
@@ -749,7 +749,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасӧтікӧдз</l>
      <stg>
@@ -765,7 +765,7 @@
      </tg> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">дасӧтікӧт</l>
      <stg>
@@ -778,7 +778,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Num" type="Ord">одиннадцатый</t>
+       <t type="Ord" pos="Num">одиннадцатый</t>
      </tg>
      <xg>
        <x>сойӧлӧ тырис дасӧтікӧт год</x>
@@ -786,7 +786,24 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
+   <lg>
+     <l pos="" hid="Hom2">жагыт</l>
+     <stg>
+       <st Contlex="A_">жагыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="rus">
+       <t pos="V"/>
+     </tg> <geo>сев.</geo> <sg/>
+   </mg>
+</e>
+<e meta="" id="None">
    <lg>
      <l pos="Num">квать</l>
      <stg>
@@ -831,7 +848,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кватьдас</l>
      <stg>
@@ -848,7 +865,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кватьсё</l>
      <stg>
@@ -865,7 +882,7 @@
      </tg> <range>уст.</range>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кватя</l>
      <stg>
@@ -886,7 +903,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">куим</l>
      <stg>
@@ -959,7 +976,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">куима</l>
      <stg>
@@ -980,7 +997,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">куимдас</l>
      <stg>
@@ -1001,7 +1018,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">куимсюрс</l>
      <stg>
@@ -1018,7 +1035,7 @@
      </tg> <range>уст.</range>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">куимсё</l>
      <stg>
@@ -1035,7 +1052,7 @@
      </tg> <range>уст.</range>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кык</l>
      <stg>
@@ -1118,7 +1135,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыка</l>
      <stg>
@@ -1139,7 +1156,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыкдас</l>
      <stg>
@@ -1160,7 +1177,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыкдаса</l>
      <stg>
@@ -1181,7 +1198,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыксё</l>
      <stg>
@@ -1198,7 +1215,7 @@
      </tg> <range>уст.</range>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыкьямыс</l>
      <stg>
@@ -1247,7 +1264,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыкьямыса</l>
      <stg>
@@ -1268,7 +1285,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыкьямысдас</l>
      <stg>
@@ -1289,7 +1306,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыкьямысдаса</l>
      <stg>
@@ -1310,7 +1327,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыкьямысдасӧн</l>
      <stg>
@@ -1331,7 +1348,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыкьямысӧн</l>
      <stg>
@@ -1352,7 +1369,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">кыкӧн</l>
      <stg>
@@ -1373,7 +1390,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧкмыс</l>
      <stg>
@@ -1410,7 +1427,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧкмысдас</l>
      <stg>
@@ -1431,7 +1448,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧкмысдасӧт</l>
      <stg>
@@ -1448,7 +1465,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧкмыссё</l>
      <stg>
@@ -1465,7 +1482,7 @@
      </tg> <range>уст.</range>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧкмысӧдз</l>
      <stg>
@@ -1486,7 +1503,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧкмысӧт</l>
      <stg>
@@ -1499,7 +1516,7 @@
      <semantics>
      </semantics>
      <tg xml:lang="rus">
-       <t pos="Num" type="Ord">девятый</t>
+       <t type="Ord" pos="Num">девятый</t>
      </tg>
      <xg>
        <x>январь ӧкмысӧт лунӧ</x>
@@ -1507,7 +1524,7 @@
      </xg>
    </mg>
 </e>
-<e>
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧт</l>
      <stg>
@@ -1548,7 +1565,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧті</l>
      <stg>
@@ -1565,7 +1582,7 @@
      </tg> <range>редко</range> <sg/>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧтік</l>
      <stg>
@@ -1627,7 +1644,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧтік-кык</l>
      <stg>
@@ -1644,7 +1661,7 @@
      </tg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧтік-мӧдік</l>
      <stg>
@@ -1669,7 +1686,7 @@
      </xg>
    </mg>
 </e>
-<e order="2">
+<e meta="" id="None">
    <lg>
      <l pos="Num">ӧччыд</l>
      <stg>
